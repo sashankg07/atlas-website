@@ -6,6 +6,9 @@ const nextConfig = {
   },
   basePath: process.env.NODE_ENV === 'production' ? '/atlas-website' : '',
   trailingSlash: true,
+  experimental: {
+    optimizeCss: true,
+  },
 }
 
 module.exports = nextConfig 
