@@ -1,0 +1,65 @@
+name: Daily GPT API Refresh
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+env:
+  NODE_VERSION: '18'
+
+jobs:
+  refresh-gpt-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ env.NODE_VERSION }}
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Run GPT API refresh
+      run: node scripts/refresh-gpt-data.js
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add src/data/mockData.ts
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Daily GPT API refresh - Update news content" && git push)
+        
+    - name: Create refresh summary
+      uses: actions/github-script@v7
+      with:
+        script: |
+          github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: '🤖 Daily GPT API Refresh Completed',
+            body: `## Daily GPT API Refresh Summary
+            
+            **Date:** ${new Date().toISOString().split('T')[0]}
+            **Status:** ✅ Completed successfully
+            
+            ### What was updated:
+            - Refreshed AI news content using GPT-4
+            - Updated \`src/data/mockData.ts\` with new articles
+            - Generated 5 new AI news articles
+            
+            ### Next refresh:
+            Scheduled for tomorrow at 6:00 AM UTC
+            
+            ---
+            *This issue was automatically created by the daily refresh workflow.*`,
+            labels: ['automation', 'gpt-refresh']
+          }) 
