@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/atlas-website',
-  assetPrefix: '/atlas-website/',
+  //basePath: '/atlas-website',
+  //assetPrefix: '/atlas-website/',
 }
 
 module.exports = nextConfig 
