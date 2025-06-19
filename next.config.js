@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/ai-news-hub',
-  assetPrefix: '/atlas/',
+  basePath: '/atlas-website',
+  assetPrefix: '/atlas-website/',
 }
 
 module.exports = nextConfig 
