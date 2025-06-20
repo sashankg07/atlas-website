@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Predicting Heart Attacks",
-    "description": "A new AI system has shown superior accuracy in predicting heart attacks compared to human doctors. This breakthrough could revolutionize healthcare and save countless lives.",
+    "title": "AI Revolutionizes Drug Discovery, Promises Faster Results",
+    "description": "Artificial Intelligence is reshaping the pharmaceutical industry by accelerating the drug discovery process. Researchers believe this could drastically reduce the time and cost of bringing new drugs to market.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 05, 2022",
+    "date": "September 28, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Advanced AI Chip",
-    "description": "A leading tech company has unveiled a new AI chip that promises to deliver unprecedented speed and efficiency for machine learning models. The chip could push the boundaries of AI applications.",
+    "title": "New AI Algorithm Predicts Climate Change Impact with Unprecedented Accuracy",
+    "description": "A groundbreaking AI algorithm has been developed that can predict the impact of climate change with a degree of accuracy previously unseen. This development could be a game-changer in environmental policy planning.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 05, 2022",
+    "source": "The Guardian",
+    "date": "September 28, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-up Bags $50M in Series B Funding",
-    "description": "An AI start-up that uses machine learning to automate customer service has just raised $50M in Series B funding. The funding will accelerate its global expansion and product development.",
+    "title": "Tech Giant Invests Billions in AI for Autonomous Vehicles",
+    "description": "A leading technology company has announced a multi-billion dollar investment in AI to further develop their autonomous vehicle technology. This move signifies the growing trend of AI integration in the automotive industry.",
     "url": "#",
     "source": "Bloomberg",
-    "date": "October 05, 2022",
+    "date": "September 28, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics of AI: Balancing Innovation with Responsibility",
-    "description": "As AI continues to permeate our daily lives, the question of ethical use and responsibility is more relevant than ever. Experts call for stricter regulations to prevent misuse.",
+    "title": "Ethical Considerations in AI: A Growing Concern",
+    "description": "As AI continues to evolve and permeate various industries, ethical considerations are becoming increasingly important. Experts weigh in on the need for comprehensive guidelines to ensure responsible AI development and usage.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 05, 2022",
+    "source": "MIT Technology Review",
+    "date": "September 28, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "A recently launched AI tool promises to revolutionize data analysis by automating complex processes. The tool is expected to save businesses countless hours and resources.",
+    "title": "Latest AI Tools Enable Real-time Language Translation",
+    "description": "New AI-based tools are breaking down language barriers by providing real-time translation services. This innovation is expected to revolutionize communication in multinational businesses and educational institutions.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 05, 2022",
+    "source": "Wall Street Journal",
+    "date": "September 28, 2021",
     "category": "Tools"
   }
 ];
