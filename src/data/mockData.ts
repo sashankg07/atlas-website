@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Drug Discovery, Promises Faster Results",
-    "description": "Artificial Intelligence is reshaping the pharmaceutical industry by accelerating the drug discovery process. Researchers believe this could drastically reduce the time and cost of bringing new drugs to market.",
+    "title": "AI Breakthrough: DeepMind Solves 50-Year-Old Protein Folding Problem",
+    "description": "DeepMind's AI system, AlphaFold, has made a breakthrough in bioscience by solving the 50-year-old challenge of protein folding. This development could fast-track solutions to diseases like Alzheimer's and cancer.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 28, 2021",
+    "source": "Nature Magazine",
+    "date": "October 18, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI Algorithm Predicts Climate Change Impact with Unprecedented Accuracy",
-    "description": "A groundbreaking AI algorithm has been developed that can predict the impact of climate change with a degree of accuracy previously unseen. This development could be a game-changer in environmental policy planning.",
+    "title": "Autonomous Vehicles: Tesla's Full Self-Driving AI Gets Regulatory Approval",
+    "description": "Tesla has received approval for their Full Self-Driving AI software from the US Department of Transportation. This marks a significant milestone in the autonomous vehicle industry.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 28, 2021",
+    "source": "TechCrunch",
+    "date": "October 18, 2022",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI for Autonomous Vehicles",
-    "description": "A leading technology company has announced a multi-billion dollar investment in AI to further develop their autonomous vehicle technology. This move signifies the growing trend of AI integration in the automotive industry.",
+    "title": "AI in Healthcare: IBM's Watson Assists in Early Detection of Diseases",
+    "description": "IBM's Watson AI has proven effective in assisting doctors with early disease detection. This development is hailed as a major advancement in the application of AI in healthcare.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "September 28, 2021",
+    "source": "The New York Times",
+    "date": "October 18, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI: A Growing Concern",
-    "description": "As AI continues to evolve and permeate various industries, ethical considerations are becoming increasingly important. Experts weigh in on the need for comprehensive guidelines to ensure responsible AI development and usage.",
+    "title": "Ethics in AI: EU Proposes New Guidelines to Regulate AI Use",
+    "description": "The European Union has proposed a new set of guidelines to ensure ethical use of AI. The guidelines aim to prevent misuse and promote transparency in the development and application of AI technologies.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 28, 2021",
+    "source": "The Guardian",
+    "date": "October 18, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Latest AI Tools Enable Real-time Language Translation",
-    "description": "New AI-based tools are breaking down language barriers by providing real-time translation services. This innovation is expected to revolutionize communication in multinational businesses and educational institutions.",
+    "title": "New AI Tool: Google's Language Model GPT-3 Impresses with Writing Ability",
+    "description": "Google's GPT-3 AI model has shown impressive writing ability, producing human-like text. This tool could revolutionize content creation and language translation.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "September 28, 2021",
+    "source": "Wired",
+    "date": "October 18, 2022",
     "category": "Tools"
   }
 ];
