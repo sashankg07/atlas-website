@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: DeepMind Solves 50-Year-Old Protein Folding Problem",
-    "description": "DeepMind's AI system, AlphaFold, has made a breakthrough in bioscience by solving the 50-year-old challenge of protein folding. This development could fast-track solutions to diseases like Alzheimer's and cancer.",
+    "title": "AI Revolutionizes Healthcare with COVID-19 Predictive Models",
+    "description": "Artificial intelligence is now being used to predict COVID-19 outbreaks with remarkable accuracy. The technology combines a variety of data sources to provide early warning signs for regions at risk.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "October 18, 2022",
+    "source": "The Guardian",
+    "date": "October 24, 2022",
     "category": "Research"
   },
   {
-    "title": "Autonomous Vehicles: Tesla's Full Self-Driving AI Gets Regulatory Approval",
-    "description": "Tesla has received approval for their Full Self-Driving AI software from the US Department of Transportation. This marks a significant milestone in the autonomous vehicle industry.",
+    "title": "New AI Algorithm Outperforms Humans in Complex Board Game",
+    "description": "Researchers have developed an AI that can beat human players in the strategic board game 'Go'. This achievement is a significant milestone in the development of artificial general intelligence.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 18, 2022",
+    "source": "New York Times",
+    "date": "October 24, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI in Healthcare: IBM's Watson Assists in Early Detection of Diseases",
-    "description": "IBM's Watson AI has proven effective in assisting doctors with early disease detection. This development is hailed as a major advancement in the application of AI in healthcare.",
+    "title": "Google's DeepMind Achieves Breakthrough in Protein Folding Problem",
+    "description": "Google's AI lab, DeepMind, has made a significant breakthrough in solving the protein folding problem, a challenge that has stumped scientists for decades. This could revolutionize drug discovery and disease understanding.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 18, 2022",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "October 24, 2022",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: EU Proposes New Guidelines to Regulate AI Use",
-    "description": "The European Union has proposed a new set of guidelines to ensure ethical use of AI. The guidelines aim to prevent misuse and promote transparency in the development and application of AI technologies.",
+    "title": "AI Ethics Debate Intensifies Amidst Facial Recognition Controversies",
+    "description": "The ethical debate around AI and facial recognition technology intensifies. Critics argue that without proper regulation, the technology could lead to an erosion of privacy and civil liberties.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 18, 2022",
+    "source": "The Washington Post",
+    "date": "October 24, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool: Google's Language Model GPT-3 Impresses with Writing Ability",
-    "description": "Google's GPT-3 AI model has shown impressive writing ability, producing human-like text. This tool could revolutionize content creation and language translation.",
+    "title": "Nvidia Releases New AI Tools for Game Developers",
+    "description": "Nvidia has unveiled a suite of new AI tools for game developers, promising to significantly cut down the time and resources needed for rendering realistic graphics.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 18, 2022",
+    "source": "TechCrunch",
+    "date": "October 24, 2022",
     "category": "Tools"
   }
 ];
