@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Healthcare with COVID-19 Predictive Models",
-    "description": "Artificial intelligence is now being used to predict COVID-19 outbreaks with remarkable accuracy. The technology combines a variety of data sources to provide early warning signs for regions at risk.",
+    "title": "AI Revolutionizes Medical Imaging with Deep Learning Algorithms",
+    "description": "Artificial Intelligence is set to transform the field of medical imaging with the introduction of deep learning algorithms capable of diagnosing diseases with unprecedented accuracy. This breakthrough promises to significantly improve healthcare outcomes.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 24, 2022",
+    "source": "The New York Times",
+    "date": "September 28, 2021",
     "category": "Research"
   },
   {
-    "title": "New AI Algorithm Outperforms Humans in Complex Board Game",
-    "description": "Researchers have developed an AI that can beat human players in the strategic board game 'Go'. This achievement is a significant milestone in the development of artificial general intelligence.",
+    "title": "Tech Giants Race to Develop AI-Powered Voice Assistants",
+    "description": "Leading technology companies are in a fierce competition to develop the most advanced AI-powered voice assistants. These digital companions are becoming increasingly sophisticated, transforming the way we interact with technology.",
     "url": "#",
-    "source": "New York Times",
-    "date": "October 24, 2022",
+    "source": "TechCrunch",
+    "date": "September 28, 2021",
     "category": "Technology"
   },
   {
-    "title": "Google's DeepMind Achieves Breakthrough in Protein Folding Problem",
-    "description": "Google's AI lab, DeepMind, has made a significant breakthrough in solving the protein folding problem, a challenge that has stumped scientists for decades. This could revolutionize drug discovery and disease understanding.",
+    "title": "AI Startup Raises Millions in Series B Funding",
+    "description": "An AI startup specializing in automated customer service solutions has successfully raised millions in its latest funding round. This innovative company aims to revolutionize customer interactions with AI.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 24, 2022",
-    "category": "Research"
+    "source": "Forbes",
+    "date": "September 28, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Debate Intensifies Amidst Facial Recognition Controversies",
-    "description": "The ethical debate around AI and facial recognition technology intensifies. Critics argue that without proper regulation, the technology could lead to an erosion of privacy and civil liberties.",
+    "title": "AI Ethics Debate Intensifies in Wake of Latest Developments",
+    "description": "The debate surrounding the ethics of AI is gaining momentum as the technology continues to advance. Critics call for stronger regulatory frameworks to address potential misuse and bias in AI systems.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "October 24, 2022",
+    "source": "The Guardian",
+    "date": "September 28, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Nvidia Releases New AI Tools for Game Developers",
-    "description": "Nvidia has unveiled a suite of new AI tools for game developers, promising to significantly cut down the time and resources needed for rendering realistic graphics.",
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "A new AI tool promises to simplify data analysis, allowing businesses to extract valuable insights from their data more efficiently. This tool uses machine learning to automate complex analytical tasks.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 24, 2022",
+    "source": "Business Insider",
+    "date": "September 28, 2021",
     "category": "Tools"
   }
 ];
