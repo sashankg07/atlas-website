@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Medical Imaging with Deep Learning Algorithms",
-    "description": "Artificial Intelligence is set to transform the field of medical imaging with the introduction of deep learning algorithms capable of diagnosing diseases with unprecedented accuracy. This breakthrough promises to significantly improve healthcare outcomes.",
+    "title": "AI Breakthrough: DeepMind's New System Solves Protein Structures",
+    "description": "DeepMind's recent AI model, AlphaFold, has shown an unprecedented level of accuracy in solving the structure of proteins, which could revolutionize drug discovery and disease understanding.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 28, 2021",
+    "source": "Nature",
+    "date": "November 24, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Race to Develop AI-Powered Voice Assistants",
-    "description": "Leading technology companies are in a fierce competition to develop the most advanced AI-powered voice assistants. These digital companions are becoming increasingly sophisticated, transforming the way we interact with technology.",
+    "title": "MIT's New AI Predicts Future Cancer Risk",
+    "description": "MIT researchers have developed a machine learning model that can predict a patient's risk of developing breast cancer as much as five years in advance.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 28, 2021",
+    "source": "MIT News",
+    "date": "November 24, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises Millions in Series B Funding",
-    "description": "An AI startup specializing in automated customer service solutions has successfully raised millions in its latest funding round. This innovative company aims to revolutionize customer interactions with AI.",
+    "title": "OpenAI Launches GPT-4: Next Generation Language Model",
+    "description": "OpenAI has announced the launch of its latest AI model, GPT-4, which is even more powerful in understanding and generating human-like text.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 28, 2021",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "November 24, 2022",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Debate Intensifies in Wake of Latest Developments",
-    "description": "The debate surrounding the ethics of AI is gaining momentum as the technology continues to advance. Critics call for stronger regulatory frameworks to address potential misuse and bias in AI systems.",
+    "title": "AI Startup Cerebras Raises $250M in Series E Funding",
+    "description": "Cerebras Systems, an AI hardware startup, bagged $250 million in a Series E round to accelerate the development and deployment of its AI supercomputers.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 28, 2021",
-    "category": "Ethics"
+    "source": "Bloomberg",
+    "date": "November 24, 2022",
+    "category": "Business"
   },
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "A new AI tool promises to simplify data analysis, allowing businesses to extract valuable insights from their data more efficiently. This tool uses machine learning to automate complex analytical tasks.",
+    "title": "AI Ethics: China Unveils New Law to Regulate AI Applications",
+    "description": "China has introduced a new law to regulate the ethical issues related to AI applications, focusing on user privacy and data security.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 28, 2021",
-    "category": "Tools"
+    "source": "South China Morning Post",
+    "date": "November 24, 2022",
+    "category": "Ethics"
   }
 ];
