@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: DeepMind's New System Solves Protein Structures",
-    "description": "DeepMind's recent AI model, AlphaFold, has shown an unprecedented level of accuracy in solving the structure of proteins, which could revolutionize drug discovery and disease understanding.",
+    "title": "AI Revolutionizes Cancer Detection",
+    "description": "Recent advancements in Artificial Intelligence promise a new era in cancer detection and diagnosis. Machine learning models can now predict the onset of cancer with startling accuracy.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 24, 2022",
+    "source": "The Guardian",
+    "date": "November 01, 2021",
     "category": "Research"
   },
   {
-    "title": "MIT's New AI Predicts Future Cancer Risk",
-    "description": "MIT researchers have developed a machine learning model that can predict a patient's risk of developing breast cancer as much as five years in advance.",
-    "url": "#",
-    "source": "MIT News",
-    "date": "November 24, 2022",
-    "category": "Technology"
-  },
-  {
-    "title": "OpenAI Launches GPT-4: Next Generation Language Model",
-    "description": "OpenAI has announced the launch of its latest AI model, GPT-4, which is even more powerful in understanding and generating human-like text.",
+    "title": "AI-based Startup Raises $100 Million in Series C Funding",
+    "description": "Tech firm AI Corp has raised $100 million in Series C funding. The firm leverages AI to provide seamless customer support solutions.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 24, 2022",
-    "category": "Tools"
+    "date": "November 01, 2021",
+    "category": "Business"
+  },
+  {
+    "title": "New AI Ethics Guidelines Released",
+    "description": "The European Union has released a new set of guidelines to govern the ethical use of AI. This move aims to ensure fairness, transparency, and accountability in AI developments.",
+    "url": "#",
+    "source": "Reuters",
+    "date": "November 01, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Startup Cerebras Raises $250M in Series E Funding",
-    "description": "Cerebras Systems, an AI hardware startup, bagged $250 million in a Series E round to accelerate the development and deployment of its AI supercomputers.",
+    "title": "Google's AI-Powered Weather Prediction",
+    "description": "Google has developed a new AI-powered tool that can predict weather changes more accurately. This technology could be a game-changer in climate change tracking and disaster prevention.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "November 24, 2022",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "November 01, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics: China Unveils New Law to Regulate AI Applications",
-    "description": "China has introduced a new law to regulate the ethical issues related to AI applications, focusing on user privacy and data security.",
+    "title": "New AI Tool Makes Data Analysis Easier",
+    "description": "A new AI tool promises to make big data analysis more accessible. The tool uses machine learning to process and present complex data in easy-to-understand formats.",
     "url": "#",
-    "source": "South China Morning Post",
-    "date": "November 24, 2022",
-    "category": "Ethics"
+    "source": "Wired",
+    "date": "November 01, 2021",
+    "category": "Tools"
   }
 ];
