@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Cancer Detection",
-    "description": "Recent advancements in Artificial Intelligence promise a new era in cancer detection and diagnosis. Machine learning models can now predict the onset of cancer with startling accuracy.",
+    "title": "AI Breaks Ground in Predicting Climate Change",
+    "description": "Artificial Intelligence is now being used to predict the impacts of climate change with unparalleled accuracy. This breakthrough could help governments and organizations make more informed decisions about climate policy.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 01, 2021",
+    "source": "Nature News",
+    "date": "April 21, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-based Startup Raises $100 Million in Series C Funding",
-    "description": "Tech firm AI Corp has raised $100 million in Series C funding. The firm leverages AI to provide seamless customer support solutions.",
+    "title": "AI Startup Raises $100 Million to Improve Autonomous Vehicle Technology",
+    "description": "A promising AI startup has raised significant funding to further their work on autonomous vehicle technology. This could revolutionize the automotive industry and significantly decrease road accidents.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 01, 2021",
+    "date": "April 21, 2022",
     "category": "Business"
   },
   {
-    "title": "New AI Ethics Guidelines Released",
-    "description": "The European Union has released a new set of guidelines to govern the ethical use of AI. This move aims to ensure fairness, transparency, and accountability in AI developments.",
+    "title": "AI Tools Transforming the World of Design",
+    "description": "Artificial Intelligence is making waves in the design industry, providing tools that automate design processes and enhance creativity. This could significantly speed up workflow and open new avenues for innovation.",
     "url": "#",
-    "source": "Reuters",
-    "date": "November 01, 2021",
-    "category": "Ethics"
+    "source": "The Verge",
+    "date": "April 21, 2022",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Google's AI-Powered Weather Prediction",
-    "description": "Google has developed a new AI-powered tool that can predict weather changes more accurately. This technology could be a game-changer in climate change tracking and disaster prevention.",
+    "title": "Ethical Considerations in AI Development: A New Framework",
+    "description": "A new ethical framework for AI development has been proposed, focusing on transparency and accountability. This comes amid growing concerns about the potential misuse of AI technology.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 01, 2021",
-    "category": "Technology"
+    "source": "Harvard Business Review",
+    "date": "April 21, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tool Makes Data Analysis Easier",
-    "description": "A new AI tool promises to make big data analysis more accessible. The tool uses machine learning to process and present complex data in easy-to-understand formats.",
+    "title": "AI Innovations: A New Era for Cancer Detection",
+    "description": "A recent breakthrough in AI technology could revolutionize cancer detection, making it faster and more accurate than ever before. This could potentially save millions of lives every year.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 01, 2021",
-    "category": "Tools"
+    "source": "New Scientist",
+    "date": "April 21, 2022",
+    "category": "Technology"
   }
 ];
