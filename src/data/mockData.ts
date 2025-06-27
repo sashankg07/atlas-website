@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks Ground in Predicting Climate Change",
-    "description": "Artificial Intelligence is now being used to predict the impacts of climate change with unparalleled accuracy. This breakthrough could help governments and organizations make more informed decisions about climate policy.",
+    "title": "Revolutionizing Healthcare: AI Diagnoses Diseases with Unprecedented Accuracy",
+    "description": "Groundbreaking AI technology is disrupting the medical field by diagnosing diseases with accuracy surpassing that of human professionals. This could usher in a new era of digital healthcare.",
     "url": "#",
-    "source": "Nature News",
-    "date": "April 21, 2022",
+    "source": "The New York Times",
+    "date": "October 11, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Startup Raises $100 Million to Improve Autonomous Vehicle Technology",
-    "description": "A promising AI startup has raised significant funding to further their work on autonomous vehicle technology. This could revolutionize the automotive industry and significantly decrease road accidents.",
+    "title": "AI in Business: Transforming Customer Experience",
+    "description": "A recent report highlights how AI is revolutionizing the customer experience landscape. Personalized AI-driven interactions are proving to be a game-changer in customer engagement strategies.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "April 21, 2022",
+    "source": "Forbes",
+    "date": "October 11, 2021",
     "category": "Business"
   },
   {
-    "title": "AI Tools Transforming the World of Design",
-    "description": "Artificial Intelligence is making waves in the design industry, providing tools that automate design processes and enhance creativity. This could significantly speed up workflow and open new avenues for innovation.",
+    "title": "The Future is Now: Self-Driving Cars and AI",
+    "description": "The age of AI is upon us as self-driving cars become an increasingly common sight. This technology could potentially redefine our transportation systems and urban landscapes.",
     "url": "#",
-    "source": "The Verge",
-    "date": "April 21, 2022",
-    "category": "Tools"
+    "source": "TechCrunch",
+    "date": "October 11, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI Development: A New Framework",
-    "description": "A new ethical framework for AI development has been proposed, focusing on transparency and accountability. This comes amid growing concerns about the potential misuse of AI technology.",
+    "title": "AI Ethics: Addressing Bias in Machine Learning Algorithms",
+    "description": "A recent study warns of the potential dangers of unchecked bias in AI. Researchers are calling for greater transparency and regulation to ensure ethical AI practices.",
     "url": "#",
-    "source": "Harvard Business Review",
-    "date": "April 21, 2022",
+    "source": "MIT Technology Review",
+    "date": "October 11, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Innovations: A New Era for Cancer Detection",
-    "description": "A recent breakthrough in AI technology could revolutionize cancer detection, making it faster and more accurate than ever before. This could potentially save millions of lives every year.",
+    "title": "AI Tools: Next-Generation Photoshop Uses AI for Image Editing",
+    "description": "Adobe is leveraging AI to take image editing to the next level in Photoshop. The new tools enable unprecedented accuracy and creativity for professionals and hobbyists alike.",
     "url": "#",
-    "source": "New Scientist",
-    "date": "April 21, 2022",
-    "category": "Technology"
+    "source": "The Verge",
+    "date": "October 11, 2021",
+    "category": "Tools"
   }
 ];
