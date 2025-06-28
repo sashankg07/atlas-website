@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Diagnoses Diseases with Unprecedented Accuracy",
-    "description": "Groundbreaking AI technology is disrupting the medical field by diagnosing diseases with accuracy surpassing that of human professionals. This could usher in a new era of digital healthcare.",
+    "title": "AI Revolutionizes Climate Change Predictions",
+    "description": "A groundbreaking AI model has been developed to make more accurate climate change predictions. This new technology could revolutionize the way we understand and combat global warming.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 11, 2021",
+    "date": "September 21, 2022",
     "category": "Research"
   },
   {
-    "title": "AI in Business: Transforming Customer Experience",
-    "description": "A recent report highlights how AI is revolutionizing the customer experience landscape. Personalized AI-driven interactions are proving to be a game-changer in customer engagement strategies.",
+    "title": "AI-Powered Robots Transforming E-commerce Warehouse Operations",
+    "description": "AI-powered robots are being employed in warehouses, elevating efficiency in the e-commerce industry. The advanced technology ensures faster order fulfillment and reduces human effort.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 11, 2021",
+    "source": "The Wall Street Journal",
+    "date": "September 21, 2022",
     "category": "Business"
   },
   {
-    "title": "The Future is Now: Self-Driving Cars and AI",
-    "description": "The age of AI is upon us as self-driving cars become an increasingly common sight. This technology could potentially redefine our transportation systems and urban landscapes.",
+    "title": "AI to Detect Mental Health Disorders in Social Media Posts",
+    "description": "A new AI tool has been developed that can detect signs of mental health disorders from social media posts. The technology may provide early intervention opportunities and could change mental health management.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 11, 2021",
+    "source": "The Guardian",
+    "date": "September 21, 2022",
     "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Addressing Bias in Machine Learning Algorithms",
-    "description": "A recent study warns of the potential dangers of unchecked bias in AI. Researchers are calling for greater transparency and regulation to ensure ethical AI practices.",
+    "title": "New AI Ethics Guidelines Released by International Tech Consortium",
+    "description": "An international tech consortium has released comprehensive guidelines for AI ethics. These guidelines aim to ensure that AI technologies are developed and used responsibly and ethically.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 11, 2021",
+    "source": "BBC News",
+    "date": "September 21, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools: Next-Generation Photoshop Uses AI for Image Editing",
-    "description": "Adobe is leveraging AI to take image editing to the next level in Photoshop. The new tools enable unprecedented accuracy and creativity for professionals and hobbyists alike.",
+    "title": "DeepMind Launches New AI Tool for Protein Folding",
+    "description": "DeepMind has launched a new AI tool that predicts protein folding structures. This tool could significantly speed up drug discovery processes and advance our understanding of diseases.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 11, 2021",
+    "source": "Nature",
+    "date": "September 21, 2022",
     "category": "Tools"
   }
 ];
