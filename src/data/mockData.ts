@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Climate Change Predictions",
-    "description": "A groundbreaking AI model has been developed to make more accurate climate change predictions. This new technology could revolutionize the way we understand and combat global warming.",
+    "title": "AI Technology Revolutionizes Healthcare Industry",
+    "description": "Artificial intelligence is set to revolutionize the healthcare industry, showing promise in early detection and diagnosis of various diseases. The integration of AI with medical systems offers a new perspective in precision medicine.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 21, 2022",
+    "source": "AI Tech News",
+    "date": "September 30, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "New AI Model Predicts Climate Change Trends",
+    "description": "A new AI model developed by researchers offers accurate predictions of climate change trends, helping in the creation of effective mitigation strategies. This breakthrough underlines AI's potential role in addressing global challenges.",
+    "url": "#",
+    "source": "DeepMind",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Robots Transforming E-commerce Warehouse Operations",
-    "description": "AI-powered robots are being employed in warehouses, elevating efficiency in the e-commerce industry. The advanced technology ensures faster order fulfillment and reduces human effort.",
+    "title": "AI Ethics Discussed at 2021 AI Summit",
+    "description": "Notable figures in AI and technology discuss the ethical implications of AI at the 2021 AI Summit, calling for more transparency and regulation in the rapidly evolving field.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "September 21, 2022",
-    "category": "Business"
-  },
-  {
-    "title": "AI to Detect Mental Health Disorders in Social Media Posts",
-    "description": "A new AI tool has been developed that can detect signs of mental health disorders from social media posts. The technology may provide early intervention opportunities and could change mental health management.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "September 21, 2022",
-    "category": "Technology"
+    "source": "AI Today",
+    "date": "September 30, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Ethics Guidelines Released by International Tech Consortium",
-    "description": "An international tech consortium has released comprehensive guidelines for AI ethics. These guidelines aim to ensure that AI technologies are developed and used responsibly and ethically.",
+    "title": "Startup Uses AI to Revolutionize Customer Service",
+    "description": "A promising startup is leveraging AI to transform the customer service experience, using intelligent bots to provide accurate, personalized assistance to consumers.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 21, 2022",
-    "category": "Ethics"
+    "source": "Business Insider",
+    "date": "September 30, 2021",
+    "category": "Business"
   },
   {
-    "title": "DeepMind Launches New AI Tool for Protein Folding",
-    "description": "DeepMind has launched a new AI tool that predicts protein folding structures. This tool could significantly speed up drug discovery processes and advance our understanding of diseases.",
+    "title": "New AI Tool Streamlines Machine Learning",
+    "description": "A newly launched tool aims to make machine learning more accessible, using AI to automate complex processes and make it easier for beginners to get started.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 21, 2022",
+    "source": "TechCrunch",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
