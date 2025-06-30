@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Technology Revolutionizes Healthcare Industry",
-    "description": "Artificial intelligence is set to revolutionize the healthcare industry, showing promise in early detection and diagnosis of various diseases. The integration of AI with medical systems offers a new perspective in precision medicine.",
+    "title": "AI Breaks New Ground in Disease Prediction",
+    "description": "Scientists have developed an AI model capable of predicting the risk of certain diseases with unprecedented accuracy. This breakthrough could revolutionize healthcare and personalized medicine.",
     "url": "#",
-    "source": "AI Tech News",
-    "date": "September 30, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "New AI Model Predicts Climate Change Trends",
-    "description": "A new AI model developed by researchers offers accurate predictions of climate change trends, helping in the creation of effective mitigation strategies. This breakthrough underlines AI's potential role in addressing global challenges.",
-    "url": "#",
-    "source": "DeepMind",
-    "date": "September 30, 2021",
+    "source": "Nature",
+    "date": "October 15, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Ethics Discussed at 2021 AI Summit",
-    "description": "Notable figures in AI and technology discuss the ethical implications of AI at the 2021 AI Summit, calling for more transparency and regulation in the rapidly evolving field.",
+    "title": "AI-powered Drones Assist in Wildlife Conservation",
+    "description": "A new AI tool is being used to equip drones with the ability to track and monitor wildlife populations. This innovation is assisting in conservation efforts worldwide.",
     "url": "#",
-    "source": "AI Today",
-    "date": "September 30, 2021",
-    "category": "Ethics"
+    "source": "BBC News",
+    "date": "October 15, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Start-up Raises $100 Million in Latest Funding Round",
+    "description": "An AI-driven start-up has secured $100 million in its latest funding round, with investors excited about its groundbreaking predictive analytics platform.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "October 15, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Startup Uses AI to Revolutionize Customer Service",
-    "description": "A promising startup is leveraging AI to transform the customer service experience, using intelligent bots to provide accurate, personalized assistance to consumers.",
+    "title": "Ethical Concerns Surround AI in Criminal Justice System",
+    "description": "Rights groups are voicing concerns about the increasing use of AI in the criminal justice system, highlighting potential biases and inaccuracies.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 30, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "October 15, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Machine Learning",
-    "description": "A newly launched tool aims to make machine learning more accessible, using AI to automate complex processes and make it easier for beginners to get started.",
+    "title": "Google Announces New Open Source AI Tool",
+    "description": "Google has released a new open source AI tool aimed at simplifying model training. The tool is expected to make AI development more accessible.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2021",
+    "date": "October 15, 2021",
     "category": "Tools"
   }
 ];
