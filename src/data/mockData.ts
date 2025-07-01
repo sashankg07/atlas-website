@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Disease Prediction",
-    "description": "Scientists have developed an AI model capable of predicting the risk of certain diseases with unprecedented accuracy. This breakthrough could revolutionize healthcare and personalized medicine.",
+    "title": "AI Breakthrough: DeepMind's New AI Model Tackles Language and Maths",
+    "description": "DeepMind has developed a new AI model that comprehends language and solves mathematical problems, showcasing the technology's growing cognitive abilities. This could revolutionize the way AI assists in education and research.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 15, 2021",
+    "source": "The Guardian",
+    "date": "November 24, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-powered Drones Assist in Wildlife Conservation",
-    "description": "A new AI tool is being used to equip drones with the ability to track and monitor wildlife populations. This innovation is assisting in conservation efforts worldwide.",
+    "title": "Microsoft Unveils Next-Generation AI Supercomputer",
+    "description": "Microsoft has unveiled its next-generation AI supercomputer, promising unparalleled computational capabilities. The tech giant plans to use the system to advance various AI applications, including natural language processing and autonomous vehicles.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 15, 2021",
+    "source": "TechCrunch",
+    "date": "November 24, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Start-up Raises $100 Million in Latest Funding Round",
-    "description": "An AI-driven start-up has secured $100 million in its latest funding round, with investors excited about its groundbreaking predictive analytics platform.",
+    "title": "IBM AI Predicts Alzheimer's with 70% Accuracy",
+    "description": "IBM has developed an AI algorithm that can predict the onset of Alzheimer's disease with 70% accuracy up to seven years in advance. This breakthrough could significantly impact early diagnosis and treatment of the disease.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 15, 2021",
-    "category": "Business"
+    "source": "Reuters",
+    "date": "November 24, 2022",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surround AI in Criminal Justice System",
-    "description": "Rights groups are voicing concerns about the increasing use of AI in the criminal justice system, highlighting potential biases and inaccuracies.",
+    "title": "AI Ethics: European Union Proposes Legal Framework",
+    "description": "The European Union has proposed a legal framework aimed at ensuring ethical practices in AI development and implementation. This move is seen as a major step in regulating AI and preventing misuse.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 15, 2021",
+    "source": "BBC",
+    "date": "November 24, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Google Announces New Open Source AI Tool",
-    "description": "Google has released a new open source AI tool aimed at simplifying model training. The tool is expected to make AI development more accessible.",
+    "title": "Salesforce Unveils AI-Powered Tools for CRM",
+    "description": "Salesforce has launched a suite of AI-powered tools designed to enhance customer relationship management (CRM). The tools aim to streamline operations and provide more personalized services to customers.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 15, 2021",
+    "source": "Business Insider",
+    "date": "November 24, 2022",
     "category": "Tools"
   }
 ];
