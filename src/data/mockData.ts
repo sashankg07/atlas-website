@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: DeepMind's New AI Model Tackles Language and Maths",
-    "description": "DeepMind has developed a new AI model that comprehends language and solves mathematical problems, showcasing the technology's growing cognitive abilities. This could revolutionize the way AI assists in education and research.",
+    "title": "AI Revolutionizes Drug Discovery",
+    "description": "A groundbreaking AI model has been developed that expedites the drug discovery process. The model, leveraging deep learning, accurately predicts drug interactions, potentially saving years of research.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 24, 2022",
+    "source": "The Science Times",
+    "date": "June 04, 2022",
     "category": "Research"
   },
   {
-    "title": "Microsoft Unveils Next-Generation AI Supercomputer",
-    "description": "Microsoft has unveiled its next-generation AI supercomputer, promising unparalleled computational capabilities. The tech giant plans to use the system to advance various AI applications, including natural language processing and autonomous vehicles.",
+    "title": "Next-Gen AI Predicts Climate Change Impacts",
+    "description": "An innovative AI system has been introduced to predict the impacts of climate change with remarkable accuracy. The technology could play a pivotal role in informing global climate policies and strategies.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 24, 2022",
+    "source": "Nature Magazine",
+    "date": "June 04, 2022",
     "category": "Technology"
   },
   {
-    "title": "IBM AI Predicts Alzheimer's with 70% Accuracy",
-    "description": "IBM has developed an AI algorithm that can predict the onset of Alzheimer's disease with 70% accuracy up to seven years in advance. This breakthrough could significantly impact early diagnosis and treatment of the disease.",
+    "title": "AI Startup Raises Record Investment",
+    "description": "AI startup, DeepThink, has raised a record $200M in its latest funding round. The company's cutting-edge AI solutions have attracted significant interest from major tech investors.",
     "url": "#",
-    "source": "Reuters",
-    "date": "November 24, 2022",
-    "category": "Research"
+    "source": "TechCrunch",
+    "date": "June 04, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: European Union Proposes Legal Framework",
-    "description": "The European Union has proposed a legal framework aimed at ensuring ethical practices in AI development and implementation. This move is seen as a major step in regulating AI and preventing misuse.",
+    "title": "Ethical Concerns Surrounding AI in Healthcare",
+    "description": "As AI continues to make strides in healthcare, concerns about patient privacy and data security are emerging. Experts call for robust regulatory frameworks to ensure ethical use of AI.",
     "url": "#",
-    "source": "BBC",
-    "date": "November 24, 2022",
+    "source": "Healthcare IT News",
+    "date": "June 04, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Salesforce Unveils AI-Powered Tools for CRM",
-    "description": "Salesforce has launched a suite of AI-powered tools designed to enhance customer relationship management (CRM). The tools aim to streamline operations and provide more personalized services to customers.",
+    "title": "New AI Tool Streamlines Machine Learning",
+    "description": "Tech giant, AI Hub, has released a new tool that simplifies machine learning processes. The tool, named AutoML, enables developers to build models without extensive knowledge in machine learning.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "November 24, 2022",
+    "source": "MIT Technology Review",
+    "date": "June 04, 2022",
     "category": "Tools"
   }
 ];
