@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Drug Discovery",
-    "description": "A groundbreaking AI model has been developed that expedites the drug discovery process. The model, leveraging deep learning, accurately predicts drug interactions, potentially saving years of research.",
+    "title": "AI Outperforms Humans in Designing Quantum Experiments",
+    "description": "Artificial Intelligence has demonstrated its edge over humans in designing quantum physics experiments. The development opens a new frontier in quantum computing research.",
     "url": "#",
-    "source": "The Science Times",
-    "date": "June 04, 2022",
+    "source": "The Quantum Times",
+    "date": "October 29, 2021",
     "category": "Research"
   },
   {
-    "title": "Next-Gen AI Predicts Climate Change Impacts",
-    "description": "An innovative AI system has been introduced to predict the impacts of climate change with remarkable accuracy. The technology could play a pivotal role in informing global climate policies and strategies.",
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "Researchers have developed a groundbreaking AI tool that can predict the future effects of climate change. The technology could provide key insights for policy makers.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "June 04, 2022",
+    "source": "Climate Journal",
+    "date": "October 29, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises Record Investment",
-    "description": "AI startup, DeepThink, has raised a record $200M in its latest funding round. The company's cutting-edge AI solutions have attracted significant interest from major tech investors.",
+    "title": "AI Start-Up Raises $200 Million in Series C Funding",
+    "description": "AI startup, ThinkAI, has successfully raised $200 million in a Series C funding round. The funds will be used to expand its product offerings and global footprint.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "June 04, 2022",
+    "source": "Business Insider",
+    "date": "October 29, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding AI in Healthcare",
-    "description": "As AI continues to make strides in healthcare, concerns about patient privacy and data security are emerging. Experts call for robust regulatory frameworks to ensure ethical use of AI.",
+    "title": "AI Ethics: Balancing Benefits and Risks",
+    "description": "As AI becomes increasingly integrated into our lives, the importance of ethical considerations grows. Experts discuss the need for clear guidelines and regulations to prevent misuse.",
     "url": "#",
-    "source": "Healthcare IT News",
-    "date": "June 04, 2022",
+    "source": "The Guardian",
+    "date": "October 29, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Machine Learning",
-    "description": "Tech giant, AI Hub, has released a new tool that simplifies machine learning processes. The tool, named AutoML, enables developers to build models without extensive knowledge in machine learning.",
+    "title": "Revolutionary AI Writing Tool Released",
+    "description": "A new AI writing tool, PenAI, promises to revolutionize content creation. The tool uses advanced algorithms to generate creative and accurate content.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "June 04, 2022",
+    "source": "TechCrunch",
+    "date": "October 29, 2021",
     "category": "Tools"
   }
 ];
