@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Designing Quantum Experiments",
-    "description": "Artificial Intelligence has demonstrated its edge over humans in designing quantum physics experiments. The development opens a new frontier in quantum computing research.",
+    "title": "AI Breaks New Ground in Early Cancer Detection",
+    "description": "Researchers have developed a new AI model that can detect early stages of various cancers with higher accuracy than ever before. This AI-powered breakthrough could revolutionize the medical field and potentially save millions of lives.",
     "url": "#",
-    "source": "The Quantum Times",
-    "date": "October 29, 2021",
+    "source": "The New York Times",
+    "date": "September 26, 2021",
     "category": "Research"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Impact",
-    "description": "Researchers have developed a groundbreaking AI tool that can predict the future effects of climate change. The technology could provide key insights for policy makers.",
+    "title": "Leading Tech Company Unveils Next-Gen AI Chip",
+    "description": "A leading tech firm has just unveiled its latest AI chip, promising to deliver unprecedented computational power and efficiency. This could potentially herald a new era of AI capabilities across multiple industries.",
     "url": "#",
-    "source": "Climate Journal",
-    "date": "October 29, 2021",
+    "source": "TechCrunch",
+    "date": "September 26, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-Up Raises $200 Million in Series C Funding",
-    "description": "AI startup, ThinkAI, has successfully raised $200 million in a Series C funding round. The funds will be used to expand its product offerings and global footprint.",
+    "title": "AI Startup Secures $100M in Series B Funding",
+    "description": "An innovative AI startup, known for its groundbreaking work in machine learning, has secured a whopping $100M in Series B funding. This signifies investors' growing confidence in the AI industry and its potential.",
     "url": "#",
     "source": "Business Insider",
-    "date": "October 29, 2021",
+    "date": "September 26, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Balancing Benefits and Risks",
-    "description": "As AI becomes increasingly integrated into our lives, the importance of ethical considerations grows. Experts discuss the need for clear guidelines and regulations to prevent misuse.",
+    "title": "Ethical Concerns Surrounding AI Facial Recognition",
+    "description": "As AI-powered facial recognition technology becomes increasingly prevalent, ethical concerns are mounting. Critics argue that without proper regulations, this technology could potentially be misused, infringing on privacy rights.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 29, 2021",
+    "source": "Washington Post",
+    "date": "September 26, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Revolutionary AI Writing Tool Released",
-    "description": "A new AI writing tool, PenAI, promises to revolutionize content creation. The tool uses advanced algorithms to generate creative and accurate content.",
+    "title": "New AI Tool Streamlines Software Development",
+    "description": "A new tool leveraging AI has been introduced to streamline software development, significantly reducing coding time while improving code quality. This tool can potentially revolutionize the field of software engineering.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 29, 2021",
+    "source": "Wired",
+    "date": "September 26, 2021",
     "category": "Tools"
   }
 ];
