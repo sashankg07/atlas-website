@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Early Cancer Detection",
-    "description": "Researchers have developed a new AI model that can detect early stages of various cancers with higher accuracy than ever before. This AI-powered breakthrough could revolutionize the medical field and potentially save millions of lives.",
+    "title": "AI's Revolutionary Role in Disease Diagnosis",
+    "description": "Recent developments in AI technology have led to breakthroughs in disease diagnosis, enabling faster and more accurate results. This could change the face of healthcare as we know it.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 26, 2021",
+    "date": "September 29, 2021",
     "category": "Research"
   },
   {
-    "title": "Leading Tech Company Unveils Next-Gen AI Chip",
-    "description": "A leading tech firm has just unveiled its latest AI chip, promising to deliver unprecedented computational power and efficiency. This could potentially herald a new era of AI capabilities across multiple industries.",
+    "title": "Integrating AI in Everyday Appliances: The Future is Here",
+    "description": "Companies are now integrating AI into everyday appliances, creating smart homes that learn and adapt to user behavior. This heralds a new era in home technology.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 26, 2021",
+    "date": "September 29, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Secures $100M in Series B Funding",
-    "description": "An innovative AI startup, known for its groundbreaking work in machine learning, has secured a whopping $100M in Series B funding. This signifies investors' growing confidence in the AI industry and its potential.",
+    "title": "AI in Business: The New Competitive Advantage",
+    "description": "Businesses are leveraging AI to gain a competitive edge, using it to improve efficiency, drive innovation, and create personalized customer experiences.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 26, 2021",
+    "source": "Forbes",
+    "date": "September 29, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding AI Facial Recognition",
-    "description": "As AI-powered facial recognition technology becomes increasingly prevalent, ethical concerns are mounting. Critics argue that without proper regulations, this technology could potentially be misused, infringing on privacy rights.",
+    "title": "The Ethics of AI: Balancing Progress with Caution",
+    "description": "As AI continues to advance, ethicists are grappling with the implications of these technologies, urging the industry to balance progress with ethical considerations.",
     "url": "#",
-    "source": "Washington Post",
-    "date": "September 26, 2021",
+    "source": "The Guardian",
+    "date": "September 29, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Software Development",
-    "description": "A new tool leveraging AI has been introduced to streamline software development, significantly reducing coding time while improving code quality. This tool can potentially revolutionize the field of software engineering.",
+    "title": "New AI Tools Transforming the Landscape of Graphic Design",
+    "description": "New AI-powered tools are revolutionizing graphic design, automating complex processes and allowing designers to focus on creativity and innovation.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 26, 2021",
+    "source": "Adobe Blog",
+    "date": "September 29, 2021",
     "category": "Tools"
   }
 ];
