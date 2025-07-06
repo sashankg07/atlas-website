@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI's Revolutionary Role in Disease Diagnosis",
-    "description": "Recent developments in AI technology have led to breakthroughs in disease diagnosis, enabling faster and more accurate results. This could change the face of healthcare as we know it.",
+    "title": "Revolutionizing Healthcare: AI Identifies Cancerous Cells More Accurately",
+    "description": "A groundbreaking AI model has been developed that can identify cancerous cells with unprecedented accuracy. This could potentially revolutionize cancer diagnosis and improve patient outcomes.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 29, 2021",
+    "date": "December 07, 2021",
     "category": "Research"
   },
   {
-    "title": "Integrating AI in Everyday Appliances: The Future is Here",
-    "description": "Companies are now integrating AI into everyday appliances, creating smart homes that learn and adapt to user behavior. This heralds a new era in home technology.",
+    "title": "AI Tech Startup Raises $50M in Series B Funding",
+    "description": "AI-focused startup, IntelliAI, has secured $50M in Series B funding. The funds will be used to enhance their AI capabilities and expand their global footprint.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 29, 2021",
-    "category": "Technology"
+    "source": "Business Insider",
+    "date": "December 07, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI in Business: The New Competitive Advantage",
-    "description": "Businesses are leveraging AI to gain a competitive edge, using it to improve efficiency, drive innovation, and create personalized customer experiences.",
+    "title": "New AI Tool Streamlines Content Creation Process",
+    "description": "ContentGen, a new AI tool, promises to simplify the content creation process by automatically generating high-quality written content. This could be a game-changer for marketers and writers alike.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 29, 2021",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "December 07, 2021",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethics of AI: Balancing Progress with Caution",
-    "description": "As AI continues to advance, ethicists are grappling with the implications of these technologies, urging the industry to balance progress with ethical considerations.",
+    "title": "AI Ethics: Striking a Balance Between Innovation and Regulation",
+    "description": "As AI continues to evolve, ethical considerations and regulatory frameworks are becoming increasingly critical. Experts call for a balance between innovation and regulation to ensure responsible AI deployment.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 29, 2021",
+    "date": "December 07, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Transforming the Landscape of Graphic Design",
-    "description": "New AI-powered tools are revolutionizing graphic design, automating complex processes and allowing designers to focus on creativity and innovation.",
+    "title": "AI Breakthrough: Computers Now Understand Sarcasm",
+    "description": "In a significant breakthrough, researchers have developed an AI model that can understand sarcasm in text. This could have far-reaching implications for sentiment analysis and natural language processing.",
     "url": "#",
-    "source": "Adobe Blog",
-    "date": "September 29, 2021",
-    "category": "Tools"
+    "source": "MIT Technology Review",
+    "date": "December 07, 2021",
+    "category": "Technology"
   }
 ];
