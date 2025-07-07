@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Identifies Cancerous Cells More Accurately",
-    "description": "A groundbreaking AI model has been developed that can identify cancerous cells with unprecedented accuracy. This could potentially revolutionize cancer diagnosis and improve patient outcomes.",
+    "title": "AI Unlocks Secrets of Ancient Texts",
+    "description": "In a groundbreaking research, AI has been utilized to decipher long-lost languages. This new development could open doors to understanding ancient civilizations better.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "December 07, 2021",
+    "source": "Scientific American",
+    "date": "November 02, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Tech Startup Raises $50M in Series B Funding",
-    "description": "AI-focused startup, IntelliAI, has secured $50M in Series B funding. The funds will be used to enhance their AI capabilities and expand their global footprint.",
+    "title": "AI-driven E-commerce: The Future of Retail",
+    "description": "As AI implements predictive algorithms to enhance user experience, online retail is witnessing a revolution. This new approach could redefine the future of e-commerce.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "December 07, 2021",
+    "source": "The Wall Street Journal",
+    "date": "November 02, 2021",
     "category": "Business"
   },
   {
-    "title": "New AI Tool Streamlines Content Creation Process",
-    "description": "ContentGen, a new AI tool, promises to simplify the content creation process by automatically generating high-quality written content. This could be a game-changer for marketers and writers alike.",
+    "title": "New AI Tool Streamlines Software Development",
+    "description": "In a recent technological breakthrough, an AI tool has been developed to simplify coding and software development. This tool could potentially revolutionize the tech industry.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "December 07, 2021",
+    "date": "November 02, 2021",
     "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Striking a Balance Between Innovation and Regulation",
-    "description": "As AI continues to evolve, ethical considerations and regulatory frameworks are becoming increasingly critical. Experts call for a balance between innovation and regulation to ensure responsible AI deployment.",
+    "title": "AI Ethics: Balancing Innovation and Regulation",
+    "description": "As AI technology becomes increasingly prevalent, ethical considerations have come to the forefront. Ensuring responsible development and use of AI is now a global concern.",
     "url": "#",
     "source": "The Guardian",
-    "date": "December 07, 2021",
+    "date": "November 02, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Breakthrough: Computers Now Understand Sarcasm",
-    "description": "In a significant breakthrough, researchers have developed an AI model that can understand sarcasm in text. This could have far-reaching implications for sentiment analysis and natural language processing.",
+    "title": "AI in Healthcare: Transforming Patient Care",
+    "description": "AI is playing a pivotal role in enhancing patient care and management. From diagnosis to treatment, AI's potential in healthcare is unprecedented.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "December 07, 2021",
+    "source": "The New York Times",
+    "date": "November 02, 2021",
     "category": "Technology"
   }
 ];
