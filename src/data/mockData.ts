@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Diagnoses Cancer Faster Than Ever Before",
-    "description": "In a breakthrough study, AI has been utilized to diagnose cancer in its early stages, outperforming human doctors. The AI system, trained on thousands of patient records, has shown unprecedented accuracy.",
+    "title": "AI Beats Humans at Understanding Written Sentiments",
+    "description": "In a groundbreaking development, Artificial Intelligence now surpasses human abilities in understanding written emotions. This could revolutionise online communication and marketing strategies.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 05, 2021",
+    "source": "The AI Times",
+    "date": "September 29, 2021",
     "category": "Research"
   },
   {
-    "title": "Artificial Intelligence: The Future of Autonomous Vehicles",
-    "description": "Leading automobile manufacturers and tech companies are now focusing on AI to power the future of autonomous driving. The integration of AI is expected to significantly improve safety and efficiency.",
+    "title": "Tech Giants Adopt AI to Boost Cybersecurity Measures",
+    "description": "As cyber threats continue to rise, tech giants like Google and Microsoft are leveraging AI to combat these threats. This trend is set to redefine the cybersecurity landscape.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 05, 2021",
+    "source": "Digital Trends",
+    "date": "September 29, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI in the Business World: How AI is Transforming Customer Service",
-    "description": "Companies are increasingly relying on AI for customer service. Chatbots, powered by sophisticated AI algorithms, are providing faster, 24/7 customer support, enhancing user experience like never before.",
+    "title": "AI in Business: Is it Changing the Game?",
+    "description": "AI is reshaping the business world with its ability to automate tasks, generate insights, and create personalized experiences. Companies that adapt to this technology are witnessing unprecedented growth.",
     "url": "#",
     "source": "Business Insider",
-    "date": "October 05, 2021",
+    "date": "September 29, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Questions Raised Over AI Use in Criminal Justice System",
-    "description": "With AI being recently used in the criminal justice system, concerns over fairness and transparency have been raised. The debate centers on how AI algorithms are being used to assess the risk of recidivism.",
+    "title": "Ethical Concerns Surrounding AI's Rapid Advancement",
+    "description": "As AI continues to evolve, ethical concerns such as privacy, bias, and job displacement are becoming increasingly important. Industry leaders are calling for comprehensive regulatory policies.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 05, 2021",
+    "date": "September 29, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Effects More Accurately",
-    "description": "A new AI tool developed by scientists predicts climate change effects with unprecedented precision, potentially revolutionizing climate science. The tool uses machine learning to analyze complex climate models.",
+    "title": "New AI Tool Transforms the Field of Data Analysis",
+    "description": "A new AI tool, designed to analyze and interpret complex data sets, is set to revolutionize the field of data analysis. The tool has the potential to speed up decision-making processes and improve accuracy.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 05, 2021",
+    "source": "Tech Crunch",
+    "date": "September 29, 2021",
     "category": "Tools"
   }
 ];
