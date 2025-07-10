@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Beats Humans at Understanding Written Sentiments",
-    "description": "In a groundbreaking development, Artificial Intelligence now surpasses human abilities in understanding written emotions. This could revolutionise online communication and marketing strategies.",
+    "title": "AI Breakthrough: Achieving Superhuman Performance in Dota 2",
+    "description": "A cutting-edge AI developed by OpenAI, named OpenAI Five, has achieved superhuman performance in the complex online video game, Dota 2. This is a significant step forward in the field of reinforcement learning and multi-agent systems.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "September 29, 2021",
+    "source": "OpenAI Blog",
+    "date": "November 07, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Adopt AI to Boost Cybersecurity Measures",
-    "description": "As cyber threats continue to rise, tech giants like Google and Microsoft are leveraging AI to combat these threats. This trend is set to redefine the cybersecurity landscape.",
+    "title": "Google's New Quantum Computing Experiment Could Revolutionize AI",
+    "description": "Google's Quantum AI team has developed a time-crystal on a quantum computer. The breakthrough could revolutionize AI algorithms and computing power, opening new avenues for machine learning.",
     "url": "#",
-    "source": "Digital Trends",
-    "date": "September 29, 2021",
+    "source": "The Verge",
+    "date": "November 07, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI in Business: Is it Changing the Game?",
-    "description": "AI is reshaping the business world with its ability to automate tasks, generate insights, and create personalized experiences. Companies that adapt to this technology are witnessing unprecedented growth.",
+    "title": "IBM Unveils Next-Gen AI Software That Mimics the Human Brain",
+    "description": "IBM has unveiled a new AI software that closely mimics the learning process of the human brain. This software could enable AI to learn more efficiently and effectively, leading to more sophisticated applications.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 29, 2021",
+    "source": "TechCrunch",
+    "date": "November 07, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding AI's Rapid Advancement",
-    "description": "As AI continues to evolve, ethical concerns such as privacy, bias, and job displacement are becoming increasingly important. Industry leaders are calling for comprehensive regulatory policies.",
+    "title": "Concerns Raised Over Biased AI in Job Recruitment",
+    "description": "There is growing concern that AI used in job recruitment can perpetuate bias, despite its potential to streamline the hiring process. Experts call for more transparency and regulation in AI recruitment tools.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 29, 2021",
+    "source": "BBC News",
+    "date": "November 07, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms the Field of Data Analysis",
-    "description": "A new AI tool, designed to analyze and interpret complex data sets, is set to revolutionize the field of data analysis. The tool has the potential to speed up decision-making processes and improve accuracy.",
+    "title": "Adobe Introduces AI-Powered Tools to Streamline Creative Process",
+    "description": "Adobe has rolled out several AI-powered tools aimed at streamlining the creative process. These tools leverage machine learning to automate tedious tasks, allowing creatives to focus on ideation and design.",
     "url": "#",
-    "source": "Tech Crunch",
-    "date": "September 29, 2021",
+    "source": "Adobe Newsroom",
+    "date": "November 07, 2022",
     "category": "Tools"
   }
 ];
