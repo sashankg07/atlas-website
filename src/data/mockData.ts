@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Achieving Superhuman Performance in Dota 2",
-    "description": "A cutting-edge AI developed by OpenAI, named OpenAI Five, has achieved superhuman performance in the complex online video game, Dota 2. This is a significant step forward in the field of reinforcement learning and multi-agent systems.",
+    "title": "AI Breaks New Ground in Predicting Alzheimer's",
+    "description": "Researchers have developed an AI capable of predicting the onset of Alzheimer's disease years in advance. This breakthrough could revolutionize early detection and treatment approaches.",
     "url": "#",
-    "source": "OpenAI Blog",
-    "date": "November 07, 2022",
+    "source": "Nature Neuroscience",
+    "date": "October 18, 2022",
     "category": "Research"
   },
   {
-    "title": "Google's New Quantum Computing Experiment Could Revolutionize AI",
-    "description": "Google's Quantum AI team has developed a time-crystal on a quantum computer. The breakthrough could revolutionize AI algorithms and computing power, opening new avenues for machine learning.",
+    "title": "AI Drives Innovation in Green Energy",
+    "description": "A new report highlights how AI is paving the way for clean energy solutions, from optimizing renewable energy production to forecasting energy demand.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 07, 2022",
+    "source": "The Economist",
+    "date": "October 18, 2022",
     "category": "Technology"
   },
   {
-    "title": "IBM Unveils Next-Gen AI Software That Mimics the Human Brain",
-    "description": "IBM has unveiled a new AI software that closely mimics the learning process of the human brain. This software could enable AI to learn more efficiently and effectively, leading to more sophisticated applications.",
+    "title": "AI Startup Raises $100 Million in Funding",
+    "description": "An AI startup, focusing on developing cognitive automation solutions, has raised a whopping $100 million in Series B funding. The funds will be used to expand the company's AI capabilities.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 07, 2022",
+    "source": "Bloomberg",
+    "date": "October 18, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Concerns Raised Over Biased AI in Job Recruitment",
-    "description": "There is growing concern that AI used in job recruitment can perpetuate bias, despite its potential to streamline the hiring process. Experts call for more transparency and regulation in AI recruitment tools.",
+    "title": "The Ethical Implications of AI in Warfare",
+    "description": "A new study explores the ethical concerns surrounding the increasing use of AI in military operations, shedding light on the potential risks and challenges.",
     "url": "#",
-    "source": "BBC News",
-    "date": "November 07, 2022",
+    "source": "The Guardian",
+    "date": "October 18, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Adobe Introduces AI-Powered Tools to Streamline Creative Process",
-    "description": "Adobe has rolled out several AI-powered tools aimed at streamlining the creative process. These tools leverage machine learning to automate tedious tasks, allowing creatives to focus on ideation and design.",
+    "title": "New AI Tool Transforms Customer Service",
+    "description": "A groundbreaking AI tool is transforming the customer service industry by providing real-time transcription and sentiment analysis during customer interactions.",
     "url": "#",
-    "source": "Adobe Newsroom",
-    "date": "November 07, 2022",
+    "source": "TechCrunch",
+    "date": "October 18, 2022",
     "category": "Tools"
   }
 ];
