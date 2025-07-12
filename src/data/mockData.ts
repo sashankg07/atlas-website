@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Predicting Alzheimer's",
-    "description": "Researchers have developed an AI capable of predicting the onset of Alzheimer's disease years in advance. This breakthrough could revolutionize early detection and treatment approaches.",
+    "title": "Groundbreaking AI Model Predicts Climate Change Impact",
+    "description": "Scientists have developed a new artificial intelligence model capable of accurately predicting the long-term effects of climate change. The model combines machine learning algorithms with robust climate data to predict changes over the next century.",
     "url": "#",
-    "source": "Nature Neuroscience",
-    "date": "October 18, 2022",
+    "source": "The Guardian",
+    "date": "October 17, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Drives Innovation in Green Energy",
-    "description": "A new report highlights how AI is paving the way for clean energy solutions, from optimizing renewable energy production to forecasting energy demand.",
+    "title": "AI Revolutionizes the E-Commerce Industry",
+    "description": "The latest AI trends are transforming the e-commerce industry, providing personalized shopping experiences and improving customer service. AI-powered chatbots and recommendation engines are becoming the norm in online shopping.",
     "url": "#",
-    "source": "The Economist",
-    "date": "October 18, 2022",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "October 17, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI Startup Raises $100 Million in Funding",
-    "description": "An AI startup, focusing on developing cognitive automation solutions, has raised a whopping $100 million in Series B funding. The funds will be used to expand the company's AI capabilities.",
+    "title": "AI Ethics: Balancing Innovation and Responsibility",
+    "description": "As AI continues to evolve, ethical concerns such as data privacy and algorithmic bias are coming to the forefront. Experts discuss the balance between pushing the boundaries of AI and ensuring its responsible use.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "October 18, 2022",
-    "category": "Business"
+    "source": "The New York Times",
+    "date": "October 17, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Implications of AI in Warfare",
-    "description": "A new study explores the ethical concerns surrounding the increasing use of AI in military operations, shedding light on the potential risks and challenges.",
+    "title": "AI Tool Helps in Early Detection of Alzheimer's",
+    "description": "A new AI tool can identify early signs of Alzheimer's disease years before symptoms appear. The tool analyses brain scans to detect subtle changes that could suggest the onset of the disease.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 18, 2022",
-    "category": "Ethics"
+    "source": "BBC News",
+    "date": "October 17, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Transforms Customer Service",
-    "description": "A groundbreaking AI tool is transforming the customer service industry by providing real-time transcription and sentiment analysis during customer interactions.",
+    "title": "Unveiling the AI Trends for 2022",
+    "description": "From increased AI transparency to the rise of quantum computing, the AI landscape is set for some major shifts in 2022. Here's a look at the top trends to watch out for in the coming year.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 18, 2022",
-    "category": "Tools"
+    "date": "October 17, 2021",
+    "category": "Research"
   }
 ];
