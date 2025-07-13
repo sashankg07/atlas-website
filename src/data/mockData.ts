@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Model Predicts Climate Change Impact",
-    "description": "Scientists have developed a new artificial intelligence model capable of accurately predicting the long-term effects of climate change. The model combines machine learning algorithms with robust climate data to predict changes over the next century.",
+    "title": "AI Breaks Ground in Disease Diagnosis",
+    "description": "Recent advancements in artificial intelligence have led to a breakthrough in the field of disease diagnosis. AI systems are now able to diagnose certain conditions with accuracy surpassing that of human doctors.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 17, 2021",
+    "source": "The New York Times",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizes the E-Commerce Industry",
-    "description": "The latest AI trends are transforming the e-commerce industry, providing personalized shopping experiences and improving customer service. AI-powered chatbots and recommendation engines are becoming the norm in online shopping.",
+    "title": "Big Tech Invests Heavily in AI for Cloud Computing",
+    "description": "Major tech companies are investing billions in AI to enhance cloud computing capabilities. The move is expected to significantly streamline data processing and analytics.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 17, 2021",
+    "source": "The Wall Street Journal",
+    "date": "September 30, 2022",
     "category": "Business"
   },
   {
-    "title": "AI Ethics: Balancing Innovation and Responsibility",
-    "description": "As AI continues to evolve, ethical concerns such as data privacy and algorithmic bias are coming to the forefront. Experts discuss the balance between pushing the boundaries of AI and ensuring its responsible use.",
+    "title": "AI-Powered Robotics Transforming the Manufacturing Industry",
+    "description": "The use of AI in robotics is revolutionizing the manufacturing industry by improving efficiency and reducing human error. Experts predict this trend will continue to grow in the coming years.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 17, 2021",
-    "category": "Ethics"
+    "source": "BBC News",
+    "date": "September 30, 2022",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Tool Helps in Early Detection of Alzheimer's",
-    "description": "A new AI tool can identify early signs of Alzheimer's disease years before symptoms appear. The tool analyses brain scans to detect subtle changes that could suggest the onset of the disease.",
+    "title": "AI Ethics Under Scrutiny After Bias Allegations",
+    "description": "The ethics of AI are being critically examined after allegations of bias in machine learning algorithms. This has sparked a debate on the need for clearer regulation and transparency in the AI industry.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 17, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "September 30, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "Unveiling the AI Trends for 2022",
-    "description": "From increased AI transparency to the rise of quantum computing, the AI landscape is set for some major shifts in 2022. Here's a look at the top trends to watch out for in the coming year.",
+    "title": "New AI Tool Promises to Revolutionize Data Analysis",
+    "description": "A newly developed AI tool is set to change the landscape of data analysis. The system uses machine learning to interpret and visualize complex datasets, making the data more accessible.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 17, 2021",
-    "category": "Research"
+    "date": "September 30, 2022",
+    "category": "Tools"
   }
 ];
