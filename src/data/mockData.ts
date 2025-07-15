@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Model Predicts Climate Change Impact",
-    "description": "Researchers have developed a new AI model that accurately predicts the long-term effects of climate change. The model uses machine learning to analyze data and could substantially aid efforts to mitigate climate change.",
+    "title": "AI Breakthrough: DeepMind's MuZero Masters Games Without Knowing Rules",
+    "description": "DeepMind's revolutionary AI, MuZero, has accomplished the extraordinary feat of mastering games without even knowing the rules. This development could have wide-ranging implications in real-world scenarios.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 04, 2021",
+    "source": "New York Times",
+    "date": "September 24, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI-Driven Healthcare Tools Revolutionize Patient Care",
-    "description": "A new suite of AI tools is transforming healthcare by enabling personalized patient care and disease prediction. These advancements are expected to significantly boost healthcare outcomes and efficiency.",
+    "title": "Transforming Healthcare: AI-powered Diagnostics On The Rise",
+    "description": "Artificial intelligence is revolutionizing healthcare, with AI-powered diagnostics systems proving to be particularly effective. These systems are improving accuracy and speed of diagnosis, potentially saving countless lives.",
     "url": "#",
-    "source": "HealthTech Magazine",
-    "date": "October 04, 2021",
+    "source": "The Guardian",
+    "date": "September 24, 2022",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI Startups",
-    "description": "A leading technology company has announced a multi-billion dollar investment in AI startups. This move signals a strong industry belief in the future of AI and its potential to revolutionize various sectors.",
+    "title": "OpenAI's GPT-4: A New Era in Language Processing AI",
+    "description": "OpenAI has unveiled GPT-4, the latest in its line of language-processing AI models. The new model boasts improved understanding and generation capabilities, pushing the boundaries of what AI can achieve.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 04, 2021",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "September 24, 2022",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Over AI Facial Recognition Technology",
-    "description": "As AI facial recognition technology advances, it's sparking ethical debates around privacy and bias. Advocates argue for regulation to ensure responsible use of this powerful technology.",
+    "title": "Elon Musk's Neuralink Aims for Human Trials in 2023",
+    "description": "Elon Musk's ambitious brain-computer interface startup Neuralink is planning to start human trials in 2023. The device could potentially help people with neurological conditions, but it also raises significant ethical concerns.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 04, 2021",
+    "source": "Reuters",
+    "date": "September 24, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Software Tool Streamlines Data Analysis",
-    "description": "A newly released AI tool promises to make data analysis more accessible, efficient, and accurate. The software uses machine learning to automate and optimize data analysis processes.",
+    "title": "IBM Introduces Breakthrough AI Fairness Toolkit",
+    "description": "IBM has launched a new AI fairness toolkit designed to help developers build and test bias-free AI models. The toolkit promises to usher in a new era of ethical, transparent AI.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 04, 2021",
+    "date": "September 24, 2022",
     "category": "Tools"
   }
 ];
