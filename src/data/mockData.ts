@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: DeepMind's MuZero Masters Games Without Knowing Rules",
-    "description": "DeepMind's revolutionary AI, MuZero, has accomplished the extraordinary feat of mastering games without even knowing the rules. This development could have wide-ranging implications in real-world scenarios.",
+    "title": "Revolutionizing Healthcare with AI: A New Era",
+    "description": "AI advancements continue to transform the healthcare industry, from diagnosis to patient care and beyond. The latest innovations promise to make healthcare more personalized, accurate, and accessible.",
     "url": "#",
-    "source": "New York Times",
-    "date": "September 24, 2022",
-    "category": "Research"
-  },
-  {
-    "title": "Transforming Healthcare: AI-powered Diagnostics On The Rise",
-    "description": "Artificial intelligence is revolutionizing healthcare, with AI-powered diagnostics systems proving to be particularly effective. These systems are improving accuracy and speed of diagnosis, potentially saving countless lives.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "September 24, 2022",
+    "source": "The New York Times",
+    "date": "September 29, 2021",
     "category": "Technology"
   },
   {
-    "title": "OpenAI's GPT-4: A New Era in Language Processing AI",
-    "description": "OpenAI has unveiled GPT-4, the latest in its line of language-processing AI models. The new model boasts improved understanding and generation capabilities, pushing the boundaries of what AI can achieve.",
+    "title": "AI Breakthrough: DeepMind's New AI Can Predict Weather Patterns",
+    "description": "DeepMind, Google's AI subsidiary, has unveiled a new AI model capable of predicting weather patterns more accurately than ever before. This could revolutionize climate science and disaster forecasting.",
     "url": "#",
     "source": "BBC News",
-    "date": "September 24, 2022",
+    "date": "September 29, 2021",
     "category": "Research"
+  },
+  {
+    "title": "AI in Retail: The Future of Shopping",
+    "description": "Artificial Intelligence is reshaping the retail landscape, making shopping experiences more personalized and efficient. This piece explores how AI is influencing the future of retail.",
+    "url": "#",
+    "source": "Business Insider",
+    "date": "September 29, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Elon Musk's Neuralink Aims for Human Trials in 2023",
-    "description": "Elon Musk's ambitious brain-computer interface startup Neuralink is planning to start human trials in 2023. The device could potentially help people with neurological conditions, but it also raises significant ethical concerns.",
+    "title": "AI Ethics: The Challenge of Bias in Machine Learning",
+    "description": "As AI becomes a more integral part of society, the issue of bias in machine learning algorithms is gaining attention. This article discusses recent developments and potential solutions to this complex issue.",
     "url": "#",
-    "source": "Reuters",
-    "date": "September 24, 2022",
+    "source": "The Guardian",
+    "date": "September 29, 2021",
     "category": "Ethics"
   },
   {
-    "title": "IBM Introduces Breakthrough AI Fairness Toolkit",
-    "description": "IBM has launched a new AI fairness toolkit designed to help developers build and test bias-free AI models. The toolkit promises to usher in a new era of ethical, transparent AI.",
+    "title": "AI Tools: New Release of TensorFlow Boosts Machine Learning Capabilities",
+    "description": "Google's TensorFlow 2.6 offers a range of new features and improvements, boosting machine learning capabilities. It's a must-try for anyone in data science and AI development.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 24, 2022",
+    "date": "September 29, 2021",
     "category": "Tools"
   }
 ];
