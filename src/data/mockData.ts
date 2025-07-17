@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare with AI: A New Era",
-    "description": "AI advancements continue to transform the healthcare industry, from diagnosis to patient care and beyond. The latest innovations promise to make healthcare more personalized, accurate, and accessible.",
+    "title": "Revolutionary AI Algorithm Predicts Climate Change Impact",
+    "description": "A cutting-edge artificial intelligence model has been developed to predict the impact of climate change more accurately than ever before. The AI model can analyze complex climate patterns and predict future changes with unprecedented precision.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 29, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Breakthrough: DeepMind's New AI Can Predict Weather Patterns",
-    "description": "DeepMind, Google's AI subsidiary, has unveiled a new AI model capable of predicting weather patterns more accurately than ever before. This could revolutionize climate science and disaster forecasting.",
-    "url": "#",
-    "source": "BBC News",
-    "date": "September 29, 2021",
+    "date": "October 03, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Retail: The Future of Shopping",
-    "description": "Artificial Intelligence is reshaping the retail landscape, making shopping experiences more personalized and efficient. This piece explores how AI is influencing the future of retail.",
+    "title": "Tech Giants Invest in AI for Healthcare",
+    "description": "Major technology companies are investing heavily in AI innovations for healthcare. The goal is to use AI to improve diagnostic accuracy, streamline patient care, and optimize treatment plans.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 29, 2021",
+    "source": "The Wall Street Journal",
+    "date": "October 03, 2021",
     "category": "Business"
+  },
+  {
+    "title": "New AI Ethics Guidelines Released",
+    "description": "A group of leading AI researchers have released a new set of ethical guidelines for AI development. The guidelines aim to ensure AI is used responsibly and does not contribute to societal harm.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "October 03, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: The Challenge of Bias in Machine Learning",
-    "description": "As AI becomes a more integral part of society, the issue of bias in machine learning algorithms is gaining attention. This article discusses recent developments and potential solutions to this complex issue.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "September 29, 2021",
-    "category": "Ethics"
-  },
-  {
-    "title": "AI Tools: New Release of TensorFlow Boosts Machine Learning Capabilities",
-    "description": "Google's TensorFlow 2.6 offers a range of new features and improvements, boosting machine learning capabilities. It's a must-try for anyone in data science and AI development.",
+    "title": "AI Transforms the Gaming Industry",
+    "description": "Artificial intelligence is transforming the gaming industry by creating more immersive and realistic experiences. AI algorithms are used to generate realistic graphics, enhance game mechanics, and create adaptive difficulty levels.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 29, 2021",
+    "date": "October 03, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "A new AI tool has been developed that streamlines data analysis, making it more accessible to non-experts. The tool uses machine learning algorithms to analyze complex datasets and provide insightful results.",
+    "url": "#",
+    "source": "Nature",
+    "date": "October 03, 2021",
     "category": "Tools"
   }
 ];
