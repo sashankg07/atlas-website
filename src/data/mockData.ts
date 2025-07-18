@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Algorithm Predicts Climate Change Impact",
-    "description": "A cutting-edge artificial intelligence model has been developed to predict the impact of climate change more accurately than ever before. The AI model can analyze complex climate patterns and predict future changes with unprecedented precision.",
+    "title": "AI Breaks New Ground in Cancer Diagnosis",
+    "description": "A team of researchers has developed an AI model that can diagnose cancer with a higher accuracy rate than human doctors. This breakthrough could revolutionize the healthcare industry, making early detection more accessible and accurate.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 03, 2021",
+    "date": "October 04, 2023",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Invest in AI for Healthcare",
-    "description": "Major technology companies are investing heavily in AI innovations for healthcare. The goal is to use AI to improve diagnostic accuracy, streamline patient care, and optimize treatment plans.",
+    "title": "Tech Giants Adopt AI for Sustainable Solutions",
+    "description": "Major tech companies, including Microsoft and Google, are leveraging AI to tackle climate change. These AI-powered initiatives aim to reduce carbon emissions and promote sustainable practices.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "October 03, 2021",
-    "category": "Business"
+    "source": "Bloomberg",
+    "date": "October 04, 2023",
+    "category": "Technology"
   },
   {
-    "title": "New AI Ethics Guidelines Released",
-    "description": "A group of leading AI researchers have released a new set of ethical guidelines for AI development. The guidelines aim to ensure AI is used responsibly and does not contribute to societal harm.",
+    "title": "AI Start-Up Raises $200 Million in Latest Funding Round",
+    "description": "In a testament to the growing importance of AI in business, a Silicon Valley start-up specializing in AI solutions has successfully raised $200 million in its latest funding round.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 03, 2021",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "October 04, 2023",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Transforms the Gaming Industry",
-    "description": "Artificial intelligence is transforming the gaming industry by creating more immersive and realistic experiences. AI algorithms are used to generate realistic graphics, enhance game mechanics, and create adaptive difficulty levels.",
+    "title": "Ethics in AI: A Growing Debate",
+    "description": "As AI continues to integrate into society, the debate over its ethical implications intensifies. From privacy concerns to job displacement, experts are calling for comprehensive regulations.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 03, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "October 04, 2023",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "A new AI tool has been developed that streamlines data analysis, making it more accessible to non-experts. The tool uses machine learning algorithms to analyze complex datasets and provide insightful results.",
+    "title": "New AI Tools Transform the Creative Industry",
+    "description": "A new wave of AI-powered tools is revolutionizing the creative industry, offering unprecedented capabilities for image editing, music production, and content creation.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 03, 2021",
+    "source": "Wired",
+    "date": "October 04, 2023",
     "category": "Tools"
   }
 ];
