@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Models Now Understand Contextual Nuances",
-    "description": "In a major advancement for natural language processing, AI models are now capable of understanding complex contextual nuances. This could revolutionize tasks ranging from personal assistants to automated customer support.",
+    "title": "AI Predicts Climate Change Patterns with Unprecedented Accuracy",
+    "description": "Scientists have developed an AI model capable of predicting climate change patterns with a degree of accuracy never seen before. This breakthrough could greatly aid in the global fight against climate change.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "September 29, 2022",
+    "source": "Science Daily",
+    "date": "March 27, 2023",
     "category": "Research"
   },
   {
-    "title": "AI in Retail: The Future of Personalized Shopping",
-    "description": "Major retailers are leveraging AI to personalize the shopping experience. By analyzing customer data, AI can predict preferences and make personalized product recommendations.",
+    "title": "AI-Powered Drones Assisting in Wildlife Conservation Efforts",
+    "description": "AI technology is being used to power drones that can effectively monitor wildlife populations. This innovative approach promises to revolutionize the field of wildlife conservation.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 29, 2022",
-    "category": "Business"
+    "date": "March 27, 2023",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Can Predict Climate Change Impacts",
-    "description": "Researchers have developed an AI tool that can accurately predict the impacts of climate change. This tool could help governments and organizations make more informed decisions about climate policy.",
+    "title": "AI Start-up Raises $100M To Develop Next Generation AI Tools",
+    "description": "A new AI start-up has successfully raised $100M in funding to develop cutting-edge AI tools. The firm aims to accelerate the implementation of AI across various industries.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 29, 2022",
-    "category": "Tools"
+    "source": "Bloomberg",
+    "date": "March 27, 2023",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Striking the Balance Between Innovation and Privacy",
-    "description": "As AI continues to evolve, the conversation around ethical implications is growing. Striking a balance between innovation and privacy is crucial to building trust with consumers.",
+    "title": "Proposed Legislation to Regulate AI Ethics",
+    "description": "A new legislation proposal seeks to establish a regulatory framework around AI ethics. The proposal aims to protect consumer data and promote transparency in AI development.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 29, 2022",
+    "source": "The Guardian",
+    "date": "March 27, 2023",
     "category": "Ethics"
   },
   {
-    "title": "AI Chip Market Sees Rapid Growth as Demand for AI Hardware Rises",
-    "description": "The AI chip market is seeing massive growth as more companies invest in hardware to support their AI operations. This trend signifies the increasing integration of AI in various industries.",
+    "title": "New AI Tool Streamlines Software Development",
+    "description": "A newly released AI tool is set to streamline software development, allowing developers to produce high-quality code more efficiently. The tool uses machine learning to automate parts of the coding process.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 29, 2022",
-    "category": "Technology"
+    "source": "The Verge",
+    "date": "March 27, 2023",
+    "category": "Tools"
   }
 ];
