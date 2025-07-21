@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Predicts Climate Change Patterns with Unprecedented Accuracy",
-    "description": "Scientists have developed an AI model capable of predicting climate change patterns with a degree of accuracy never seen before. This breakthrough could greatly aid in the global fight against climate change.",
+    "title": "AI Breaks New Ground in Disease Prediction",
+    "description": "Researchers have developed an AI model capable of predicting the progression of genetic diseases. This breakthrough could revolutionize the medical field, enabling more accurate diagnostics and personalized treatment plans.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "March 27, 2023",
+    "source": "The New York Times",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Drones Assisting in Wildlife Conservation Efforts",
-    "description": "AI technology is being used to power drones that can effectively monitor wildlife populations. This innovative approach promises to revolutionize the field of wildlife conservation.",
+    "title": "Major Tech Firm Launches AI-Based Customer Service Tool",
+    "description": "A leading tech firm has launched an AI-powered tool aimed at improving customer service experiences. The tool utilizes machine learning algorithms to predict customer needs and provide personalized responses.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "March 27, 2023",
+    "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-up Raises $100M To Develop Next Generation AI Tools",
-    "description": "A new AI start-up has successfully raised $100M in funding to develop cutting-edge AI tools. The firm aims to accelerate the implementation of AI across various industries.",
+    "title": "AI Start-Up Secures $100M in Funding",
+    "description": "An AI start-up, specializing in autonomous driving technology, has just secured $100 million in Series B funding. This investment underscores the growing interest in AI-driven technologies in the automotive industry.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "March 27, 2023",
+    "source": "Forbes",
+    "date": "September 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Proposed Legislation to Regulate AI Ethics",
-    "description": "A new legislation proposal seeks to establish a regulatory framework around AI ethics. The proposal aims to protect consumer data and promote transparency in AI development.",
+    "title": "New Guidelines Push for Ethical AI Development",
+    "description": "In light of recent controversies, a group of researchers and policy makers have released new guidelines for ethical AI development. The guidelines emphasize transparency, accountability, and the avoidance of bias in AI systems.",
     "url": "#",
     "source": "The Guardian",
-    "date": "March 27, 2023",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Software Development",
-    "description": "A newly released AI tool is set to streamline software development, allowing developers to produce high-quality code more efficiently. The tool uses machine learning to automate parts of the coding process.",
+    "title": "AI Tool Streamlines Data Analysis",
+    "description": "A newly released AI tool promises to streamline data analysis, making it more accessible to non-tech professionals. The tool uses machine learning algorithms to automate complex data processing tasks.",
     "url": "#",
-    "source": "The Verge",
-    "date": "March 27, 2023",
+    "source": "Business Insider",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
