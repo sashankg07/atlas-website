@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Neural Networks Predict Natural Disasters",
-    "description": "Researchers have developed a new AI system capable of predicting natural disasters. Utilizing neural networks, it may revolutionize the disaster management sector.",
+    "title": "AI Helps Scientists Understand Climate Change Impacts",
+    "description": "Researchers have begun using artificial intelligence to better understand the impacts of climate change. The AI models simulate and predict climate patterns with unprecedented accuracy.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "November 30, 2021",
+    "source": "Nature",
+    "date": "October 31, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Healthcare: Revolutionizing Early Disease Detection",
-    "description": "Artificial intelligence is transforming the healthcare sector with its potential for early disease detection. Innovations in AI algorithms are making it possible to diagnose conditions before they become severe.",
+    "title": "Revolutionizing Healthcare: AI's Role in Disease Prediction",
+    "description": "AI is playing a critical role in early disease detection and prediction, transforming the healthcare industry. With machine learning algorithms, doctors can now predict disease progression and tailor treatments accordingly.",
     "url": "#",
-    "source": "AI Today",
-    "date": "November 30, 2021",
+    "source": "The New York Times",
+    "date": "October 31, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $50M for AI-Powered Customer Service",
-    "description": "A new AI startup has raised $50M in series B funding. The company uses AI to enhance customer service, promising a more efficient and personalized experience for users.",
+    "title": "Tech Giants Invest Heavily in AI Development",
+    "description": "Major technology companies like Google, Apple, and Microsoft are investing billions in artificial intelligence research and development. AI is expected to drive the next wave of technological innovation.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 30, 2021",
+    "source": "Bloomberg",
+    "date": "October 31, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethics of AI: Balancing Privacy and Innovation",
-    "description": "As AI continues to evolve, so do concerns about privacy. Experts are grappling with how to strike a balance between AI innovation and the need to protect individual privacy.",
+    "title": "Ethical Considerations in AI: A Rising Concern",
+    "description": "As AI becomes more integrated into daily life, ethical considerations are coming to the forefront. Experts call for regulations to address potential biases and privacy concerns.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 30, 2021",
+    "date": "October 31, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool: Transforming Data Analysis",
-    "description": "A new AI tool promises to revolutionize data analysis. The tool uses machine learning algorithms to analyze and interpret large data sets more efficiently and accurately.",
+    "title": "AI Tools Transforming the Creative Industry",
+    "description": "Artificial Intelligence tools are reshaping the creative industry, from graphic design to music production. These tools offer enhanced capabilities and open new avenues for creativity.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 30, 2021",
+    "source": "Forbes",
+    "date": "October 31, 2021",
     "category": "Tools"
   }
 ];
