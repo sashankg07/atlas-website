@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Helps Scientists Understand Climate Change Impacts",
-    "description": "Researchers have begun using artificial intelligence to better understand the impacts of climate change. The AI models simulate and predict climate patterns with unprecedented accuracy.",
+    "title": "AI Breaks New Ground in Predicting Alzheimer’s",
+    "description": "A recent breakthrough in artificial intelligence has led to the development of an AI model capable of predicting Alzheimer's disease years before clinical diagnosis. This could revolutionize early treatment approaches and patient care.",
     "url": "#",
     "source": "Nature",
-    "date": "October 31, 2021",
+    "date": "October 31, 2022",
     "category": "Research"
   },
   {
-    "title": "Revolutionizing Healthcare: AI's Role in Disease Prediction",
-    "description": "AI is playing a critical role in early disease detection and prediction, transforming the healthcare industry. With machine learning algorithms, doctors can now predict disease progression and tailor treatments accordingly.",
+    "title": "AI-Powered Drones Take Flight for Environmental Monitoring",
+    "description": "In a bid to combat climate change, scientists have developed AI-powered drones capable of monitoring environmental changes. These drones can track and analyze data more efficiently than human-led methods.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 31, 2021",
+    "source": "The Guardian",
+    "date": "October 31, 2022",
     "category": "Technology"
   },
   {
-    "title": "Tech Giants Invest Heavily in AI Development",
-    "description": "Major technology companies like Google, Apple, and Microsoft are investing billions in artificial intelligence research and development. AI is expected to drive the next wave of technological innovation.",
+    "title": "Tech Giants Investing Heavily in AI for Business Expansion",
+    "description": "Several global tech giants are prioritizing investments in artificial intelligence to drive business growth. AI tools like machine learning, data analytics, and predictive modeling are becoming crucial for business strategies.",
     "url": "#",
     "source": "Bloomberg",
-    "date": "October 31, 2021",
+    "date": "October 31, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI: A Rising Concern",
-    "description": "As AI becomes more integrated into daily life, ethical considerations are coming to the forefront. Experts call for regulations to address potential biases and privacy concerns.",
+    "title": "Ethical Concerns Rise Over AI's Role in Military Applications",
+    "description": "As AI technology advances, its application in military and defense operations is raising ethical concerns. Critics stress the need for clear regulations to prevent potential misuse and unintended consequences.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 31, 2021",
+    "source": "The New York Times",
+    "date": "October 31, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools Transforming the Creative Industry",
-    "description": "Artificial Intelligence tools are reshaping the creative industry, from graphic design to music production. These tools offer enhanced capabilities and open new avenues for creativity.",
+    "title": "New AI Tool Revolutionizes Image Recognition",
+    "description": "Researchers have developed a new AI tool that significantly enhances image recognition capabilities. This tool has potential applications in various sectors, including healthcare, surveillance, and autonomous vehicles.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 31, 2021",
+    "source": "MIT Technology Review",
+    "date": "October 31, 2022",
     "category": "Tools"
   }
 ];
