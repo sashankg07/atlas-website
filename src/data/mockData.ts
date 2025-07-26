@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Predicting Alzheimer’s",
-    "description": "A recent breakthrough in artificial intelligence has led to the development of an AI model capable of predicting Alzheimer's disease years before clinical diagnosis. This could revolutionize early treatment approaches and patient care.",
+    "title": "AI Breakthrough: New Algorithm Mimics Human Learning",
+    "description": "Researchers have developed a new artificial intelligence algorithm that simulates the way humans learn, making it possible for AI to understand and solve complex problems even faster.",
     "url": "#",
     "source": "Nature",
-    "date": "October 31, 2022",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Drones Take Flight for Environmental Monitoring",
-    "description": "In a bid to combat climate change, scientists have developed AI-powered drones capable of monitoring environmental changes. These drones can track and analyze data more efficiently than human-led methods.",
+    "title": "AI in Healthcare: A Game-Changer in Disease Prediction",
+    "description": "A recent study reveals that AI can significantly improve disease prediction and prevention, potentially revolutionizing the healthcare industry.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 31, 2022",
+    "source": "The Lancet",
+    "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giants Investing Heavily in AI for Business Expansion",
-    "description": "Several global tech giants are prioritizing investments in artificial intelligence to drive business growth. AI tools like machine learning, data analytics, and predictive modeling are becoming crucial for business strategies.",
+    "title": "Tech Giant Launches AI-Powered Business Intelligence Tools",
+    "description": "A tech giant has recently launched a suite of AI-powered business intelligence tools aimed at transforming data analysis and decision-making for businesses worldwide.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "October 31, 2022",
+    "source": "TechCrunch",
+    "date": "September 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Rise Over AI's Role in Military Applications",
-    "description": "As AI technology advances, its application in military and defense operations is raising ethical concerns. Critics stress the need for clear regulations to prevent potential misuse and unintended consequences.",
+    "title": "AI Ethics: Call for Regulation in Facial Recognition Tech",
+    "description": "In the wake of recent controversies, experts are calling for stricter regulations on facial recognition technology to prevent misuse and uphold privacy rights.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 31, 2022",
+    "source": "The Guardian",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Revolutionizes Image Recognition",
-    "description": "Researchers have developed a new AI tool that significantly enhances image recognition capabilities. This tool has potential applications in various sectors, including healthcare, surveillance, and autonomous vehicles.",
+    "title": "AI Tool Transforms Text into Realistic Speech",
+    "description": "A new AI tool has the capability to transform written text into realistic speech, opening up new possibilities in accessibility and communication technology.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 31, 2022",
+    "source": "Wired",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
