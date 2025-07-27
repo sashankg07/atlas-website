@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Algorithm Mimics Human Learning",
-    "description": "Researchers have developed a new artificial intelligence algorithm that simulates the way humans learn, making it possible for AI to understand and solve complex problems even faster.",
+    "title": "New AI Model Predicts Climate Change Impact More Accurately",
+    "description": "Researchers have developed an innovative AI model that predicts the impacts of climate change with unprecedented accuracy. The model outperforms traditional methods, providing more precise predictions and opening new avenues for climate change mitigation.",
     "url": "#",
     "source": "Nature",
-    "date": "September 30, 2021",
+    "date": "September 27, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Healthcare: A Game-Changer in Disease Prediction",
-    "description": "A recent study reveals that AI can significantly improve disease prediction and prevention, potentially revolutionizing the healthcare industry.",
+    "title": "AI-Powered Cybersecurity System Could Revolutionize Online Safety",
+    "description": "A groundbreaking AI-powered cybersecurity system has been unveiled, boasting an ability to detect and neutralize threats in real-time. This advancement could significantly enhance online safety and data protection.",
     "url": "#",
-    "source": "The Lancet",
-    "date": "September 30, 2021",
+    "source": "The New York Times",
+    "date": "September 27, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Launches AI-Powered Business Intelligence Tools",
-    "description": "A tech giant has recently launched a suite of AI-powered business intelligence tools aimed at transforming data analysis and decision-making for businesses worldwide.",
+    "title": "Big Tech Investing Heavily in AI to Streamline Operations",
+    "description": "Major tech companies are investing billions in AI to optimize their operations and deliver enhanced services. This trend indicates a widespread recognition of AI's transformative potential in the business sector.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2021",
+    "source": "Business Insider",
+    "date": "September 27, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Call for Regulation in Facial Recognition Tech",
-    "description": "In the wake of recent controversies, experts are calling for stricter regulations on facial recognition technology to prevent misuse and uphold privacy rights.",
+    "title": "AI Ethics Under Spotlight After Controversial Facial Recognition Decision",
+    "description": "The ethics of AI have been called into question following a controversial decision involving the use of facial recognition technology. The incident has sparked a renewed debate over the need for regulation in the field of AI.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 30, 2021",
+    "date": "September 27, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool Transforms Text into Realistic Speech",
-    "description": "A new AI tool has the capability to transform written text into realistic speech, opening up new possibilities in accessibility and communication technology.",
+    "title": "Revolutionary AI Tools Transforming Video Editing",
+    "description": "New AI tools are revolutionizing the field of video editing, making it more accessible and efficient. These tools leverage machine learning to automate complex tasks, significantly reducing editing time and enabling creators to focus more on the creative process.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 30, 2021",
+    "source": "TechCrunch",
+    "date": "September 27, 2021",
     "category": "Tools"
   }
 ];
