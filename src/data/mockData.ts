@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI System Develops New Antibiotic",
-    "description": "A revolutionary AI system has discovered a new antibiotic. The development marks the first time an AI has been used to uncover a new type of antibiotic, opening up significant potential for combating drug-resistant diseases.",
+    "title": "Groundbreaking AI System Detects Disease Outbreaks Before They Happen",
+    "description": "Scientists have developed an AI system that can predict disease outbreaks weeks before they occur. The novel technology could potentially save millions of lives by allowing for early intervention and treatment.",
     "url": "#",
     "source": "The New York Times",
-    "date": "November 20, 2021",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "Artificial Intelligence: The Key to Climate Change?",
-    "description": "Researchers are using AI to predict the effects of climate change and develop solutions. By analyzing patterns and making predictions, AI could play a crucial role in global climate strategies.",
-    "url": "#",
-    "source": "BBC News",
-    "date": "November 20, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "AI in Business: Boosting Efficiency and Cutting Costs",
-    "description": "Businesses across the globe are leveraging AI to increase efficiency and reduce costs. AI's ability to automate tasks and analyze data is revolutionizing the business landscape.",
+    "title": "Tech Giants Investing Heavily in AI for Cloud Computing",
+    "description": "Major tech companies, including Google and Amazon, are significantly increasing their investments in AI technology to enhance their cloud computing services. These enhancements could revolutionize the way businesses store and manage data.",
     "url": "#",
     "source": "Forbes",
-    "date": "November 20, 2021",
+    "date": "September 30, 2021",
     "category": "Business"
+  },
+  {
+    "title": "AI Tool Revolutionizes Wildlife Conservation Efforts",
+    "description": "A new AI tool has been developed to analyze camera trap images, making it significantly easier for wildlife conservationists to monitor and protect endangered species. The tool can identify species with over 90% accuracy.",
+    "url": "#",
+    "source": "National Geographic",
+    "date": "September 30, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding the Use of AI in Law Enforcement",
-    "description": "Ethicists are raising concerns about the use of AI in law enforcement. Issues range from potential bias in AI algorithms to privacy concerns.",
+    "title": "Ethical Considerations in AI: A Growing Concern",
+    "description": "As AI technology continues to advance, ethical concerns regarding privacy, bias, and decision-making are rising to the forefront of discussions. Experts argue that regulations need to keep pace with technological advancements.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 20, 2021",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Transforming the Medical Field",
-    "description": "Innovative AI tools are being developed for the medical field, enabling faster and more accurate diagnosis. These advancements could revolutionize patient care and the healthcare industry as a whole.",
+    "title": "AI-Powered Tool Streamlines Software Development",
+    "description": "A new AI-powered tool is changing the game in software development by predicting potential bugs before they occur. The tool aims to make the development process more efficient and reduce overall costs.",
     "url": "#",
-    "source": "Medical News Today",
-    "date": "November 20, 2021",
+    "source": "TechCrunch",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
