@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI System Detects Disease Outbreaks Before They Happen",
-    "description": "Scientists have developed an AI system that can predict disease outbreaks weeks before they occur. The novel technology could potentially save millions of lives by allowing for early intervention and treatment.",
+    "title": "Groundbreaking AI Software Transforms Industry Standards",
+    "description": "A revolutionary artificial intelligence software has been developed that radically improves predictive analysis in various industries. The software has shown significant potential in transforming business operations and decision-making processes.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 30, 2021",
+    "source": "TechCrunch",
+    "date": "October 27, 2022",
+    "category": "Technology"
+  },
+  {
+    "title": "New Study Reveals AI's Potential in Climate Change Mitigation",
+    "description": "Recent research demonstrates the significant role that AI can play in predicting and mitigating the effects of climate change. The study shows how machine learning can accurately model climate patterns and provide actionable insights.",
+    "url": "#",
+    "source": "Nature",
+    "date": "October 27, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Investing Heavily in AI for Cloud Computing",
-    "description": "Major tech companies, including Google and Amazon, are significantly increasing their investments in AI technology to enhance their cloud computing services. These enhancements could revolutionize the way businesses store and manage data.",
+    "title": "Unprecedented Investment in AI Startups Amidst Pandemic",
+    "description": "Despite global economic uncertainty, AI startups have seen an unprecedented surge in investments. This trend underscores the increasing reliance of businesses on AI-driven solutions amidst the ongoing pandemic.",
     "url": "#",
     "source": "Forbes",
-    "date": "September 30, 2021",
+    "date": "October 27, 2022",
     "category": "Business"
-  },
-  {
-    "title": "AI Tool Revolutionizes Wildlife Conservation Efforts",
-    "description": "A new AI tool has been developed to analyze camera trap images, making it significantly easier for wildlife conservationists to monitor and protect endangered species. The tool can identify species with over 90% accuracy.",
-    "url": "#",
-    "source": "National Geographic",
-    "date": "September 30, 2021",
-    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI: A Growing Concern",
-    "description": "As AI technology continues to advance, ethical concerns regarding privacy, bias, and decision-making are rising to the forefront of discussions. Experts argue that regulations need to keep pace with technological advancements.",
+    "title": "Ethical Concerns Surrounding AI in Healthcare",
+    "description": "As AI becomes increasingly integrated into healthcare, questions regarding patient data privacy and algorithmic bias are being raised. Experts call for stringent regulations to address these ethical concerns.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 30, 2021",
+    "date": "October 27, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI-Powered Tool Streamlines Software Development",
-    "description": "A new AI-powered tool is changing the game in software development by predicting potential bugs before they occur. The tool aims to make the development process more efficient and reduce overall costs.",
+    "title": "New AI Tools Transforming Remote Learning",
+    "description": "The boom in remote learning has led to the development of innovative AI tools designed to enhance virtual education. These tools aim to personalize the learning experience and increase student engagement.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2021",
+    "source": "EdTech Magazine",
+    "date": "October 27, 2022",
     "category": "Tools"
   }
 ];
