@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Software Transforms Industry Standards",
-    "description": "A revolutionary artificial intelligence software has been developed that radically improves predictive analysis in various industries. The software has shown significant potential in transforming business operations and decision-making processes.",
+    "title": "Revolutionizing Healthcare with AI-Powered Diagnostics",
+    "description": "New advancements in AI are set to transform the medical field by introducing AI-powered diagnostic tools that can detect diseases with greater accuracy. This breakthrough could significantly reduce the time taken for diagnoses and treatment initiation.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 27, 2022",
-    "category": "Technology"
-  },
-  {
-    "title": "New Study Reveals AI's Potential in Climate Change Mitigation",
-    "description": "Recent research demonstrates the significant role that AI can play in predicting and mitigating the effects of climate change. The study shows how machine learning can accurately model climate patterns and provide actionable insights.",
-    "url": "#",
-    "source": "Nature",
-    "date": "October 27, 2022",
+    "source": "The New York Times",
+    "date": "September 29, 2021",
     "category": "Research"
   },
   {
-    "title": "Unprecedented Investment in AI Startups Amidst Pandemic",
-    "description": "Despite global economic uncertainty, AI startups have seen an unprecedented surge in investments. This trend underscores the increasing reliance of businesses on AI-driven solutions amidst the ongoing pandemic.",
+    "title": "AI to Aid in Climate Change Mitigation",
+    "description": "Researchers are leveraging AI technologies to understand and mitigate the impacts of climate change. AI models are being used to predict environmental patterns and develop efficient strategies for reducing greenhouse gas emissions.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 27, 2022",
+    "source": "The Guardian",
+    "date": "September 29, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Startups Attract Billions in Investments",
+    "description": "AI startups are experiencing record levels of investments, underlining the growing importance of AI in the global economy. This trend points to an accelerated adoption of AI technologies across various industries.",
+    "url": "#",
+    "source": "Financial Times",
+    "date": "September 29, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding AI in Healthcare",
-    "description": "As AI becomes increasingly integrated into healthcare, questions regarding patient data privacy and algorithmic bias are being raised. Experts call for stringent regulations to address these ethical concerns.",
+    "title": "Addressing Ethical Concerns in AI: A Call for Transparency",
+    "description": "As AI technologies gain prominence, the need for ethical guidelines and transparency continues to grow. Experts are calling for more efforts to address bias, fairness, and accountability in AI applications.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 27, 2022",
+    "source": "MIT Technology Review",
+    "date": "September 29, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Transforming Remote Learning",
-    "description": "The boom in remote learning has led to the development of innovative AI tools designed to enhance virtual education. These tools aim to personalize the learning experience and increase student engagement.",
+    "title": "New AI Tools Promise to Streamline Business Operations",
+    "description": "A wave of new AI tools designed to automate and streamline business operations is hitting the market. These tools promise to enhance productivity, improve decision-making, and empower businesses to deliver better customer experiences.",
     "url": "#",
-    "source": "EdTech Magazine",
-    "date": "October 27, 2022",
+    "source": "Business Insider",
+    "date": "September 29, 2021",
     "category": "Tools"
   }
 ];
