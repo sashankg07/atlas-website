@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare with AI-Powered Diagnostics",
-    "description": "New advancements in AI are set to transform the medical field by introducing AI-powered diagnostic tools that can detect diseases with greater accuracy. This breakthrough could significantly reduce the time taken for diagnoses and treatment initiation.",
+    "title": "AI Revolutionizes Cancer Detection Techniques",
+    "description": "Recent advancements in AI have led to the development of new, highly accurate methods for detecting cancer. These AI-based systems can analyze medical images with an accuracy rate higher than that of human experts.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 29, 2021",
+    "source": "Nature",
+    "date": "November 04, 2021",
     "category": "Research"
   },
   {
-    "title": "AI to Aid in Climate Change Mitigation",
-    "description": "Researchers are leveraging AI technologies to understand and mitigate the impacts of climate change. AI models are being used to predict environmental patterns and develop efficient strategies for reducing greenhouse gas emissions.",
+    "title": "Tech Giants Deploy AI to Combat Climate Change",
+    "description": "Leading technology companies are leveraging AI to address climate change. Machine learning models are being developed to predict, adapt, and mitigate the effects of this global crisis.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 29, 2021",
+    "date": "November 04, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startups Attract Billions in Investments",
-    "description": "AI startups are experiencing record levels of investments, underlining the growing importance of AI in the global economy. This trend points to an accelerated adoption of AI technologies across various industries.",
+    "title": "AI Start-Up Lands Major Investment for Revolutionary Product",
+    "description": "AI-based start-up, AI Innovations, has secured significant funding for its groundbreaking new product. This development signifies a growing confidence in AI's potential in the business sector.",
     "url": "#",
-    "source": "Financial Times",
-    "date": "September 29, 2021",
+    "source": "The Wall Street Journal",
+    "date": "November 04, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Addressing Ethical Concerns in AI: A Call for Transparency",
-    "description": "As AI technologies gain prominence, the need for ethical guidelines and transparency continues to grow. Experts are calling for more efforts to address bias, fairness, and accountability in AI applications.",
+    "title": "The Ethics of AI: Balancing Advancement with Responsibility",
+    "description": "As AI continues to advance rapidly, ethical considerations are increasingly coming into focus. Experts are calling for guidelines to ensure these technologies are developed and used responsibly.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 29, 2021",
+    "source": "The New York Times",
+    "date": "November 04, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Promise to Streamline Business Operations",
-    "description": "A wave of new AI tools designed to automate and streamline business operations is hitting the market. These tools promise to enhance productivity, improve decision-making, and empower businesses to deliver better customer experiences.",
+    "title": "New Open Source Tool Simplifies Machine Learning",
+    "description": "A new open source tool aims to make machine learning more accessible. It simplifies complex processes, enabling more people to benefit from AI technology.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 29, 2021",
+    "source": "TechCrunch",
+    "date": "November 04, 2021",
     "category": "Tools"
   }
 ];
