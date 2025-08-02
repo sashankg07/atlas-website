@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Cancer Detection Techniques",
-    "description": "Recent advancements in AI have led to the development of new, highly accurate methods for detecting cancer. These AI-based systems can analyze medical images with an accuracy rate higher than that of human experts.",
+    "title": "AI Revolutionizes Medical Diagnostics",
+    "description": "A breakthrough in AI technology has empowered computers to diagnose medical conditions with unprecedented accuracy. This development could lead to significant improvements in healthcare delivery worldwide.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 04, 2021",
-    "category": "Research"
-  },
-  {
-    "title": "Tech Giants Deploy AI to Combat Climate Change",
-    "description": "Leading technology companies are leveraging AI to address climate change. Machine learning models are being developed to predict, adapt, and mitigate the effects of this global crisis.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "November 04, 2021",
+    "source": "The New York Times",
+    "date": "October 04, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Start-Up Lands Major Investment for Revolutionary Product",
-    "description": "AI-based start-up, AI Innovations, has secured significant funding for its groundbreaking new product. This development signifies a growing confidence in AI's potential in the business sector.",
+    "title": "New AI Algorithm Optimizes E-commerce Logistics",
+    "description": "A cutting-edge AI algorithm has been developed to streamline logistics in the e-commerce industry. This innovative tool promises to significantly reduce delivery times and improve customer satisfaction.",
     "url": "#",
     "source": "The Wall Street Journal",
-    "date": "November 04, 2021",
+    "date": "October 04, 2022",
     "category": "Business"
+  },
+  {
+    "title": "AI Pioneer Awarded Turing Award",
+    "description": "A leading figure in the field of artificial intelligence has been awarded the prestigious Turing Award. Their groundbreaking research has pushed the boundaries of AI capabilities.",
+    "url": "#",
+    "source": "Nature",
+    "date": "October 04, 2022",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethics of AI: Balancing Advancement with Responsibility",
-    "description": "As AI continues to advance rapidly, ethical considerations are increasingly coming into focus. Experts are calling for guidelines to ensure these technologies are developed and used responsibly.",
+    "title": "Ethical Concerns Surround AI Facial Recognition",
+    "description": "Growing concerns about the ethics of AI facial recognition technology have sparked a global conversation. Critics argue that the technology is prone to abuse and infringes on privacy rights.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 04, 2021",
+    "source": "The Guardian",
+    "date": "October 04, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New Open Source Tool Simplifies Machine Learning",
-    "description": "A new open source tool aims to make machine learning more accessible. It simplifies complex processes, enabling more people to benefit from AI technology.",
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "A novel AI tool can now predict the impact of climate change with remarkable precision. This new technology could play a crucial role in environmental planning and conservation efforts.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 04, 2021",
+    "source": "BBC News",
+    "date": "October 04, 2022",
     "category": "Tools"
   }
 ];
