@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Medical Diagnostics",
-    "description": "A breakthrough in AI technology has empowered computers to diagnose medical conditions with unprecedented accuracy. This development could lead to significant improvements in healthcare delivery worldwide.",
+    "title": "AI Outperforms Humans in Birdsong Recognition",
+    "description": "Researchers have developed an AI algorithm that can identify individual birds from their songs with greater accuracy than any human. The breakthrough could have significant implications for ecological studies.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 04, 2022",
+    "source": "Nature",
+    "date": "October 12, 2021",
+    "category": "Research"
+  },
+  {
+    "title": "Tech Giant Unveils Next-Gen AI Processor",
+    "description": "A leading technology company has unveiled their newest AI processor. Promising lightning-fast processing speeds, it is set to revolutionize AI computing.",
+    "url": "#",
+    "source": "TechCrunch",
+    "date": "October 12, 2021",
     "category": "Technology"
   },
   {
-    "title": "New AI Algorithm Optimizes E-commerce Logistics",
-    "description": "A cutting-edge AI algorithm has been developed to streamline logistics in the e-commerce industry. This innovative tool promises to significantly reduce delivery times and improve customer satisfaction.",
+    "title": "AI Start-Up Scoops $100 Million in Funding",
+    "description": "A promising AI startup has secured $100 million in Series A funding. The company specializes in AI-driven customer service solutions.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "October 04, 2022",
+    "source": "Forbes",
+    "date": "October 12, 2021",
     "category": "Business"
-  },
-  {
-    "title": "AI Pioneer Awarded Turing Award",
-    "description": "A leading figure in the field of artificial intelligence has been awarded the prestigious Turing Award. Their groundbreaking research has pushed the boundaries of AI capabilities.",
-    "url": "#",
-    "source": "Nature",
-    "date": "October 04, 2022",
-    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surround AI Facial Recognition",
-    "description": "Growing concerns about the ethics of AI facial recognition technology have sparked a global conversation. Critics argue that the technology is prone to abuse and infringes on privacy rights.",
+    "title": "New Ethical Guidelines for AI Proposed",
+    "description": "A group of respected AI researchers have proposed new ethical guidelines for AI development and use. The guidelines aim to address issues such as bias and fairness.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 04, 2022",
+    "source": "Science Daily",
+    "date": "October 12, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Impact",
-    "description": "A novel AI tool can now predict the impact of climate change with remarkable precision. This new technology could play a crucial role in environmental planning and conservation efforts.",
+    "title": "Cutting-Edge AI Tool Streamlines Data Analysis",
+    "description": "A new AI tool has been developed that can significantly streamline data analysis. The tool uses machine learning algorithms to automate and optimize data processing tasks.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 04, 2022",
+    "source": "MIT Technology Review",
+    "date": "October 12, 2021",
     "category": "Tools"
   }
 ];
