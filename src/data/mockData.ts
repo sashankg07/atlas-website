@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Birdsong Recognition",
-    "description": "Researchers have developed an AI algorithm that can identify individual birds from their songs with greater accuracy than any human. The breakthrough could have significant implications for ecological studies.",
+    "title": "AI Breakthrough: Quantum Computing Meets Artificial Intelligence",
+    "description": "Researchers have developed a new quantum algorithm that significantly improves the speed of complex computations, paving the way for advancements in artificial intelligence. This could usher in a new era of quantum-AI hybrid systems.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 12, 2021",
+    "source": "The AI Times",
+    "date": "November 14, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Next-Gen AI Processor",
-    "description": "A leading technology company has unveiled their newest AI processor. Promising lightning-fast processing speeds, it is set to revolutionize AI computing.",
+    "title": "AI-driven Chatbots Revolutionize Customer Service",
+    "description": "Businesses worldwide are leveraging AI-powered chatbots to streamline their customer service. The technology not only improves efficiency but also ensures a personalized experience for customers.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 12, 2021",
-    "category": "Technology"
+    "source": "Business AI Weekly",
+    "date": "November 14, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI Start-Up Scoops $100 Million in Funding",
-    "description": "A promising AI startup has secured $100 million in Series A funding. The company specializes in AI-driven customer service solutions.",
+    "title": "Ethics of AI: Addressing Bias in Machine Learning",
+    "description": "As AI systems become more prevalent, so do concerns about embedded biases. Experts call for more transparent algorithms to ensure fairness and prevent discrimination in AI applications.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 12, 2021",
-    "category": "Business"
+    "source": "AI Ethics Journal",
+    "date": "November 14, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Ethical Guidelines for AI Proposed",
-    "description": "A group of respected AI researchers have proposed new ethical guidelines for AI development and use. The guidelines aim to address issues such as bias and fairness.",
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "A groundbreaking AI tool can now predict the potential impacts of climate change with remarkable accuracy. This tool will help scientists and policymakers create effective strategies for climate action.",
     "url": "#",
     "source": "Science Daily",
-    "date": "October 12, 2021",
-    "category": "Ethics"
+    "date": "November 14, 2021",
+    "category": "Tools"
   },
   {
-    "title": "Cutting-Edge AI Tool Streamlines Data Analysis",
-    "description": "A new AI tool has been developed that can significantly streamline data analysis. The tool uses machine learning algorithms to automate and optimize data processing tasks.",
+    "title": "AI in Healthcare: Revolutionizing Disease Diagnosis",
+    "description": "AI technology is transforming the healthcare sector by enabling faster and more accurate disease diagnosis. This could significantly improve patient outcomes and reduce healthcare costs.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 12, 2021",
-    "category": "Tools"
+    "source": "Medical AI News",
+    "date": "November 14, 2021",
+    "category": "Technology"
   }
 ];
