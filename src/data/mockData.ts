@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Quantum Computing Meets Artificial Intelligence",
-    "description": "Researchers have developed a new quantum algorithm that significantly improves the speed of complex computations, paving the way for advancements in artificial intelligence. This could usher in a new era of quantum-AI hybrid systems.",
+    "title": "AI Breaks New Ground in Predicting Alzheimer's",
+    "description": "Artificial intelligence has achieved a major breakthrough in predicting Alzheimer's years before symptoms appear. This could revolutionize early detection and treatment strategies.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "November 14, 2021",
+    "source": "The New York Times",
+    "date": "February 14, 2023",
     "category": "Research"
   },
   {
-    "title": "AI-driven Chatbots Revolutionize Customer Service",
-    "description": "Businesses worldwide are leveraging AI-powered chatbots to streamline their customer service. The technology not only improves efficiency but also ensures a personalized experience for customers.",
+    "title": "AI-Driven Robots Join Warehouse Workforce",
+    "description": "In a recent technological advancement, AI-powered robots are being used in warehouses to increase efficiency and productivity, shaping the future of the logistics industry.",
     "url": "#",
-    "source": "Business AI Weekly",
-    "date": "November 14, 2021",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "February 14, 2023",
+    "category": "Technology"
   },
   {
-    "title": "Ethics of AI: Addressing Bias in Machine Learning",
-    "description": "As AI systems become more prevalent, so do concerns about embedded biases. Experts call for more transparent algorithms to ensure fairness and prevent discrimination in AI applications.",
+    "title": "AI Start-Up Raises $100M in Series B Funding",
+    "description": "AI start-up, Neuralink, has secured $100 million in its recent Series B funding round. The funds will be used to accelerate the development of advanced AI solutions.",
     "url": "#",
-    "source": "AI Ethics Journal",
-    "date": "November 14, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "February 14, 2023",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Predicts Climate Change Impact",
-    "description": "A groundbreaking AI tool can now predict the potential impacts of climate change with remarkable accuracy. This tool will help scientists and policymakers create effective strategies for climate action.",
+    "title": "Ethical Guidelines for AI Use in Healthcare Released",
+    "description": "A set of ethical guidelines for the use of AI in healthcare has been released, aiming to ensure the responsible use of technology while maximizing its benefits.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "November 14, 2021",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "February 14, 2023",
+    "category": "Ethics"
   },
   {
-    "title": "AI in Healthcare: Revolutionizing Disease Diagnosis",
-    "description": "AI technology is transforming the healthcare sector by enabling faster and more accurate disease diagnosis. This could significantly improve patient outcomes and reduce healthcare costs.",
+    "title": "Google Launches New AI Development Tools",
+    "description": "Google has launched a set of new AI development tools aimed at making AI accessible to developers with varying expertise levels, democratizing the field.",
     "url": "#",
-    "source": "Medical AI News",
-    "date": "November 14, 2021",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "February 14, 2023",
+    "category": "Tools"
   }
 ];
