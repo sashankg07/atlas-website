@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Detects Heart Disease in Record Time",
-    "description": "Researchers have developed an AI model that can diagnose heart disease faster and more accurately than ever before. This breakthrough has the potential to revolutionize healthcare diagnostics.",
+    "title": "AI Revolutionizes Healthcare with Predictive Analysis",
+    "description": "Recent advancements in AI technologies have enabled predictive analysis in the healthcare sector, promising a significant improvement in patient care and disease prediction. This breakthrough has the potential to revolutionize the global healthcare industry.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "July 14, 2022",
-    "category": "Research"
-  },
-  {
-    "title": "AI Beats Humans at Chess and Now Poker",
-    "description": "A new artificial intelligence program developed by DeepMind has defeated world-class poker players in a series of matches, showcasing the impressive strategic capabilities of AI.",
-    "url": "#",
-    "source": "BBC",
-    "date": "July 14, 2022",
+    "source": "The AI Times",
+    "date": "December 01, 2021",
     "category": "Technology"
   },
   {
-    "title": "Microsoft Acquires AI Startup to Boost Cloud Services",
-    "description": "Microsoft has acquired an AI startup, aiming to enhance its cloud services with the company's machine learning expertise. This move is expected to fuel the AI race among tech giants.",
+    "title": "Artificial Intelligence to Drive Future Business Strategies",
+    "description": "As companies worldwide adapt to the digital era, AI emerges as a key driver in shaping business strategies. The integration of AI in business operations is proving to be a game-changer, providing businesses with a competitive edge.",
     "url": "#",
-    "source": "Forbes",
-    "date": "July 14, 2022",
+    "source": "Business Insider",
+    "date": "December 01, 2021",
     "category": "Business"
+  },
+  {
+    "title": "AI Ethics: Ensuring Fairness and Transparency",
+    "description": "As AI becomes pervasive in our daily lives, the importance of AI ethics comes into focus. Recent discussions revolve around the need for transparency and fairness in AI systems to prevent bias and discrimination.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "December 01, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Dilemma of AI in Surveillance",
-    "description": "Amid growing concerns over privacy, the use of AI in surveillance is sparking ethical debates. Experts call for stricter regulations to prevent misuse and protect individual privacy.",
+    "title": "New Research into Explainable AI Unveiled",
+    "description": "In the pursuit of transparency in AI systems, researchers have unveiled new insights into explainable AI. This research aims to make AI decisions more transparent and understandable to humans.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "July 14, 2022",
-    "category": "Ethics"
+    "source": "Nature",
+    "date": "December 01, 2021",
+    "category": "Research"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Effects",
-    "description": "A novel AI tool has been unveiled that can predict the effects of climate change, providing valuable insights for scientists and policymakers. The tool utilizes advanced machine learning algorithms to simulate various climate scenarios.",
+    "title": "AI Tools Transforming the Landscape of Data Analysis",
+    "description": "The introduction of AI-based tools in data analysis is transforming the way businesses interpret and use data. These tools promise to deliver more accurate and faster insights, driving smarter business decisions.",
     "url": "#",
-    "source": "Scientific American",
-    "date": "July 14, 2022",
+    "source": "TechCrunch",
+    "date": "December 01, 2021",
     "category": "Tools"
   }
 ];
