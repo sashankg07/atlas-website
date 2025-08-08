@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Healthcare with Predictive Analysis",
-    "description": "Recent advancements in AI technologies have enabled predictive analysis in the healthcare sector, promising a significant improvement in patient care and disease prediction. This breakthrough has the potential to revolutionize the global healthcare industry.",
+    "title": "Revolutionizing Healthcare: AI Predicts Heart Attacks with Unprecedented Accuracy",
+    "description": "A new AI model outperforms traditional methods in predicting heart attacks. Its groundbreaking accuracy could revolutionize patient care and save countless lives.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "December 01, 2021",
+    "source": "The New York Times",
+    "date": "September 06, 2022",
+    "category": "Research"
+  },
+  {
+    "title": "AI in Education: The Future of Learning is Here",
+    "description": "AI-powered edtech is transforming how students learn, offering personalized curriculums and real-time feedback. This may be the dawn of a new era in education.",
+    "url": "#",
+    "source": "TechCrunch",
+    "date": "September 06, 2022",
     "category": "Technology"
   },
   {
-    "title": "Artificial Intelligence to Drive Future Business Strategies",
-    "description": "As companies worldwide adapt to the digital era, AI emerges as a key driver in shaping business strategies. The integration of AI in business operations is proving to be a game-changer, providing businesses with a competitive edge.",
+    "title": "Business World Embraces AI: Record Investments in 2022",
+    "description": "AI startups are receiving record-breaking investments, signaling the business world's increasing reliance on artificial intelligence. The trend shows no signs of slowing down.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "December 01, 2021",
+    "source": "The Wall Street Journal",
+    "date": "September 06, 2022",
     "category": "Business"
-  },
-  {
-    "title": "AI Ethics: Ensuring Fairness and Transparency",
-    "description": "As AI becomes pervasive in our daily lives, the importance of AI ethics comes into focus. Recent discussions revolve around the need for transparency and fairness in AI systems to prevent bias and discrimination.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "December 01, 2021",
-    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Research into Explainable AI Unveiled",
-    "description": "In the pursuit of transparency in AI systems, researchers have unveiled new insights into explainable AI. This research aims to make AI decisions more transparent and understandable to humans.",
+    "title": "Debate on AI Ethics Intensifies: The Dilemma of Autonomous Vehicles",
+    "description": "As autonomous vehicles become a reality, the ethical dilemmas they pose are sparking heated debates. The question of who is responsible in the event of an accident remains unanswered.",
     "url": "#",
-    "source": "Nature",
-    "date": "December 01, 2021",
-    "category": "Research"
+    "source": "The Guardian",
+    "date": "September 06, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI Tools Transforming the Landscape of Data Analysis",
-    "description": "The introduction of AI-based tools in data analysis is transforming the way businesses interpret and use data. These tools promise to deliver more accurate and faster insights, driving smarter business decisions.",
+    "title": "New AI Tool Transforms Image Editing",
+    "description": "A new tool uses AI to make image editing more intuitive and efficient. This could change the game for graphic designers and digital artists.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "December 01, 2021",
+    "source": "Wired",
+    "date": "September 06, 2022",
     "category": "Tools"
   }
 ];
