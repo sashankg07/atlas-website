@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Predicts Heart Attacks with Unprecedented Accuracy",
-    "description": "A new AI model outperforms traditional methods in predicting heart attacks. Its groundbreaking accuracy could revolutionize patient care and save countless lives.",
+    "title": "Revolutionizing Medicine with AI: A New Era of Predictive Healthcare",
+    "description": "AI is transforming the medical industry by enabling predictive healthcare, leading to personalized treatment plans and early disease detection. The technology is enhancing patient outcomes while reducing healthcare costs.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 06, 2022",
-    "category": "Research"
-  },
-  {
-    "title": "AI in Education: The Future of Learning is Here",
-    "description": "AI-powered edtech is transforming how students learn, offering personalized curriculums and real-time feedback. This may be the dawn of a new era in education.",
-    "url": "#",
-    "source": "TechCrunch",
-    "date": "September 06, 2022",
+    "source": "MIT Technology Review",
+    "date": "October 23, 2021",
     "category": "Technology"
   },
   {
-    "title": "Business World Embraces AI: Record Investments in 2022",
-    "description": "AI startups are receiving record-breaking investments, signaling the business world's increasing reliance on artificial intelligence. The trend shows no signs of slowing down.",
+    "title": "AI Breakthrough: New Algorithm Learns Without Human Intervention",
+    "description": "Researchers have developed a new AI algorithm capable of learning and improving without human intervention. This breakthrough could have far-reaching implications for autonomous systems of the future.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "September 06, 2022",
+    "source": "Nature",
+    "date": "October 23, 2021",
+    "category": "Research"
+  },
+  {
+    "title": "AI in Business: How AI is Transforming the Retail Industry",
+    "description": "From predictive analytics to personalized customer experiences, AI is reshaping the retail landscape. Businesses are leveraging AI to improve efficiency and customer satisfaction.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "October 23, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Debate on AI Ethics Intensifies: The Dilemma of Autonomous Vehicles",
-    "description": "As autonomous vehicles become a reality, the ethical dilemmas they pose are sparking heated debates. The question of who is responsible in the event of an accident remains unanswered.",
+    "title": "New AI Ethics Guidelines: Balancing Innovation with Responsibility",
+    "description": "As AI continues to evolve, so does the conversation around AI ethics. New guidelines aim to ensure that AI is developed and used in a manner that is accountable, transparent, and respects human rights.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 06, 2022",
+    "date": "October 23, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Image Editing",
-    "description": "A new tool uses AI to make image editing more intuitive and efficient. This could change the game for graphic designers and digital artists.",
+    "title": "AI Tools: Unveiling New AI-Based Design Software",
+    "description": "A new design software powered by AI is set to revolutionize the creative industry. The tool allows designers to generate, customize, and refine designs with previously unattainable speed and precision.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 06, 2022",
+    "source": "Adobe",
+    "date": "October 23, 2021",
     "category": "Tools"
   }
 ];
