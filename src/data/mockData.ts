@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine with AI: A New Era of Predictive Healthcare",
-    "description": "AI is transforming the medical industry by enabling predictive healthcare, leading to personalized treatment plans and early disease detection. The technology is enhancing patient outcomes while reducing healthcare costs.",
-    "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 23, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Breakthrough: New Algorithm Learns Without Human Intervention",
-    "description": "Researchers have developed a new AI algorithm capable of learning and improving without human intervention. This breakthrough could have far-reaching implications for autonomous systems of the future.",
+    "title": "AI Breakthrough: Machine Learning Models Predict Climate Change Impacts",
+    "description": "Researchers have developed a new AI model capable of predicting the environmental impact of climate change with unprecedented accuracy. The AI leverages machine learning algorithms to process vast amounts of climate data.",
     "url": "#",
     "source": "Nature",
-    "date": "October 23, 2021",
+    "date": "December 05, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Business: How AI is Transforming the Retail Industry",
-    "description": "From predictive analytics to personalized customer experiences, AI is reshaping the retail landscape. Businesses are leveraging AI to improve efficiency and customer satisfaction.",
+    "title": "AI Startup Achieves $2 Billion Valuation Amid Rising Interest in AI Solutions",
+    "description": "AI startup, DataRobot, has reached a $2 billion valuation after a successful funding round. The company's rapid growth underscores the increasing demand for AI solutions in business.",
     "url": "#",
     "source": "Forbes",
-    "date": "October 23, 2021",
+    "date": "December 05, 2021",
     "category": "Business"
+  },
+  {
+    "title": "IBM Unveils New AI Designed to Combat Cybersecurity Threats",
+    "description": "IBM has released an advanced AI system designed to identify and combat cybersecurity threats. The AI uses machine learning algorithms to detect anomalies and potential threats in real-time.",
+    "url": "#",
+    "source": "TechCrunch",
+    "date": "December 05, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Ethics Guidelines: Balancing Innovation with Responsibility",
-    "description": "As AI continues to evolve, so does the conversation around AI ethics. New guidelines aim to ensure that AI is developed and used in a manner that is accountable, transparent, and respects human rights.",
+    "title": "Ethical Concerns Raised Over AI's Role in Job Recruitment",
+    "description": "Critics raise ethical concerns over the use of AI in job recruitment, arguing it could lead to biased hiring practices. The debate has sparked conversations about the need for regulatory frameworks in AI.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 23, 2021",
+    "date": "December 05, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools: Unveiling New AI-Based Design Software",
-    "description": "A new design software powered by AI is set to revolutionize the creative industry. The tool allows designers to generate, customize, and refine designs with previously unattainable speed and precision.",
+    "title": "Google Introduces New AI Tool to Improve Web Accessibility",
+    "description": "Google has launched a new AI tool aimed at improving web accessibility for individuals with disabilities. The tool leverages machine learning to convert on-screen text into spoken words.",
     "url": "#",
-    "source": "Adobe",
-    "date": "October 23, 2021",
+    "source": "CNET",
+    "date": "December 05, 2021",
     "category": "Tools"
   }
 ];
