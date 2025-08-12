@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI System Breaks New Ground in Protein Folding Mystery",
-    "description": "Google's DeepMind has made a significant leap in protein folding prediction with their AI system, AlphaFold. This could revolutionize biotechnology and drug discovery.",
+    "title": "AI Breaks New Ground in Disease Prediction",
+    "description": "Researchers have developed an AI model capable of predicting the progression of genetic diseases. This breakthrough could revolutionize personalized medicine and patient care.",
     "url": "#",
-    "source": "Nature News",
-    "date": "September 29, 2022",
+    "source": "Nature",
+    "date": "November 29, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-driven Robots Redefining the Future of Farming",
-    "description": "As the world grapples with food security issues, AI-driven robots are stepping in to transform the future of farming. They are improving crop yield and reducing waste, promising a sustainable future.",
+    "title": "AI Startup Raises $100M for Autonomous Vehicles",
+    "description": "AI startup, AutonomoTech, has just secured $100 million in a series B funding round. The funds will be used to enhance their self-driving technology.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 29, 2022",
-    "category": "Technology"
+    "date": "November 29, 2021",
+    "category": "Business"
   },
   {
-    "title": "Microsoft Acquires AI Startup to Boost Azure Capabilities",
-    "description": "Microsoft continues to bolster its cloud capabilities by acquiring an AI startup specializing in machine learning and data analysis. The move is expected to enhance Azure's AI offerings.",
+    "title": "AI Ethics Under Scrutiny at International Summit",
+    "description": "The role of ethics in AI was the central discussion at the recent International AI Summit. Participants stressed the need for transparency and fairness in AI algorithms.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "September 29, 2022",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "November 29, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surround AI's Role in Hiring Practices",
-    "description": "AI is increasingly being used in hiring practices, leading to concerns about bias and fairness. Experts call for stricter regulations and transparency to ensure ethical use.",
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "Tech company, DataDive, has introduced a new AI tool that simplifies complex data analysis. The tool is expected to expedite decision-making processes in businesses.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 29, 2022",
-    "category": "Ethics"
+    "source": "WIRED",
+    "date": "November 29, 2021",
+    "category": "Tools"
   },
   {
-    "title": "OpenAI Launches New AI Language Model Tools",
-    "description": "OpenAI has released a new set of tools for training AI language models. These tools promise to make AI language training more accessible and efficient.",
+    "title": "Tech Giants Invest in AI for Climate Change Solutions",
+    "description": "Large tech firms, including Google and Microsoft, are investing heavily in AI to find solutions to climate change. These AI models aim to predict and mitigate the effects of global warming.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 29, 2022",
-    "category": "Tools"
+    "source": "The Verge",
+    "date": "November 29, 2021",
+    "category": "Technology"
   }
 ];
