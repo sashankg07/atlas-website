@@ -10,45 +10,45 @@ export interface NewsArticle {
 export const featuredArticles: NewsArticle[] = [
   {
     "title": "AI Breaks New Ground in Disease Prediction",
-    "description": "Researchers have developed an AI model capable of predicting the progression of genetic diseases. This breakthrough could revolutionize personalized medicine and patient care.",
+    "description": "Researchers have developed an AI model that can predict the likelihood of certain diseases in patients more accurately than ever before. This breakthrough could revolutionize healthcare and disease prevention strategies.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 29, 2021",
+    "source": "MIT Technology Review",
+    "date": "October 19, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Startup Raises $100M for Autonomous Vehicles",
-    "description": "AI startup, AutonomoTech, has just secured $100 million in a series B funding round. The funds will be used to enhance their self-driving technology.",
+    "title": "New AI Tool Streamlines Business Processes",
+    "description": "A cutting-edge AI tool has been launched that optimizes business processes by automating mundane tasks. This technology is expected to drive efficiency and productivity in various industries.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 29, 2021",
+    "source": "Business Insider",
+    "date": "October 19, 2021",
     "category": "Business"
   },
   {
-    "title": "AI Ethics Under Scrutiny at International Summit",
-    "description": "The role of ethics in AI was the central discussion at the recent International AI Summit. Participants stressed the need for transparency and fairness in AI algorithms.",
+    "title": "AI Ethics: Balancing Innovation with Responsibility",
+    "description": "The rise of AI has been accompanied by a necessary discussion on ethical implications. Experts are calling for guidelines to ensure responsible and fair use of AI technologies.",
     "url": "#",
-    "source": "BBC News",
-    "date": "November 29, 2021",
+    "source": "The Guardian",
+    "date": "October 19, 2021",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "Tech company, DataDive, has introduced a new AI tool that simplifies complex data analysis. The tool is expected to expedite decision-making processes in businesses.",
-    "url": "#",
-    "source": "WIRED",
-    "date": "November 29, 2021",
-    "category": "Tools"
-  },
-  {
-    "title": "Tech Giants Invest in AI for Climate Change Solutions",
-    "description": "Large tech firms, including Google and Microsoft, are investing heavily in AI to find solutions to climate change. These AI models aim to predict and mitigate the effects of global warming.",
+    "title": "AI Transforming the Landscape of Cybersecurity",
+    "description": "AI is being harnessed to enhance cybersecurity measures by predicting and preventing cyber attacks before they occur. This could potentially save billions in data breach costs.",
     "url": "#",
     "source": "The Verge",
-    "date": "November 29, 2021",
+    "date": "October 19, 2021",
     "category": "Technology"
+  },
+  {
+    "title": "New AI-Powered Tool Simplifies Data Analysis",
+    "description": "A new tool powered by AI is set to make data analysis faster and more accurate. This innovation is expected to have significant impact on how businesses handle and interpret big data.",
+    "url": "#",
+    "source": "Bloomberg",
+    "date": "October 19, 2021",
+    "category": "Tools"
   }
 ];
