@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Disease Prediction",
-    "description": "Researchers have developed an AI model that can predict the likelihood of certain diseases in patients more accurately than ever before. This breakthrough could revolutionize healthcare and disease prevention strategies.",
+    "title": "Revolutionary AI Model Predicts Climate Change Impact",
+    "description": "Researchers have developed a new AI model capable of predicting the impact of climate change with unprecedented accuracy. This innovative tool could help policymakers make more informed decisions about climate action.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 19, 2021",
+    "source": "Nature Journal",
+    "date": "October 29, 2021",
     "category": "Research"
   },
   {
-    "title": "New AI Tool Streamlines Business Processes",
-    "description": "A cutting-edge AI tool has been launched that optimizes business processes by automating mundane tasks. This technology is expected to drive efficiency and productivity in various industries.",
+    "title": "Tech Giant Unveils Next-Gen AI Processor",
+    "description": "A leading tech company has unveiled its latest AI processor, promising unrivalled processing speeds and energy efficiency. This hardware breakthrough is set to supercharge AI applications across industries.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 19, 2021",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "October 29, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics: Balancing Innovation with Responsibility",
-    "description": "The rise of AI has been accompanied by a necessary discussion on ethical implications. Experts are calling for guidelines to ensure responsible and fair use of AI technologies.",
+    "title": "AI Startup Secures Record Investment",
+    "description": "An emerging AI startup has secured record-breaking funding in its latest financing round. The company's unique approach to machine learning is attracting significant interest from prominent investors.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 19, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "October 29, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Transforming the Landscape of Cybersecurity",
-    "description": "AI is being harnessed to enhance cybersecurity measures by predicting and preventing cyber attacks before they occur. This could potentially save billions in data breach costs.",
+    "title": "New Guidelines Released for Ethical AI Development",
+    "description": "A renowned international organization has released comprehensive guidelines for the ethical development and deployment of AI. The guidelines aim to ensure AI technologies respect human rights and democratic values.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 19, 2021",
-    "category": "Technology"
+    "source": "MIT Technology Review",
+    "date": "October 29, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "New AI-Powered Tool Simplifies Data Analysis",
-    "description": "A new tool powered by AI is set to make data analysis faster and more accurate. This innovation is expected to have significant impact on how businesses handle and interpret big data.",
+    "title": "Open-Source AI Tool Streamlines Machine Learning",
+    "description": "A new open-source tool for machine learning has been launched, simplifying the process of training and deploying AI models. This tool aims to democratize access to AI and facilitate its use in a wide range of applications.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "October 19, 2021",
+    "source": "Wired",
+    "date": "October 29, 2021",
     "category": "Tools"
   }
 ];
