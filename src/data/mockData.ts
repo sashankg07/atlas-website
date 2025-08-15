@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Model Predicts Climate Change Impact",
-    "description": "Researchers have developed a new AI model capable of predicting the impact of climate change with unprecedented accuracy. This innovative tool could help policymakers make more informed decisions about climate action.",
+    "title": "AI Models Predict Future of Climate Change",
+    "description": "Researchers have developed a new AI model that can more accurately predict the long-term effects of climate change. This groundbreaking technology is set to revolutionize environmental studies.",
     "url": "#",
-    "source": "Nature Journal",
-    "date": "October 29, 2021",
+    "source": "Nature",
+    "date": "November 06, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Next-Gen AI Processor",
-    "description": "A leading tech company has unveiled its latest AI processor, promising unrivalled processing speeds and energy efficiency. This hardware breakthrough is set to supercharge AI applications across industries.",
+    "title": "Tech Giant Unveils AI-powered Cybersecurity System",
+    "description": "A leading tech company has launched a state-of-the-art cybersecurity system, powered by AI. The system is designed to combat increasing cyber threats with unparalleled efficiency.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 29, 2021",
+    "source": "The Verge",
+    "date": "November 06, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Secures Record Investment",
-    "description": "An emerging AI startup has secured record-breaking funding in its latest financing round. The company's unique approach to machine learning is attracting significant interest from prominent investors.",
+    "title": "AI Transforms Financial Forecasting in Business",
+    "description": "Companies are increasingly turning to AI for financial forecasting, with a new wave of AI-powered tools offering more accurate and timely predictions. This shift is transforming the way businesses plan and make decisions.",
     "url": "#",
     "source": "Forbes",
-    "date": "October 29, 2021",
+    "date": "November 06, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Guidelines Released for Ethical AI Development",
-    "description": "A renowned international organization has released comprehensive guidelines for the ethical development and deployment of AI. The guidelines aim to ensure AI technologies respect human rights and democratic values.",
+    "title": "Ethical Concerns Surrounding AI in Healthcare",
+    "description": "As AI continues to make strides in healthcare, experts are raising ethical concerns. Key issues include data privacy, informed consent, and the potential for bias in AI algorithms.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 29, 2021",
+    "source": "Scientific American",
+    "date": "November 06, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Open-Source AI Tool Streamlines Machine Learning",
-    "description": "A new open-source tool for machine learning has been launched, simplifying the process of training and deploying AI models. This tool aims to democratize access to AI and facilitate its use in a wide range of applications.",
+    "title": "New AI Tools Revolutionize Design Industry",
+    "description": "A new suite of AI tools is revolutionizing the design industry, enabling designers to create more visually stunning and functional designs in less time. The tools leverage machine learning to automate and enhance various design processes.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 29, 2021",
+    "source": "TechCrunch",
+    "date": "November 06, 2021",
     "category": "Tools"
   }
 ];
