@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI System Outperforms Humans in Designing Floorplans",
-    "description": "A new AI system developed by researchers has shown remarkable efficiency in creating functional floorplans, surpassing human architects in speed and effectiveness. The system leverages deep learning to optimize space usage in architectural designs.",
+    "title": "AI Breakthrough: Elon Musk's Neuralink Successfully Tests Brain Chip in a Monkey",
+    "description": "Elon Musk's Neuralink has successfully tested a prototype of its brain implant device in a monkey, paving the way for human trials. The device could potentially help people with neurological conditions and disabilities.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "October 03, 2022",
+    "source": "The Verge",
+    "date": "September 30, 2022",
+    "category": "Technology"
+  },
+  {
+    "title": "DeepMind Unveils Latest AI Model Capable of Predicting Climate Change Patterns",
+    "description": "DeepMind has revealed a new AI model capable of predicting climate change patterns with unprecedented accuracy. The breakthrough could inform future environmental policies and strategies.",
+    "url": "#",
+    "source": "Nature",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Face Ethical Dilemmas Over AI Use",
-    "description": "Amid growing concerns around the ethical use of AI, major tech companies face increasing pressure to ensure their technology respects user privacy and promotes fair practices. Critics argue for stronger regulations and transparency.",
+    "title": "Microsoft's New AI Tool Helps Businesses Optimize Energy Efficiency",
+    "description": "Microsoft has launched a new AI tool that assists businesses in optimizing energy efficiency and reducing carbon emissions. This aligns with the growing trend of technology being used to combat climate change.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 03, 2022",
-    "category": "Ethics"
-  },
-  {
-    "title": "AI-Powered Tools Revolutionize the Healthcare Industry",
-    "description": "AI is driving a digital transformation in healthcare, with new tools helping doctors diagnose diseases, predict patient outcomes, and personalize treatment plans. This revolution promises to improve patient care and operational efficiency.",
-    "url": "#",
-    "source": "Medical News Today",
-    "date": "October 03, 2022",
-    "category": "Technology"
+    "date": "September 30, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Startups Attract Record Investment in Q3 2022",
-    "description": "Investment in AI startups has reached a new high this quarter, with investors showing increased confidence in the potential of AI to disrupt various industries. The funding surge reflects the growing importance of AI in the global economy.",
+    "title": "AI Ethics Under Scrutiny: The Debate Over Facial Recognition Technology",
+    "description": "As facial recognition technology becomes increasingly prevalent, concerns about its ethical implications have sparked a global debate. Critics worry about potential misuse and violations of privacy.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 03, 2022",
-    "category": "Business"
+    "source": "MIT Technology Review",
+    "date": "September 30, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "Demystifying AI: New Tools for Non-Tech Users",
-    "description": "To make AI more accessible, several companies are developing user-friendly tools that require no programming skills. These tools, based on a drag-and-drop interface, allow non-tech users to build AI models for their specific needs.",
+    "title": "Google's Teachable Machine: Democratizing AI With User-Friendly Tools",
+    "description": "Google's Teachable Machine is making AI more accessible, allowing anyone to create machine learning models without coding knowledge. This tool is empowering individuals and businesses to leverage AI in innovative ways.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 03, 2022",
+    "source": "Wired",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
