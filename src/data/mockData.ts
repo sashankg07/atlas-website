@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Elon Musk's Neuralink Successfully Tests Brain Chip in a Monkey",
-    "description": "Elon Musk's Neuralink has successfully tested a prototype of its brain implant device in a monkey, paving the way for human trials. The device could potentially help people with neurological conditions and disabilities.",
+    "title": "Groundbreaking AI Technique Expedites Drug Discovery",
+    "description": "A pioneering AI model has demonstrated the capability of speeding up the process of drug discovery. This development could revolutionize the pharmaceutical industry and healthcare sector.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 30, 2022",
-    "category": "Technology"
-  },
-  {
-    "title": "DeepMind Unveils Latest AI Model Capable of Predicting Climate Change Patterns",
-    "description": "DeepMind has revealed a new AI model capable of predicting climate change patterns with unprecedented accuracy. The breakthrough could inform future environmental policies and strategies.",
-    "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2022",
+    "source": "The AI Times",
+    "date": "October 15, 2021",
     "category": "Research"
   },
   {
-    "title": "Microsoft's New AI Tool Helps Businesses Optimize Energy Efficiency",
-    "description": "Microsoft has launched a new AI tool that assists businesses in optimizing energy efficiency and reducing carbon emissions. This aligns with the growing trend of technology being used to combat climate change.",
+    "title": "AI Technology Set to Revolutionize Climate Change Predictions",
+    "description": "A new AI-powered model capable of providing highly accurate climate change predictions has been unveiled. The model can enhance our ability to prepare for and mitigate the impacts of climate change.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2022",
+    "source": "The AI Journal",
+    "date": "October 15, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Startup Raises Millions to Improve Autonomous Vehicles",
+    "description": "An AI startup has secured millions in funding to enhance the safety and efficiency of autonomous vehicles. The company plans to leverage AI and machine learning to revolutionize transportation.",
+    "url": "#",
+    "source": "AI Business News",
+    "date": "October 15, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Under Scrutiny: The Debate Over Facial Recognition Technology",
-    "description": "As facial recognition technology becomes increasingly prevalent, concerns about its ethical implications have sparked a global debate. Critics worry about potential misuse and violations of privacy.",
+    "title": "Ethical Concerns Raised Over AI Facial Recognition Tools",
+    "description": "Recent developments in AI facial recognition technology have sparked controversies over privacy and bias issues. Experts call for rigorous regulations and ethical guidelines to govern its use.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 30, 2022",
+    "source": "The AI Ethics Weekly",
+    "date": "October 15, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Google's Teachable Machine: Democratizing AI With User-Friendly Tools",
-    "description": "Google's Teachable Machine is making AI more accessible, allowing anyone to create machine learning models without coding knowledge. This tool is empowering individuals and businesses to leverage AI in innovative ways.",
+    "title": "New AI-Powered Tool Simplifies Data Analysis",
+    "description": "A new AI tool promises to make data analysis more accessible for all. The tool uses machine learning to interpret and present data in a user-friendly manner.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 30, 2022",
+    "source": "AI Tech Daily",
+    "date": "October 15, 2021",
     "category": "Tools"
   }
 ];
