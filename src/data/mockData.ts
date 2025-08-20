@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Technique Expedites Drug Discovery",
-    "description": "A pioneering AI model has demonstrated the capability of speeding up the process of drug discovery. This development could revolutionize the pharmaceutical industry and healthcare sector.",
+    "title": "AI Transforms Radiology: A Breakthrough in Cancer Detection",
+    "description": "A new AI model has shown remarkable accuracy in detecting early-stage lung cancer in CT scans, outperforming human radiologists. This development could revolutionize cancer detection and treatment.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "October 15, 2021",
+    "source": "The New Yorker",
+    "date": "November 10, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Technology Set to Revolutionize Climate Change Predictions",
-    "description": "A new AI-powered model capable of providing highly accurate climate change predictions has been unveiled. The model can enhance our ability to prepare for and mitigate the impacts of climate change.",
+    "title": "AI Changing the Landscape of Business Analytics",
+    "description": "Artificial intelligence is transforming business analytics with advanced predictive capabilities and automation. This is enabling businesses to make data-driven decisions more efficiently than ever before.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "October 15, 2021",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "November 10, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI Startup Raises Millions to Improve Autonomous Vehicles",
-    "description": "An AI startup has secured millions in funding to enhance the safety and efficiency of autonomous vehicles. The company plans to leverage AI and machine learning to revolutionize transportation.",
+    "title": "Microsoft Announces New AI Tools for Developers",
+    "description": "Microsoft has unveiled a suite of new AI-powered tools and frameworks for developers, aiming to make AI development more accessible and efficient.",
     "url": "#",
-    "source": "AI Business News",
-    "date": "October 15, 2021",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "November 10, 2021",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Raised Over AI Facial Recognition Tools",
-    "description": "Recent developments in AI facial recognition technology have sparked controversies over privacy and bias issues. Experts call for rigorous regulations and ethical guidelines to govern its use.",
+    "title": "The Future of AI: Ethical Implications and Challenges",
+    "description": "As AI continues to evolve, the ethical implications become more complex. Experts are calling for comprehensive guidelines to ensure the responsible use of AI.",
     "url": "#",
-    "source": "The AI Ethics Weekly",
-    "date": "October 15, 2021",
+    "source": "The Guardian",
+    "date": "November 10, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI-Powered Tool Simplifies Data Analysis",
-    "description": "A new AI tool promises to make data analysis more accessible for all. The tool uses machine learning to interpret and present data in a user-friendly manner.",
+    "title": "AI Revolutionizes Renewable Energy Prediction",
+    "description": "Artificial Intelligence is now being used to predict wind and solar energy production, which could greatly enhance the efficiency of renewable energy sources and combat climate change.",
     "url": "#",
-    "source": "AI Tech Daily",
-    "date": "October 15, 2021",
-    "category": "Tools"
+    "source": "Nature",
+    "date": "November 10, 2021",
+    "category": "Technology"
   }
 ];
