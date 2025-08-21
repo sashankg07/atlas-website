@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Transforms Radiology: A Breakthrough in Cancer Detection",
-    "description": "A new AI model has shown remarkable accuracy in detecting early-stage lung cancer in CT scans, outperforming human radiologists. This development could revolutionize cancer detection and treatment.",
+    "title": "Revolutionary AI Algorithm Predicts Climate Change Impact",
+    "description": "A groundbreaking AI model developed by leading scientists accurately predicts climate change patterns. This innovation could help policy-makers make more informed decisions about climate change mitigation.",
     "url": "#",
-    "source": "The New Yorker",
-    "date": "November 10, 2021",
+    "source": "Nature",
+    "date": "March 25, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Changing the Landscape of Business Analytics",
-    "description": "Artificial intelligence is transforming business analytics with advanced predictive capabilities and automation. This is enabling businesses to make data-driven decisions more efficiently than ever before.",
-    "url": "#",
-    "source": "Forbes",
-    "date": "November 10, 2021",
-    "category": "Business"
-  },
-  {
-    "title": "Microsoft Announces New AI Tools for Developers",
-    "description": "Microsoft has unveiled a suite of new AI-powered tools and frameworks for developers, aiming to make AI development more accessible and efficient.",
+    "title": "AI Enters the Classroom: New Tool Enhances Online Learning",
+    "description": "An innovative AI tool is transforming online education by providing personalized learning experiences. The tool uses machine learning to adapt content to individual student's needs, promising to reshape the future of education.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 10, 2021",
-    "category": "Tools"
+    "date": "March 25, 2022",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Startup Raises $50 Million to Revolutionize Healthcare",
+    "description": "AI startup, MedTech, has secured $50 million in funding to further develop AI solutions capable of diagnosing diseases early. This could revolutionize healthcare and save countless lives.",
+    "url": "#",
+    "source": "The Wall Street Journal",
+    "date": "March 25, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Future of AI: Ethical Implications and Challenges",
-    "description": "As AI continues to evolve, the ethical implications become more complex. Experts are calling for comprehensive guidelines to ensure the responsible use of AI.",
+    "title": "AI Ethics Debate Ignited: Autonomous Cars in the Spotlight",
+    "description": "The debate over AI ethics intensifies as autonomous vehicles become more common. Can AI be programmed to make ethical decisions in critical situations? The question remains unanswered.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 10, 2021",
+    "date": "March 25, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Revolutionizes Renewable Energy Prediction",
-    "description": "Artificial Intelligence is now being used to predict wind and solar energy production, which could greatly enhance the efficiency of renewable energy sources and combat climate change.",
+    "title": "New AI Tool Helps Developers Create More Inclusive Apps",
+    "description": "A new AI-powered tool aims to help developers create more inclusive apps by identifying potential biases in their algorithms. The tool promises to promote fairness and inclusivity in the tech industry.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 10, 2021",
-    "category": "Technology"
+    "source": "Wired",
+    "date": "March 25, 2022",
+    "category": "Tools"
   }
 ];
