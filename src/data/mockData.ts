@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Algorithm Predicts Climate Change Impact",
-    "description": "A groundbreaking AI model developed by leading scientists accurately predicts climate change patterns. This innovation could help policy-makers make more informed decisions about climate change mitigation.",
+    "title": "Revolutionizing Medicine with AI: A New Breakthrough",
+    "description": "Scientists have developed an AI model capable of predicting the onset of diseases with high accuracy. This could potentially revolutionize preventive medicine and healthcare.",
     "url": "#",
-    "source": "Nature",
-    "date": "March 25, 2022",
+    "source": "The New York Times",
+    "date": "October 06, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Enters the Classroom: New Tool Enhances Online Learning",
-    "description": "An innovative AI tool is transforming online education by providing personalized learning experiences. The tool uses machine learning to adapt content to individual student's needs, promising to reshape the future of education.",
+    "title": "Artificial Intelligence Takes on Climate Change",
+    "description": "A new breed of AI algorithms is helping scientists understand and combat climate change. The AI models are being used to predict weather patterns and analyze climate data.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 25, 2022",
+    "source": "The Guardian",
+    "date": "October 06, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $50 Million to Revolutionize Healthcare",
-    "description": "AI startup, MedTech, has secured $50 million in funding to further develop AI solutions capable of diagnosing diseases early. This could revolutionize healthcare and save countless lives.",
+    "title": "Tech Giant Unveils AI-powered Virtual Assistant",
+    "description": "A leading technology company has unleashed a next-gen AI-powered virtual assistant. The assistant promises to offer seamless and efficient tasks execution, taking user experience to new heights.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "March 25, 2022",
+    "source": "TechCrunch",
+    "date": "October 06, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Debate Ignited: Autonomous Cars in the Spotlight",
-    "description": "The debate over AI ethics intensifies as autonomous vehicles become more common. Can AI be programmed to make ethical decisions in critical situations? The question remains unanswered.",
+    "title": "AI Ethics: The Next Frontier",
+    "description": "As the AI technology continues to evolve, there is an increasing need for ethical guidelines. Experts are calling for a global consensus on the ethical use of AI.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "March 25, 2022",
+    "source": "BBC",
+    "date": "October 06, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Helps Developers Create More Inclusive Apps",
-    "description": "A new AI-powered tool aims to help developers create more inclusive apps by identifying potential biases in their algorithms. The tool promises to promote fairness and inclusivity in the tech industry.",
+    "title": "New AI Tool Transforms Data Analysis",
+    "description": "A newly developed AI tool promises to transform the way businesses analyze data. The tool uses machine learning to provide insights into complex data sets.",
     "url": "#",
-    "source": "Wired",
-    "date": "March 25, 2022",
+    "source": "Forbes",
+    "date": "October 06, 2022",
     "category": "Tools"
   }
 ];
