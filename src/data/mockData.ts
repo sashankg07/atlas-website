@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine with AI: A New Breakthrough",
-    "description": "Scientists have developed an AI model capable of predicting the onset of diseases with high accuracy. This could potentially revolutionize preventive medicine and healthcare.",
+    "title": "AI Outperforms Humans in Identifying Cancer",
+    "description": "In a recent breakthrough, AI systems have shown remarkable efficiency in identifying various types of cancers. This could revolutionize the field of medical diagnostics and treatment.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 06, 2022",
+    "source": "AI Research Times",
+    "date": "October 19, 2022",
     "category": "Research"
   },
   {
-    "title": "Artificial Intelligence Takes on Climate Change",
-    "description": "A new breed of AI algorithms is helping scientists understand and combat climate change. The AI models are being used to predict weather patterns and analyze climate data.",
+    "title": "Google's Quantum AI Lab Achieves Quantum Supremacy",
+    "description": "Google's Quantum AI lab has reportedly achieved 'quantum supremacy', marking a major milestone in the field of quantum computing and artificial intelligence.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 06, 2022",
+    "source": "Tech Insider",
+    "date": "October 19, 2022",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Unveils AI-powered Virtual Assistant",
-    "description": "A leading technology company has unleashed a next-gen AI-powered virtual assistant. The assistant promises to offer seamless and efficient tasks execution, taking user experience to new heights.",
+    "title": "IBM Releases New AI Tool to Combat Climate Change",
+    "description": "IBM has unveiled a new AI-powered tool designed to help scientists understand and combat climate change. The system utilizes machine learning algorithms to predict and analyze climate patterns.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 06, 2022",
+    "source": "Business Weekly",
+    "date": "October 19, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: The Next Frontier",
-    "description": "As the AI technology continues to evolve, there is an increasing need for ethical guidelines. Experts are calling for a global consensus on the ethical use of AI.",
+    "title": "Ethical Questions Surround AI's Role in Recruitment",
+    "description": "With more companies turning to AI for hiring, questions about fairness, accuracy, and bias in AI recruitment tools are being raised.",
     "url": "#",
-    "source": "BBC",
-    "date": "October 06, 2022",
+    "source": "Ethics in AI Review",
+    "date": "October 19, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Data Analysis",
-    "description": "A newly developed AI tool promises to transform the way businesses analyze data. The tool uses machine learning to provide insights into complex data sets.",
+    "title": "OpenAI Releases GPT-4: A New Era of Language Models",
+    "description": "OpenAI has released GPT-4, the latest version of its language prediction model. The model is said to be more accurate and efficient than its predecessor, offering promising applications in various fields.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 06, 2022",
+    "source": "AI Tools Digest",
+    "date": "October 19, 2022",
     "category": "Tools"
   }
 ];
