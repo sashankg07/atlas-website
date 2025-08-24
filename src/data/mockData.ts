@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Identifying Cancer",
-    "description": "In a recent breakthrough, AI systems have shown remarkable efficiency in identifying various types of cancers. This could revolutionize the field of medical diagnostics and treatment.",
+    "title": "AI Transforms Drug Discovery Landscape",
+    "description": "Recent advancements in AI are revolutionizing the pharmaceutical industry. Machine learning models are now capable of predicting drug interactions and side effects, speeding up the drug discovery process.",
     "url": "#",
-    "source": "AI Research Times",
-    "date": "October 19, 2022",
+    "source": "The New York Times",
+    "date": "March 02, 2023",
     "category": "Research"
   },
   {
-    "title": "Google's Quantum AI Lab Achieves Quantum Supremacy",
-    "description": "Google's Quantum AI lab has reportedly achieved 'quantum supremacy', marking a major milestone in the field of quantum computing and artificial intelligence.",
+    "title": "AI-powered Robots Transforming Supply Chain Management",
+    "description": "With AI-powered robots, businesses can streamline their supply chain processes. These robots can operate 24/7, significantly reducing operation time and costs.",
     "url": "#",
-    "source": "Tech Insider",
-    "date": "October 19, 2022",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "March 02, 2023",
+    "category": "Business"
   },
   {
-    "title": "IBM Releases New AI Tool to Combat Climate Change",
-    "description": "IBM has unveiled a new AI-powered tool designed to help scientists understand and combat climate change. The system utilizes machine learning algorithms to predict and analyze climate patterns.",
+    "title": "AI Breakthrough: Machines Master Emotion Recognition",
+    "description": "In a ground-breaking study, AI has successfully learned to identify human emotions. This could have far-reaching implications for improving human-computer interaction.",
     "url": "#",
-    "source": "Business Weekly",
-    "date": "October 19, 2022",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "March 02, 2023",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Questions Surround AI's Role in Recruitment",
-    "description": "With more companies turning to AI for hiring, questions about fairness, accuracy, and bias in AI recruitment tools are being raised.",
+    "title": "New AI Ethics Framework Launches",
+    "description": "A global consortium has unveiled a new framework for AI ethics, aimed at ensuring AI is used responsibly. The framework emphasizes transparency, accountability, and fairness in AI development and use.",
     "url": "#",
-    "source": "Ethics in AI Review",
-    "date": "October 19, 2022",
+    "source": "The Guardian",
+    "date": "March 02, 2023",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases GPT-4: A New Era of Language Models",
-    "description": "OpenAI has released GPT-4, the latest version of its language prediction model. The model is said to be more accurate and efficient than its predecessor, offering promising applications in various fields.",
+    "title": "AI Tool Predicts Climate Change Patterns",
+    "description": "A new AI tool can accurately predict climate change patterns years in advance. The tool uses machine learning to analyze past climate data and make future projections.",
     "url": "#",
-    "source": "AI Tools Digest",
-    "date": "October 19, 2022",
+    "source": "Nature",
+    "date": "March 02, 2023",
     "category": "Tools"
   }
 ];
