@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Transforms Drug Discovery Landscape",
-    "description": "Recent advancements in AI are revolutionizing the pharmaceutical industry. Machine learning models are now capable of predicting drug interactions and side effects, speeding up the drug discovery process.",
+    "title": "AI Revolutionizes Medical Imaging",
+    "description": "Researchers have made a breakthrough in using AI for medical imaging, increasing the speed and accuracy of diagnoses. This innovation promises a new era of healthcare delivery.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "March 02, 2023",
+    "source": "Nature",
+    "date": "September 22, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-powered Robots Transforming Supply Chain Management",
-    "description": "With AI-powered robots, businesses can streamline their supply chain processes. These robots can operate 24/7, significantly reducing operation time and costs.",
+    "title": "AI Empowers Renewable Energy Management",
+    "description": "A new AI platform can predict energy production and demand with unprecedented precision, promising a greener future. This may pave the way for optimized renewable energy management.",
     "url": "#",
-    "source": "Forbes",
-    "date": "March 02, 2023",
-    "category": "Business"
+    "source": "IEEE Spectrum",
+    "date": "September 22, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI Breakthrough: Machines Master Emotion Recognition",
-    "description": "In a ground-breaking study, AI has successfully learned to identify human emotions. This could have far-reaching implications for improving human-computer interaction.",
+    "title": "AI Start-Up Raises $100 Million in Series B Funding",
+    "description": "Despite the economic downturn, a promising AI start-up has successfully raised $100 million in Series B funding. The funds will be used to further develop their revolutionary AI product.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "March 02, 2023",
-    "category": "Research"
+    "date": "September 22, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Ethics Framework Launches",
-    "description": "A global consortium has unveiled a new framework for AI ethics, aimed at ensuring AI is used responsibly. The framework emphasizes transparency, accountability, and fairness in AI development and use.",
+    "title": "Debate on AI Ethics Intensifies",
+    "description": "As AI technology advances, debates on its ethical implications are intensifying. Experts are calling for more transparency and regulation in AI applications.",
     "url": "#",
     "source": "The Guardian",
-    "date": "March 02, 2023",
+    "date": "September 22, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool Predicts Climate Change Patterns",
-    "description": "A new AI tool can accurately predict climate change patterns years in advance. The tool uses machine learning to analyze past climate data and make future projections.",
+    "title": "New AI Tool Accelerates Data Analysis",
+    "description": "A newly launched AI tool promises to simplify and speed up data analysis, making it more accessible to businesses of all sizes. The tool employs advanced AI algorithms to provide actionable insights.",
     "url": "#",
-    "source": "Nature",
-    "date": "March 02, 2023",
+    "source": "CNET",
+    "date": "September 22, 2022",
     "category": "Tools"
   }
 ];
