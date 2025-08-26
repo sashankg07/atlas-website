@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Medical Imaging",
-    "description": "Researchers have made a breakthrough in using AI for medical imaging, increasing the speed and accuracy of diagnoses. This innovation promises a new era of healthcare delivery.",
+    "title": "AI Breaks Ground in Early Cancer Detection",
+    "description": "A revolutionary AI model can now predict the onset of specific types of cancer years before symptoms appear. This breakthrough could drastically improve early detection and treatment outcomes.",
     "url": "#",
     "source": "Nature",
-    "date": "September 22, 2022",
+    "date": "October 06, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Empowers Renewable Energy Management",
-    "description": "A new AI platform can predict energy production and demand with unprecedented precision, promising a greener future. This may pave the way for optimized renewable energy management.",
+    "title": "AI Plays Pivotal Role in Climate Change Mitigation",
+    "description": "New AI-powered models are providing unprecedented accuracy in climate prediction, aiding global efforts to mitigate climate change. The tech is also being utilized to optimize renewable energy production.",
     "url": "#",
-    "source": "IEEE Spectrum",
-    "date": "September 22, 2022",
+    "source": "Scientific American",
+    "date": "October 06, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-Up Raises $100 Million in Series B Funding",
-    "description": "Despite the economic downturn, a promising AI start-up has successfully raised $100 million in Series B funding. The funds will be used to further develop their revolutionary AI product.",
+    "title": "AI Startup Raises $50M in Series B Funding",
+    "description": "AI startup, SynthAI, has successfully raised $50 million in Series B funding. The company aims to utilize the funds to enhance its synthetic data generation capabilities.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 22, 2022",
+    "date": "October 06, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Debate on AI Ethics Intensifies",
-    "description": "As AI technology advances, debates on its ethical implications are intensifying. Experts are calling for more transparency and regulation in AI applications.",
+    "title": "Ethical Concerns Over AI Face Recognition Intensify",
+    "description": "Concerns over the ethical implications of AI-powered facial recognition technology continue to grow. Critics argue that without proper regulation, the technology could be used for mass surveillance or discrimination.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 22, 2022",
+    "date": "October 06, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Accelerates Data Analysis",
-    "description": "A newly launched AI tool promises to simplify and speed up data analysis, making it more accessible to businesses of all sizes. The tool employs advanced AI algorithms to provide actionable insights.",
+    "title": "New AI Toolkit Accelerates Deep Learning Research",
+    "description": "A new open-source toolkit, DeepLearn, has been launched to accelerate deep learning research. The toolkit simplifies the process of building, training, and deploying complex models.",
     "url": "#",
-    "source": "CNET",
-    "date": "September 22, 2022",
+    "source": "MIT News",
+    "date": "October 06, 2021",
     "category": "Tools"
   }
 ];
