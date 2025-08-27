@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks Ground in Early Cancer Detection",
-    "description": "A revolutionary AI model can now predict the onset of specific types of cancer years before symptoms appear. This breakthrough could drastically improve early detection and treatment outcomes.",
+    "title": "AI Revolutionizes Medical Diagnostics",
+    "description": "Artificial Intelligence (AI) is now capable of diagnosing diseases more accurately than human doctors. The breakthrough promises to revolutionize the medical field and improve patient outcomes dramatically.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 06, 2021",
+    "source": "The New York Times",
+    "date": "September 23, 2023",
     "category": "Research"
   },
   {
-    "title": "AI Plays Pivotal Role in Climate Change Mitigation",
-    "description": "New AI-powered models are providing unprecedented accuracy in climate prediction, aiding global efforts to mitigate climate change. The tech is also being utilized to optimize renewable energy production.",
+    "title": "Tech Giants Invest in AI for Climate Change Solutions",
+    "description": "Leading tech companies are heavily investing in AI to find solutions to climate change. The initiative aims to leverage machine learning to create more sustainable technologies and practices.",
     "url": "#",
-    "source": "Scientific American",
-    "date": "October 06, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "September 23, 2023",
+    "category": "Business"
   },
   {
-    "title": "AI Startup Raises $50M in Series B Funding",
-    "description": "AI startup, SynthAI, has successfully raised $50 million in Series B funding. The company aims to utilize the funds to enhance its synthetic data generation capabilities.",
+    "title": "AI Ethics in Focus: Navigating Bias and Fairness",
+    "description": "As AI continues to permeate various sectors, experts call for a comprehensive approach to address bias and fairness. The call to action emphasizes the need for ethical guidelines in AI development and deployment.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 06, 2021",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "September 23, 2023",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Over AI Face Recognition Intensify",
-    "description": "Concerns over the ethical implications of AI-powered facial recognition technology continue to grow. Critics argue that without proper regulation, the technology could be used for mass surveillance or discrimination.",
+    "title": "AI Tools Transforming Remote Learning",
+    "description": "Artificial Intelligence tools are revolutionizing the education sector by providing personalized learning experiences. These tools are enhancing remote learning, making it more efficient and engaging.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 06, 2021",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "September 23, 2023",
+    "category": "Tools"
   },
   {
-    "title": "New AI Toolkit Accelerates Deep Learning Research",
-    "description": "A new open-source toolkit, DeepLearn, has been launched to accelerate deep learning research. The toolkit simplifies the process of building, training, and deploying complex models.",
+    "title": "Breakthrough in AI Technology: The Rise of Quantum Machine Learning",
+    "description": "Scientists have made a significant breakthrough in AI technology by integrating quantum computing with machine learning. This development is expected to accelerate AI capabilities exponentially in the years to come.",
     "url": "#",
-    "source": "MIT News",
-    "date": "October 06, 2021",
-    "category": "Tools"
+    "source": "Wired",
+    "date": "September 23, 2023",
+    "category": "Technology"
   }
 ];
