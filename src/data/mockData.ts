@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare with AI: A New Era Begins",
-    "description": "Artificial Intelligence is poised to make significant strides in the healthcare sector. From diagnosis to treatment, AI's role is becoming increasingly crucial.",
+    "title": "AI Breakthrough: Discovering New Materials",
+    "description": "Researchers have developed an AI model capable of predicting the properties of new materials, opening doors to numerous scientific advancements. The technology could fast-track the discovery process in industries like pharmaceuticals, electronics, and more.",
     "url": "#",
     "source": "The AI Journal",
-    "date": "November 14, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Breakthrough: Machine Learning Models Predicting Climate Change",
-    "description": "Researchers have successfully developed machine learning models that can predict the impact of climate change with unprecedented accuracy.",
-    "url": "#",
-    "source": "The AI Times",
-    "date": "November 14, 2021",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "Ethical Dilemmas in AI: Navigating the Uncharted Territory",
-    "description": "As AI continues to evolve, it brings up new ethical challenges. Experts are calling for more regulations to ensure ethical use of AI.",
+    "title": "Revolutionizing E-Commerce with AI",
+    "description": "In the competitive e-commerce landscape, businesses are turning to AI to optimize customer experiences. The technology not only enables personalized shopping experiences but also enhances supply chain management.",
     "url": "#",
-    "source": "AI Ethics Weekly",
-    "date": "November 14, 2021",
+    "source": "TechCrunch",
+    "date": "September 30, 2022",
+    "category": "Business"
+  },
+  {
+    "title": "AI Ethics: The Debate Intensifies",
+    "description": "As AI technology continues to evolve, so do concerns about its ethical implications. Experts call for robust regulatory frameworks to ensure AI systems do not perpetuate harmful biases or infringe on privacy rights.",
+    "url": "#",
+    "source": "The Verge",
+    "date": "September 30, 2022",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI in Retail: How Machine Learning is Powering Business Decisions",
-    "description": "AI is transforming the retail industry by enabling businesses to make data-driven decisions, improving customer experience and increasing sales.",
+    "title": "DeepMind's AI Masters Protein Folding",
+    "description": "DeepMind's AI algorithm, AlphaFold, has made a breakthrough in solving the protein folding problem. This development accelerates research in diseases like Alzheimer's and cancer.",
     "url": "#",
-    "source": "AI Business Insider",
-    "date": "November 14, 2021",
-    "category": "Business"
+    "source": "Nature",
+    "date": "September 30, 2022",
+    "category": "Research"
   },
   {
-    "title": "New AI Tools for Developers: Simplifying Machine Learning",
-    "description": "New AI tools are making it easier for developers to create and deploy machine learning models, democratizing access to AI technologies.",
+    "title": "AI Tools: Streamlining Workflow Across Industries",
+    "description": "From healthcare to finance, AI tools are being leveraged to streamline workflows and enhance productivity. Companies report significant improvements in efficiency and accuracy.",
     "url": "#",
-    "source": "AI Developer's Guide",
-    "date": "November 14, 2021",
+    "source": "Forbes",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
