@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Discovering New Materials",
-    "description": "Researchers have developed an AI model capable of predicting the properties of new materials, opening doors to numerous scientific advancements. The technology could fast-track the discovery process in industries like pharmaceuticals, electronics, and more.",
+    "title": "AI Innovations Transforming Cancer Diagnosis",
+    "description": "Researchers are employing AI models to expedite cancer diagnosis, aiming for earlier detection and treatment. These cutting-edge tools are enhancing precision, reducing errors, and saving lives.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "September 30, 2022",
+    "source": "The New York Times",
+    "date": "October 6, 2021",
     "category": "Research"
   },
   {
-    "title": "Revolutionizing E-Commerce with AI",
-    "description": "In the competitive e-commerce landscape, businesses are turning to AI to optimize customer experiences. The technology not only enables personalized shopping experiences but also enhances supply chain management.",
+    "title": "Tech Giants Racing to Develop Quantum AI",
+    "description": "Major technology companies are now investing heavily in Quantum AI. This advanced technology promises to revolutionize computation speed and data processing capabilities.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2022",
-    "category": "Business"
+    "source": "Wired Magazine",
+    "date": "October 6, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics: The Debate Intensifies",
-    "description": "As AI technology continues to evolve, so do concerns about its ethical implications. Experts call for robust regulatory frameworks to ensure AI systems do not perpetuate harmful biases or infringe on privacy rights.",
+    "title": "AI-Driven Customer Service: The New Business Norm",
+    "description": "AI-powered customer service solutions are becoming increasingly popular among companies. These tools offer enhanced efficiency, cost savings, and improved customer satisfaction.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 30, 2022",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "October 6, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "DeepMind's AI Masters Protein Folding",
-    "description": "DeepMind's AI algorithm, AlphaFold, has made a breakthrough in solving the protein folding problem. This development accelerates research in diseases like Alzheimer's and cancer.",
+    "title": "AI Ethics: Balancing Innovation and Responsibility",
+    "description": "As AI continues to permeate all aspects of life, ethical concerns keep escalating. It's crucial to address these issues to ensure responsible and fair use of AI technologies.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2022",
-    "category": "Research"
+    "source": "The Guardian",
+    "date": "October 6, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Tools: Streamlining Workflow Across Industries",
-    "description": "From healthcare to finance, AI tools are being leveraged to streamline workflows and enhance productivity. Companies report significant improvements in efficiency and accuracy.",
+    "title": "New AI Tools Streamlining Software Development",
+    "description": "AI is now being used to automate and streamline the software development process. This trend is boosting productivity and accelerating the release of high-quality software products.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 30, 2022",
+    "source": "TechCrunch",
+    "date": "October 6, 2021",
     "category": "Tools"
   }
 ];
