@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Innovations Transforming Cancer Diagnosis",
-    "description": "Researchers are employing AI models to expedite cancer diagnosis, aiming for earlier detection and treatment. These cutting-edge tools are enhancing precision, reducing errors, and saving lives.",
+    "title": "AI breakthrough in predicting Heart Diseases",
+    "description": "Researchers have developed an AI model capable of predicting heart disease with unprecedented accuracy. This could save millions of lives in the future.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 6, 2021",
+    "date": "September 29, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Racing to Develop Quantum AI",
-    "description": "Major technology companies are now investing heavily in Quantum AI. This advanced technology promises to revolutionize computation speed and data processing capabilities.",
+    "title": "AI-powered Chatbots Revolutionizing Customer Service",
+    "description": "AI-powered chatbots are transforming the customer service landscape. More companies are adopting this technology to improve customer experience.",
     "url": "#",
-    "source": "Wired Magazine",
-    "date": "October 6, 2021",
-    "category": "Technology"
+    "source": "BBC",
+    "date": "September 29, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI-Driven Customer Service: The New Business Norm",
-    "description": "AI-powered customer service solutions are becoming increasingly popular among companies. These tools offer enhanced efficiency, cost savings, and improved customer satisfaction.",
+    "title": "AI in Climate Change: Predicting Natural Disasters",
+    "description": "AI is proving to be a game-changer in climate studies, aiding in the prediction and management of natural disasters.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 6, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "September 29, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Balancing Innovation and Responsibility",
-    "description": "As AI continues to permeate all aspects of life, ethical concerns keep escalating. It's crucial to address these issues to ensure responsible and fair use of AI technologies.",
+    "title": "Ethical Concerns over AI Facial Recognition",
+    "description": "Issues of privacy and bias in AI facial recognition technologies are sparking a heated debate about ethical regulation.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 6, 2021",
+    "source": "Washington Post",
+    "date": "September 29, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Streamlining Software Development",
-    "description": "AI is now being used to automate and streamline the software development process. This trend is boosting productivity and accelerating the release of high-quality software products.",
+    "title": "New AI Tools Transforming the Education Sector",
+    "description": "New AI tools are bringing revolutionary changes in the education sector, making remote learning more interactive and personalized.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 6, 2021",
+    "source": "CNBC",
+    "date": "September 29, 2021",
     "category": "Tools"
   }
 ];
