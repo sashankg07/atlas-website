@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Models Predict Future Climate Conditions",
-    "description": "Scientists have developed AI models that can effectively predict future climate scenarios. This breakthrough could potentially revolutionize the way we approach climate change.",
+    "title": "AI Revolutionizes Drug Discovery",
+    "description": "Artificial Intelligence is emerging as a game-changer in drug discovery, promising to slash development times and costs. AI tools analyze huge datasets, predicting how different compounds will behave in the body.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2022",
+    "source": "MIT Technology Review",
+    "date": "October 06, 2021",
     "category": "Research"
   },
   {
-    "title": "New AI Chip Revolutionizes Tech Industry",
-    "description": "A groundbreaking AI chip has been introduced to the market, boasting unprecedented computational power and energy efficiency. This could redefine the future of tech devices.",
+    "title": "AI Predicts Climate Change Impact",
+    "description": "Researchers have applied machine learning to predict future climate patterns. This advancement could significantly improve environmental conservation initiatives.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2022",
+    "source": "Nature",
+    "date": "October 06, 2021",
     "category": "Technology"
   },
   {
-    "title": "Startup Uses AI to Streamline Supply Chains",
-    "description": "A rising startup has harnessed AI to optimize supply chain processes, promising significant savings for businesses. The technology is being hailed as a game-changer for the logistics industry.",
+    "title": "Major Tech Company Introduces AI Ethics Framework",
+    "description": "In a bid to address growing concerns around AI, a leading tech company has introduced a comprehensive AI ethics framework. This move seeks to ensure trustworthy and fair AI applications.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 30, 2022",
-    "category": "Business"
+    "source": "The Wall Street Journal",
+    "date": "October 06, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Raised Over AI in Law Enforcement",
-    "description": "Human rights advocates have raised concerns over the use of AI in law enforcement. The debate centers around privacy issues and potential misuse.",
+    "title": "AI Boosts E-commerce Personalization",
+    "description": "Artificial Intelligence is transforming the e-commerce industry by enabling highly personalized shopping experiences. Machine learning algorithms analyze customer behavior to provide tailored product recommendations.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2022",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "October 06, 2021",
+    "category": "Business"
   },
   {
-    "title": "New AI Toolkit Simplifies Machine Learning",
-    "description": "A newly-released AI toolkit is democratizing machine learning by making it more accessible for non-experts. The toolkit simplifies the process of building, training, and deploying AI models.",
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "A new AI tool has been launched that simplifies data analysis, making it accessible to non-tech professionals. The tool uses machine learning to interpret and visualize complex data.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 30, 2022",
+    "source": "Forbes",
+    "date": "October 06, 2021",
     "category": "Tools"
   }
 ];
