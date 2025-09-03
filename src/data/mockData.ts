@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Drug Discovery",
-    "description": "Artificial Intelligence is emerging as a game-changer in drug discovery, promising to slash development times and costs. AI tools analyze huge datasets, predicting how different compounds will behave in the body.",
+    "title": "AI Just Solved a 50-Year-Old Science Problem, Revolutionizing Biological Research",
+    "description": "Google's DeepMind has solved a decades-old problem related to protein folding, opening up incredible possibilities in drug discovery and disease understanding. This breakthrough is expected to accelerate biological research and herald a new era in AI applications in science.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 06, 2021",
+    "source": "The New York Times",
+    "date": "December 15, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Predicts Climate Change Impact",
-    "description": "Researchers have applied machine learning to predict future climate patterns. This advancement could significantly improve environmental conservation initiatives.",
+    "title": "OpenAI's GPT-3 Powers New Wave of AI Language Tools",
+    "description": "OpenAI's GPT-3 model, known for its impressive language generation capabilities, is now powering a suite of AI language tools. These tools are set to redefine content creation, translation, and communication across various industries.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 06, 2021",
+    "source": "Wired",
+    "date": "December 15, 2021",
     "category": "Technology"
   },
   {
-    "title": "Major Tech Company Introduces AI Ethics Framework",
-    "description": "In a bid to address growing concerns around AI, a leading tech company has introduced a comprehensive AI ethics framework. This move seeks to ensure trustworthy and fair AI applications.",
+    "title": "Microsoft Acquires AI Cybersecurity Startup 'CyberX'",
+    "description": "Microsoft has acquired CyberX, a startup specializing in AI-powered cybersecurity solutions. The acquisition is expected to strengthen Microsoft's AI capabilities in cybersecurity and provide more robust protections for its customers.",
     "url": "#",
     "source": "The Wall Street Journal",
-    "date": "October 06, 2021",
-    "category": "Ethics"
+    "date": "December 15, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Boosts E-commerce Personalization",
-    "description": "Artificial Intelligence is transforming the e-commerce industry by enabling highly personalized shopping experiences. Machine learning algorithms analyze customer behavior to provide tailored product recommendations.",
+    "title": "AI Ethics in Focus: Unpacking the Bias in Machine Learning",
+    "description": "As AI becomes more pervasive, concerns about inherent biases in machine learning models are growing. Ethicists and AI researchers are working together to develop strategies for building more equitable AI systems.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 06, 2021",
-    "category": "Business"
+    "source": "Nature",
+    "date": "December 15, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "A new AI tool has been launched that simplifies data analysis, making it accessible to non-tech professionals. The tool uses machine learning to interpret and visualize complex data.",
+    "title": "IBM Unleashes Watson AI for IT Operations",
+    "description": "IBM has released its Watson AIOps, a suite of AI tools designed to automate and optimize IT operations. The tools are expected to help businesses reduce costs and improve efficiency by predicting and resolving IT issues before they impact operations.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 06, 2021",
+    "source": "TechCrunch",
+    "date": "December 15, 2021",
     "category": "Tools"
   }
 ];
