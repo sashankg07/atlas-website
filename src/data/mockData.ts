@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Just Solved a 50-Year-Old Science Problem, Revolutionizing Biological Research",
-    "description": "Google's DeepMind has solved a decades-old problem related to protein folding, opening up incredible possibilities in drug discovery and disease understanding. This breakthrough is expected to accelerate biological research and herald a new era in AI applications in science.",
+    "title": "AI Now Capable of Predicting Alzheimer’s Years in Advance",
+    "description": "Researchers have developed a groundbreaking AI that can predict Alzheimer's disease years before doctors. The technology has the potential to revolutionize early detection and treatment methods.",
     "url": "#",
     "source": "The New York Times",
-    "date": "December 15, 2021",
+    "date": "November 07, 2021",
     "category": "Research"
   },
   {
-    "title": "OpenAI's GPT-3 Powers New Wave of AI Language Tools",
-    "description": "OpenAI's GPT-3 model, known for its impressive language generation capabilities, is now powering a suite of AI language tools. These tools are set to redefine content creation, translation, and communication across various industries.",
+    "title": "IBM's New AI Can Code Better than Humans",
+    "description": "IBM’s latest AI development, CodeNet, is capable of writing cleaner, more efficient code than human programmers. This breakthrough could significantly accelerate software development cycles.",
     "url": "#",
-    "source": "Wired",
-    "date": "December 15, 2021",
+    "source": "Wall Street Journal",
+    "date": "November 07, 2021",
     "category": "Technology"
   },
   {
-    "title": "Microsoft Acquires AI Cybersecurity Startup 'CyberX'",
-    "description": "Microsoft has acquired CyberX, a startup specializing in AI-powered cybersecurity solutions. The acquisition is expected to strengthen Microsoft's AI capabilities in cybersecurity and provide more robust protections for its customers.",
+    "title": "AI Disruption: How Automation is Transforming Job Markets",
+    "description": "A new report highlights the impact of AI and automation on job markets, predicting significant shifts in labor demand in the next decade. The study suggests that millions of jobs may be transformed, created, or made redundant.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "December 15, 2021",
+    "source": "The Guardian",
+    "date": "November 07, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics in Focus: Unpacking the Bias in Machine Learning",
-    "description": "As AI becomes more pervasive, concerns about inherent biases in machine learning models are growing. Ethicists and AI researchers are working together to develop strategies for building more equitable AI systems.",
+    "title": "Ethical Concerns Rise Over AI's Role in Military Operations",
+    "description": "As the use of AI in military operations grows, so does the debate over its ethical implications. Critics argue the technology could lead to unaccountable autonomous weapons, while proponents see its potential to save lives.",
     "url": "#",
-    "source": "Nature",
-    "date": "December 15, 2021",
+    "source": "BBC News",
+    "date": "November 07, 2021",
     "category": "Ethics"
   },
   {
-    "title": "IBM Unleashes Watson AI for IT Operations",
-    "description": "IBM has released its Watson AIOps, a suite of AI tools designed to automate and optimize IT operations. The tools are expected to help businesses reduce costs and improve efficiency by predicting and resolving IT issues before they impact operations.",
+    "title": "OpenAI Unveils 'GPT-4', a Next-Gen Language Prediction Tool",
+    "description": "OpenAI has rolled out GPT-4, the latest version of its powerful language prediction tool. This new iteration promises increased accuracy and versatility, further blurring the lines between human and machine-generated content.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "December 15, 2021",
+    "date": "November 07, 2021",
     "category": "Tools"
   }
 ];
