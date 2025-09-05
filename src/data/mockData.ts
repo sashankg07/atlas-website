@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Now Capable of Predicting Alzheimer’s Years in Advance",
-    "description": "Researchers have developed a groundbreaking AI that can predict Alzheimer's disease years before doctors. The technology has the potential to revolutionize early detection and treatment methods.",
+    "title": "AI Transforms Radiology with Advanced Imaging Analysis",
+    "description": "Groundbreaking AI technology is revolutionizing the field of radiology, offering improved image analysis that could enhance diagnosis accuracy. The technology can identify patterns invisible to the human eye, potentially leading to early detection of various conditions.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 07, 2021",
+    "source": "MIT Technology Review",
+    "date": "December 05, 2021",
     "category": "Research"
   },
   {
-    "title": "IBM's New AI Can Code Better than Humans",
-    "description": "IBM’s latest AI development, CodeNet, is capable of writing cleaner, more efficient code than human programmers. This breakthrough could significantly accelerate software development cycles.",
+    "title": "Startup Unveils AI Chip Outperforming Silicon Valley Giants",
+    "description": "Emerging tech startup, AI Chipworks, has announced the development of a new AI processing chip. This high-performance chip promises faster processing speeds and lower energy consumption, outperforming established competitors.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "November 07, 2021",
+    "source": "TechCrunch",
+    "date": "December 05, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Disruption: How Automation is Transforming Job Markets",
-    "description": "A new report highlights the impact of AI and automation on job markets, predicting significant shifts in labor demand in the next decade. The study suggests that millions of jobs may be transformed, created, or made redundant.",
+    "title": "AI Enhancing Customer Experience in Retail Industry",
+    "description": "Major retailers are leveraging AI technology to improve customer experience, from personalized product recommendations to streamlined checkout processes. This trend signifies the increasing role of AI in shaping the future of retail.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 07, 2021",
+    "source": "Forbes",
+    "date": "December 05, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Rise Over AI's Role in Military Operations",
-    "description": "As the use of AI in military operations grows, so does the debate over its ethical implications. Critics argue the technology could lead to unaccountable autonomous weapons, while proponents see its potential to save lives.",
+    "title": "Ethical Implications of AI in Surveillance Systems",
+    "description": "As AI is increasingly used in advanced surveillance systems, concerns about privacy and ethics are rising. Experts are calling for stringent regulations to ensure responsible use of AI in surveillance.",
     "url": "#",
-    "source": "BBC News",
-    "date": "November 07, 2021",
+    "source": "The Guardian",
+    "date": "December 05, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Unveils 'GPT-4', a Next-Gen Language Prediction Tool",
-    "description": "OpenAI has rolled out GPT-4, the latest version of its powerful language prediction tool. This new iteration promises increased accuracy and versatility, further blurring the lines between human and machine-generated content.",
+    "title": "OpenAI Introduces New Language Processing Tool",
+    "description": "OpenAI has unveiled a cutting-edge language processing tool, offering advanced capabilities in text generation and analysis. The tool is expected to have wide-ranging applications, from customer service bots to novel writing assistance.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 07, 2021",
+    "source": "Wired",
+    "date": "December 05, 2021",
     "category": "Tools"
   }
 ];
