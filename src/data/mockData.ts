@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Transforms Radiology with Advanced Imaging Analysis",
-    "description": "Groundbreaking AI technology is revolutionizing the field of radiology, offering improved image analysis that could enhance diagnosis accuracy. The technology can identify patterns invisible to the human eye, potentially leading to early detection of various conditions.",
+    "title": "AI Breaks Ground with Quantum Computing Integration",
+    "description": "Researchers have made a significant breakthrough by successfully integrating AI with quantum computing. This could potentially revolutionize the speed and efficiency of AI processing capabilities.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "December 05, 2021",
+    "source": "Tech Crunch",
+    "date": "November 23, 2021",
     "category": "Research"
   },
   {
-    "title": "Startup Unveils AI Chip Outperforming Silicon Valley Giants",
-    "description": "Emerging tech startup, AI Chipworks, has announced the development of a new AI processing chip. This high-performance chip promises faster processing speeds and lower energy consumption, outperforming established competitors.",
-    "url": "#",
-    "source": "TechCrunch",
-    "date": "December 05, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Enhancing Customer Experience in Retail Industry",
-    "description": "Major retailers are leveraging AI technology to improve customer experience, from personalized product recommendations to streamlined checkout processes. This trend signifies the increasing role of AI in shaping the future of retail.",
+    "title": "AI Startup Raises Millions for Innovative Speech Recognition Technology",
+    "description": "A rising AI startup has raised significant funding for its unique speech recognition technology that promises to greatly enhance voice-activated AI systems.",
     "url": "#",
     "source": "Forbes",
-    "date": "December 05, 2021",
+    "date": "November 23, 2021",
     "category": "Business"
+  },
+  {
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "A new AI tool has been developed that can accurately predict the impact of climate change. The tool will aid in creating effective strategies against global warming.",
+    "url": "#",
+    "source": "Nature",
+    "date": "November 23, 2021",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Implications of AI in Surveillance Systems",
-    "description": "As AI is increasingly used in advanced surveillance systems, concerns about privacy and ethics are rising. Experts are calling for stringent regulations to ensure responsible use of AI in surveillance.",
+    "title": "Ethical Concerns Raised Over AI in Military Applications",
+    "description": "As AI's role in military applications grows, so too do the ethical concerns. Experts call for clear guidelines and regulations to govern the use of AI in warfare.",
     "url": "#",
     "source": "The Guardian",
-    "date": "December 05, 2021",
+    "date": "November 23, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Introduces New Language Processing Tool",
-    "description": "OpenAI has unveiled a cutting-edge language processing tool, offering advanced capabilities in text generation and analysis. The tool is expected to have wide-ranging applications, from customer service bots to novel writing assistance.",
+    "title": "AI Revolutionizes Medical Diagnostics",
+    "description": "AI is set to transform the field of medical diagnostics, with a new system that can detect diseases more quickly and accurately than ever before.",
     "url": "#",
-    "source": "Wired",
-    "date": "December 05, 2021",
-    "category": "Tools"
+    "source": "The New York Times",
+    "date": "November 23, 2021",
+    "category": "Technology"
   }
 ];
