@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks Ground with Quantum Computing Integration",
-    "description": "Researchers have made a significant breakthrough by successfully integrating AI with quantum computing. This could potentially revolutionize the speed and efficiency of AI processing capabilities.",
+    "title": "Cutting-edge AI Software Transforms Healthcare",
+    "description": "New AI software is revolutionizing the healthcare industry by providing more accurate diagnostics faster than ever before. This could potentially save millions of lives and streamline healthcare worldwide.",
     "url": "#",
-    "source": "Tech Crunch",
-    "date": "November 23, 2021",
-    "category": "Research"
+    "source": "The New York Times",
+    "date": "November 30, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Startup Raises Millions for Innovative Speech Recognition Technology",
-    "description": "A rising AI startup has raised significant funding for its unique speech recognition technology that promises to greatly enhance voice-activated AI systems.",
+    "title": "Ethical Concerns Rise as AI Continues to Evolve",
+    "description": "As AI progresses, so do ethical concerns surrounding privacy, bias, and decision-making. Experts are calling for more regulations to ensure AI develops in a manner that benefits society as a whole.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 23, 2021",
+    "source": "The Guardian",
+    "date": "November 30, 2021",
+    "category": "Ethics"
+  },
+  {
+    "title": "AI Helps Businesses Predict Consumer Trends",
+    "description": "Businesses are leveraging AI to predict consumer trends with unprecedented accuracy. This new AI-driven approach is shaping the future of marketing and sales strategies.",
+    "url": "#",
+    "source": "Business Insider",
+    "date": "November 30, 2021",
     "category": "Business"
-  },
-  {
-    "title": "New AI Tool Predicts Climate Change Impact",
-    "description": "A new AI tool has been developed that can accurately predict the impact of climate change. The tool will aid in creating effective strategies against global warming.",
-    "url": "#",
-    "source": "Nature",
-    "date": "November 23, 2021",
-    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Raised Over AI in Military Applications",
-    "description": "As AI's role in military applications grows, so too do the ethical concerns. Experts call for clear guidelines and regulations to govern the use of AI in warfare.",
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "A groundbreaking AI tool promises to revolutionize data analysis by automating complex tasks. This could potentially save countless hours and resources for businesses and academia alike.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 23, 2021",
-    "category": "Ethics"
+    "source": "Tech Crunch",
+    "date": "November 30, 2021",
+    "category": "Tools"
   },
   {
-    "title": "AI Revolutionizes Medical Diagnostics",
-    "description": "AI is set to transform the field of medical diagnostics, with a new system that can detect diseases more quickly and accurately than ever before.",
+    "title": "AI Breakthrough in Climate Change Research",
+    "description": "Researchers have used AI to predict the impact of climate change with a degree of accuracy previously thought impossible. This development could be pivotal in the fight against global warming.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 23, 2021",
-    "category": "Technology"
+    "source": "Nature Magazine",
+    "date": "November 30, 2021",
+    "category": "Research"
   }
 ];
