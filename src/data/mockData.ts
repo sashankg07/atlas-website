@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Cutting-edge AI Software Transforms Healthcare",
-    "description": "New AI software is revolutionizing the healthcare industry by providing more accurate diagnostics faster than ever before. This could potentially save millions of lives and streamline healthcare worldwide.",
+    "title": "AI Outperforms Humans in Designing Microchips",
+    "description": "Google's DeepMind has developed an AI that can design computer chips faster and more efficiently than humans. This breakthrough could revolutionize computer chip manufacturing.",
     "url": "#",
     "source": "The New York Times",
-    "date": "November 30, 2021",
+    "date": "June 18, 2022",
     "category": "Technology"
   },
   {
-    "title": "Ethical Concerns Rise as AI Continues to Evolve",
-    "description": "As AI progresses, so do ethical concerns surrounding privacy, bias, and decision-making. Experts are calling for more regulations to ensure AI develops in a manner that benefits society as a whole.",
+    "title": "AI Helps Decipher Long Lost Languages",
+    "description": "Researchers have used artificial intelligence to translate ancient texts from lost languages. This could unlock the secrets of ancient civilizations.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 30, 2021",
-    "category": "Ethics"
+    "date": "June 18, 2022",
+    "category": "Research"
   },
   {
-    "title": "AI Helps Businesses Predict Consumer Trends",
-    "description": "Businesses are leveraging AI to predict consumer trends with unprecedented accuracy. This new AI-driven approach is shaping the future of marketing and sales strategies.",
+    "title": "AI in Healthcare: Predicting Disease Outbreaks",
+    "description": "Artificial Intelligence is being utilized to predict disease outbreaks, potentially saving countless lives. This technology could be key in preventing future pandemics.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "November 30, 2021",
+    "source": "BBC News",
+    "date": "June 18, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "A groundbreaking AI tool promises to revolutionize data analysis by automating complex tasks. This could potentially save countless hours and resources for businesses and academia alike.",
+    "title": "Ethical Implications of AI in Law Enforcement",
+    "description": "With AI becoming more prevalent in law enforcement, there are growing concerns about its ethical implications. Transparency and regulation are needed to prevent misuse.",
     "url": "#",
-    "source": "Tech Crunch",
-    "date": "November 30, 2021",
-    "category": "Tools"
+    "source": "The Washington Post",
+    "date": "June 18, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI Breakthrough in Climate Change Research",
-    "description": "Researchers have used AI to predict the impact of climate change with a degree of accuracy previously thought impossible. This development could be pivotal in the fight against global warming.",
+    "title": "AI Tools Transforming Graphic Design",
+    "description": "New AI-powered tools are changing the landscape of graphic design, making it more accessible and efficient. These advancements could democratize design and foster creativity.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "November 30, 2021",
-    "category": "Research"
+    "source": "TechCrunch",
+    "date": "June 18, 2022",
+    "category": "Tools"
   }
 ];
