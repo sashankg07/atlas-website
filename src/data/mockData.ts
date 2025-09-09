@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Designing Microchips",
-    "description": "Google's DeepMind has developed an AI that can design computer chips faster and more efficiently than humans. This breakthrough could revolutionize computer chip manufacturing.",
+    "title": "AI breakthrough: Machine Learning Model Predicts Alzheimer's with 94% Accuracy",
+    "description": "Scientists have developed an artificial intelligence model that can predict Alzheimer's disease with an accuracy of 94%. This breakthrough is expected to help in early diagnosis and treatment.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "June 18, 2022",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Helps Decipher Long Lost Languages",
-    "description": "Researchers have used artificial intelligence to translate ancient texts from lost languages. This could unlock the secrets of ancient civilizations.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "June 18, 2022",
+    "source": "New York Times",
+    "date": "September 26, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Healthcare: Predicting Disease Outbreaks",
-    "description": "Artificial Intelligence is being utilized to predict disease outbreaks, potentially saving countless lives. This technology could be key in preventing future pandemics.",
+    "title": "AI in Business: Walmart Uses AI to Improve Supply Chain Management",
+    "description": "Walmart has started using AI technology to enhance its supply chain management. The company aims to improve efficiency and reduce costs with this AI integration.",
     "url": "#",
-    "source": "BBC News",
-    "date": "June 18, 2022",
+    "source": "Forbes",
+    "date": "September 26, 2021",
     "category": "Business"
+  },
+  {
+    "title": "New AI Ethics Guidelines Released by IEEE",
+    "description": "The Institute of Electrical and Electronics Engineers (IEEE) has released new guidelines for ethical AI development. These guidelines aim to ensure that AI is developed and used in a manner that is beneficial and fair to all.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "September 26, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Implications of AI in Law Enforcement",
-    "description": "With AI becoming more prevalent in law enforcement, there are growing concerns about its ethical implications. Transparency and regulation are needed to prevent misuse.",
+    "title": "Google's DeepMind Develops AI That Can Understand Complex Protein Structures",
+    "description": "Google's AI lab, DeepMind, has created an AI model capable of understanding complex protein structures. This development could lead to significant breakthroughs in medical research and drug discovery.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "June 18, 2022",
-    "category": "Ethics"
+    "source": "BBC News",
+    "date": "September 26, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Tools Transforming Graphic Design",
-    "description": "New AI-powered tools are changing the landscape of graphic design, making it more accessible and efficient. These advancements could democratize design and foster creativity.",
+    "title": "OpenAI Introduces Codex, an AI-Powered Coding Assistant",
+    "description": "OpenAI has unveiled Codex, an AI-powered tool that can generate code in response to natural language prompts. This tool aims to assist both novice and experienced developers in coding tasks.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "June 18, 2022",
+    "date": "September 26, 2021",
     "category": "Tools"
   }
 ];
