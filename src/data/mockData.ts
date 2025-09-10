@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI breakthrough: Machine Learning Model Predicts Alzheimer's with 94% Accuracy",
-    "description": "Scientists have developed an artificial intelligence model that can predict Alzheimer's disease with an accuracy of 94%. This breakthrough is expected to help in early diagnosis and treatment.",
+    "title": "Breakthrough in AI Learning Speeds Sparks Revolution",
+    "description": "Researchers have reported a groundbreaking development in AI learning speeds, potentially revolutionizing numerous applications. The new technique nearly doubles the learning rate, allowing AI to adapt to changing scenarios more efficiently.",
     "url": "#",
-    "source": "New York Times",
-    "date": "September 26, 2021",
+    "source": "Nature",
+    "date": "September 29, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Business: Walmart Uses AI to Improve Supply Chain Management",
-    "description": "Walmart has started using AI technology to enhance its supply chain management. The company aims to improve efficiency and reduce costs with this AI integration.",
+    "title": "AI Helps Decipher Long-Lost Ancient Texts",
+    "description": "Artificial Intelligence technology has been employed to decipher ancient texts, giving researchers new insights into historical cultures. This novel application of AI opens up new possibilities for historical and linguistic research.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 26, 2021",
-    "category": "Business"
+    "source": "The New York Times",
+    "date": "September 29, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Ethics Guidelines Released by IEEE",
-    "description": "The Institute of Electrical and Electronics Engineers (IEEE) has released new guidelines for ethical AI development. These guidelines aim to ensure that AI is developed and used in a manner that is beneficial and fair to all.",
+    "title": "New AI Startup Revolutionizes E-Commerce",
+    "description": "A cutting-edge startup has developed an AI system that personalizes e-commerce experiences in real-time, significantly boosting sales conversions. This development could set a new standard in online retail.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 26, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "September 29, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Google's DeepMind Develops AI That Can Understand Complex Protein Structures",
-    "description": "Google's AI lab, DeepMind, has created an AI model capable of understanding complex protein structures. This development could lead to significant breakthroughs in medical research and drug discovery.",
+    "title": "AI Ethics Debate Intensifies Over Autonomous Weapons",
+    "description": "The debate over autonomous weapons systems and the role of AI in decision-making on the battlefield is intensifying. Critics warn of the potential dangers, while proponents argue for the reduced risk to human soldiers.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 26, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "September 29, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "OpenAI Introduces Codex, an AI-Powered Coding Assistant",
-    "description": "OpenAI has unveiled Codex, an AI-powered tool that can generate code in response to natural language prompts. This tool aims to assist both novice and experienced developers in coding tasks.",
+    "title": "New AI Tool Simplifies Data Analysis",
+    "description": "A new AI tool promises to make data analysis accessible to non-experts, democratizing the field. This innovative software uses AI to interpret and visualize complex data sets with ease.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 26, 2021",
+    "source": "Wired",
+    "date": "September 29, 2021",
     "category": "Tools"
   }
 ];
