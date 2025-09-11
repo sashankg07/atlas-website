@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Breakthrough in AI Learning Speeds Sparks Revolution",
-    "description": "Researchers have reported a groundbreaking development in AI learning speeds, potentially revolutionizing numerous applications. The new technique nearly doubles the learning rate, allowing AI to adapt to changing scenarios more efficiently.",
+    "title": "Groundbreaking AI Algorithm Predicts Climate Change Patterns",
+    "description": "Researchers have developed an AI model capable of predicting climate change patterns with unprecedented accuracy. This breakthrough could greatly assist in formulating proactive strategies to combat global warming.",
     "url": "#",
     "source": "Nature",
-    "date": "September 29, 2021",
+    "date": "October 25, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Helps Decipher Long-Lost Ancient Texts",
-    "description": "Artificial Intelligence technology has been employed to decipher ancient texts, giving researchers new insights into historical cultures. This novel application of AI opens up new possibilities for historical and linguistic research.",
-    "url": "#",
-    "source": "The New York Times",
-    "date": "September 29, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "New AI Startup Revolutionizes E-Commerce",
-    "description": "A cutting-edge startup has developed an AI system that personalizes e-commerce experiences in real-time, significantly boosting sales conversions. This development could set a new standard in online retail.",
+    "title": "AI-driven Customer Service Bots Revolutionize Retail Industry",
+    "description": "With the advent of sophisticated AI technologies, customer service bots are transforming the retail industry. Retailers are now able to provide personalized, 24/7 customer service, dramatically enhancing customer experience.",
     "url": "#",
     "source": "Forbes",
-    "date": "September 29, 2021",
+    "date": "October 25, 2021",
     "category": "Business"
+  },
+  {
+    "title": "AI Ethics Guidelines Need to Tackle Real-World Problems",
+    "description": "In the wake of rapidly evolving AI technologies, experts argue that AI ethics guidelines need to address pressing real-world issues, such as privacy, bias, and transparency, to ensure responsible AI development and use.",
+    "url": "#",
+    "source": "MIT Technology Review",
+    "date": "October 25, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Debate Intensifies Over Autonomous Weapons",
-    "description": "The debate over autonomous weapons systems and the role of AI in decision-making on the battlefield is intensifying. Critics warn of the potential dangers, while proponents argue for the reduced risk to human soldiers.",
+    "title": "AI Beats Humans at Popular Strategy Game",
+    "description": "A new AI model has achieved a milestone by outperforming humans in a popular strategy video game. This achievement represents a significant step forward in the development of AI capabilities.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 29, 2021",
-    "category": "Ethics"
+    "source": "The Verge",
+    "date": "October 25, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Simplifies Data Analysis",
-    "description": "A new AI tool promises to make data analysis accessible to non-experts, democratizing the field. This innovative software uses AI to interpret and visualize complex data sets with ease.",
+    "title": "New AI Tool Streamlines Machine Learning Process",
+    "description": "A newly developed AI tool promises to simplify the machine learning process, enabling even beginners to leverage AI. This tool has the potential to democratize access to AI technology.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 29, 2021",
+    "source": "TechCrunch",
+    "date": "October 25, 2021",
     "category": "Tools"
   }
 ];
