@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Algorithm Predicts Climate Change Patterns",
-    "description": "Researchers have developed an AI model capable of predicting climate change patterns with unprecedented accuracy. This breakthrough could greatly assist in formulating proactive strategies to combat global warming.",
+    "title": "A Breakthrough in AI Language Understanding with GPT-4",
+    "description": "OpenAI has unveiled GPT-4, the latest version of its AI language model, with unprecedented language understanding capabilities. The model boasts significant improvements in translation, dialogue, and text generation.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 25, 2021",
+    "source": "TechCrunch",
+    "date": "October 20, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-driven Customer Service Bots Revolutionize Retail Industry",
-    "description": "With the advent of sophisticated AI technologies, customer service bots are transforming the retail industry. Retailers are now able to provide personalized, 24/7 customer service, dramatically enhancing customer experience.",
+    "title": "AI Revolutionizing the Healthcare Industry Amid Pandemic",
+    "description": "AI tools are playing a critical role in combating the ongoing pandemic, from predicting virus mutations to aiding in vaccine distribution. Experts predict a lasting impact on the healthcare industry.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 25, 2021",
-    "category": "Business"
+    "source": "The New York Times",
+    "date": "October 20, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics Guidelines Need to Tackle Real-World Problems",
-    "description": "In the wake of rapidly evolving AI technologies, experts argue that AI ethics guidelines need to address pressing real-world issues, such as privacy, bias, and transparency, to ensure responsible AI development and use.",
+    "title": "Startup Develops AI to Streamline Supply Chain Management",
+    "description": "SupplyAI, a startup based in San Francisco, has developed an AI solution to optimize supply chain management. The tool promises to reduce inefficiencies and improve decision-making in the industry.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 25, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "October 20, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Beats Humans at Popular Strategy Game",
-    "description": "A new AI model has achieved a milestone by outperforming humans in a popular strategy video game. This achievement represents a significant step forward in the development of AI capabilities.",
+    "title": "Ethical Questions Arise from AI Facial Recognition",
+    "description": "The rise of AI facial recognition software has raised serious ethical concerns, including issues of privacy and racial bias. Policymakers are grappling with how to regulate this rapidly evolving technology.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 25, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "October 20, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Machine Learning Process",
-    "description": "A newly developed AI tool promises to simplify the machine learning process, enabling even beginners to leverage AI. This tool has the potential to democratize access to AI technology.",
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "A new AI-based tool developed by ClimateAI promises to provide accurate predictions of the impact of climate change. The tool aims to aid policymakers and businesses in making informed environmental decisions.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 25, 2021",
+    "source": "Nature",
+    "date": "October 20, 2022",
     "category": "Tools"
   }
 ];
