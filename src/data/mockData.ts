@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "A Breakthrough in AI Language Understanding with GPT-4",
-    "description": "OpenAI has unveiled GPT-4, the latest version of its AI language model, with unprecedented language understanding capabilities. The model boasts significant improvements in translation, dialogue, and text generation.",
+    "title": "AI Breaks New Ground in Climate Change Predictions",
+    "description": "Researchers have developed an advanced AI model that accurately predicts climate changes. The breakthrough could significantly improve our understanding of global warming trends.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 20, 2022",
+    "source": "Nature",
+    "date": "March 22, 2023",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizing the Healthcare Industry Amid Pandemic",
-    "description": "AI tools are playing a critical role in combating the ongoing pandemic, from predicting virus mutations to aiding in vaccine distribution. Experts predict a lasting impact on the healthcare industry.",
+    "title": "Revolutionizing Healthcare: AI in Disease Diagnosis",
+    "description": "A new artificial intelligence tool has shown promising results in diagnosing diseases at their early stages, potentially saving millions of lives and revolutionizing healthcare.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 20, 2022",
+    "date": "March 22, 2023",
     "category": "Technology"
   },
   {
-    "title": "Startup Develops AI to Streamline Supply Chain Management",
-    "description": "SupplyAI, a startup based in San Francisco, has developed an AI solution to optimize supply chain management. The tool promises to reduce inefficiencies and improve decision-making in the industry.",
+    "title": "Tech Giant Unveils AI-powered Virtual Assistant",
+    "description": "A leading tech company has unveiled a new AI-powered virtual assistant that promises to redefine customer service. The assistant can understand and respond to complex inquiries in real time.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 20, 2022",
+    "source": "TechCrunch",
+    "date": "March 22, 2023",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Questions Arise from AI Facial Recognition",
-    "description": "The rise of AI facial recognition software has raised serious ethical concerns, including issues of privacy and racial bias. Policymakers are grappling with how to regulate this rapidly evolving technology.",
+    "title": "AI in Criminal Justice: Ethical Implications",
+    "description": "The rise of AI in criminal justice has sparked significant ethical debates. Critics argue the technology could exacerbate systemic biases, while supporters highlight its potential to improve efficiency.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 20, 2022",
+    "date": "March 22, 2023",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Impact",
-    "description": "A new AI-based tool developed by ClimateAI promises to provide accurate predictions of the impact of climate change. The tool aims to aid policymakers and businesses in making informed environmental decisions.",
+    "title": "AI Tool Streamlines Software Development Process",
+    "description": "A new AI tool is making waves in the tech industry by streamlining the software development process. The tool uses machine learning to automate and optimize various aspects of coding.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 20, 2022",
+    "source": "Wired",
+    "date": "March 22, 2023",
     "category": "Tools"
   }
 ];
