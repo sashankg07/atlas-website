@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: A Machine that Understands Cause and Effect",
-    "description": "Researchers have developed a groundbreaking AI model that can understand cause and effect. This could revolutionize decision-making in many fields, from medicine to finance.",
+    "title": "Revolutionizing Healthcare: AI's Role in Pandemic Response",
+    "description": "AI has played a key role in responding to the COVID-19 pandemic, from tracking the virus to developing vaccines. Its predictive capabilities and data analysis have proven critical during these trying times.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 29, 2021",
+    "source": "The New York Times",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI Tool Transforms Text to Speech with Unprecedented Realism",
-    "description": "A pioneering tool uses AI to transform text into speech that is indistinguishable from a human speaker. This development could have significant implications for accessibility and communication technology.",
+    "title": "AI Takes the Wheel: Self-Driving Cars' Major Breakthrough",
+    "description": "With the recent advancements in AI, self-driving cars are closer to reality than ever before. Enhanced machine learning algorithms are ensuring safer and more efficient rides.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 29, 2021",
+    "source": "The Guardian",
+    "date": "September 30, 2022",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI to Enhance Cloud Computing",
-    "description": "A leading tech company has announced a multi-billion dollar investment in AI to improve its cloud computing services. The move is expected to accelerate the firm's growth and competitiveness in the tech market.",
+    "title": "AI in Retail: The Future of Shopping",
+    "description": "AI is transforming the retail sector, providing personalized experiences to consumers and streamlining business operations. The future of shopping is here, and it's powered by AI.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "September 29, 2021",
+    "source": "Forbes",
+    "date": "September 30, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics in Focus: Call for Regulations on Facial Recognition Technology",
-    "description": "In light of recent controversies, experts and activists are calling for stricter regulations on the use of facial recognition technology. The ethical implications of AI are becoming increasingly important as the technology advances.",
+    "title": "Striking a Balance: The Ethics of Facial Recognition Technology",
+    "description": "The widespread use of facial recognition technology raises ethical concerns. As AI continues to evolve, it's vital to ensure that it respects privacy and human rights.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 29, 2021",
+    "source": "The Washington Post",
+    "date": "September 30, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Innovative AI Tool Predicts Climate Change Impact",
-    "description": "A new AI tool can predict the impact of climate change on local environments with unprecedented accuracy. This tool could be crucial in helping policymakers make informed decisions about climate change mitigation.",
+    "title": "Empowering Creativity: AI in Graphic Design",
+    "description": "AI-powered tools are changing the landscape of graphic design, allowing designers to automate repetitive tasks and focus on creativity. The potential of AI in this field is enormous.",
     "url": "#",
-    "source": "Scientific American",
-    "date": "September 29, 2021",
+    "source": "Adobe Blog",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
