@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI's Role in Pandemic Response",
-    "description": "AI has played a key role in responding to the COVID-19 pandemic, from tracking the virus to developing vaccines. Its predictive capabilities and data analysis have proven critical during these trying times.",
+    "title": "AI Breaks New Ground in Protein Folding Problem",
+    "description": "Artificial intelligence has made a groundbreaking achievement in solving the complex protein folding problem. This breakthrough could pave the way for significant advancements in drug discovery and disease understanding.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 30, 2022",
+    "date": "March 22, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Takes the Wheel: Self-Driving Cars' Major Breakthrough",
-    "description": "With the recent advancements in AI, self-driving cars are closer to reality than ever before. Enhanced machine learning algorithms are ensuring safer and more efficient rides.",
+    "title": "AI-driven Personalized Education Surges in Popularity",
+    "description": "Artificial Intelligence is revolutionizing education by bringing personalized, adaptive learning to the forefront. This trend could reshape how we approach teaching and learning on a global scale.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 30, 2022",
+    "date": "March 22, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI in Retail: The Future of Shopping",
-    "description": "AI is transforming the retail sector, providing personalized experiences to consumers and streamlining business operations. The future of shopping is here, and it's powered by AI.",
+    "title": "AI Turns Up the Heat in the Fight Against Climate Change",
+    "description": "Recent developments in AI technology are being leveraged to combat climate change. Innovative startups are leading the charge with AI-powered solutions for predicting weather patterns and optimizing energy use.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 30, 2022",
+    "source": "TechCrunch",
+    "date": "March 22, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Striking a Balance: The Ethics of Facial Recognition Technology",
-    "description": "The widespread use of facial recognition technology raises ethical concerns. As AI continues to evolve, it's vital to ensure that it respects privacy and human rights.",
+    "title": "AI Ethics Debate Intensifies as Technology Proliferates",
+    "description": "As AI technology becomes more ubiquitous, the conversation on ethics and responsible AI use is gaining momentum. Policymakers and tech giants alike are grappling with the implications of AI-driven decision-making.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "September 30, 2022",
+    "source": "Washington Post",
+    "date": "March 22, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Empowering Creativity: AI in Graphic Design",
-    "description": "AI-powered tools are changing the landscape of graphic design, allowing designers to automate repetitive tasks and focus on creativity. The potential of AI in this field is enormous.",
+    "title": "New AI Tools Revolutionize Data Analysis",
+    "description": "In the rapidly evolving field of data science, AI tools are emerging as game-changers. These sophisticated tools are enabling data analysts to gain deeper insights and make more accurate predictions.",
     "url": "#",
-    "source": "Adobe Blog",
-    "date": "September 30, 2022",
+    "source": "Forbes",
+    "date": "March 22, 2022",
     "category": "Tools"
   }
 ];
