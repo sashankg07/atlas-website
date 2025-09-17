@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Protein Folding Problem",
-    "description": "Artificial intelligence has made a groundbreaking achievement in solving the complex protein folding problem. This breakthrough could pave the way for significant advancements in drug discovery and disease understanding.",
+    "title": "AI Sets New Record in Protein Folding Predictions",
+    "description": "Artificial intelligence has made a historic breakthrough in the field of biology by predicting the complex structure of proteins. The breakthrough has the potential to accelerate research in diseases, drug discovery, and more.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "March 22, 2022",
+    "source": "Nature Magazine",
+    "date": "December 01, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-driven Personalized Education Surges in Popularity",
-    "description": "Artificial Intelligence is revolutionizing education by bringing personalized, adaptive learning to the forefront. This trend could reshape how we approach teaching and learning on a global scale.",
+    "title": "AI Ethics Framework: A New Norm in Tech Companies",
+    "description": "More tech companies are implementing AI ethics frameworks to ensure the responsible use of artificial intelligence. This new norm aims to address issues such as bias, privacy, and transparency.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "March 22, 2022",
-    "category": "Technology"
+    "source": "The New York Times",
+    "date": "December 01, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Turns Up the Heat in the Fight Against Climate Change",
-    "description": "Recent developments in AI technology are being leveraged to combat climate change. Innovative startups are leading the charge with AI-powered solutions for predicting weather patterns and optimizing energy use.",
+    "title": "AI Revolutionizes the Retail Industry",
+    "description": "The retail sector is experiencing a digital transformation with the adoption of AI technologies. AI is being used for inventory management, customer service, and personalized marketing.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 22, 2022",
+    "source": "Forbes",
+    "date": "December 01, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Debate Intensifies as Technology Proliferates",
-    "description": "As AI technology becomes more ubiquitous, the conversation on ethics and responsible AI use is gaining momentum. Policymakers and tech giants alike are grappling with the implications of AI-driven decision-making.",
+    "title": "AI-Powered Drones: A Game-Changer for Delivery Services",
+    "description": "The use of AI in drones is revolutionizing delivery services, providing faster and more efficient options. Companies are now investing in drone technology for last-mile deliveries.",
     "url": "#",
-    "source": "Washington Post",
-    "date": "March 22, 2022",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "December 01, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tools Revolutionize Data Analysis",
-    "description": "In the rapidly evolving field of data science, AI tools are emerging as game-changers. These sophisticated tools are enabling data analysts to gain deeper insights and make more accurate predictions.",
+    "title": "New AI Tools to Streamline Software Development",
+    "description": "New AI-powered tools are making it easier for developers to write, review, and maintain code. These tools are streamlining the software development process by automating code generation, bug detection, and more.",
     "url": "#",
-    "source": "Forbes",
-    "date": "March 22, 2022",
+    "source": "Wired",
+    "date": "December 01, 2021",
     "category": "Tools"
   }
 ];
