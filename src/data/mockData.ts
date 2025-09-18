@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Sets New Record in Protein Folding Predictions",
-    "description": "Artificial intelligence has made a historic breakthrough in the field of biology by predicting the complex structure of proteins. The breakthrough has the potential to accelerate research in diseases, drug discovery, and more.",
+    "title": "Revolutionizing Medicine: AI Predicts Heart Failure",
+    "description": "Researchers have developed an AI that can predict heart failure with an impressive 98.5% accuracy. This could revolutionize the way we approach cardiac care.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "December 01, 2021",
+    "source": "MIT Technology Review",
+    "date": "September 21, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Ethics Framework: A New Norm in Tech Companies",
-    "description": "More tech companies are implementing AI ethics frameworks to ensure the responsible use of artificial intelligence. This new norm aims to address issues such as bias, privacy, and transparency.",
-    "url": "#",
-    "source": "The New York Times",
-    "date": "December 01, 2021",
-    "category": "Ethics"
-  },
-  {
-    "title": "AI Revolutionizes the Retail Industry",
-    "description": "The retail sector is experiencing a digital transformation with the adoption of AI technologies. AI is being used for inventory management, customer service, and personalized marketing.",
+    "title": "AI in Fashion: Sustainable Clothing and Personalized Shopping Experience",
+    "description": "AI is transforming the fashion industry by predicting trends, personalizing shopping experiences, and promoting sustainable practices.",
     "url": "#",
     "source": "Forbes",
-    "date": "December 01, 2021",
+    "date": "September 21, 2022",
     "category": "Business"
+  },
+  {
+    "title": "New AI Tool Predicts Crop Yields with Unprecedented Accuracy",
+    "description": "A new AI tool developed by scientists provides farmers with accurate crop yield predictions, aiding in better crop management and food production.",
+    "url": "#",
+    "source": "Nature",
+    "date": "September 21, 2022",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI-Powered Drones: A Game-Changer for Delivery Services",
-    "description": "The use of AI in drones is revolutionizing delivery services, providing faster and more efficient options. Companies are now investing in drone technology for last-mile deliveries.",
+    "title": "Cracking the AI Ethics Conundrum: New Framework Proposed",
+    "description": "Researchers propose a new framework for AI ethics, focusing on transparency, accountability, and inclusivity. The framework aims to address the ethical challenges posed by AI.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "December 01, 2021",
-    "category": "Technology"
+    "source": "Harvard Business Review",
+    "date": "September 21, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tools to Streamline Software Development",
-    "description": "New AI-powered tools are making it easier for developers to write, review, and maintain code. These tools are streamlining the software development process by automating code generation, bug detection, and more.",
+    "title": "AI Breakthrough: New Machine Learning Technique Unveiled",
+    "description": "A new machine learning technique that significantly reduces the need for large amounts of data for training AI models has been unveiled. This could be a game changer in the field of AI.",
     "url": "#",
-    "source": "Wired",
-    "date": "December 01, 2021",
-    "category": "Tools"
+    "source": "TechCrunch",
+    "date": "September 21, 2022",
+    "category": "Technology"
   }
 ];
