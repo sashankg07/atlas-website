@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine: AI Predicts Heart Failure",
-    "description": "Researchers have developed an AI that can predict heart failure with an impressive 98.5% accuracy. This could revolutionize the way we approach cardiac care.",
+    "title": "AI Predicts Alzheimer's Disease Years before Diagnosis",
+    "description": "Researchers have developed an AI tool that can predict Alzheimer's disease years before clinical diagnosis. The breakthrough could drastically improve early detection and treatment.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 21, 2022",
+    "source": "Nature",
+    "date": "September 27, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Fashion: Sustainable Clothing and Personalized Shopping Experience",
-    "description": "AI is transforming the fashion industry by predicting trends, personalizing shopping experiences, and promoting sustainable practices.",
+    "title": "AI in Smartphone Cameras Redefining Photography",
+    "description": "The use of AI in smartphone cameras is transforming the way people capture images. The technology is enabling features such as automatic scene detection and precision editing.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 21, 2022",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "September 27, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Predicts Crop Yields with Unprecedented Accuracy",
-    "description": "A new AI tool developed by scientists provides farmers with accurate crop yield predictions, aiding in better crop management and food production.",
+    "title": "Tesla's AI Day: Unveiling a Path towards Self-Driving Cars",
+    "description": "Elon Musk's Tesla unveiled plans to use AI to progress towards fully autonomous vehicles at their recent AI Day. The strategy includes the development of a humanoid robot for dangerous or repetitive tasks.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 21, 2022",
-    "category": "Tools"
+    "source": "Business Insider",
+    "date": "September 27, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Cracking the AI Ethics Conundrum: New Framework Proposed",
-    "description": "Researchers propose a new framework for AI ethics, focusing on transparency, accountability, and inclusivity. The framework aims to address the ethical challenges posed by AI.",
+    "title": "AI Ethics Under Scrutiny in European Union",
+    "description": "The European Union is revising its AI regulatory framework, placing a stronger emphasis on ethical considerations. The move aims to ensure AI technologies respect fundamental rights and values.",
     "url": "#",
-    "source": "Harvard Business Review",
-    "date": "September 21, 2022",
+    "source": "Reuters",
+    "date": "September 27, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Breakthrough: New Machine Learning Technique Unveiled",
-    "description": "A new machine learning technique that significantly reduces the need for large amounts of data for training AI models has been unveiled. This could be a game changer in the field of AI.",
+    "title": "New AI Tool Streamlines Machine Learning Model Building",
+    "description": "A recently launched AI tool promises to simplify the process of building machine learning models. The tool uses automation to ease the typically complex and time-consuming process.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 21, 2022",
-    "category": "Technology"
+    "source": "Wired",
+    "date": "September 27, 2021",
+    "category": "Tools"
   }
 ];
