@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Predicts Alzheimer's Disease Years before Diagnosis",
-    "description": "Researchers have developed an AI tool that can predict Alzheimer's disease years before clinical diagnosis. The breakthrough could drastically improve early detection and treatment.",
+    "title": "AI Breaks New Ground in Quantum Computing",
+    "description": "Researchers have developed an AI that can solve complex quantum computing problems, pushing the boundaries of what these futuristic machines can do. This development paves the way for vast improvements in computational power.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 27, 2021",
+    "source": "The New York Times",
+    "date": "October 07, 2022",
     "category": "Research"
   },
   {
-    "title": "AI in Smartphone Cameras Redefining Photography",
-    "description": "The use of AI in smartphone cameras is transforming the way people capture images. The technology is enabling features such as automatic scene detection and precision editing.",
+    "title": "AI Now Predicts Climate Change Patterns With Unprecedented Accuracy",
+    "description": "A new AI model is helping scientists predict climate change patterns with a level of precision previously thought impossible. This breakthrough could play a crucial role in our understanding of Earth's future climate.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 27, 2021",
+    "source": "The Guardian",
+    "date": "October 07, 2022",
     "category": "Technology"
   },
   {
-    "title": "Tesla's AI Day: Unveiling a Path towards Self-Driving Cars",
-    "description": "Elon Musk's Tesla unveiled plans to use AI to progress towards fully autonomous vehicles at their recent AI Day. The strategy includes the development of a humanoid robot for dangerous or repetitive tasks.",
+    "title": "Startup Uses AI to Revolutionize Supply Chain Management",
+    "description": "A promising startup is leveraging AI to optimize supply chains, helping businesses navigate the ongoing global logistics challenges. The technology promises to minimize disruptions and increase efficiency.",
     "url": "#",
     "source": "Business Insider",
-    "date": "September 27, 2021",
+    "date": "October 07, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Under Scrutiny in European Union",
-    "description": "The European Union is revising its AI regulatory framework, placing a stronger emphasis on ethical considerations. The move aims to ensure AI technologies respect fundamental rights and values.",
+    "title": "Ethical AI: The New Frontier in Technology Regulation",
+    "description": "As AI continues to play a larger role in our everyday lives, the ethics surrounding its use become more critical. Governments worldwide are now considering legislation to ensure AI development adheres to ethical standards.",
     "url": "#",
-    "source": "Reuters",
-    "date": "September 27, 2021",
+    "source": "The Washington Post",
+    "date": "October 07, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Machine Learning Model Building",
-    "description": "A recently launched AI tool promises to simplify the process of building machine learning models. The tool uses automation to ease the typically complex and time-consuming process.",
+    "title": "New AI Tool Transforms the World of Graphic Design",
+    "description": "A newly launched AI tool is set to transform graphic design, with capabilities to generate creative designs within seconds. It could democratize design by making it more accessible to non-professionals.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 27, 2021",
+    "source": "TechCrunch",
+    "date": "October 07, 2022",
     "category": "Tools"
   }
 ];
