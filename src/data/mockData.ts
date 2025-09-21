@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Quantum Computing",
-    "description": "Researchers have developed an AI that can solve complex quantum computing problems, pushing the boundaries of what these futuristic machines can do. This development paves the way for vast improvements in computational power.",
+    "title": "New AI Algorithm Transforms Healthcare Diagnostics",
+    "description": "Researchers have developed a groundbreaking AI algorithm capable of predicting disease outcomes with unprecedented accuracy. This development could revolutionize the healthcare industry by enhancing early detection and treatment planning.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 07, 2022",
+    "source": "The AI Journal",
+    "date": "November 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Now Predicts Climate Change Patterns With Unprecedented Accuracy",
-    "description": "A new AI model is helping scientists predict climate change patterns with a level of precision previously thought impossible. This breakthrough could play a crucial role in our understanding of Earth's future climate.",
+    "title": "AI-Powered Robots Set to Transform Manufacturing Industry",
+    "description": "AI technology is being integrated into industrial robots, promising a surge in productivity and efficiency in manufacturing sectors. This is anticipated to reshape workflows and redefine industry standards.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 07, 2022",
+    "source": "AI Daily",
+    "date": "November 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "Startup Uses AI to Revolutionize Supply Chain Management",
-    "description": "A promising startup is leveraging AI to optimize supply chains, helping businesses navigate the ongoing global logistics challenges. The technology promises to minimize disruptions and increase efficiency.",
+    "title": "AI Start-Up Secures $100 Million Investment for Expansion",
+    "description": "An AI start-up specializing in autonomous vehicles has recently secured a $100 million investment. The funding will be used to scale operations and explore new markets, marking a significant step in the company's growth.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 07, 2022",
+    "source": "AI Business News",
+    "date": "November 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: The New Frontier in Technology Regulation",
-    "description": "As AI continues to play a larger role in our everyday lives, the ethics surrounding its use become more critical. Governments worldwide are now considering legislation to ensure AI development adheres to ethical standards.",
+    "title": "Ethical Concerns Raised Over AI's Role in Law Enforcement",
+    "description": "Recent use of AI technology in law enforcement has sparked a debate about privacy and fairness. Critics argue that without proper checks and balances, AI could lead to potential bias and misuse.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "October 07, 2022",
+    "source": "AI Ethics Weekly",
+    "date": "November 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms the World of Graphic Design",
-    "description": "A newly launched AI tool is set to transform graphic design, with capabilities to generate creative designs within seconds. It could democratize design by making it more accessible to non-professionals.",
+    "title": "New Open-Source AI Tool Aims to Simplify Machine Learning",
+    "description": "A new open-source tool designed to simplify the process of building and deploying machine learning models has been launched. This tool will make AI technology more accessible and easier to implement across different sectors.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 07, 2022",
+    "source": "AI Tools Review",
+    "date": "November 30, 2021",
     "category": "Tools"
   }
 ];
