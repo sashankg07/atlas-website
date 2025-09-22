@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI Algorithm Transforms Healthcare Diagnostics",
-    "description": "Researchers have developed a groundbreaking AI algorithm capable of predicting disease outcomes with unprecedented accuracy. This development could revolutionize the healthcare industry by enhancing early detection and treatment planning.",
+    "title": "AI Revolutionizes Medical Diagnostics",
+    "description": "A new AI system has been developed that can diagnose diseases with higher accuracy than human doctors. This breakthrough could revolutionize the medical field, enabling quicker and more accurate patient care.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "November 30, 2021",
+    "source": "The New York Times",
+    "date": "November 06, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Robots Set to Transform Manufacturing Industry",
-    "description": "AI technology is being integrated into industrial robots, promising a surge in productivity and efficiency in manufacturing sectors. This is anticipated to reshape workflows and redefine industry standards.",
+    "title": "AI-Powered Robots: The Future of Manufacturing",
+    "description": "AI-powered robots are transforming the manufacturing industry by increasing efficiency and reducing errors. These robots are capable of learning and adapting to new tasks, making them a game changer in the industry.",
     "url": "#",
-    "source": "AI Daily",
-    "date": "November 30, 2021",
+    "source": "Forbes",
+    "date": "November 06, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-Up Secures $100 Million Investment for Expansion",
-    "description": "An AI start-up specializing in autonomous vehicles has recently secured a $100 million investment. The funding will be used to scale operations and explore new markets, marking a significant step in the company's growth.",
+    "title": "AI in Finance: The Next Big Wave of Innovation",
+    "description": "Financial institutions are increasingly turning to AI to improve their services and operations. From risk assessment to customer service, AI is proving to be a disruptive force in the finance sector.",
     "url": "#",
-    "source": "AI Business News",
-    "date": "November 30, 2021",
+    "source": "Financial Times",
+    "date": "November 06, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Raised Over AI's Role in Law Enforcement",
-    "description": "Recent use of AI technology in law enforcement has sparked a debate about privacy and fairness. Critics argue that without proper checks and balances, AI could lead to potential bias and misuse.",
+    "title": "Ethical Implications of AI in Surveillance",
+    "description": "As AI becomes more prevalent in surveillance systems, there are growing concerns about privacy and consent. Experts are calling for regulations to prevent misuse and protect individual rights.",
     "url": "#",
-    "source": "AI Ethics Weekly",
-    "date": "November 30, 2021",
+    "source": "The Guardian",
+    "date": "November 06, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New Open-Source AI Tool Aims to Simplify Machine Learning",
-    "description": "A new open-source tool designed to simplify the process of building and deploying machine learning models has been launched. This tool will make AI technology more accessible and easier to implement across different sectors.",
+    "title": "New AI Tools Transforming the Creative Industry",
+    "description": "AI tools are providing creatives with unprecedented capabilities, from AI-assisted design to content generation. These tools are not only enhancing creativity but also transforming the creative process itself.",
     "url": "#",
-    "source": "AI Tools Review",
-    "date": "November 30, 2021",
+    "source": "TechCrunch",
+    "date": "November 06, 2021",
     "category": "Tools"
   }
 ];
