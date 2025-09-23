@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Medical Diagnostics",
-    "description": "A new AI system has been developed that can diagnose diseases with higher accuracy than human doctors. This breakthrough could revolutionize the medical field, enabling quicker and more accurate patient care.",
+    "title": "New Breakthrough in AI Predicts Heart Disease",
+    "description": "Researchers have developed an AI model that can predict the onset of heart disease with unprecedented accuracy. This technology will revolutionize preventive care and save countless lives.",
     "url": "#",
     "source": "The New York Times",
-    "date": "November 06, 2021",
+    "date": "October 03, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Robots: The Future of Manufacturing",
-    "description": "AI-powered robots are transforming the manufacturing industry by increasing efficiency and reducing errors. These robots are capable of learning and adapting to new tasks, making them a game changer in the industry.",
+    "title": "Tech Giant Unveils AI-Driven Virtual Assistant",
+    "description": "A major tech company has launched a new AI-driven virtual assistant that can manage schedules, answer emails, and even make phone calls. The technology is set to redefine productivity in the digital age.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 06, 2021",
+    "source": "TechCrunch",
+    "date": "October 03, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI in Finance: The Next Big Wave of Innovation",
-    "description": "Financial institutions are increasingly turning to AI to improve their services and operations. From risk assessment to customer service, AI is proving to be a disruptive force in the finance sector.",
+    "title": "AI Startup Raises $100 Million in Series B Funding",
+    "description": "A promising AI startup has raised $100 million in a Series B funding round. The funds will be used to accelerate the development and deployment of their innovative machine learning platform.",
     "url": "#",
-    "source": "Financial Times",
-    "date": "November 06, 2021",
+    "source": "Forbes",
+    "date": "October 03, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Implications of AI in Surveillance",
-    "description": "As AI becomes more prevalent in surveillance systems, there are growing concerns about privacy and consent. Experts are calling for regulations to prevent misuse and protect individual rights.",
+    "title": "AI Ethics Committee Releases New Guidelines",
+    "description": "The International Committee on AI Ethics has released new guidelines to ensure the responsible development and use of artificial intelligence. The guidelines stress transparency, fairness, and accountability in AI applications.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 06, 2021",
+    "date": "October 03, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Transforming the Creative Industry",
-    "description": "AI tools are providing creatives with unprecedented capabilities, from AI-assisted design to content generation. These tools are not only enhancing creativity but also transforming the creative process itself.",
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "A new AI tool promises to streamline data analysis, making it easier for businesses to gain insights from large datasets. The tool leverages machine learning to automate and optimize data processing.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 06, 2021",
+    "source": "Wired",
+    "date": "October 03, 2022",
     "category": "Tools"
   }
 ];
