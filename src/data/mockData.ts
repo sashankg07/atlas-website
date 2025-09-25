@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI Algorithm Predicts Alzheimer's with Unprecedented Accuracy",
-    "description": "Researchers have developed a new AI algorithm capable of predicting the onset of Alzheimer's disease with an accuracy rate of over 99%. This groundbreaking technology could revolutionize early detection and treatment planning.",
+    "title": "AI Breakthrough: Revolutionary Machine Learning Algorithm Developed",
+    "description": "A team of researchers have developed a new machine learning algorithm that revolutionizes the way AI systems learn and adapt. This breakthrough could lead to more efficient and versatile AI applications.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 19, 2021",
+    "source": "The Science Daily",
+    "date": "November 25, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Beats Human Experts in Spotting Crop Diseases",
-    "description": "A new AI system developed by agritech firms outperforms human experts in identifying crop diseases, promising to significantly improve global food security.",
+    "title": "Tech Giant Announces New AI-Powered Product Suite",
+    "description": "A leading technology company has announced a new suite of AI-powered products aimed at improving productivity in the workplace. The products leverage AI to automate routine tasks and increase efficiency.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 19, 2021",
+    "source": "TechCrunch",
+    "date": "November 25, 2021",
     "category": "Technology"
   },
   {
-    "title": "Leading Tech Firm Launches AI-powered Customer Service Solution",
-    "description": "In a significant business move, a leading tech giant has launched an AI-powered customer service solution that promises to revolutionize the customer experience by providing quicker, more accurate responses.",
+    "title": "AI Startup Raises $100M in Series A Funding",
+    "description": "An AI startup specializing in healthcare solutions has raised $100 million in its Series A funding round. The funds will be used to further develop their AI-powered diagnostic tools.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "October 19, 2021",
+    "source": "Business Insider",
+    "date": "November 25, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: A Growing Concern in the Tech World",
-    "description": "As AI continues to evolve, ethical considerations about its use are coming to the forefront. Experts are calling for regulations and guidelines to ensure AI is used responsibly.",
+    "title": "New Report Highlights Ethical Concerns in AI",
+    "description": "A new report highlights the ethical concerns associated with AI, including privacy issues and biases in AI algorithms. It calls for stricter regulations and transparency in the AI industry.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 19, 2021",
+    "date": "November 25, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Sketches into Photorealistic Landscapes",
-    "description": "A new AI tool promises to redefine digital art by transforming simple sketches into stunning, photorealistic landscapes. The tool could change the way artists work, making digital art more accessible to everyone.",
+    "title": "New AI Tool Enables Real-Time Language Translation",
+    "description": "A new AI tool that enables real-time language translation has been launched, breaking down the language barriers in communication. The tool uses advanced AI algorithms to accurately translate text and speech in real time.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 19, 2021",
+    "source": "Wired",
+    "date": "November 25, 2021",
     "category": "Tools"
   }
 ];
