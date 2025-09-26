@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Revolutionary Machine Learning Algorithm Developed",
-    "description": "A team of researchers have developed a new machine learning algorithm that revolutionizes the way AI systems learn and adapt. This breakthrough could lead to more efficient and versatile AI applications.",
+    "title": "AI Breakthrough: Revolutionary Machine Learning Algorithm Unveiled",
+    "description": "Researchers have unveiled a revolutionary machine learning algorithm that can rapidly learn from minimal data inputs. This breakthrough could redefine the AI landscape, opening up new possibilities for its application across industries.",
     "url": "#",
-    "source": "The Science Daily",
-    "date": "November 25, 2021",
+    "source": "AI Daily",
+    "date": "November 10, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Announces New AI-Powered Product Suite",
-    "description": "A leading technology company has announced a new suite of AI-powered products aimed at improving productivity in the workplace. The products leverage AI to automate routine tasks and increase efficiency.",
+    "title": "AI Ethics: New Guidelines Released for Responsible AI Development",
+    "description": "A leading technology group has released new guidelines to foster responsible AI development. They aim to address concerns about fairness, transparency, and accountability in AI systems.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 25, 2021",
-    "category": "Technology"
+    "date": "November 10, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Startup Raises $100M in Series A Funding",
-    "description": "An AI startup specializing in healthcare solutions has raised $100 million in its Series A funding round. The funds will be used to further develop their AI-powered diagnostic tools.",
+    "title": "AI in Retail: How Artificial Intelligence is Transforming the Retail Industry",
+    "description": "From personalized shopping experiences to demand forecasting, AI is making a significant impact on the retail industry. Companies are leveraging AI to improve customer experiences and drive growth.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "November 25, 2021",
+    "source": "Forbes",
+    "date": "November 10, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Report Highlights Ethical Concerns in AI",
-    "description": "A new report highlights the ethical concerns associated with AI, including privacy issues and biases in AI algorithms. It calls for stricter regulations and transparency in the AI industry.",
+    "title": "New AI-Driven Tool Enhances Image Recognition",
+    "description": "A new AI-driven tool has been developed that significantly enhances image recognition capabilities. This tool will potentially revolutionize fields such as autonomous vehicles and healthcare.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 25, 2021",
-    "category": "Ethics"
+    "source": "Engadget",
+    "date": "November 10, 2021",
+    "category": "Tools"
   },
   {
-    "title": "New AI Tool Enables Real-Time Language Translation",
-    "description": "A new AI tool that enables real-time language translation has been launched, breaking down the language barriers in communication. The tool uses advanced AI algorithms to accurately translate text and speech in real time.",
+    "title": "AI Powers Next-Gen Quantum Computing",
+    "description": "AI is being leveraged to help solve complex problems in quantum computing. This integration promises to accelerate the development of quantum technologies and their practical applications.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 25, 2021",
-    "category": "Tools"
+    "source": "BBC Tech",
+    "date": "November 10, 2021",
+    "category": "Technology"
   }
 ];
