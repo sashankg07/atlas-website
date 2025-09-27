@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Revolutionary Machine Learning Algorithm Unveiled",
-    "description": "Researchers have unveiled a revolutionary machine learning algorithm that can rapidly learn from minimal data inputs. This breakthrough could redefine the AI landscape, opening up new possibilities for its application across industries.",
+    "title": "AI Breakthrough: Deep Learning Models Can Now Predict Earthquakes",
+    "description": "A team of researchers has developed new AI models capable of predicting earthquakes, potentially saving countless lives. The model uses deep learning algorithms to analyze seismic data and predict geological events.",
     "url": "#",
-    "source": "AI Daily",
-    "date": "November 10, 2021",
+    "source": "Nature",
+    "date": "November 23, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Ethics: New Guidelines Released for Responsible AI Development",
-    "description": "A leading technology group has released new guidelines to foster responsible AI development. They aim to address concerns about fairness, transparency, and accountability in AI systems.",
+    "title": "IBM Unveils AI-Driven Cloud Platform for Business",
+    "description": "IBM has launched a new AI-driven cloud platform aimed at helping businesses streamline operations. The platform leverages AI to automate processes and provide valuable insights.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 10, 2021",
-    "category": "Ethics"
+    "source": "Wall Street Journal",
+    "date": "November 23, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI in Retail: How Artificial Intelligence is Transforming the Retail Industry",
-    "description": "From personalized shopping experiences to demand forecasting, AI is making a significant impact on the retail industry. Companies are leveraging AI to improve customer experiences and drive growth.",
+    "title": "AI Ethics: The Urgency of Regulating Facial Recognition",
+    "description": "As facial recognition technology becomes more pervasive, calls for regulatory measures are growing louder. Experts argue that AI ethics should be at the forefront of technological development to prevent misuse and ensure privacy.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 10, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "November 23, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI-Driven Tool Enhances Image Recognition",
-    "description": "A new AI-driven tool has been developed that significantly enhances image recognition capabilities. This tool will potentially revolutionize fields such as autonomous vehicles and healthcare.",
+    "title": "NVIDIA Unveils New Tools for AI Developers",
+    "description": "NVIDIA has announced a suite of new tools for AI developers to optimize machine learning models. The tools will enable developers to create more efficient and accurate AI systems.",
     "url": "#",
-    "source": "Engadget",
-    "date": "November 10, 2021",
+    "source": "TechCrunch",
+    "date": "November 23, 2021",
     "category": "Tools"
   },
   {
-    "title": "AI Powers Next-Gen Quantum Computing",
-    "description": "AI is being leveraged to help solve complex problems in quantum computing. This integration promises to accelerate the development of quantum technologies and their practical applications.",
+    "title": "AI in Healthcare: Predicting Patient Outcomes with Deep Learning",
+    "description": "A recent study showcased the potential of AI in predicting patient outcomes in intensive care units. The AI system uses deep learning to analyze patient data and make predictions about health outcomes.",
     "url": "#",
-    "source": "BBC Tech",
-    "date": "November 10, 2021",
+    "source": "Healthcare IT News",
+    "date": "November 23, 2021",
     "category": "Technology"
   }
 ];
