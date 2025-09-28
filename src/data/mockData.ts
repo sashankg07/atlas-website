@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Deep Learning Models Can Now Predict Earthquakes",
-    "description": "A team of researchers has developed new AI models capable of predicting earthquakes, potentially saving countless lives. The model uses deep learning algorithms to analyze seismic data and predict geological events.",
+    "title": "AI Beats Humans at Chess, Poker and Now, Computer Programming",
+    "description": "Researchers at OpenAI have developed an AI model that can write code better than its human counterparts. This breakthrough could revolutionize software development in the near future.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 23, 2021",
+    "source": "New York Times",
+    "date": "December 17, 2021",
     "category": "Research"
   },
   {
-    "title": "IBM Unveils AI-Driven Cloud Platform for Business",
-    "description": "IBM has launched a new AI-driven cloud platform aimed at helping businesses streamline operations. The platform leverages AI to automate processes and provide valuable insights.",
-    "url": "#",
-    "source": "Wall Street Journal",
-    "date": "November 23, 2021",
-    "category": "Business"
-  },
-  {
-    "title": "AI Ethics: The Urgency of Regulating Facial Recognition",
-    "description": "As facial recognition technology becomes more pervasive, calls for regulatory measures are growing louder. Experts argue that AI ethics should be at the forefront of technological development to prevent misuse and ensure privacy.",
+    "title": "Google's New AI Tool Predicts Weather Patterns with Unprecedented Accuracy",
+    "description": "Google has developed a new AI tool that predicts weather patterns with an accuracy previously unseen. This tool could help in addressing the challenges presented by climate change.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 23, 2021",
-    "category": "Ethics"
+    "date": "December 17, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "Facebook's AI Investment Sees Significant Returns",
+    "description": "Facebook's significant investment in AI technology has seen exceptional returns, with AI-driven features boosting user engagement and ad revenue.",
+    "url": "#",
+    "source": "Wall Street Journal",
+    "date": "December 17, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "NVIDIA Unveils New Tools for AI Developers",
-    "description": "NVIDIA has announced a suite of new tools for AI developers to optimize machine learning models. The tools will enable developers to create more efficient and accurate AI systems.",
+    "title": "Ethical Concerns Raised Over AI's Role in Bias and Discrimination",
+    "description": "As AI technology becomes more prevalent, it brings along ethical concerns. Critics argue the technology can perpetuate bias and discrimination if not properly managed.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 23, 2021",
-    "category": "Tools"
+    "source": "The Economist",
+    "date": "December 17, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI in Healthcare: Predicting Patient Outcomes with Deep Learning",
-    "description": "A recent study showcased the potential of AI in predicting patient outcomes in intensive care units. The AI system uses deep learning to analyze patient data and make predictions about health outcomes.",
+    "title": "Microsoft Introduces New AI Debugging Tool",
+    "description": "Microsoft has launched a new AI-driven tool that assists developers in debugging their code more efficiently. The tool promises to significantly reduce debugging time and improve productivity.",
     "url": "#",
-    "source": "Healthcare IT News",
-    "date": "November 23, 2021",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "December 17, 2021",
+    "category": "Tools"
   }
 ];
