@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Beats Humans at Chess, Poker and Now, Computer Programming",
-    "description": "Researchers at OpenAI have developed an AI model that can write code better than its human counterparts. This breakthrough could revolutionize software development in the near future.",
+    "title": "AI Breaks New Ground in Drug Discovery",
+    "description": "Scientists have utilized artificial intelligence to discover a novel drug compound. This paves the way for faster, more efficient drug discovery in the future.",
     "url": "#",
-    "source": "New York Times",
-    "date": "December 17, 2021",
+    "source": "Nature Biotechnology",
+    "date": "September 27, 2022",
     "category": "Research"
   },
   {
-    "title": "Google's New AI Tool Predicts Weather Patterns with Unprecedented Accuracy",
-    "description": "Google has developed a new AI tool that predicts weather patterns with an accuracy previously unseen. This tool could help in addressing the challenges presented by climate change.",
+    "title": "AI Driven Drones Aid in Firefighting Efforts",
+    "description": "Firefighters are beginning to employ AI-driven drone technology to help combat wildfires. The drones use AI to detect and track fires, significantly improving response times.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 17, 2021",
+    "source": "MIT Technology Review",
+    "date": "September 27, 2022",
     "category": "Technology"
   },
   {
-    "title": "Facebook's AI Investment Sees Significant Returns",
-    "description": "Facebook's significant investment in AI technology has seen exceptional returns, with AI-driven features boosting user engagement and ad revenue.",
+    "title": "AI Startup Raises $100M to Revolutionize Customer Service",
+    "description": "An AI startup has raised $100 million in Series C funding to develop an AI-powered customer service platform. The platform is predicted to drastically improve customer service efficiency and quality.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "December 17, 2021",
+    "source": "Business Insider",
+    "date": "September 27, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Raised Over AI's Role in Bias and Discrimination",
-    "description": "As AI technology becomes more prevalent, it brings along ethical concerns. Critics argue the technology can perpetuate bias and discrimination if not properly managed.",
+    "title": "Ethical Considerations in AI Facial Recognition",
+    "description": "As AI-powered facial recognition technology advances, so do concerns about its ethical implications. Experts call for increased regulation to protect individual privacy rights.",
     "url": "#",
-    "source": "The Economist",
-    "date": "December 17, 2021",
+    "source": "The Guardian",
+    "date": "September 27, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Microsoft Introduces New AI Debugging Tool",
-    "description": "Microsoft has launched a new AI-driven tool that assists developers in debugging their code more efficiently. The tool promises to significantly reduce debugging time and improve productivity.",
+    "title": "New AI Development Tools Accelerate Machine Learning Projects",
+    "description": "A new suite of AI development tools promises to simplify and accelerate machine learning projects. The tools aim to make AI more accessible to developers of all skill levels.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "December 17, 2021",
+    "source": "The Verge",
+    "date": "September 27, 2022",
     "category": "Tools"
   }
 ];
