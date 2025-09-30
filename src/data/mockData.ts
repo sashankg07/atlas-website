@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Drug Discovery",
-    "description": "Scientists have utilized artificial intelligence to discover a novel drug compound. This paves the way for faster, more efficient drug discovery in the future.",
+    "title": "AI Breakthrough: Machine Learning Models Now Predict Climate Change Impact",
+    "description": "In a significant development, AI researchers have deployed machine learning models to predict climate change effects with unprecedented accuracy. These models are expected to play a crucial role in planning and mitigating future climate risks.",
     "url": "#",
-    "source": "Nature Biotechnology",
-    "date": "September 27, 2022",
+    "source": "The New York Times",
+    "date": "April 02, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Driven Drones Aid in Firefighting Efforts",
-    "description": "Firefighters are beginning to employ AI-driven drone technology to help combat wildfires. The drones use AI to detect and track fires, significantly improving response times.",
+    "title": "Tech Giant Launches New AI Toolset for Developers",
+    "description": "In a bid to simplify AI development, a leading Tech company has unveiled an innovative toolkit for AI developers. The toolkit is designed to streamline the process of building, training, and deploying AI models.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 27, 2022",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "April 02, 2022",
+    "category": "Tools"
   },
   {
-    "title": "AI Startup Raises $100M to Revolutionize Customer Service",
-    "description": "An AI startup has raised $100 million in Series C funding to develop an AI-powered customer service platform. The platform is predicted to drastically improve customer service efficiency and quality.",
+    "title": "AI in Healthcare: Revolutionizing Disease Detection",
+    "description": "AI is transforming healthcare with state-of-the-art disease detection algorithms. These advanced systems are enabling early detection of diseases, significantly improving patient outcomes.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 27, 2022",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "April 02, 2022",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI Facial Recognition",
-    "description": "As AI-powered facial recognition technology advances, so do concerns about its ethical implications. Experts call for increased regulation to protect individual privacy rights.",
+    "title": "AI Ethics: Balancing Innovation and Regulation",
+    "description": "As AI continues to evolve, ethical considerations are coming to the forefront. Experts are calling for a balance between innovation and regulatory measures to ensure responsible use of AI.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 27, 2022",
+    "date": "April 02, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Development Tools Accelerate Machine Learning Projects",
-    "description": "A new suite of AI development tools promises to simplify and accelerate machine learning projects. The tools aim to make AI more accessible to developers of all skill levels.",
+    "title": "AI Investments Soar as Businesses Seek Competitive Edge",
+    "description": "Corporate investments in AI are skyrocketing as businesses seek to harness the power of AI for a competitive edge. AI is increasingly seen as a key driver of business innovation and growth.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 27, 2022",
-    "category": "Tools"
+    "source": "Forbes",
+    "date": "April 02, 2022",
+    "category": "Business"
   }
 ];
