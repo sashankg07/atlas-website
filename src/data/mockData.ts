@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Models Now Predict Climate Change Impact",
-    "description": "In a significant development, AI researchers have deployed machine learning models to predict climate change effects with unprecedented accuracy. These models are expected to play a crucial role in planning and mitigating future climate risks.",
+    "title": "Revolutionary AI Algorithm Predicts Climate Change Impact",
+    "description": "A groundbreaking AI model developed by scientists accurately predicts the impact of climate change on a global scale. The technology is set to play a pivotal role in helping policymakers make informed decisions.",
     "url": "#",
     "source": "The New York Times",
-    "date": "April 02, 2022",
+    "date": "November 24, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Launches New AI Toolset for Developers",
-    "description": "In a bid to simplify AI development, a leading Tech company has unveiled an innovative toolkit for AI developers. The toolkit is designed to streamline the process of building, training, and deploying AI models.",
+    "title": "AI-Powered Robots Transforming the Retail Industry",
+    "description": "As the holiday season nears, retailers are turning to AI-powered robots to manage inventory and streamline operations. These robots are set to reshape the future of the retail industry.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "April 02, 2022",
-    "category": "Tools"
+    "source": "The Wall Street Journal",
+    "date": "November 24, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI in Healthcare: Revolutionizing Disease Detection",
-    "description": "AI is transforming healthcare with state-of-the-art disease detection algorithms. These advanced systems are enabling early detection of diseases, significantly improving patient outcomes.",
+    "title": "New AI Tool Detects Deepfakes with 96% Accuracy",
+    "description": "A new tool harnessing the power of AI can detect deepfake content with an accuracy rate of 96%. This development is a major step forward in the fight against digital disinformation.",
     "url": "#",
-    "source": "BBC News",
-    "date": "April 02, 2022",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "November 24, 2021",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Balancing Innovation and Regulation",
-    "description": "As AI continues to evolve, ethical considerations are coming to the forefront. Experts are calling for a balance between innovation and regulatory measures to ensure responsible use of AI.",
+    "title": "The Ethics of AI: Ensuring Fairness in Machine Learning",
+    "description": "Recent discussions focus on the ethical implications of AI, particularly in ensuring fairness and transparency in machine learning models. Experts call for robust regulations to prevent bias and discrimination.",
     "url": "#",
     "source": "The Guardian",
-    "date": "April 02, 2022",
+    "date": "November 24, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Investments Soar as Businesses Seek Competitive Edge",
-    "description": "Corporate investments in AI are skyrocketing as businesses seek to harness the power of AI for a competitive edge. AI is increasingly seen as a key driver of business innovation and growth.",
+    "title": "AI Tech Pioneers New Breakthrough in Cancer Diagnosis",
+    "description": "A newly developed AI technology promises a breakthrough in early cancer diagnosis, potentially saving millions of lives. The AI system can detect cancer cells at an early stage with remarkable accuracy.",
     "url": "#",
-    "source": "Forbes",
-    "date": "April 02, 2022",
-    "category": "Business"
+    "source": "Washington Post",
+    "date": "November 24, 2021",
+    "category": "Technology"
   }
 ];
