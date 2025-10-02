@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Algorithm Predicts Climate Change Impact",
-    "description": "A groundbreaking AI model developed by scientists accurately predicts the impact of climate change on a global scale. The technology is set to play a pivotal role in helping policymakers make informed decisions.",
+    "title": "AI Breaks New Ground in Protein Folding Predictions",
+    "description": "A recent development in AI has allowed for significant advances in predicting protein folding. This breakthrough has the potential to revolutionize drug discovery and disease understanding.",
     "url": "#",
     "source": "The New York Times",
-    "date": "November 24, 2021",
+    "date": "September 29, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Robots Transforming the Retail Industry",
-    "description": "As the holiday season nears, retailers are turning to AI-powered robots to manage inventory and streamline operations. These robots are set to reshape the future of the retail industry.",
+    "title": "AI and Ethics: The Implications of Facial Recognition Technology",
+    "description": "As AI continues to advance, facial recognition technology has raised questions about privacy and ethics. Advocates argue for its potential benefits, while critics worry about surveillance and bias.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "November 24, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "September 29, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tool Detects Deepfakes with 96% Accuracy",
-    "description": "A new tool harnessing the power of AI can detect deepfake content with an accuracy rate of 96%. This development is a major step forward in the fight against digital disinformation.",
+    "title": "A New Era of AI in Business: Automating Decision-making",
+    "description": "AI is transforming the business landscape by automating decision-making processes. This trend allows businesses to make more informed decisions, drive efficiency, and boost productivity.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 24, 2021",
-    "category": "Tools"
+    "source": "Forbes",
+    "date": "September 29, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethics of AI: Ensuring Fairness in Machine Learning",
-    "description": "Recent discussions focus on the ethical implications of AI, particularly in ensuring fairness and transparency in machine learning models. Experts call for robust regulations to prevent bias and discrimination.",
+    "title": "AI Revolutionizes Climate Change Predictions",
+    "description": "Artificial Intelligence is enhancing climate change predictions with more precise models. These advancements could significantly impact policy-making and climate action strategies.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 24, 2021",
-    "category": "Ethics"
+    "source": "BBC News",
+    "date": "September 29, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Tech Pioneers New Breakthrough in Cancer Diagnosis",
-    "description": "A newly developed AI technology promises a breakthrough in early cancer diagnosis, potentially saving millions of lives. The AI system can detect cancer cells at an early stage with remarkable accuracy.",
+    "title": "OpenAI Releases New Language Model API",
+    "description": "OpenAI has released a new API for its language model, promising improved performance and versatility. The tool is expected to revolutionize natural language processing tasks.",
     "url": "#",
-    "source": "Washington Post",
-    "date": "November 24, 2021",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "September 29, 2021",
+    "category": "Tools"
   }
 ];
