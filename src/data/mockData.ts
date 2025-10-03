@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Protein Folding Predictions",
-    "description": "A recent development in AI has allowed for significant advances in predicting protein folding. This breakthrough has the potential to revolutionize drug discovery and disease understanding.",
+    "title": "AI Revolutionizes Medical Diagnosis with Incredible Accuracy",
+    "description": "Recent advancements in AI technology have led to breakthroughs in medical diagnostics, with AI models outperforming human doctors in certain tests. This technological leap could revolutionize healthcare, making diagnostics faster, more accurate, and cost-effective.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 29, 2021",
-    "category": "Research"
+    "date": "October 29, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI and Ethics: The Implications of Facial Recognition Technology",
-    "description": "As AI continues to advance, facial recognition technology has raised questions about privacy and ethics. Advocates argue for its potential benefits, while critics worry about surveillance and bias.",
+    "title": "AI Ethics: Balancing Innovation and Regulation",
+    "description": "As AI becomes more pervasive, ethical concerns surrounding its use continue to mount. Policymakers and technologists are grappling to find the right balance between fostering innovation and ensuring ethical use of AI.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 29, 2021",
+    "date": "October 29, 2021",
     "category": "Ethics"
   },
   {
-    "title": "A New Era of AI in Business: Automating Decision-making",
-    "description": "AI is transforming the business landscape by automating decision-making processes. This trend allows businesses to make more informed decisions, drive efficiency, and boost productivity.",
+    "title": "AI Tools Pave the Way for Autonomous Vehicles",
+    "description": "Innovative AI tools are fast-tracking the development of autonomous vehicles. These tools are enhancing vehicle perception capabilities and decision-making processes, bringing us closer to the reality of self-driving cars.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 29, 2021",
-    "category": "Business"
+    "source": "Wired",
+    "date": "October 29, 2021",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Climate Change Predictions",
-    "description": "Artificial Intelligence is enhancing climate change predictions with more precise models. These advancements could significantly impact policy-making and climate action strategies.",
+    "title": "How AI is Transforming the Business Landscape",
+    "description": "Artificial Intelligence is not just a buzzword anymore. It's dramatically reshaping the way companies operate, from automating routine tasks to delivering personalized customer experiences.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 29, 2021",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "October 29, 2021",
+    "category": "Business"
   },
   {
-    "title": "OpenAI Releases New Language Model API",
-    "description": "OpenAI has released a new API for its language model, promising improved performance and versatility. The tool is expected to revolutionize natural language processing tasks.",
+    "title": "AI Research Unveils Next-Gen Machine Learning Models",
+    "description": "Researchers have developed advanced machine learning models that promise to significantly improve AI capabilities. These models are capable of learning more complex patterns and making more accurate predictions.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 29, 2021",
-    "category": "Tools"
+    "source": "Nature",
+    "date": "October 29, 2021",
+    "category": "Research"
   }
 ];
