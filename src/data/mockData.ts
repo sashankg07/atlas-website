@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Medical Diagnosis with Incredible Accuracy",
-    "description": "Recent advancements in AI technology have led to breakthroughs in medical diagnostics, with AI models outperforming human doctors in certain tests. This technological leap could revolutionize healthcare, making diagnostics faster, more accurate, and cost-effective.",
+    "title": "AI Breakthrough: IBM Unveils AI That Can Code",
+    "description": "IBM has made a groundbreaking announcement about the development of a new AI technology that can write its own code. This revolutionary platform may redefine the software industry and how coding is done.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 29, 2021",
+    "source": "IBM News Room",
+    "date": "March 01, 2023",
     "category": "Technology"
   },
   {
-    "title": "AI Ethics: Balancing Innovation and Regulation",
-    "description": "As AI becomes more pervasive, ethical concerns surrounding its use continue to mount. Policymakers and technologists are grappling to find the right balance between fostering innovation and ensuring ethical use of AI.",
+    "title": "AI Outperforms Radiologists in Lung Cancer Detection",
+    "description": "Researchers have developed an AI system that can detect lung cancer with greater accuracy than human radiologists. This breakthrough could drastically improve early detection and treatment outcomes.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 29, 2021",
-    "category": "Ethics"
+    "source": "Science Daily",
+    "date": "March 01, 2023",
+    "category": "Research"
   },
   {
-    "title": "AI Tools Pave the Way for Autonomous Vehicles",
-    "description": "Innovative AI tools are fast-tracking the development of autonomous vehicles. These tools are enhancing vehicle perception capabilities and decision-making processes, bringing us closer to the reality of self-driving cars.",
+    "title": "Microsoft Acquires AI Startup to Boost Cloud Services",
+    "description": "Microsoft has announced the acquisition of a promising AI startup to enhance its Azure cloud services. The acquisition signifies the growing role of AI in the business and corporate world.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 29, 2021",
-    "category": "Tools"
+    "source": "TechCrunch",
+    "date": "March 01, 2023",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "How AI is Transforming the Business Landscape",
-    "description": "Artificial Intelligence is not just a buzzword anymore. It's dramatically reshaping the way companies operate, from automating routine tasks to delivering personalized customer experiences.",
+    "title": "New AI Ethics Guidelines Released by EU",
+    "description": "The European Union has released a new set of guidelines focusing on ethical considerations in AI developments. These rules aim to ensure the responsible use of AI and protect citizens' rights.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 29, 2021",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "March 01, 2023",
+    "category": "Ethics"
   },
   {
-    "title": "AI Research Unveils Next-Gen Machine Learning Models",
-    "description": "Researchers have developed advanced machine learning models that promise to significantly improve AI capabilities. These models are capable of learning more complex patterns and making more accurate predictions.",
+    "title": "Google Introduces New AI-Based Tools for Cybersecurity",
+    "description": "Google has announced the launch of new AI-powered tools to enhance cybersecurity. These tools are designed to detect and prevent cyber threats more effectively.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 29, 2021",
-    "category": "Research"
+    "source": "CNET",
+    "date": "March 01, 2023",
+    "category": "Tools"
   }
 ];
