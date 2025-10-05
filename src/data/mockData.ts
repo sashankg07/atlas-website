@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: IBM Unveils AI That Can Code",
-    "description": "IBM has made a groundbreaking announcement about the development of a new AI technology that can write its own code. This revolutionary platform may redefine the software industry and how coding is done.",
+    "title": "AI Transforms Medical Imaging with Unprecedented Accuracy",
+    "description": "Researchers have developed a new AI model that significantly enhances the precision and speed of medical imaging, promising breakthroughs in diagnosis and treatment. The model uses deep learning to provide detailed images in seconds.",
     "url": "#",
-    "source": "IBM News Room",
-    "date": "March 01, 2023",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Outperforms Radiologists in Lung Cancer Detection",
-    "description": "Researchers have developed an AI system that can detect lung cancer with greater accuracy than human radiologists. This breakthrough could drastically improve early detection and treatment outcomes.",
-    "url": "#",
-    "source": "Science Daily",
-    "date": "March 01, 2023",
+    "source": "The New York Times",
+    "date": "October 20, 2021",
     "category": "Research"
   },
   {
-    "title": "Microsoft Acquires AI Startup to Boost Cloud Services",
-    "description": "Microsoft has announced the acquisition of a promising AI startup to enhance its Azure cloud services. The acquisition signifies the growing role of AI in the business and corporate world.",
+    "title": "AI Startup Raises $100M to Revolutionize eCommerce",
+    "description": "An AI startup has raised $100 million in Series C funding to develop sophisticated AI-powered tools that will revolutionize the eCommerce industry. The tools will provide customers with personalized shopping experiences based on their preferences and behaviors.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "October 20, 2021",
+    "category": "Business"
+  },
+  {
+    "title": "AI Ethics Guidelines: A Step Towards Responsible AI",
+    "description": "A group of top tech firms have released comprehensive guidelines for AI ethics, aiming to ensure the responsible use of AI technologies. The guidelines focus on fairness, privacy, accountability and transparency in AI applications.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "March 01, 2023",
-    "category": "Business"
+    "date": "October 20, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Ethics Guidelines Released by EU",
-    "description": "The European Union has released a new set of guidelines focusing on ethical considerations in AI developments. These rules aim to ensure the responsible use of AI and protect citizens' rights.",
+    "title": "New AI Tool Predicts Climate Change Patterns",
+    "description": "A groundbreaking AI tool has been developed that can accurately predict climate change patterns and their impact on the environment. The tool uses machine learning algorithms to analyze vast amounts of data collected from weather stations worldwide.",
     "url": "#",
     "source": "BBC News",
-    "date": "March 01, 2023",
-    "category": "Ethics"
+    "date": "October 20, 2021",
+    "category": "Technology"
   },
   {
-    "title": "Google Introduces New AI-Based Tools for Cybersecurity",
-    "description": "Google has announced the launch of new AI-powered tools to enhance cybersecurity. These tools are designed to detect and prevent cyber threats more effectively.",
+    "title": "AI Beats Humans in Complex Strategy Game",
+    "description": "In a significant milestone for artificial intelligence, a new AI system has outperformed human players in a complex strategy game. This marks another step forward in the development of AI systems capable of strategic decision-making.",
     "url": "#",
-    "source": "CNET",
-    "date": "March 01, 2023",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "October 20, 2021",
+    "category": "Research"
   }
 ];
