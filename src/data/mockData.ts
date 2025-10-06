@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Transforms Medical Imaging with Unprecedented Accuracy",
-    "description": "Researchers have developed a new AI model that significantly enhances the precision and speed of medical imaging, promising breakthroughs in diagnosis and treatment. The model uses deep learning to provide detailed images in seconds.",
+    "title": "Revolutionary AI Model Predicts Future Climate Patterns",
+    "description": "Researchers have developed a novel AI model that can predict future climate patterns with unprecedented accuracy. This could provide critical insights for mitigating climate change.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 20, 2021",
+    "source": "Nature",
+    "date": "July 08, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Startup Raises $100M to Revolutionize eCommerce",
-    "description": "An AI startup has raised $100 million in Series C funding to develop sophisticated AI-powered tools that will revolutionize the eCommerce industry. The tools will provide customers with personalized shopping experiences based on their preferences and behaviors.",
+    "title": "Tech Giant Unveils Advanced AI Chip",
+    "description": "A leading technology company has unveiled a new AI chip, set to significantly increase processing speed and power efficiency. The chip is predicted to transform the fields of machine learning and data science.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 20, 2021",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "July 08, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics Guidelines: A Step Towards Responsible AI",
-    "description": "A group of top tech firms have released comprehensive guidelines for AI ethics, aiming to ensure the responsible use of AI technologies. The guidelines focus on fairness, privacy, accountability and transparency in AI applications.",
+    "title": "AI Startup Raises $100 million in Series B Funding",
+    "description": "An AI startup specializing in healthcare solutions has raised $100 million in Series B funding. The funding will be used to enhance its cutting-edge machine learning algorithms and expand its global reach.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 20, 2021",
-    "category": "Ethics"
+    "date": "July 08, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Predicts Climate Change Patterns",
-    "description": "A groundbreaking AI tool has been developed that can accurately predict climate change patterns and their impact on the environment. The tool uses machine learning algorithms to analyze vast amounts of data collected from weather stations worldwide.",
-    "url": "#",
-    "source": "BBC News",
-    "date": "October 20, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Beats Humans in Complex Strategy Game",
-    "description": "In a significant milestone for artificial intelligence, a new AI system has outperformed human players in a complex strategy game. This marks another step forward in the development of AI systems capable of strategic decision-making.",
+    "title": "New Ethical Guidelines for AI Development Proposed",
+    "description": "A global consortium of AI researchers has proposed a new set of ethical guidelines for AI development. The guidelines aim to address issues of transparency, bias, and privacy in AI systems.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 20, 2021",
-    "category": "Research"
+    "date": "July 08, 2022",
+    "category": "Ethics"
+  },
+  {
+    "title": "AI Toolkit for Deep Learning Released",
+    "description": "A new AI toolkit for deep learning has been released. The toolkit offers several innovative features that simplify the process of developing and training neural networks.",
+    "url": "#",
+    "source": "Wired",
+    "date": "July 08, 2022",
+    "category": "Tools"
   }
 ];
