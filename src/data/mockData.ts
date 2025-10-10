@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Models Can Now Predict Climate Change",
-    "description": "Scientists have successfully trained artificial intelligence models to accurately predict climate change patterns. This revolutionary development could play a pivotal role in environmental policy decisions.",
+    "title": "Major Breakthrough in AI Language Understanding: The Rise of GPT-3",
+    "description": "OpenAI's GPT-3 has revolutionized the field of natural language processing with its impressive language understanding capabilities. It can write essays, answer questions, and even write software code.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 05, 2021",
+    "source": "The Verge",
+    "date": "September 29, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Invest Big in AI for Healthcare",
-    "description": "Major tech companies, including Google and Microsoft, are investing heavily in AI-driven healthcare solutions. These investments hold promise for personalized medicine and improved patient care.",
+    "title": "AI in Healthcare: New Developments in Diagnosing Diseases",
+    "description": "Advanced AI algorithms are now being used to accurately diagnose a variety of diseases, potentially leading to early detection and better patient outcomes.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 05, 2021",
-    "category": "Business"
+    "source": "Medical News Today",
+    "date": "September 29, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics: Addressing Bias in Machine Learning Systems",
-    "description": "An international team of researchers has proposed new guidelines to tackle inherent biases in AI systems. The guidelines aim to ensure that AI technologies are developed and used in an ethical and fair manner.",
+    "title": "AI and Ethics: The Ongoing Debate on AI Fairness",
+    "description": "As AI continues to integrate into society, the debate on its ethical implications intensifies. Key issues include data privacy, algorithmic fairness, and the digital divide.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 05, 2021",
+    "source": "The Guardian",
+    "date": "September 29, 2022",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Transforms Text into Realistic Speech",
-    "description": "A new AI tool is revolutionizing text-to-speech technology. The tool generates human-like speech, greatly enhancing user experience for audio content consumers.",
+    "title": "Microsoft Acquires AI Startup to Improve Cloud Capabilities",
+    "description": "Microsoft has acquired an AI startup to further bolster its cloud capabilities. The move is seen as a strategic step to compete with other tech giants in the booming cloud market.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 05, 2021",
-    "category": "Tools"
+    "date": "September 29, 2022",
+    "category": "Business"
   },
   {
-    "title": "AI and Quantum Computing: A New Frontier",
-    "description": "Researchers are exploring the intersection of AI and quantum computing, pushing the limits of what's possible in machine learning. The development holds tremendous potential for solving complex problems.",
+    "title": "New AI Tools to Boost Image Recognition Accuracy",
+    "description": "Emerging AI tools are enhancing image recognition capabilities, opening new possibilities in fields like security, retail, and healthcare.",
     "url": "#",
     "source": "Wired",
-    "date": "November 05, 2021",
-    "category": "Technology"
+    "date": "September 29, 2022",
+    "category": "Tools"
   }
 ];
