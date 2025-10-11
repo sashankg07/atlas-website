@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Major Breakthrough in AI Language Understanding: The Rise of GPT-3",
-    "description": "OpenAI's GPT-3 has revolutionized the field of natural language processing with its impressive language understanding capabilities. It can write essays, answer questions, and even write software code.",
+    "title": "AI Transforms Healthcare with Breakthrough Predictive Analysis",
+    "description": "Recent advancements in AI have led to a leap in predictive analysis within the healthcare sector. This breakthrough allows for earlier detection of serious illnesses, such as heart disease and cancer.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 29, 2022",
+    "source": "Nature",
+    "date": "March 07, 2023",
     "category": "Research"
   },
   {
-    "title": "AI in Healthcare: New Developments in Diagnosing Diseases",
-    "description": "Advanced AI algorithms are now being used to accurately diagnose a variety of diseases, potentially leading to early detection and better patient outcomes.",
+    "title": "Tech Giants Invest Billions into AI for Future Business Solutions",
+    "description": "Major technology corporations are investing heavily into AI, with the aim to revolutionize business solutions. The focus is on improving customer service, workflow optimization, and predictive marketing.",
     "url": "#",
-    "source": "Medical News Today",
-    "date": "September 29, 2022",
-    "category": "Technology"
+    "source": "The Wall Street Journal",
+    "date": "March 07, 2023",
+    "category": "Business"
   },
   {
-    "title": "AI and Ethics: The Ongoing Debate on AI Fairness",
-    "description": "As AI continues to integrate into society, the debate on its ethical implications intensifies. Key issues include data privacy, algorithmic fairness, and the digital divide.",
+    "title": "New AI Ethics Guidelines Emerge Amidst Rising Concerns",
+    "description": "As AI continues to advance, ethical concerns have led to the development of new guidelines. This includes the creation of transparent and unbiased AI, along with data privacy and security measures.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 29, 2022",
+    "date": "March 07, 2023",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Microsoft Acquires AI Startup to Improve Cloud Capabilities",
-    "description": "Microsoft has acquired an AI startup to further bolster its cloud capabilities. The move is seen as a strategic step to compete with other tech giants in the booming cloud market.",
+    "title": "Revolutionary AI Tool Streamlines Software Development",
+    "description": "A new AI tool has been developed that significantly streamlines the software development process. The tool uses machine learning to automate coding, reducing human error and saving time.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 29, 2022",
-    "category": "Business"
+    "date": "March 07, 2023",
+    "category": "Tools"
   },
   {
-    "title": "New AI Tools to Boost Image Recognition Accuracy",
-    "description": "Emerging AI tools are enhancing image recognition capabilities, opening new possibilities in fields like security, retail, and healthcare.",
+    "title": "AI Tech is Shaping the Future of Autonomous Vehicles",
+    "description": "Advancements in AI technology are shaping the future of autonomous vehicles. AI is not only improving vehicle navigation but also enhancing safety and reliability.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 29, 2022",
-    "category": "Tools"
+    "source": "BBC News",
+    "date": "March 07, 2023",
+    "category": "Technology"
   }
 ];
