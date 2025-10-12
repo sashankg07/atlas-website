@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Transforms Healthcare with Breakthrough Predictive Analysis",
-    "description": "Recent advancements in AI have led to a leap in predictive analysis within the healthcare sector. This breakthrough allows for earlier detection of serious illnesses, such as heart disease and cancer.",
+    "title": "AI Breakthrough: Machine Learning Discovers Novel Antibiotic",
+    "description": "In a significant breakthrough for healthcare, AI has identified a new antibiotic able to eliminate strains of bacteria resistant to all known antiseptics. This marks a major step in the fight against antibiotic resistance.",
     "url": "#",
-    "source": "Nature",
-    "date": "March 07, 2023",
+    "source": "New York Times",
+    "date": "March 11, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Invest Billions into AI for Future Business Solutions",
-    "description": "Major technology corporations are investing heavily into AI, with the aim to revolutionize business solutions. The focus is on improving customer service, workflow optimization, and predictive marketing.",
-    "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "March 07, 2023",
-    "category": "Business"
-  },
-  {
-    "title": "New AI Ethics Guidelines Emerge Amidst Rising Concerns",
-    "description": "As AI continues to advance, ethical concerns have led to the development of new guidelines. This includes the creation of transparent and unbiased AI, along with data privacy and security measures.",
+    "title": "AI Revolutionizes Climate Change Predictions",
+    "description": "New AI models are providing more accurate and detailed climate change predictions. These models will help scientists understand the impacts of climate change and develop strategies to mitigate its effects.",
     "url": "#",
     "source": "The Guardian",
-    "date": "March 07, 2023",
-    "category": "Ethics"
+    "date": "March 11, 2022",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Start-Up Raises $200M in Series C Funding",
+    "description": "AI start-up, SynthAI, has raised $200 million in Series C funding. The company plans to use the funding to expand its AI solutions across various industries.",
+    "url": "#",
+    "source": "TechCrunch",
+    "date": "March 11, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Tool Streamlines Software Development",
-    "description": "A new AI tool has been developed that significantly streamlines the software development process. The tool uses machine learning to automate coding, reducing human error and saving time.",
+    "title": "Ethical AI: New Framework for Equitable AI Development",
+    "description": "A team of researchers has proposed a new framework for ethical AI development. The framework aims to ensure AI systems are built and used in a way that respects human rights and promotes fairness.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 07, 2023",
-    "category": "Tools"
+    "source": "Nature",
+    "date": "March 11, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI Tech is Shaping the Future of Autonomous Vehicles",
-    "description": "Advancements in AI technology are shaping the future of autonomous vehicles. AI is not only improving vehicle navigation but also enhancing safety and reliability.",
+    "title": "New AI Tool Enhances Image Recognition Capabilities",
+    "description": "Tech giant, InfiniVision, has launched a new AI tool that significantly enhances image recognition capabilities. The tool is expected to revolutionize sectors relying heavily on image recognition, such as security and healthcare.",
     "url": "#",
-    "source": "BBC News",
-    "date": "March 07, 2023",
-    "category": "Technology"
+    "source": "Wired",
+    "date": "March 11, 2022",
+    "category": "Tools"
   }
 ];
