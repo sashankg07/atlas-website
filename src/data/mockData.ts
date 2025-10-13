@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Discovers Novel Antibiotic",
-    "description": "In a significant breakthrough for healthcare, AI has identified a new antibiotic able to eliminate strains of bacteria resistant to all known antiseptics. This marks a major step in the fight against antibiotic resistance.",
+    "title": "Groundbreaking AI Model Predicts Alzheimer's with Unprecedented Accuracy",
+    "description": "Researchers have developed a cutting-edge AI model that can predict Alzheimer's disease years before symptoms occur. This breakthrough could revolutionize the early detection and treatment of the disease.",
     "url": "#",
-    "source": "New York Times",
-    "date": "March 11, 2022",
+    "source": "Nature",
+    "date": "October 12, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizes Climate Change Predictions",
-    "description": "New AI models are providing more accurate and detailed climate change predictions. These models will help scientists understand the impacts of climate change and develop strategies to mitigate its effects.",
+    "title": "Google's New AI-Powered Search Engine Change Promises Improved Accuracy",
+    "description": "Google has announced major changes to its search algorithms, using AI technology to understand the context and intent behind search queries more accurately. This will result in more relevant search results for users.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "March 11, 2022",
+    "source": "The New York Times",
+    "date": "October 12, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-Up Raises $200M in Series C Funding",
-    "description": "AI start-up, SynthAI, has raised $200 million in Series C funding. The company plans to use the funding to expand its AI solutions across various industries.",
+    "title": "AI Startup Raises $100 Million in Series A Funding Round",
+    "description": "AI startup, FutureAI, has successfully raised $100 million in its series A funding round. The company aims to develop advanced AI systems to automate various business processes.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 11, 2022",
+    "source": "Forbes",
+    "date": "October 12, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: New Framework for Equitable AI Development",
-    "description": "A team of researchers has proposed a new framework for ethical AI development. The framework aims to ensure AI systems are built and used in a way that respects human rights and promotes fairness.",
+    "title": "Ethical Concerns Over Facial Recognition Technology Intensify",
+    "description": "The increasing use of AI-driven facial recognition technology in surveillance cameras has sparked ethical debates. Critics argue it poses significant risks to privacy and civil liberties.",
     "url": "#",
-    "source": "Nature",
-    "date": "March 11, 2022",
+    "source": "The Guardian",
+    "date": "October 12, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Enhances Image Recognition Capabilities",
-    "description": "Tech giant, InfiniVision, has launched a new AI tool that significantly enhances image recognition capabilities. The tool is expected to revolutionize sectors relying heavily on image recognition, such as security and healthcare.",
+    "title": "New AI Tool Streamlines Machine Learning Process",
+    "description": "Tech giant, IBM, has launched a new AI tool designed to make machine learning more accessible. The tool simplifies the process, allowing even those without a background in data science to create powerful AI models.",
     "url": "#",
-    "source": "Wired",
-    "date": "March 11, 2022",
+    "source": "TechCrunch",
+    "date": "October 12, 2021",
     "category": "Tools"
   }
 ];
