@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Model Predicts Alzheimer's with Unprecedented Accuracy",
-    "description": "Researchers have developed a cutting-edge AI model that can predict Alzheimer's disease years before symptoms occur. This breakthrough could revolutionize the early detection and treatment of the disease.",
+    "title": "MIT Researchers Develop AI That Learns Without Data",
+    "description": "Scientists from MIT have developed an AI model that can learn to identify objects within an image, without needing any prior knowledge in the form of training data. The breakthrough could significantly reduce the resources required to train AI models in the future.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 12, 2021",
+    "source": "MIT News",
+    "date": "September 27, 2021",
     "category": "Research"
   },
   {
-    "title": "Google's New AI-Powered Search Engine Change Promises Improved Accuracy",
-    "description": "Google has announced major changes to its search algorithms, using AI technology to understand the context and intent behind search queries more accurately. This will result in more relevant search results for users.",
+    "title": "DeepMind's AI System Masters Complex Game 'Go' Without Human Input",
+    "description": "DeepMind's latest AI model, AlphaGo Zero, has mastered the complex board game 'Go' without any human input. The AI taught itself from scratch and surpassed the abilities of its predecessors within just 3 days.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 12, 2021",
+    "source": "DeepMind Blog",
+    "date": "September 27, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $100 Million in Series A Funding Round",
-    "description": "AI startup, FutureAI, has successfully raised $100 million in its series A funding round. The company aims to develop advanced AI systems to automate various business processes.",
+    "title": "Amazon Introduces Astro, An AI-Powered Home Robot",
+    "description": "Amazon has unveiled 'Astro', an AI-powered household robot that can navigate a user's home to perform tasks like checking on pets, assisting with video calls, and providing home security surveillance.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 12, 2021",
+    "source": "Amazon News",
+    "date": "September 27, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Over Facial Recognition Technology Intensify",
-    "description": "The increasing use of AI-driven facial recognition technology in surveillance cameras has sparked ethical debates. Critics argue it poses significant risks to privacy and civil liberties.",
+    "title": "AI Ethics Concerns Mount as Facial Recognition Use Grows",
+    "description": "As facial recognition technology becomes increasingly prevalent, concerns are growing about the ethical implications. Critics argue that the technology could infringe on privacy rights and perpetuate racial discrimination.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 12, 2021",
+    "source": "The New York Times",
+    "date": "September 27, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Machine Learning Process",
-    "description": "Tech giant, IBM, has launched a new AI tool designed to make machine learning more accessible. The tool simplifies the process, allowing even those without a background in data science to create powerful AI models.",
+    "title": "OpenAI Releases Codex, an AI-Powered Coding Assistant",
+    "description": "OpenAI has released Codex, an AI tool that assists with coding tasks by predicting what piece of code comes next. It is expected to revolutionize the field of software development by increasing efficiency and reducing errors.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 12, 2021",
+    "source": "OpenAI Blog",
+    "date": "September 27, 2021",
     "category": "Tools"
   }
 ];
