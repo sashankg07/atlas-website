@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Algorithm Predicts Climate Change Patterns",
-    "description": "Scientists have developed a revolutionary AI algorithm capable of predicting climate change patterns with unprecedented accuracy. The new model could significantly aid in the fight against global warming.",
+    "title": "AI Breaks New Ground in Disease Prediction",
+    "description": "Researchers have developed an AI capable of predicting the likelihood of diseases. This breakthrough could revolutionize the healthcare industry by allowing for more personalized and timely treatments.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 24, 2021",
+    "source": "The AI Times",
+    "date": "April 10, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils AI-Powered Cybersecurity System",
-    "description": "A leading tech company has launched a state-of-the-art cybersecurity system powered by artificial intelligence. The system promises to fend off cyber-threats with greater efficiency.",
+    "title": "New AI Tool Automates Code Review",
+    "description": "A new AI-powered tool is set to change the game in software development. It automates the code review process, thereby improving productivity and reducing errors.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 24, 2021",
-    "category": "Technology"
+    "source": "Tech Insider",
+    "date": "April 10, 2022",
+    "category": "Tools"
   },
   {
-    "title": "AI Start-up Raises $100 Million in Series B Funding",
-    "description": "An AI start-up specializing in healthcare solutions has raised $100 million in a Series B funding round. The funds will be used to expand its AI capabilities and reach.",
+    "title": "Major Tech Company Invests Billions in AI",
+    "description": "A leading tech company has announced a multi-billion dollar investment in AI research and development. This move signifies the growing importance and potential of AI in the technology industry.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "November 24, 2021",
+    "source": "Business Weekly",
+    "date": "April 10, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Ethical Guidelines for AI Development Released",
-    "description": "A renowned global organization has released a comprehensive set of ethical guidelines for AI development. The guidelines aim to ensure AI technology is developed and used responsibly.",
+    "title": "Ethical Dilemmas in AI: A Closer Look",
+    "description": "As AI continues to advance, it brings with it a host of ethical dilemmas. Experts are calling for a comprehensive approach to addressing these concerns.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 24, 2021",
+    "source": "The AI Observer",
+    "date": "April 10, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool Transforms Text to Code",
-    "description": "A new artificial intelligence tool that converts simple English commands into code is set to revolutionize the programming landscape, making it more accessible to non-programmers.",
+    "title": "AI Revolutionizes Self-Driving Car Technology",
+    "description": "Recent advancements in AI technology are paving the way for a new era of self-driving cars. These improvements promise safer, more efficient, and more comfortable rides.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 24, 2021",
-    "category": "Tools"
+    "source": "AutoTech News",
+    "date": "April 10, 2022",
+    "category": "Technology"
   }
 ];
