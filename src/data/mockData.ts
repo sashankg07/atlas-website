@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Algorithm Redefines Machine Learning Limits",
-    "description": "Researchers have developed a groundbreaking algorithm that pushes the boundaries of machine learning. The technology is set to revolutionize various industries, including healthcare and finance.",
+    "title": "Revolutionizing Medicine: AI Predicts Heart Disease with Unprecedented Accuracy",
+    "description": "A breakthrough study reveals that AI can now predict heart disease with greater accuracy than ever before. This advancement promises to revolutionize the field of cardiology, potentially saving countless lives.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "October 10, 2022",
+    "source": "The New York Times",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Titan Google Announces Massive AI Infrastructure Upgrade",
-    "description": "Google has announced a major overhaul of its AI infrastructure. The upgrade will significantly enhance the company's machine learning capabilities, fostering innovation across multiple sectors.",
+    "title": "AI Powering Sustainable Energy: Google's New DeepMind Project",
+    "description": "Google's AI wing, DeepMind, has announced a new project aimed at using artificial intelligence to optimize energy consumption. The project aims to make significant strides in the fight against climate change.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 10, 2022",
+    "source": "The Guardian",
+    "date": "September 30, 2022",
     "category": "Technology"
   },
   {
-    "title": "IBM Acquires AI Startup to Boost Cloud Computing Offerings",
-    "description": "IBM has acquired an AI startup specializing in cloud-based machine learning. The move is set to bolster IBM's position in the cloud computing market.",
+    "title": "IBM Doubles Down on AI Investments, Signaling a Shift in Business Strategy",
+    "description": "IBM has announced a significant increase in its investment in AI technologies. This move signifies a strategic shift for the company, highlighting the growing importance of AI in the business world.",
     "url": "#",
     "source": "Forbes",
-    "date": "October 10, 2022",
+    "date": "September 30, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: New Guidelines for Fairness and Transparency",
-    "description": "An international committee has released a comprehensive set of guidelines aimed at ensuring fairness and transparency in AI. The guidelines will help developers create responsible and ethical AI systems.",
+    "title": "The Ethics of AI: Balancing Innovation with Responsibility",
+    "description": "A growing debate around the ethical implications of AI development raises important questions about responsibility and regulation. More than ever, innovators are being called upon to consider the societal impacts of their creations.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 10, 2022",
+    "source": "The Economist",
+    "date": "September 30, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Effects with Unprecedented Accuracy",
-    "description": "A new AI tool is enabling scientists to predict the effects of climate change with unparalleled precision. This breakthrough could be instrumental in shaping global climate policies.",
+    "title": "New AI Tool Transforms Text Data into Valuable Insights",
+    "description": "A newly developed AI tool promises to help businesses transform their text data into actionable insights. The tool uses advanced natural language processing to analyze large volumes of text, revealing patterns and trends.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 10, 2022",
+    "source": "TechCrunch",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
