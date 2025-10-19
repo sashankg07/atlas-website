@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine: AI Predicts Heart Disease with Unprecedented Accuracy",
-    "description": "A breakthrough study reveals that AI can now predict heart disease with greater accuracy than ever before. This advancement promises to revolutionize the field of cardiology, potentially saving countless lives.",
+    "title": "AI Revolutionizing Healthcare with Early Disease Detection",
+    "description": "Researchers have developed a new AI model capable of predicting the onset of diseases even before symptoms appear. This breakthrough could revolutionize preventive healthcare strategies.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 30, 2022",
+    "date": "September 24, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Powering Sustainable Energy: Google's New DeepMind Project",
-    "description": "Google's AI wing, DeepMind, has announced a new project aimed at using artificial intelligence to optimize energy consumption. The project aims to make significant strides in the fight against climate change.",
+    "title": "Tech Giants Invest Heavily in AI for Climate Change Solutions",
+    "description": "Leading tech companies are ramping up investments in AI to combat climate change. Innovative machine learning models are being developed to predict and mitigate the effects of global warming.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 30, 2022",
-    "category": "Technology"
+    "date": "September 24, 2021",
+    "category": "Business"
   },
   {
-    "title": "IBM Doubles Down on AI Investments, Signaling a Shift in Business Strategy",
-    "description": "IBM has announced a significant increase in its investment in AI technologies. This move signifies a strategic shift for the company, highlighting the growing importance of AI in the business world.",
+    "title": "AI Ethics: The Debate over Facial Recognition Technology",
+    "description": "Amid growing public concern, the ethics of using AI in facial recognition technology is under intense scrutiny. Critics argue it poses significant privacy and civil liberties risks.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 30, 2022",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "September 24, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethics of AI: Balancing Innovation with Responsibility",
-    "description": "A growing debate around the ethical implications of AI development raises important questions about responsibility and regulation. More than ever, innovators are being called upon to consider the societal impacts of their creations.",
-    "url": "#",
-    "source": "The Economist",
-    "date": "September 30, 2022",
-    "category": "Ethics"
-  },
-  {
-    "title": "New AI Tool Transforms Text Data into Valuable Insights",
-    "description": "A newly developed AI tool promises to help businesses transform their text data into actionable insights. The tool uses advanced natural language processing to analyze large volumes of text, revealing patterns and trends.",
+    "title": "New AI Tool Transforms Text to Life-like Speech",
+    "description": "A new AI tool has been developed that can transform any text into remarkably life-like speech. This development is set to revolutionize various industries from audiobooks to customer service.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2022",
+    "date": "September 24, 2021",
     "category": "Tools"
+  },
+  {
+    "title": "AI Breakthrough: Machines that Learn Like Humans",
+    "description": "In a major breakthrough, researchers have developed an AI model that learns in a manner similar to human learning. This could pave the way for more sophisticated and intuitive AI systems.",
+    "url": "#",
+    "source": "MIT Technology Review",
+    "date": "September 24, 2021",
+    "category": "Technology"
   }
 ];
