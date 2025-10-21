@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Quantum Algorithms Outsmart Classic Supercomputers",
-    "description": "Researchers have announced a new quantum algorithm that is capable of running more complex computations than classic supercomputers. The development signifies a significant leap in AI research and quantum computing.",
+    "title": "AI Revolutionizes Disease Diagnosis - A New Era in Medical Science",
+    "description": "Recent advancements in AI have made disease diagnosis faster, more accurate, and less invasive. This new technology could help reduce human error and speed up the treatment process.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 14, 2022",
+    "source": "MIT Technology Review",
+    "date": "October 10, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Adoption Accelerates in Healthcare Industry",
-    "description": "The healthcare industry has seen an unprecedented acceleration in the adoption of AI technologies. This trend is driven by the need for improved diagnostics and patient care during the global pandemic.",
+    "title": "AI in Business: Unprecedented Growth in Efficiency",
+    "description": "Companies worldwide are adopting AI to streamline their operations and improve efficiency. This shift is creating a highly competitive market, pushing businesses to innovate faster than ever.",
     "url": "#",
-    "source": "Healthcare Tech News",
-    "date": "October 14, 2022",
+    "source": "Forbes",
+    "date": "October 10, 2022",
     "category": "Business"
   },
   {
-    "title": "Elon Musk Warns of AI Ethics in Recent Interview",
-    "description": "In a recent interview, Tesla and SpaceX CEO Elon Musk again expressed his concerns about the ethical implications of AI development, calling for more regulation in the field.",
+    "title": "AI Ethics: Balancing Innovation with Responsibility",
+    "description": "As AI becomes increasingly integrated into our daily lives, ethical considerations are more important than ever. Policymakers and tech companies are working together to ensure AI is developed and used responsibly.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 14, 2022",
+    "source": "The Guardian",
+    "date": "October 10, 2022",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI-Powered Tool Revolutionizes 3D Modeling",
-    "description": "A new AI tool has been developed that significantly reduces the time taken to create detailed and accurate 3D models. The tool is expected to have significant impact in the gaming and movie industry.",
+    "title": "New AI Tool Transforms Digital Content Creation",
+    "description": "A groundbreaking AI tool has been developed that simplifies the process of creating digital content. This could revolutionize the way artists, designers, and marketers work.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 14, 2022",
+    "source": "Wired",
+    "date": "October 10, 2022",
     "category": "Tools"
   },
   {
-    "title": "Breakthrough in AI Technology: Self-learning Robots",
-    "description": "Scientists have developed a new AI technology that allows robots to learn from their mistakes. This development could have a significant impact on how robots are used in a variety of fields, from industrial applications to home use.",
+    "title": "AI and Quantum Computing: A Powerful Combination",
+    "description": "Recent research combines AI and quantum computing to solve complex problems faster. This breakthrough could lead to significant advancements in various fields, including medicine, finance, and climate science.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 14, 2022",
+    "source": "Nature",
+    "date": "October 10, 2022",
     "category": "Technology"
   }
 ];
