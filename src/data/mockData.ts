@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Disease Diagnosis - A New Era in Medical Science",
-    "description": "Recent advancements in AI have made disease diagnosis faster, more accurate, and less invasive. This new technology could help reduce human error and speed up the treatment process.",
+    "title": "AI Breakthrough: Facebook's New AI Can 'See' In the Dark",
+    "description": "Facebook's latest AI model can accurately reconstruct images taken in almost total darkness, a significant leap forward in computer vision technology. This technology could revolutionize night-time photography, security systems, and more.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 10, 2022",
+    "source": "The New York Times",
+    "date": "December 05, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Uncovers New Antibiotic to Fight Superbugs",
+    "description": "Researchers at MIT have used machine learning to discover a new antibiotic compound. This breakthrough could pave the way for AI-assisted drug discovery, potentially revolutionizing the pharmaceutical industry.",
+    "url": "#",
+    "source": "BBC News",
+    "date": "December 05, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Business: Unprecedented Growth in Efficiency",
-    "description": "Companies worldwide are adopting AI to streamline their operations and improve efficiency. This shift is creating a highly competitive market, pushing businesses to innovate faster than ever.",
-    "url": "#",
-    "source": "Forbes",
-    "date": "October 10, 2022",
-    "category": "Business"
-  },
-  {
-    "title": "AI Ethics: Balancing Innovation with Responsibility",
-    "description": "As AI becomes increasingly integrated into our daily lives, ethical considerations are more important than ever. Policymakers and tech companies are working together to ensure AI is developed and used responsibly.",
+    "title": "Google's AI Ethics Scandal: A Timeline",
+    "description": "Google's handling of AI ethics research and its treatment of prominent researchers have come under scrutiny. This article provides a detailed timeline of the unfolding controversy.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 10, 2022",
+    "date": "December 05, 2021",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Transforms Digital Content Creation",
-    "description": "A groundbreaking AI tool has been developed that simplifies the process of creating digital content. This could revolutionize the way artists, designers, and marketers work.",
+    "title": "AI in Business: The Rise of Predictive Analytics",
+    "description": "More and more businesses are leveraging the power of AI for predictive analytics. This trend is reshaping multiple industries, from finance to healthcare, enabling data-driven decision making like never before.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 10, 2022",
-    "category": "Tools"
+    "source": "Forbes",
+    "date": "December 05, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI and Quantum Computing: A Powerful Combination",
-    "description": "Recent research combines AI and quantum computing to solve complex problems faster. This breakthrough could lead to significant advancements in various fields, including medicine, finance, and climate science.",
+    "title": "OpenAI's GPT-3: The State-of-the-Art Language Model",
+    "description": "OpenAI's GPT-3, the latest in a line of impressive language AI models, is pushing the boundaries of what's possible in natural language processing. The model can generate incredibly human-like text, opening up a wealth of potential applications.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 10, 2022",
-    "category": "Technology"
+    "source": "Wired",
+    "date": "December 05, 2021",
+    "category": "Tools"
   }
 ];
