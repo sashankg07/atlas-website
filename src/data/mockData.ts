@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks Ground in Early Cancer Detection",
-    "description": "Researchers have developed a new AI tool that accurately identifies early-stage cancers with remarkable precision. The breakthrough could revolutionize cancer diagnosis and treatment.",
+    "title": "AI Breakthrough: Machine Learning Models Predict Climate Change Impact",
+    "description": "Researchers have developed an AI model capable of accurately predicting the impact of climate change. This breakthrough could aid in creating effective mitigation strategies.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 12, 2022",
+    "source": "Science Daily",
+    "date": "October 29, 2021",
     "category": "Research"
   },
   {
-    "title": "Groundbreaking AI Technology Improves Climate Change Predictions",
-    "description": "Combining AI and climate science, researchers have developed a sophisticated model that predicts the impact of climate change more accurately than ever before.",
+    "title": "AI Transforms the E-Commerce Landscape",
+    "description": "AI is revolutionizing the e-commerce industry with personalized shopping experiences and efficient supply chain management. Companies are leveraging AI to enhance customer satisfaction.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 12, 2022",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "October 29, 2021",
+    "category": "Business"
   },
   {
-    "title": "Major Tech Firm Acquires AI Startup",
-    "description": "In a recent business move, a leading tech company has acquired an AI startup specializing in machine learning. The acquisition aims to bolster the tech giant's AI capabilities.",
+    "title": "Latest AI Tools for Developers: An Overview",
+    "description": "A new suite of AI tools designed for developers is making it easier to incorporate machine learning into applications. These tools promise to democratize access to AI technologies.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 12, 2022",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "October 29, 2021",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Debate Over AI Ethics Intensifies",
-    "description": "As AI continues to permeate our lives, the conversation around its ethical implications grows. Experts call for comprehensive regulations to ensure AI is used responsibly.",
+    "title": "Ethical Considerations in AI: A Growing Concern",
+    "description": "As AI continues to evolve, so does the debate about its ethical implications. There is a growing demand for transparency, fairness, and accountability in AI systems.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 12, 2022",
+    "source": "The Guardian",
+    "date": "October 29, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Enables Real-time Language Translation",
-    "description": "A new AI tool offers instant, accurate language translation, breaking down language barriers and fostering effective international communication.",
+    "title": "AI in Healthcare: A Technological Revolution",
+    "description": "Artificial Intelligence is transforming healthcare delivery with predictive analytics, personalized medicine, and robotics. This technology is set to improve patient outcomes and streamline processes.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 12, 2022",
-    "category": "Tools"
+    "source": "New York Times",
+    "date": "October 29, 2021",
+    "category": "Technology"
   }
 ];
