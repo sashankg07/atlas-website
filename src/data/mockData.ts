@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Models Predict Climate Change Impact",
-    "description": "Researchers have developed an AI model capable of accurately predicting the impact of climate change. This breakthrough could aid in creating effective mitigation strategies.",
+    "title": "AI Breakthrough: Self-Learning Algorithms Now Understand Context",
+    "description": "Researchers have developed AI algorithms capable of understanding context, taking AI comprehension to a new level. The breakthrough could revolutionize tasks from translation to communication.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "October 29, 2021",
+    "source": "AI Daily News",
+    "date": "October 08, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Transforms the E-Commerce Landscape",
-    "description": "AI is revolutionizing the e-commerce industry with personalized shopping experiences and efficient supply chain management. Companies are leveraging AI to enhance customer satisfaction.",
+    "title": "Tech Giant Invests Billions in AI for Climate Change Solutions",
+    "description": "A leading tech company has pledged billions in AI research to combat climate change. The investment could speed up the development of AI-driven solutions to global environmental issues.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 29, 2021",
+    "source": "Tech Times",
+    "date": "October 08, 2021",
     "category": "Business"
   },
   {
-    "title": "Latest AI Tools for Developers: An Overview",
-    "description": "A new suite of AI tools designed for developers is making it easier to incorporate machine learning into applications. These tools promise to democratize access to AI technologies.",
+    "title": "AI Ethics Committee Releases Guidelines for Responsible AI Use",
+    "description": "The International AI Ethics Committee has released comprehensive guidelines for the responsible use of AI. The move is expected to shape the future of ethical AI development.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 29, 2021",
-    "category": "Tools"
+    "source": "AI Ethics Journal",
+    "date": "October 08, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI: A Growing Concern",
-    "description": "As AI continues to evolve, so does the debate about its ethical implications. There is a growing demand for transparency, fairness, and accountability in AI systems.",
+    "title": "AI-Powered Tool Streamlines Business Analytics",
+    "description": "A new AI-powered tool is set to transform business analytics, offering predictive insights to help businesses make data-driven decisions. The tool is expected to be a game-changer in the business intelligence market.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 29, 2021",
-    "category": "Ethics"
+    "source": "Tech Radar",
+    "date": "October 08, 2021",
+    "category": "Tools"
   },
   {
-    "title": "AI in Healthcare: A Technological Revolution",
-    "description": "Artificial Intelligence is transforming healthcare delivery with predictive analytics, personalized medicine, and robotics. This technology is set to improve patient outcomes and streamline processes.",
+    "title": "Cutting-Edge AI Technology Predicts Disease Outbreaks",
+    "description": "A breakthrough AI technology has been developed that can predict disease outbreaks, potentially saving millions of lives. This innovative tool could revolutionize global health systems.",
     "url": "#",
-    "source": "New York Times",
-    "date": "October 29, 2021",
+    "source": "Science Today",
+    "date": "October 08, 2021",
     "category": "Technology"
   }
 ];
