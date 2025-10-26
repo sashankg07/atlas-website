@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Self-Learning Algorithms Now Understand Context",
-    "description": "Researchers have developed AI algorithms capable of understanding context, taking AI comprehension to a new level. The breakthrough could revolutionize tasks from translation to communication.",
+    "title": "AI Model Predicts Future of Global Climate Change",
+    "description": "Researchers have devised an AI model that can accurately predict future patterns in global climate change. The model uses historical climate data and current trends to predict future changes, making it a vital tool for climate scientists.",
     "url": "#",
-    "source": "AI Daily News",
-    "date": "October 08, 2021",
+    "source": "Nature",
+    "date": "November 09, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Invests Billions in AI for Climate Change Solutions",
-    "description": "A leading tech company has pledged billions in AI research to combat climate change. The investment could speed up the development of AI-driven solutions to global environmental issues.",
+    "title": "AI in Healthcare: Revolutionizing Patient Care",
+    "description": "AI is transforming the healthcare industry by enabling early detection of diseases and personalized treatment plans. The technology is also helping in the development of telemedicine, a growing trend in the healthcare sector.",
     "url": "#",
-    "source": "Tech Times",
-    "date": "October 08, 2021",
-    "category": "Business"
+    "source": "The New York Times",
+    "date": "November 09, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics Committee Releases Guidelines for Responsible AI Use",
-    "description": "The International AI Ethics Committee has released comprehensive guidelines for the responsible use of AI. The move is expected to shape the future of ethical AI development.",
+    "title": "Startup Raises $100M to Develop AI-Based Marketing Tools",
+    "description": "A tech startup has raised $100 million in Series B funding to develop AI-powered marketing tools. The tools aim to help businesses maximize their marketing efforts by utilizing AI to predict consumer behaviour.",
     "url": "#",
-    "source": "AI Ethics Journal",
-    "date": "October 08, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "November 09, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI-Powered Tool Streamlines Business Analytics",
-    "description": "A new AI-powered tool is set to transform business analytics, offering predictive insights to help businesses make data-driven decisions. The tool is expected to be a game-changer in the business intelligence market.",
+    "title": "New AI Ethics Guidelines Released to Govern AI Development",
+    "description": "New guidelines have been released to govern the ethical development and use of AI. The guidelines aim to ensure that AI is developed and used responsibly, and that it does not exacerbate existing societal inequalities.",
     "url": "#",
-    "source": "Tech Radar",
-    "date": "October 08, 2021",
-    "category": "Tools"
+    "source": "MIT Technology Review",
+    "date": "November 09, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "Cutting-Edge AI Technology Predicts Disease Outbreaks",
-    "description": "A breakthrough AI technology has been developed that can predict disease outbreaks, potentially saving millions of lives. This innovative tool could revolutionize global health systems.",
+    "title": "OpenAI Releases New AI Coding Tool",
+    "description": "OpenAI has released a new AI-powered coding tool. The tool is designed to help developers write code more efficiently by predicting what they want to type next.",
     "url": "#",
-    "source": "Science Today",
-    "date": "October 08, 2021",
-    "category": "Technology"
+    "source": "The Verge",
+    "date": "November 09, 2021",
+    "category": "Tools"
   }
 ];
