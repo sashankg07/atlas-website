@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Model Predicts Future of Global Climate Change",
-    "description": "Researchers have devised an AI model that can accurately predict future patterns in global climate change. The model uses historical climate data and current trends to predict future changes, making it a vital tool for climate scientists.",
+    "title": "DeepMind's AlphaFold Solves Protein Folding Challenge",
+    "description": "DeepMind's AI solution, AlphaFold, has made significant strides in solving the protein folding problem, a grand challenge in biology. This could revolutionize drug discovery and disease understanding.",
     "url": "#",
     "source": "Nature",
-    "date": "November 09, 2021",
+    "date": "August 23, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Healthcare: Revolutionizing Patient Care",
-    "description": "AI is transforming the healthcare industry by enabling early detection of diseases and personalized treatment plans. The technology is also helping in the development of telemedicine, a growing trend in the healthcare sector.",
+    "title": "IBM Watson Aids in Climate Predictions",
+    "description": "IBM is leveraging its AI technology, Watson, to provide more accurate climate predictions. This innovation could help in planning and managing climate change impacts.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 09, 2021",
+    "source": "The Verge",
+    "date": "August 23, 2021",
     "category": "Technology"
   },
   {
-    "title": "Startup Raises $100M to Develop AI-Based Marketing Tools",
-    "description": "A tech startup has raised $100 million in Series B funding to develop AI-powered marketing tools. The tools aim to help businesses maximize their marketing efforts by utilizing AI to predict consumer behaviour.",
+    "title": "AI in Retail: Amazon's New Checkout-free Grocery Stores",
+    "description": "Amazon is expanding its AI-powered, checkout-free grocery stores, Amazon Go, across the US. This could redefine the retail experience amidst the COVID-19 pandemic.",
     "url": "#",
     "source": "Forbes",
-    "date": "November 09, 2021",
+    "date": "August 23, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Ethics Guidelines Released to Govern AI Development",
-    "description": "New guidelines have been released to govern the ethical development and use of AI. The guidelines aim to ensure that AI is developed and used responsibly, and that it does not exacerbate existing societal inequalities.",
+    "title": "AI Ethics: Concerns Over Facial Recognition Use",
+    "description": "The use of AI in facial recognition technology is facing increased scrutiny due to concerns over privacy and racial bias. Regulators and tech companies are grappling with these ethical dilemmas.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 09, 2021",
+    "source": "The Guardian",
+    "date": "August 23, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases New AI Coding Tool",
-    "description": "OpenAI has released a new AI-powered coding tool. The tool is designed to help developers write code more efficiently by predicting what they want to type next.",
+    "title": "OpenAI's GPT-3 Powers New Language Processing Tools",
+    "description": "OpenAI's GPT-3, the latest generative pre-training transformer, is revolutionizing language processing tools with its impressive capabilities to understand and generate human-like text.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 09, 2021",
+    "source": "TechCrunch",
+    "date": "August 23, 2021",
     "category": "Tools"
   }
 ];
