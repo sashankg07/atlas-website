@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "DeepMind's AlphaFold Solves Protein Folding Challenge",
-    "description": "DeepMind's AI solution, AlphaFold, has made significant strides in solving the protein folding problem, a grand challenge in biology. This could revolutionize drug discovery and disease understanding.",
+    "title": "AI Identifies New Alzheimer's Patterns: A Landmark in Medical Research",
+    "description": "Groundbreaking AI technology has been used to identify previously undetectable patterns in Alzheimer's disease. This development could revolutionize treatment and early detection methods.",
     "url": "#",
-    "source": "Nature",
-    "date": "August 23, 2021",
+    "source": "The Guardian",
+    "date": "October 23, 2021",
     "category": "Research"
   },
   {
-    "title": "IBM Watson Aids in Climate Predictions",
-    "description": "IBM is leveraging its AI technology, Watson, to provide more accurate climate predictions. This innovation could help in planning and managing climate change impacts.",
+    "title": "AI Beats Humans in Drone Race: A New Era in Technology",
+    "description": "For the first time in history, AI-operated drones have outperformed human pilots in a complex race. This breakthrough signals a significant advancement in autonomous vehicle technology.",
     "url": "#",
-    "source": "The Verge",
-    "date": "August 23, 2021",
+    "source": "BBC News",
+    "date": "October 23, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI in Retail: Amazon's New Checkout-free Grocery Stores",
-    "description": "Amazon is expanding its AI-powered, checkout-free grocery stores, Amazon Go, across the US. This could redefine the retail experience amidst the COVID-19 pandemic.",
+    "title": "AI in Business: Transforming Customer Experience",
+    "description": "Artificial intelligence is transforming the way businesses interact with their customers, offering a more personalized and efficient experience. Companies adopting AI have reported increased customer satisfaction and loyalty.",
     "url": "#",
     "source": "Forbes",
-    "date": "August 23, 2021",
+    "date": "October 23, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Concerns Over Facial Recognition Use",
-    "description": "The use of AI in facial recognition technology is facing increased scrutiny due to concerns over privacy and racial bias. Regulators and tech companies are grappling with these ethical dilemmas.",
+    "title": "AI and Ethics: The Concerns of Facial Recognition",
+    "description": "As AI-powered facial recognition technology becomes more pervasive, ethical concerns are being raised. Critics argue for more oversight and regulation to prevent misuse and protect privacy.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "August 23, 2021",
+    "source": "The New York Times",
+    "date": "October 23, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI's GPT-3 Powers New Language Processing Tools",
-    "description": "OpenAI's GPT-3, the latest generative pre-training transformer, is revolutionizing language processing tools with its impressive capabilities to understand and generate human-like text.",
+    "title": "New AI Tools Revolutionize Design Industry",
+    "description": "A new suite of AI-driven design tools is making waves in the design industry, promising to increase productivity and creativity. These tools use machine learning to automate time-consuming tasks, freeing designers to focus on the creative process.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "August 23, 2021",
+    "source": "Wired",
+    "date": "October 23, 2021",
     "category": "Tools"
   }
 ];
