@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Identifies New Alzheimer's Patterns: A Landmark in Medical Research",
-    "description": "Groundbreaking AI technology has been used to identify previously undetectable patterns in Alzheimer's disease. This development could revolutionize treatment and early detection methods.",
+    "title": "Groundbreaking AI Predicts Alzheimer's Years in Advance",
+    "description": "A novel AI system has been developed capable of predicting Alzheimer's disease several years before diagnosis. The breakthrough could revolutionize early detection and treatment approaches.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 23, 2021",
+    "source": "The New York Times",
+    "date": "October 29, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Beats Humans in Drone Race: A New Era in Technology",
-    "description": "For the first time in history, AI-operated drones have outperformed human pilots in a complex race. This breakthrough signals a significant advancement in autonomous vehicle technology.",
+    "title": "AI Revolutionizing the World of E-commerce",
+    "description": "E-commerce is experiencing a transformation as artificial intelligence applications streamline operations and enhance customer experience. Experts predict AI will redefine online shopping in the coming years.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 23, 2021",
-    "category": "Technology"
+    "source": "The Wall Street Journal",
+    "date": "October 29, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI in Business: Transforming Customer Experience",
-    "description": "Artificial intelligence is transforming the way businesses interact with their customers, offering a more personalized and efficient experience. Companies adopting AI have reported increased customer satisfaction and loyalty.",
+    "title": "AI Ethics: Navigating the Grey Areas",
+    "description": "As AI continues to permeate every aspect of life, ethical considerations are becoming increasingly important. New guidelines and regulations are being established to ensure responsible AI usage.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 23, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "October 29, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI and Ethics: The Concerns of Facial Recognition",
-    "description": "As AI-powered facial recognition technology becomes more pervasive, ethical concerns are being raised. Critics argue for more oversight and regulation to prevent misuse and protect privacy.",
+    "title": "AI-Driven Facial Recognition: A Game-Changer for Security",
+    "description": "A new wave of AI-powered facial recognition technology is enhancing security measures worldwide. However, privacy concerns are also rising alongside the technological advancements.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 23, 2021",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "October 29, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tools Revolutionize Design Industry",
-    "description": "A new suite of AI-driven design tools is making waves in the design industry, promising to increase productivity and creativity. These tools use machine learning to automate time-consuming tasks, freeing designers to focus on the creative process.",
+    "title": "OpenAI’s New Tool: AI for Code Generation",
+    "description": "OpenAI has introduced a revolutionary tool that uses AI for code generation, promising to accelerate software development and potentially reshaping the industry.",
     "url": "#",
     "source": "Wired",
-    "date": "October 23, 2021",
+    "date": "October 29, 2021",
     "category": "Tools"
   }
 ];
