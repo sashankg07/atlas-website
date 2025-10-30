@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Predicts Alzheimer's Years in Advance",
-    "description": "A novel AI system has been developed capable of predicting Alzheimer's disease several years before diagnosis. The breakthrough could revolutionize early detection and treatment approaches.",
+    "title": "AI Revolutionizes Medical Diagnosis",
+    "description": "Recent developments in AI technology have led to groundbreaking improvements in medical diagnosis. Researchers have created an AI model that can predict diseases with unprecedented accuracy.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 29, 2021",
+    "date": "November 14, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizing the World of E-commerce",
-    "description": "E-commerce is experiencing a transformation as artificial intelligence applications streamline operations and enhance customer experience. Experts predict AI will redefine online shopping in the coming years.",
+    "title": "AI Start-up Raises $100 Million in Series B Funding",
+    "description": "Innovative AI startup, DeepThink, has secured $100 million in its latest funding round. This clearly indicates the growing investor interest in AI-based solutions.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "October 29, 2021",
+    "source": "TechCrunch",
+    "date": "November 14, 2021",
     "category": "Business"
   },
   {
-    "title": "AI Ethics: Navigating the Grey Areas",
-    "description": "As AI continues to permeate every aspect of life, ethical considerations are becoming increasingly important. New guidelines and regulations are being established to ensure responsible AI usage.",
+    "title": "Google's New AI Ethics Policies Sparks Debate",
+    "description": "Google has recently released its updated AI ethics guidelines, sparking widespread debate in the tech community. Critics argue that the policies do not do enough to prevent misuse of AI.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 29, 2021",
+    "date": "November 14, 2021",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI-Driven Facial Recognition: A Game-Changer for Security",
-    "description": "A new wave of AI-powered facial recognition technology is enhancing security measures worldwide. However, privacy concerns are also rising alongside the technological advancements.",
+    "title": "AI-powered Tool Streamlines Supply Chain Management",
+    "description": "A new AI-powered tool is transforming supply chain management by providing real-time tracking and predictive analytics. The tool aims to make supply chains more efficient and adaptable.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 29, 2021",
-    "category": "Technology"
+    "source": "Bloomberg",
+    "date": "November 14, 2021",
+    "category": "Tools"
   },
   {
-    "title": "OpenAI’s New Tool: AI for Code Generation",
-    "description": "OpenAI has introduced a revolutionary tool that uses AI for code generation, promising to accelerate software development and potentially reshaping the industry.",
+    "title": "AI Breakthrough in Climate Change Modelling",
+    "description": "Scientists have used AI to create more accurate models of climate change. The new models are capable of predicting localized impacts of climate change with greater precision than ever before.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 29, 2021",
-    "category": "Tools"
+    "source": "Nature",
+    "date": "November 14, 2021",
+    "category": "Research"
   }
 ];
