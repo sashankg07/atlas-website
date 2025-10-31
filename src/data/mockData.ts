@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Medical Diagnosis",
-    "description": "Recent developments in AI technology have led to groundbreaking improvements in medical diagnosis. Researchers have created an AI model that can predict diseases with unprecedented accuracy.",
+    "title": "AI Breaks New Ground in Cancer Diagnosis",
+    "description": "Recent advancements in AI technology have led to a breakthrough in cancer diagnosis. By analyzing medical imaging data, AI can now diagnose certain types of cancer with unprecedented accuracy.",
     "url": "#",
     "source": "The New York Times",
-    "date": "November 14, 2021",
+    "date": "December 20, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Start-up Raises $100 Million in Series B Funding",
-    "description": "Innovative AI startup, DeepThink, has secured $100 million in its latest funding round. This clearly indicates the growing investor interest in AI-based solutions.",
+    "title": "Tech Giants Race to Dominate the AI Market",
+    "description": "Big tech companies are battling to stand at the forefront of the AI revolution. Investments in AI have skyrocketed, as companies strive to leverage the technology for competitive advantage.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 14, 2021",
+    "source": "The Wall Street Journal",
+    "date": "December 20, 2022",
     "category": "Business"
   },
   {
-    "title": "Google's New AI Ethics Policies Sparks Debate",
-    "description": "Google has recently released its updated AI ethics guidelines, sparking widespread debate in the tech community. Critics argue that the policies do not do enough to prevent misuse of AI.",
+    "title": "Revolutionizing Agriculture with AI",
+    "description": "Artificial Intelligence is being used to transform agricultural practices. Innovative AI applications are helping farmers to monitor crops, predict yields, and manage resources more efficiently.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 14, 2021",
-    "category": "Ethics"
+    "date": "December 20, 2022",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI-powered Tool Streamlines Supply Chain Management",
-    "description": "A new AI-powered tool is transforming supply chain management by providing real-time tracking and predictive analytics. The tool aims to make supply chains more efficient and adaptable.",
+    "title": "The Ethical Dilemma of Facial Recognition",
+    "description": "The increasing use of AI in facial recognition technology has sparked debates on privacy and consent. Critics argue that current regulations are inadequate to address the ethical implications of the technology.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "November 14, 2021",
-    "category": "Tools"
+    "source": "The Washington Post",
+    "date": "December 20, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI Breakthrough in Climate Change Modelling",
-    "description": "Scientists have used AI to create more accurate models of climate change. The new models are capable of predicting localized impacts of climate change with greater precision than ever before.",
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "A new AI tool has been developed to predict the impact of climate change. The tool uses machine learning algorithms to analyze environmental data and forecast future climate scenarios.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 14, 2021",
-    "category": "Research"
+    "source": "The Economist",
+    "date": "December 20, 2022",
+    "category": "Tools"
   }
 ];
