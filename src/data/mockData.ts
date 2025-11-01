@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Cancer Diagnosis",
-    "description": "Recent advancements in AI technology have led to a breakthrough in cancer diagnosis. By analyzing medical imaging data, AI can now diagnose certain types of cancer with unprecedented accuracy.",
+    "title": "Revolutionizing Medicine: AI Detects Rare Diseases in Minutes",
+    "description": "AI has made a groundbreaking achievement by identifying rare genetic disorders in record time, potentially saving countless lives. This breakthrough could revolutionize the healthcare industry and the way diseases are diagnosed.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "December 20, 2022",
+    "source": "The AI Times",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Race to Dominate the AI Market",
-    "description": "Big tech companies are battling to stand at the forefront of the AI revolution. Investments in AI have skyrocketed, as companies strive to leverage the technology for competitive advantage.",
+    "title": "AI and Climate Change: A Match Made in Heaven",
+    "description": "Researchers have successfully harnessed AI's predictive capabilities to forecast climate change patterns. This could play a pivotal role in helping governments and organizations mitigate the impacts of global warming.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "December 20, 2022",
-    "category": "Business"
+    "source": "Tech Today",
+    "date": "September 30, 2022",
+    "category": "Technology"
   },
   {
-    "title": "Revolutionizing Agriculture with AI",
-    "description": "Artificial Intelligence is being used to transform agricultural practices. Innovative AI applications are helping farmers to monitor crops, predict yields, and manage resources more efficiently.",
+    "title": "Artificial Intelligence Shakes Up the Stock Market",
+    "description": "With its unprecedented data processing abilities, AI is transforming the financial sector. Banks and investment firms are using AI to predict market trends, optimize portfolios, and improve risk management.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 20, 2022",
-    "category": "Technology"
+    "source": "Business Insider",
+    "date": "September 30, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Dilemma of Facial Recognition",
-    "description": "The increasing use of AI in facial recognition technology has sparked debates on privacy and consent. Critics argue that current regulations are inadequate to address the ethical implications of the technology.",
+    "title": "AI Ethics: Balancing Innovation and Accountability",
+    "description": "As the capabilities of AI continue to grow, so do ethical concerns. Experts call for stronger regulations to ensure AI technologies are developed and used responsibly and equitably.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "December 20, 2022",
+    "source": "The Guardian",
+    "date": "September 30, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Impact",
-    "description": "A new AI tool has been developed to predict the impact of climate change. The tool uses machine learning algorithms to analyze environmental data and forecast future climate scenarios.",
+    "title": "Unveiling the Latest AI Tools for Content Creation",
+    "description": "AI is redefining content creation with tools that automate and enhance the process. From writing assistance to graphic design, these tools are transforming the creative industry.",
     "url": "#",
-    "source": "The Economist",
-    "date": "December 20, 2022",
+    "source": "TechCrunch",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
