@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine: AI Detects Rare Diseases in Minutes",
-    "description": "AI has made a groundbreaking achievement by identifying rare genetic disorders in record time, potentially saving countless lives. This breakthrough could revolutionize the healthcare industry and the way diseases are diagnosed.",
+    "title": "New AI Algorithm Predicts Climate Change Impact",
+    "description": "Researchers have developed a revolutionary AI system capable of accurately predicting the impact of climate change. The algorithm uses machine learning to assess environmental data and make accurate projections.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "September 30, 2022",
+    "source": "Nature Climate Change",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI and Climate Change: A Match Made in Heaven",
-    "description": "Researchers have successfully harnessed AI's predictive capabilities to forecast climate change patterns. This could play a pivotal role in helping governments and organizations mitigate the impacts of global warming.",
+    "title": "AI in Healthcare: A Game Changer in Disease Diagnosis",
+    "description": "New AI technologies are being implemented to diagnose and treat various diseases more precisely and swiftly. These breakthroughs are expected to significantly enhance healthcare efficiency and patient outcomes.",
     "url": "#",
-    "source": "Tech Today",
-    "date": "September 30, 2022",
+    "source": "Harvard Business Review",
+    "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "Artificial Intelligence Shakes Up the Stock Market",
-    "description": "With its unprecedented data processing abilities, AI is transforming the financial sector. Banks and investment firms are using AI to predict market trends, optimize portfolios, and improve risk management.",
+    "title": "Investment in AI Startups Hits Record High",
+    "description": "Global investments in AI startups have reached a new high in 2021, indicating a robust growth and faith in the sector's future prospects. The trend underscores the perceived potential of AI in transforming multiple industries.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 30, 2022",
+    "source": "Forbes",
+    "date": "September 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Balancing Innovation and Accountability",
-    "description": "As the capabilities of AI continue to grow, so do ethical concerns. Experts call for stronger regulations to ensure AI technologies are developed and used responsibly and equitably.",
+    "title": "Ethical Concerns Rising Over AI Facial Recognition",
+    "description": "Recent controversies have highlighted the ethical issues posed by AI facial recognition technology. Critics argue for better regulations to prevent misuse and protect privacy rights.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 30, 2022",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Unveiling the Latest AI Tools for Content Creation",
-    "description": "AI is redefining content creation with tools that automate and enhance the process. From writing assistance to graphic design, these tools are transforming the creative industry.",
+    "title": "Google Launches New AI Tools for Developers",
+    "description": "Google has launched a range of new AI tools designed to assist developers in creating advanced applications. The tools aim to simplify the development process and improve the efficiency of machine learning models.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2022",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
