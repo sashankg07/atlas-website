@@ -9,26 +9,26 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI Algorithm Predicts Climate Change Impact",
-    "description": "Researchers have developed a revolutionary AI system capable of accurately predicting the impact of climate change. The algorithm uses machine learning to assess environmental data and make accurate projections.",
+    "title": "AI System Beats Human Doctors in Diagnosing Skin Cancer",
+    "description": "A groundbreaking AI system has outperformed human doctors in diagnosing skin cancer, marking a significant milestone in medical AI. The system utilized deep learning algorithms to correctly identify malignant melanomas with remarkable accuracy.",
     "url": "#",
-    "source": "Nature Climate Change",
+    "source": "New York Times",
     "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Healthcare: A Game Changer in Disease Diagnosis",
-    "description": "New AI technologies are being implemented to diagnose and treat various diseases more precisely and swiftly. These breakthroughs are expected to significantly enhance healthcare efficiency and patient outcomes.",
+    "title": "Facebook Unveils New AI Tool to Detect Deepfakes",
+    "description": "Facebook has announced a new AI tool designed to detect and combat deepfake videos. The move comes as part of the tech giant's ongoing efforts to curb the spread of misinformation on its platform.",
     "url": "#",
-    "source": "Harvard Business Review",
+    "source": "BBC News",
     "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "Investment in AI Startups Hits Record High",
-    "description": "Global investments in AI startups have reached a new high in 2021, indicating a robust growth and faith in the sector's future prospects. The trend underscores the perceived potential of AI in transforming multiple industries.",
+    "title": "IBM Unleashes AI in Fight Against Climate Change",
+    "description": "IBM has launched a new initiative using AI to combat climate change. The company's AI models will analyze environmental data to predict climate patterns and help businesses make sustainable decisions.",
     "url": "#",
-    "source": "Forbes",
+    "source": "Wall Street Journal",
     "date": "September 30, 2021",
     "category": "Business"
   }
@@ -36,16 +36,16 @@ export const featuredArticles: NewsArticle[] = [
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Rising Over AI Facial Recognition",
-    "description": "Recent controversies have highlighted the ethical issues posed by AI facial recognition technology. Critics argue for better regulations to prevent misuse and protect privacy rights.",
+    "title": "Ethical Debate Surrounds Use of AI in Military Drones",
+    "description": "The use of AI in military drones has sparked a global debate on the ethical implications. Critics argue that autonomous weapons systems pose significant moral and legal risks.",
     "url": "#",
     "source": "The Guardian",
     "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Google Launches New AI Tools for Developers",
-    "description": "Google has launched a range of new AI tools designed to assist developers in creating advanced applications. The tools aim to simplify the development process and improve the efficiency of machine learning models.",
+    "title": "TensorFlow 2.6: Latest Updates and Features",
+    "description": "Google's TensorFlow has released version 2.6 with exciting new features. The updates include improvements in model training, inference, and several new APIs.",
     "url": "#",
     "source": "TechCrunch",
     "date": "September 30, 2021",
