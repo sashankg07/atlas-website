@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI System Beats Human Doctors in Diagnosing Skin Cancer",
-    "description": "A groundbreaking AI system has outperformed human doctors in diagnosing skin cancer, marking a significant milestone in medical AI. The system utilized deep learning algorithms to correctly identify malignant melanomas with remarkable accuracy.",
+    "title": "AI Breakthrough: Deep Learning Outperforms Humans in Visual Recognition",
+    "description": "A revolutionary AI model has surpassed human performance in visual recognition tasks. This marks a major milestone in AI's potential to augment industrial inspection and surveillance.",
     "url": "#",
-    "source": "New York Times",
-    "date": "September 30, 2021",
+    "source": "The AI Journal",
+    "date": "November 02, 2021",
     "category": "Research"
   },
   {
-    "title": "Facebook Unveils New AI Tool to Detect Deepfakes",
-    "description": "Facebook has announced a new AI tool designed to detect and combat deepfake videos. The move comes as part of the tech giant's ongoing efforts to curb the spread of misinformation on its platform.",
+    "title": "Reinforcement Learning Powers New Energy-Saving AI",
+    "description": "Scientists have developed an AI system using reinforcement learning that optimizes energy consumption in homes and businesses. The technology could revolutionize sustainability efforts in the energy industry.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 30, 2021",
+    "source": "TechCrunch",
+    "date": "November 02, 2021",
     "category": "Technology"
   },
   {
-    "title": "IBM Unleashes AI in Fight Against Climate Change",
-    "description": "IBM has launched a new initiative using AI to combat climate change. The company's AI models will analyze environmental data to predict climate patterns and help businesses make sustainable decisions.",
+    "title": "AI Startup Achieves Unicorn Status with Latest Funding Round",
+    "description": "AI startup, Mindful AI, has secured significant investment in a recent funding round, propelling it to unicorn status. The company's unique AI-driven solutions have disrupted the market, making it a powerful player in the AI industry.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "September 30, 2021",
+    "source": "Forbes",
+    "date": "November 02, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Debate Surrounds Use of AI in Military Drones",
-    "description": "The use of AI in military drones has sparked a global debate on the ethical implications. Critics argue that autonomous weapons systems pose significant moral and legal risks.",
+    "title": "New AI Ethics Guidelines Released by Tech Titans",
+    "description": "Major tech companies have collaborated to release a comprehensive set of AI ethics guidelines. The move has been applauded for promoting responsible and transparent AI development and usage.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2021",
+    "source": "Reuters",
+    "date": "November 02, 2021",
     "category": "Ethics"
   },
   {
-    "title": "TensorFlow 2.6: Latest Updates and Features",
-    "description": "Google's TensorFlow has released version 2.6 with exciting new features. The updates include improvements in model training, inference, and several new APIs.",
+    "title": "New AI Tool Revolutionizes Data Analysis",
+    "description": "DataRobot, a leader in AI tools, has released a new product that automates data analysis. This tool could save businesses countless hours, and significantly improve decision-making processes.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2021",
+    "source": "The Verge",
+    "date": "November 02, 2021",
     "category": "Tools"
   }
 ];
