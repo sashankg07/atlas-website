@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Deep Learning Outperforms Humans in Visual Recognition",
-    "description": "A revolutionary AI model has surpassed human performance in visual recognition tasks. This marks a major milestone in AI's potential to augment industrial inspection and surveillance.",
+    "title": "AI Breakthrough: Machine Learning Cracks Quantum Physics",
+    "description": "A revolutionary AI model has successfully solved complex quantum physics problems that have puzzled scientists for years. This opens the door for AI to tackle even more complex scientific challenges.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "November 02, 2021",
+    "source": "The New York Times",
+    "date": "October 26, 2021",
     "category": "Research"
   },
   {
-    "title": "Reinforcement Learning Powers New Energy-Saving AI",
-    "description": "Scientists have developed an AI system using reinforcement learning that optimizes energy consumption in homes and businesses. The technology could revolutionize sustainability efforts in the energy industry.",
+    "title": "AI Ethics: New Algorithm Reduces Bias in AI",
+    "description": "Researchers have developed an algorithm that can significantly reduce biases in AI systems. This innovation is expected to improve fairness in machine learning applications across industries.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 02, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "October 26, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Startup Achieves Unicorn Status with Latest Funding Round",
-    "description": "AI startup, Mindful AI, has secured significant investment in a recent funding round, propelling it to unicorn status. The company's unique AI-driven solutions have disrupted the market, making it a powerful player in the AI industry.",
+    "title": "AI in Business: AI Forecasting Improves Supply Chain Management",
+    "description": "Companies are increasingly relying on AI to forecast supply chain disruptions and manage risks. This trend is driving transformation in the global logistics industry.",
     "url": "#",
     "source": "Forbes",
-    "date": "November 02, 2021",
+    "date": "October 26, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Ethics Guidelines Released by Tech Titans",
-    "description": "Major tech companies have collaborated to release a comprehensive set of AI ethics guidelines. The move has been applauded for promoting responsible and transparent AI development and usage.",
+    "title": "AI Technology: Next-Gen AI Chip Revolutionizes Data Processing",
+    "description": "A breakthrough AI chip has been unveiled, promising to dramatically increase the speed of data processing while reducing energy consumption. This could revolutionize AI applications in IoT devices.",
     "url": "#",
-    "source": "Reuters",
-    "date": "November 02, 2021",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "October 26, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Revolutionizes Data Analysis",
-    "description": "DataRobot, a leader in AI tools, has released a new product that automates data analysis. This tool could save businesses countless hours, and significantly improve decision-making processes.",
+    "title": "AI Tools: New Machine Learning Framework Simplifies AI Development",
+    "description": "A new open-source machine learning framework has been launched, aiming to simplify the development and deployment of AI models. This tool could democratize access to AI for developers worldwide.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 02, 2021",
+    "source": "Wired",
+    "date": "October 26, 2021",
     "category": "Tools"
   }
 ];
