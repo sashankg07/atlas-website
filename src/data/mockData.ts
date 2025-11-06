@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Cracks Quantum Physics",
-    "description": "A revolutionary AI model has successfully solved complex quantum physics problems that have puzzled scientists for years. This opens the door for AI to tackle even more complex scientific challenges.",
+    "title": "Groundbreaking AI Algorithm Predicts Climate Change",
+    "description": "A team of scientists have used artificial intelligence to accurately predict climate changes. This new AI model could revolutionize our understanding of global warming.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 26, 2021",
+    "source": "Nature Communications",
+    "date": "October 20, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Ethics: New Algorithm Reduces Bias in AI",
-    "description": "Researchers have developed an algorithm that can significantly reduce biases in AI systems. This innovation is expected to improve fairness in machine learning applications across industries.",
+    "title": "AI Revolutionizing the Healthcare Industry",
+    "description": "Artificial intelligence is being harnessed to improve patient care and research in the healthcare industry. Innovations include AI-powered diagnostic tools and predictive care solutions.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 26, 2021",
-    "category": "Ethics"
+    "source": "The Wall Street Journal",
+    "date": "October 20, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI in Business: AI Forecasting Improves Supply Chain Management",
-    "description": "Companies are increasingly relying on AI to forecast supply chain disruptions and manage risks. This trend is driving transformation in the global logistics industry.",
+    "title": "Tech Giant Invests Billions in AI Startups",
+    "description": "A leading tech company has invested billions in AI startups, signaling a significant push towards developing more advanced AI capabilities.",
     "url": "#",
     "source": "Forbes",
-    "date": "October 26, 2021",
+    "date": "October 20, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Technology: Next-Gen AI Chip Revolutionizes Data Processing",
-    "description": "A breakthrough AI chip has been unveiled, promising to dramatically increase the speed of data processing while reducing energy consumption. This could revolutionize AI applications in IoT devices.",
+    "title": "AI Ethics: The New Frontier",
+    "description": "AI ethics is becoming a key concern as AI development accelerates. Experts are calling for more robust regulatory frameworks to ensure ethical AI practices.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 26, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "October 20, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Tools: New Machine Learning Framework Simplifies AI Development",
-    "description": "A new open-source machine learning framework has been launched, aiming to simplify the development and deployment of AI models. This tool could democratize access to AI for developers worldwide.",
+    "title": "New AI Tool Transforms Data Analysis",
+    "description": "A new AI tool is transforming data analysis, offering unprecedented accuracy and efficiency. The tool uses machine learning to analyze complex datasets in seconds.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 26, 2021",
+    "source": "MIT Technology Review",
+    "date": "October 20, 2021",
     "category": "Tools"
   }
 ];
