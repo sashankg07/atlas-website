@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Algorithm Predicts Climate Change",
-    "description": "A team of scientists have used artificial intelligence to accurately predict climate changes. This new AI model could revolutionize our understanding of global warming.",
+    "title": "AI Outperforms Humans in Identifying Rare Diseases",
+    "description": "New research reveals that AI can now diagnose rare diseases with higher accuracy than human doctors. This breakthrough is set to revolutionize medical diagnostics and treatment.",
     "url": "#",
-    "source": "Nature Communications",
-    "date": "October 20, 2021",
+    "source": "MIT Technology Review",
+    "date": "October 18, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizing the Healthcare Industry",
-    "description": "Artificial intelligence is being harnessed to improve patient care and research in the healthcare industry. Innovations include AI-powered diagnostic tools and predictive care solutions.",
+    "title": "AI-Powered Robots Revolutionize Warehouse Logistics",
+    "description": "AI-powered autonomous robots are transforming the logistics industry by optimizing warehouse operations. Businesses are seeing major improvements in efficiency and productivity.",
     "url": "#",
     "source": "The Wall Street Journal",
-    "date": "October 20, 2021",
-    "category": "Technology"
+    "date": "October 18, 2022",
+    "category": "Business"
   },
   {
-    "title": "Tech Giant Invests Billions in AI Startups",
-    "description": "A leading tech company has invested billions in AI startups, signaling a significant push towards developing more advanced AI capabilities.",
+    "title": "Google Unveils AI Tool to Combat Climate Change",
+    "description": "Google has launched a new AI tool that can accurately predict climate patterns and offer solutions for mitigation. This technology could play a vital role in the fight against climate change.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 20, 2021",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "October 18, 2022",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: The New Frontier",
-    "description": "AI ethics is becoming a key concern as AI development accelerates. Experts are calling for more robust regulatory frameworks to ensure ethical AI practices.",
+    "title": "Ethical Concerns Over AI Facial Recognition Technology",
+    "description": "Calls for stricter regulations on AI facial recognition technology grow amid concerns of privacy invasion and misuse. Critics argue that the technology could lead to a surveillance society.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 20, 2021",
+    "source": "BBC News",
+    "date": "October 18, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Data Analysis",
-    "description": "A new AI tool is transforming data analysis, offering unprecedented accuracy and efficiency. The tool uses machine learning to analyze complex datasets in seconds.",
+    "title": "IBM Introduces New AI Tools for Streamlining Business Operations",
+    "description": "IBM has introduced a suite of AI tools designed to streamline business operations. The tools aim to automate routine tasks and improve decision-making processes.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 20, 2021",
+    "source": "TechCrunch",
+    "date": "October 18, 2022",
     "category": "Tools"
   }
 ];
