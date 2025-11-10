@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Models Predict Disease Outcomes",
-    "description": "A groundbreaking development in AI technology allows prediction of disease outcomes with increased accuracy. This breakthrough could revolutionize the healthcare industry and make patient care more precise and effective.",
+    "title": "AI Now Capable of Diagnosing Rare Diseases at Unprecedented Rate",
+    "description": "Artificial intelligence continues to revolutionize the healthcare industry, now identifying and diagnosing rare diseases with remarkable accuracy. This breakthrough technology promises to dramatically improve patient outcomes and healthcare efficiency.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "November 07, 2021",
+    "source": "The Boston Globe",
+    "date": "October 17, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI Tool Transforms Image Editing",
-    "description": "A new AI tool has been unveiled that significantly simplifies image editing tasks. The tool uses machine learning to automate complex editing processes, promising to make life easier for designers and artists.",
+    "title": "Innovative AI Tools Propel Small Businesses Into the Future",
+    "description": "Small businesses are leveraging the power of AI to streamline operations and increase customer engagement. The new wave of AI tools is proving to be a game-changer, providing cost-effective solutions to common business challenges.",
     "url": "#",
-    "source": "Tech AI Daily",
-    "date": "November 07, 2021",
-    "category": "Tools"
+    "source": "Business Insider",
+    "date": "October 17, 2022",
+    "category": "Business"
   },
   {
-    "title": "AI Ethical Guidelines: A Step Towards Responsible AI",
-    "description": "Leading tech companies have joined forces to establish a set of ethical guidelines for AI development. The move aims to ensure that AI technologies are developed and used responsibly, prioritizing human rights and data privacy.",
+    "title": "Emerging AI Ethics Concerns Stir Debate Among Tech Giants",
+    "description": "As AI continues to evolve, ethical concerns surface regarding privacy and decision-making. Leading tech companies are now engaged in a crucial conversation about establishing AI ethical guidelines and regulations.",
     "url": "#",
-    "source": "AI Ethics Weekly",
-    "date": "November 07, 2021",
+    "source": "The New York Times",
+    "date": "October 17, 2022",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI in Business: Transforming Customer Experience",
-    "description": "Businesses are leveraging AI to transform customer experience, using chatbots and predictive analytics to personalize interactions. Experts predict this trend will continue to grow as more businesses recognize the potential of AI.",
+    "title": "AI Transforms Renewable Energy Management",
+    "description": "In the quest for sustainable energy, AI is playing a pivotal role. New developments in AI technology are making it possible to optimize the management and distribution of renewable energy sources.",
     "url": "#",
-    "source": "AI Business Insider",
-    "date": "November 07, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "October 17, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI Breakthrough: Deep Learning Outperforms Humans in Reading Comprehension",
-    "description": "In a recent breakthrough, an AI model has outperformed humans in a reading comprehension test. This development could have significant implications for automated text analysis and summarization.",
+    "title": "New AI Learning Platform Revolutionizes Education",
+    "description": "A novel AI-based platform is redefining how students learn, providing personalized learning paths and real-time feedback. This revolutionary tool promises to reshape education and facilitate remote learning.",
     "url": "#",
-    "source": "AI Research Digest",
-    "date": "November 07, 2021",
-    "category": "Technology"
+    "source": "The Washington Post",
+    "date": "October 17, 2022",
+    "category": "Tools"
   }
 ];
