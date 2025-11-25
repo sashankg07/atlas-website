@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Now Capable of Diagnosing Rare Diseases at Unprecedented Rate",
-    "description": "Artificial intelligence continues to revolutionize the healthcare industry, now identifying and diagnosing rare diseases with remarkable accuracy. This breakthrough technology promises to dramatically improve patient outcomes and healthcare efficiency.",
+    "title": "AI Breakthrough in Drug Discovery",
+    "description": "A groundbreaking development in AI has resulted in an algorithm that can predict new potential drugs, revolutionizing the pharmaceutical industry. The AI model, known as a 'drug discovery engine', can hypothesize new drug molecules.",
     "url": "#",
-    "source": "The Boston Globe",
-    "date": "October 17, 2022",
+    "source": "The New York Times",
+    "date": "November 11, 2021",
     "category": "Research"
   },
   {
-    "title": "Innovative AI Tools Propel Small Businesses Into the Future",
-    "description": "Small businesses are leveraging the power of AI to streamline operations and increase customer engagement. The new wave of AI tools is proving to be a game-changer, providing cost-effective solutions to common business challenges.",
+    "title": "AI Transforming the World of Finance",
+    "description": "Artificial Intelligence has begun to make a significant impact on the financial industry. From risk assessment to automated investing, AI is providing new ways to analyze and interpret financial data.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 17, 2022",
+    "source": "Wall Street Journal",
+    "date": "November 11, 2021",
     "category": "Business"
   },
   {
-    "title": "Emerging AI Ethics Concerns Stir Debate Among Tech Giants",
-    "description": "As AI continues to evolve, ethical concerns surface regarding privacy and decision-making. Leading tech companies are now engaged in a crucial conversation about establishing AI ethical guidelines and regulations.",
+    "title": "New AI Ethics Guidelines Released",
+    "description": "A leading technology think-tank has released a comprehensive set of recommendations for AI ethics. These guidelines aim to ensure AI development is conducted responsibly and ethically, protecting user privacy and security.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 17, 2022",
+    "source": "BBC News",
+    "date": "November 11, 2021",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Transforms Renewable Energy Management",
-    "description": "In the quest for sustainable energy, AI is playing a pivotal role. New developments in AI technology are making it possible to optimize the management and distribution of renewable energy sources.",
+    "title": "AI Now Capable of More Advanced Image Recognition",
+    "description": "Researchers have developed an AI model capable of recognizing images with unprecedented accuracy. This breakthrough could have significant implications for fields ranging from security to healthcare.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 17, 2022",
+    "date": "November 11, 2021",
     "category": "Technology"
   },
   {
-    "title": "New AI Learning Platform Revolutionizes Education",
-    "description": "A novel AI-based platform is redefining how students learn, providing personalized learning paths and real-time feedback. This revolutionary tool promises to reshape education and facilitate remote learning.",
+    "title": "New AI Programming Tool Eases Development Process",
+    "description": "A new tool using AI to assist in programming can write lines of code in response to natural language requests, making the development process more efficient. This tool is set to revolutionize the way we code.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "October 17, 2022",
+    "source": "TechCrunch",
+    "date": "November 11, 2021",
     "category": "Tools"
   }
 ];
