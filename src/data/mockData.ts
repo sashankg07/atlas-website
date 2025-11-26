@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough in Drug Discovery",
-    "description": "A groundbreaking development in AI has resulted in an algorithm that can predict new potential drugs, revolutionizing the pharmaceutical industry. The AI model, known as a 'drug discovery engine', can hypothesize new drug molecules.",
+    "title": "AI Outperforms Doctors in Diagnosing Heart Disease",
+    "description": "Researchers have trained an AI system that outperforms doctors in diagnosing heart disease by analyzing ECG results. This breakthrough could revolutionize the healthcare industry, potentially saving millions of lives globally.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 11, 2021",
+    "source": "BBC News",
+    "date": "December 24, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Transforming the World of Finance",
-    "description": "Artificial Intelligence has begun to make a significant impact on the financial industry. From risk assessment to automated investing, AI is providing new ways to analyze and interpret financial data.",
+    "title": "New AI Software Predicts Climate Change Impact with Unprecedented Accuracy",
+    "description": "A newly developed AI software can now predict the impacts of climate change with an accuracy never before seen. This powerful tool could help policymakers make informed decisions about climate change mitigation strategies.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "November 11, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "December 24, 2022",
+    "category": "Technology"
   },
   {
-    "title": "New AI Ethics Guidelines Released",
-    "description": "A leading technology think-tank has released a comprehensive set of recommendations for AI ethics. These guidelines aim to ensure AI development is conducted responsibly and ethically, protecting user privacy and security.",
+    "title": "Tesla Unveils Advanced AI Chips for Autonomous Vehicles",
+    "description": "Tesla has unveiled its new AI chips, designed to improve the performance and safety of their autonomous vehicles. These chips promise to make self-driving cars more efficient and reliable.",
     "url": "#",
-    "source": "BBC News",
-    "date": "November 11, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "December 24, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Now Capable of More Advanced Image Recognition",
-    "description": "Researchers have developed an AI model capable of recognizing images with unprecedented accuracy. This breakthrough could have significant implications for fields ranging from security to healthcare.",
+    "title": "Ethical Concerns Raised Over AI's Role in Job Recruitment",
+    "description": "As AI becomes more prevalent in the recruitment process, concerns are being raised about its potential to discriminate and bias. Experts are calling for regulations to ensure fairness and transparency.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 11, 2021",
-    "category": "Technology"
+    "source": "The New York Times",
+    "date": "December 24, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Programming Tool Eases Development Process",
-    "description": "A new tool using AI to assist in programming can write lines of code in response to natural language requests, making the development process more efficient. This tool is set to revolutionize the way we code.",
+    "title": "Google's New AI Tool Helps Developers Write Cleaner Code",
+    "description": "Google has launched a new AI-powered tool that aids developers in writing cleaner and more efficient code. This tool, named 'Code Assist', uses machine learning to suggest improvements and correct errors in real-time.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 11, 2021",
+    "date": "December 24, 2022",
     "category": "Tools"
   }
 ];
