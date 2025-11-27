@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Doctors in Diagnosing Heart Disease",
-    "description": "Researchers have trained an AI system that outperforms doctors in diagnosing heart disease by analyzing ECG results. This breakthrough could revolutionize the healthcare industry, potentially saving millions of lives globally.",
+    "title": "AI Revolution: Ground-breaking AI Model Deciphers Long-Lost Languages",
+    "description": "Researchers have developed a new artificial intelligence model that can decode and translate ancient languages. With this development, the mysteries of these languages may soon be unraveled.",
     "url": "#",
-    "source": "BBC News",
-    "date": "December 24, 2022",
+    "source": "Nature",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "New AI Software Predicts Climate Change Impact with Unprecedented Accuracy",
-    "description": "A newly developed AI software can now predict the impacts of climate change with an accuracy never before seen. This powerful tool could help policymakers make informed decisions about climate change mitigation strategies.",
+    "title": "AI in Space: NASA Leverages AI to Predict Space Weather",
+    "description": "NASA is employing artificial intelligence to predict solar flares and other space weather. This AI-based approach could prove critical for future space missions.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 24, 2022",
+    "source": "The New York Times",
+    "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tesla Unveils Advanced AI Chips for Autonomous Vehicles",
-    "description": "Tesla has unveiled its new AI chips, designed to improve the performance and safety of their autonomous vehicles. These chips promise to make self-driving cars more efficient and reliable.",
+    "title": "AI in Healthcare: Google's Latest AI Tool Predicts Heart Disease",
+    "description": "Google has unveiled a new AI tool that can predict heart disease by analyzing eye scans. The revolutionary AI tool could help in early detection and prevention of heart disease.",
     "url": "#",
-    "source": "Forbes",
-    "date": "December 24, 2022",
+    "source": "The Guardian",
+    "date": "September 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Raised Over AI's Role in Job Recruitment",
-    "description": "As AI becomes more prevalent in the recruitment process, concerns are being raised about its potential to discriminate and bias. Experts are calling for regulations to ensure fairness and transparency.",
+    "title": "The Ethical Dilemma: AI and Bias in Hiring Practices",
+    "description": "A recent study reveals that AI systems used in hiring processes could be perpetuating bias. The study calls for stricter regulations and transparency in AI applications.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "December 24, 2022",
+    "source": "The Wall Street Journal",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Google's New AI Tool Helps Developers Write Cleaner Code",
-    "description": "Google has launched a new AI-powered tool that aids developers in writing cleaner and more efficient code. This tool, named 'Code Assist', uses machine learning to suggest improvements and correct errors in real-time.",
+    "title": "AI Tools: Microsoft Launches New AI-based Writing Assistant",
+    "description": "Microsoft has launched a new AI-based writing tool that can detect and correct grammatical errors. The tool is expected to be a boon for non-native English speakers.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "December 24, 2022",
+    "source": "The Washington Post",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
