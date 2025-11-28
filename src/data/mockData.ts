@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolution: Ground-breaking AI Model Deciphers Long-Lost Languages",
-    "description": "Researchers have developed a new artificial intelligence model that can decode and translate ancient languages. With this development, the mysteries of these languages may soon be unraveled.",
-    "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2021",
-    "category": "Research"
-  },
-  {
-    "title": "AI in Space: NASA Leverages AI to Predict Space Weather",
-    "description": "NASA is employing artificial intelligence to predict solar flares and other space weather. This AI-based approach could prove critical for future space missions.",
+    "title": "AI Revolutionizes Medical Diagnostics",
+    "description": "Groundbreaking AI technology has begun to reshape the field of medical diagnostics. The technology is now capable of diagnosing diseases with a higher accuracy rate than human doctors.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 30, 2021",
+    "date": "October 04, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI in Healthcare: Google's Latest AI Tool Predicts Heart Disease",
-    "description": "Google has unveiled a new AI tool that can predict heart disease by analyzing eye scans. The revolutionary AI tool could help in early detection and prevention of heart disease.",
+    "title": "AI Ethics Debate: Balancing Innovation and Public Interest",
+    "description": "As AI technology continues to advance rapidly, debates have emerged about its ethical implications. Experts call for balanced regulations to foster innovation while protecting public interest.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 30, 2021",
-    "category": "Business"
+    "date": "October 04, 2022",
+    "category": "Ethics"
+  },
+  {
+    "title": "AI Takes Centre Stage in Climate Change Mitigation",
+    "description": "AI has become a crucial tool in the fight against climate change. New research shows how machine learning can help predict and mitigate the impacts of climate change effectively.",
+    "url": "#",
+    "source": "BBC News",
+    "date": "October 04, 2022",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Dilemma: AI and Bias in Hiring Practices",
-    "description": "A recent study reveals that AI systems used in hiring processes could be perpetuating bias. The study calls for stricter regulations and transparency in AI applications.",
+    "title": "Major Tech Firm Acquires AI Startup in Multi-Million Dollar Deal",
+    "description": "In a bid to enhance its AI capabilities, a leading tech firm has acquired a promising AI startup. The deal marks a significant trend in the business world's growing investment in AI.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "September 30, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "October 04, 2022",
+    "category": "Business"
   },
   {
-    "title": "AI Tools: Microsoft Launches New AI-based Writing Assistant",
-    "description": "Microsoft has launched a new AI-based writing tool that can detect and correct grammatical errors. The tool is expected to be a boon for non-native English speakers.",
+    "title": "New AI Tool Streamlines Software Development",
+    "description": "A new AI tool promises to revolutionize software development by automating complex coding tasks. The tool has the potential to significantly speed up development and reduce errors.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "September 30, 2021",
+    "source": "TechCrunch",
+    "date": "October 04, 2022",
     "category": "Tools"
   }
 ];
