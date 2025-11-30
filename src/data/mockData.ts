@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Medical Diagnosis with Unprecedented Accuracy",
-    "description": "Recent developments in AI technology have led to breakthroughs in medical diagnostics, with machine learning algorithms able to identify diseases with an accuracy rate previously unattainable. This could represent a significant shift in healthcare, making early and accurate detection of various conditions more accessible.",
+    "title": "AI Model Predicts Climate Change Impact on Global Agriculture",
+    "description": "Researchers have developed a new AI model that accurately predicts the impact of climate change on global agriculture. The model will help policymakers make informed decisions for future food security.",
     "url": "#",
-    "source": "The AI Health Journal",
-    "date": "December 18, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "DeepMind's 'AlphaCode': A Leap Forward in AI Programming",
-    "description": "DeepMind's latest AI model, 'AlphaCode', demonstrates the ability to write software code that meets professional human standards. This pioneering research could have far-reaching implications for the software industry.",
-    "url": "#",
-    "source": "TechCrunch",
-    "date": "December 18, 2021",
+    "source": "The New York Times",
+    "date": "April 07, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Ethics Debate: Balancing Innovation and Responsibility",
-    "description": "As AI continues to evolve, the conversation around ethical implications intensifies. Experts underline the importance of establishing regulations that ensure safety, fairness and transparency in AI, without stifering innovation.",
+    "title": "AI-powered Robot Assists in Complex Medical Surgeries",
+    "description": "A leading healthcare company has launched an AI-powered robot that can assist surgeons in performing complex medical procedures, improving patient outcomes and reducing recovery times.",
     "url": "#",
-    "source": "The AI Ethics Journal",
-    "date": "December 18, 2021",
-    "category": "Ethics"
+    "source": "BBC News",
+    "date": "April 07, 2022",
+    "category": "Technology"
+  },
+  {
+    "title": "Tech Giant Invests in AI Startups to Foster Innovation",
+    "description": "A top tech company has announced a significant investment in multiple AI startups. This move is seen as a strategic plan to foster innovation and stay competitive in the evolving AI landscape.",
+    "url": "#",
+    "source": "The Wall Street Journal",
+    "date": "April 07, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Startups Continue to Draw Massive Investments",
-    "description": "Investors continue to show strong interest in AI startups, with unprecedented levels of funding being reported. The trend underscores the belief in AI's potential to revolutionize various sectors.",
+    "title": "Ethical Considerations in AI: A Global Perspective",
+    "description": "World leaders convened at a global summit to discuss the ethical implications of AI. The aim is to create a common ethical framework that ensures the responsible use of AI technology.",
     "url": "#",
-    "source": "Forbes",
-    "date": "December 18, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "April 07, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "OpenAI's GPT-4: The Next Generation of Language AI Tools",
-    "description": "OpenAI is reportedly developing GPT-4, a new version of its language prediction model. This could potentially result in a tool capable of understanding and generating human-like text with even greater accuracy.",
+    "title": "New AI Tool Transforms the Field of Data Analysis",
+    "description": "An innovative AI tool is revolutionizing the field of data analysis by making it more accessible. The tool uses machine learning algorithms to analyze complex data sets, providing insights in real-time.",
     "url": "#",
-    "source": "The Verge",
-    "date": "December 18, 2021",
+    "source": "MIT Technology Review",
+    "date": "April 07, 2022",
     "category": "Tools"
   }
 ];
