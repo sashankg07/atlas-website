@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Model Predicts Climate Change Impact on Global Agriculture",
-    "description": "Researchers have developed a new AI model that accurately predicts the impact of climate change on global agriculture. The model will help policymakers make informed decisions for future food security.",
+    "title": "AI Revolutionizes Cancer Detection with Deep Learning",
+    "description": "Researchers have developed an AI model that can diagnose certain types of cancer more accurately than human doctors. The AI uses deep learning to analyze patient scans, greatly improving early detection rates.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "April 07, 2022",
+    "source": "Science Daily",
+    "date": "July 14, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-powered Robot Assists in Complex Medical Surgeries",
-    "description": "A leading healthcare company has launched an AI-powered robot that can assist surgeons in performing complex medical procedures, improving patient outcomes and reducing recovery times.",
+    "title": "Tech Giant Unveils Advanced AI Chip for Edge Computing",
+    "description": "A leading technology company has unveiled a state-of-the-art AI chip designed to boost edge computing capabilities. This chip could revolutionize IoT devices, enabling faster, more efficient processing.",
     "url": "#",
-    "source": "BBC News",
-    "date": "April 07, 2022",
+    "source": "TechCrunch",
+    "date": "July 14, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests in AI Startups to Foster Innovation",
-    "description": "A top tech company has announced a significant investment in multiple AI startups. This move is seen as a strategic plan to foster innovation and stay competitive in the evolving AI landscape.",
+    "title": "AI Startup Raises Millions in Series B Funding Round",
+    "description": "An AI startup focused on automating customer service has raised millions in a series B funding round. The funds will be used to enhance the AI's capabilities and expand the company's reach.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "April 07, 2022",
+    "source": "Business Insider",
+    "date": "July 14, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI: A Global Perspective",
-    "description": "World leaders convened at a global summit to discuss the ethical implications of AI. The aim is to create a common ethical framework that ensures the responsible use of AI technology.",
+    "title": "New Guidelines Proposed for Ethical AI Development",
+    "description": "A think tank has proposed a new set of guidelines for ethical AI development. The guidelines aim to ensure AI technology is used responsibly and does not infringe on individual rights.",
     "url": "#",
     "source": "The Guardian",
-    "date": "April 07, 2022",
+    "date": "July 14, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms the Field of Data Analysis",
-    "description": "An innovative AI tool is revolutionizing the field of data analysis by making it more accessible. The tool uses machine learning algorithms to analyze complex data sets, providing insights in real-time.",
+    "title": "New AI Tool Simplifies Data Analysis",
+    "description": "A new AI tool has been launched that simplifies data analysis, enabling users to make data-driven decisions more easily. The tool uses machine learning to analyze complex datasets, delivering insights in a user-friendly format.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "April 07, 2022",
+    "source": "Wired",
+    "date": "July 14, 2021",
     "category": "Tools"
   }
 ];
