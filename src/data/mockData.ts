@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Cancer Detection with Deep Learning",
-    "description": "Researchers have developed an AI model that can diagnose certain types of cancer more accurately than human doctors. The AI uses deep learning to analyze patient scans, greatly improving early detection rates.",
+    "title": "Revolutionary AI Predicts Climate Change Impact",
+    "description": "Scientists have developed a new AI model capable of predicting climate change patterns with unprecedented accuracy. This breakthrough could significantly aid in global warming mitigation efforts.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "July 14, 2021",
+    "source": "The New York Times",
+    "date": "October 01, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Advanced AI Chip for Edge Computing",
-    "description": "A leading technology company has unveiled a state-of-the-art AI chip designed to boost edge computing capabilities. This chip could revolutionize IoT devices, enabling faster, more efficient processing.",
+    "title": "AI-powered Cybersecurity Tools Reshape the Industry",
+    "description": "Rapid advancements in AI are transforming the cybersecurity landscape. These intelligent tools can swiftly detect, analyze, and neutralize potential threats.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "July 14, 2021",
+    "source": "The Wall Street Journal",
+    "date": "October 01, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises Millions in Series B Funding Round",
-    "description": "An AI startup focused on automating customer service has raised millions in a series B funding round. The funds will be used to enhance the AI's capabilities and expand the company's reach.",
+    "title": "Tech Giant Invests Billions in AI for Business Operations",
+    "description": "A leading tech company has announced a multi-billion dollar investment in AI to streamline business operations. The investment underscores the growing importance of AI in modern business strategy.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "July 14, 2021",
+    "source": "Forbes",
+    "date": "October 01, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Guidelines Proposed for Ethical AI Development",
-    "description": "A think tank has proposed a new set of guidelines for ethical AI development. The guidelines aim to ensure AI technology is used responsibly and does not infringe on individual rights.",
+    "title": "Ethical Concerns Raised over AI in Law Enforcement",
+    "description": "The use of AI in law enforcement has sparked a vigorous debate. Critics argue that without proper regulation, AI could potentially infringe on civil liberties.",
     "url": "#",
     "source": "The Guardian",
-    "date": "July 14, 2021",
+    "date": "October 01, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Simplifies Data Analysis",
-    "description": "A new AI tool has been launched that simplifies data analysis, enabling users to make data-driven decisions more easily. The tool uses machine learning to analyze complex datasets, delivering insights in a user-friendly format.",
+    "title": "New AI Tool Transforms Healthcare Diagnostics",
+    "description": "A groundbreaking AI tool has been developed that can diagnose various health conditions with remarkable accuracy. The tool is expected to revolutionize healthcare diagnostics and treatment.",
     "url": "#",
-    "source": "Wired",
-    "date": "July 14, 2021",
+    "source": "BBC News",
+    "date": "October 01, 2022",
     "category": "Tools"
   }
 ];
