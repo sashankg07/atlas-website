@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Predicts Climate Change Impact",
-    "description": "Scientists have developed a new AI model capable of predicting climate change patterns with unprecedented accuracy. This breakthrough could significantly aid in global warming mitigation efforts.",
+    "title": "AI Defeats Human Champion in Strategic Game",
+    "description": "In a remarkable display of artificial intelligence prowess, a new AI system has defeated a world champion in a complex strategy game. This breakthrough showcases the rapid advancements in machine learning and game theory.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 01, 2022",
-    "category": "Research"
-  },
-  {
-    "title": "AI-powered Cybersecurity Tools Reshape the Industry",
-    "description": "Rapid advancements in AI are transforming the cybersecurity landscape. These intelligent tools can swiftly detect, analyze, and neutralize potential threats.",
-    "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "October 01, 2022",
+    "source": "The AI Times",
+    "date": "September 30, 2022",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI for Business Operations",
-    "description": "A leading tech company has announced a multi-billion dollar investment in AI to streamline business operations. The investment underscores the growing importance of AI in modern business strategy.",
+    "title": "Revolutionizing Healthcare with AI: A New Paradigm",
+    "description": "Researchers have developed an AI algorithm that accurately predicts patient health risks, opening up a new frontier in personalized medicine. The tool will help doctors make better-informed decisions regarding treatment plans.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 01, 2022",
+    "source": "Healthcare Tech News",
+    "date": "September 30, 2022",
+    "category": "Research"
+  },
+  {
+    "title": "AI Startup Raises $100m in Series B Funding",
+    "description": "A promising AI startup, specializing in autonomous vehicle technology, has successfully raised $100 million in its latest funding round. This investment underscores the growing interest in AI applications within the automotive industry.",
+    "url": "#",
+    "source": "Business Insider",
+    "date": "September 30, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Raised over AI in Law Enforcement",
-    "description": "The use of AI in law enforcement has sparked a vigorous debate. Critics argue that without proper regulation, AI could potentially infringe on civil liberties.",
+    "title": "New Framework for AI Ethics Announced",
+    "description": "A leading tech firm has announced a new framework for AI ethics, emphasizing transparency, fairness, and accountability. This sets a new standard for ethical considerations in AI development and use.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 01, 2022",
+    "source": "TechCrunch",
+    "date": "September 30, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Healthcare Diagnostics",
-    "description": "A groundbreaking AI tool has been developed that can diagnose various health conditions with remarkable accuracy. The tool is expected to revolutionize healthcare diagnostics and treatment.",
+    "title": "AI Tools Transforming the Landscape of Graphic Design",
+    "description": "New AI-based graphic design tools are making it easier for designers to create stunning visuals. These tools leverage machine learning algorithms to automate and enhance the design process.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 01, 2022",
+    "source": "Design Magazine",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
