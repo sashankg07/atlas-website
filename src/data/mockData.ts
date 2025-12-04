@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Defeats Human Champion in Strategic Game",
-    "description": "In a remarkable display of artificial intelligence prowess, a new AI system has defeated a world champion in a complex strategy game. This breakthrough showcases the rapid advancements in machine learning and game theory.",
+    "title": "Groundbreaking AI Model Mimics the Human Brain",
+    "description": "In a significant advancement of artificial intelligence, researchers have created a model that mimics the human brain's processing power. This model opens up a new frontier in understanding human cognition and consciousness.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "September 30, 2022",
-    "category": "Technology"
-  },
-  {
-    "title": "Revolutionizing Healthcare with AI: A New Paradigm",
-    "description": "Researchers have developed an AI algorithm that accurately predicts patient health risks, opening up a new frontier in personalized medicine. The tool will help doctors make better-informed decisions regarding treatment plans.",
-    "url": "#",
-    "source": "Healthcare Tech News",
-    "date": "September 30, 2022",
+    "source": "AI Today",
+    "date": "September 28, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Startup Raises $100m in Series B Funding",
-    "description": "A promising AI startup, specializing in autonomous vehicle technology, has successfully raised $100 million in its latest funding round. This investment underscores the growing interest in AI applications within the automotive industry.",
+    "title": "Artificial Intelligence: The Game Changer in Climate Change",
+    "description": "AI is being hailed as a powerful tool in the battle against climate change. From optimizing energy use to predicting weather patterns, AI is revolutionizing the way we understand and respond to environmental issues.",
+    "url": "#",
+    "source": "Tech World News",
+    "date": "September 28, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Startup Raises $200 Million in Series C Funding",
+    "description": "In a clear sign of AI's increasing value in the business world, an AI startup has raised a staggering $200 million in its latest funding round. The funds will be used to expand the company's AI solutions across various industries.",
     "url": "#",
     "source": "Business Insider",
-    "date": "September 30, 2022",
+    "date": "September 28, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Framework for AI Ethics Announced",
-    "description": "A leading tech firm has announced a new framework for AI ethics, emphasizing transparency, fairness, and accountability. This sets a new standard for ethical considerations in AI development and use.",
+    "title": "AI Ethics: Balancing Innovation with Responsibility",
+    "description": "As AI technology advances, ethical considerations become increasingly important. Experts are calling for a balanced approach that encourages innovation while also addressing potential ethical issues.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2022",
+    "source": "The AI Journal",
+    "date": "September 28, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools Transforming the Landscape of Graphic Design",
-    "description": "New AI-based graphic design tools are making it easier for designers to create stunning visuals. These tools leverage machine learning algorithms to automate and enhance the design process.",
+    "title": "Latest AI Tools Transforms Data Analysis",
+    "description": "New AI tools are transforming the field of data analysis, making it possible to process large volumes of data more quickly and accurately than ever before. This is set to revolutionize many industries, from healthcare to finance.",
     "url": "#",
-    "source": "Design Magazine",
-    "date": "September 30, 2022",
+    "source": "Data Science Weekly",
+    "date": "September 28, 2021",
     "category": "Tools"
   }
 ];
