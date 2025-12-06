@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI Algorithm Predicts Alzheimer's Disease Years Before Diagnosis",
-    "description": "Researchers have developed an AI algorithm that can predict the onset of Alzheimer's disease years before symptoms appear. The technology could revolutionize early detection and treatment strategies.",
+    "title": "AI Breaks Ground in Predicting Climate Change",
+    "description": "In a significant breakthrough, researchers have developed an AI model capable of predicting climate changes with unprecedented accuracy. The technology has major implications for global warming mitigation efforts.",
+    "url": "#",
+    "source": "Nature",
+    "date": "October 17, 2021",
+    "category": "Research"
+  },
+  {
+    "title": "Tech Giants Invest Heavily in AI Ethics",
+    "description": "Leading tech companies, including Google and Microsoft, are investing significantly in AI ethics, aiming to address growing concerns about AI's impact on society and individual privacy.",
+    "url": "#",
+    "source": "The Verge",
+    "date": "October 17, 2021",
+    "category": "Ethics"
+  },
+  {
+    "title": "Revolutionizing Healthcare: AI and Predictive Diagnostics",
+    "description": "AI has started revolutionizing healthcare with predictive diagnostics, enabling doctors to detect diseases like cancer at much earlier stages and increasing the chances of successful treatment.",
     "url": "#",
     "source": "The New York Times",
-    "date": "December 01, 2021",
-    "category": "Research"
-  },
-  {
-    "title": "AI in Agriculture: The Future of Farming",
-    "description": "With the help of artificial intelligence, farmers are improving yields and reducing waste. AI technologies such as machine learning and predictive analytics are transforming the agriculture industry.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "December 01, 2021",
+    "date": "October 17, 2021",
     "category": "Technology"
-  },
-  {
-    "title": "Google AI's Latest Breakthrough: Understanding Language in Real-world Context",
-    "description": "Google AI has made a significant breakthrough in natural language understanding. Their new model can comprehend and respond to language in a contextually accurate manner, marking a major step forward in conversational AI.",
-    "url": "#",
-    "source": "TechCrunch",
-    "date": "December 01, 2021",
-    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI: A Rising Concern",
-    "description": "As AI continues to permeate every aspect of our lives, the ethical implications of its use are becoming increasingly important. Experts are calling for stringent regulations to address potential biases and misuse.",
+    "title": "AI-powered Tools Transforming the World of Design",
+    "description": "AI-powered design tools are changing the landscape of graphic design, allowing designers to generate high-quality work more efficiently than ever before.",
     "url": "#",
-    "source": "BBC News",
-    "date": "December 01, 2021",
-    "category": "Ethics"
+    "source": "Wired",
+    "date": "October 17, 2021",
+    "category": "Tools"
   },
   {
-    "title": "AI Tools Transforming the Healthcare Industry",
-    "description": "Artificial intelligence tools are increasingly being used in healthcare for diagnosis, treatment planning, and patient monitoring. This trend is expected to improve patient outcomes and efficiency in the health sector.",
+    "title": "How AI is Shaping the Future of Fintech",
+    "description": "Artificial intelligence is increasingly being used in the fintech sector, streamlining operations, reducing fraud, and personalizing customer experiences. Experts believe this trend will continue to grow in the coming years.",
     "url": "#",
-    "source": "Forbes",
-    "date": "December 01, 2021",
-    "category": "Tools"
+    "source": "Financial Times",
+    "date": "October 17, 2021",
+    "category": "Business"
   }
 ];
