@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Device Predicts Heart Failure",
-    "description": "A groundbreaking new AI device has been developed that can predict heart failure up to five days before it occurs. This revolutionary technology could save countless lives every year.",
+    "title": "AI Breaks Ground in Early Disease Detection",
+    "description": "Researchers have developed an AI model capable of predicting the onset of diseases earlier than traditional methods. This groundbreaking advancement could revolutionize healthcare diagnostics and treatment plans.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 17, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "DeepMind's AI Masters Protein Folding",
-    "description": "DeepMind's AI program AlphaFold has solved the 50-year-old challenge of protein folding, opening up new possibilities for drug discovery and disease understanding.",
-    "url": "#",
-    "source": "Wired",
-    "date": "October 17, 2021",
+    "source": "The Guardian",
+    "date": "September 23, 2022",
     "category": "Research"
   },
   {
-    "title": "Is AI the Future of Ethical Decision Making?",
-    "description": "As AI becomes more sophisticated, experts are investigating whether it can be used to make ethical decisions in complex scenarios. The implications could be far-reaching across numerous industries.",
+    "title": "New AI Chip Revolutionizes Tech Industry",
+    "description": "A tech company has unveiled a new AI chip that offers unprecedented processing power. This development could significantly enhance AI application capabilities and performance across various industries.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 17, 2021",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "September 23, 2022",
+    "category": "Technology"
+  },
+  {
+    "title": "AI in Business: A Game Changer for Data Analytics",
+    "description": "Businesses are increasingly leveraging AI technologies for data analytics to gain deeper insights and drive strategic decision-making. This trend is transforming the landscape of business intelligence.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "September 23, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Transforming the Business Landscape",
-    "description": "From customer service to logistics, AI is transforming the business landscape. Discover how enterprises are leveraging AI to gain a competitive edge.",
+    "title": "AI Ethics: Balancing Benefits and Risks",
+    "description": "As AI becomes more integrated into our lives, ethical implications arise. Addressing these concerns effectively is of paramount importance to ensure the responsible use of AI.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 17, 2021",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "September 23, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "New Tools for Developing AI Models",
-    "description": "Emerging tools are making it easier than ever to develop, train, and deploy AI models. These advancements could democratize AI development.",
+    "title": "Innovative AI Tools Transforming Content Creation",
+    "description": "New AI-powered tools are revolutionizing content creation, offering capabilities from generating written content to creating visual designs. These tools are making content production more efficient and accessible.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 17, 2021",
+    "source": "Wired",
+    "date": "September 23, 2022",
     "category": "Tools"
   }
 ];
