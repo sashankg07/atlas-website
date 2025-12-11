@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Predicts Alzheimer’s Disease Years Before Diagnosis",
-    "description": "New research reveals that artificial intelligence could predict Alzheimer's years before doctors. This breakthrough could lead to early intervention and treatment, potentially leading to better outcomes for patients.",
+    "title": "AI Predicts Heart Disease with Remarkable Accuracy",
+    "description": "Researchers have developed an AI model that can predict the likelihood of heart disease with over 90% accuracy. This could revolutionize preventative care and help reduce the number of heart disease cases worldwide.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 11, 2021",
+    "source": "Nature Magazine",
+    "date": "October 17, 2022",
     "category": "Research"
   },
   {
-    "title": "Leading Tech Company Unveils Powerful New AI Chip",
-    "description": "A global tech giant has recently unveiled their latest AI chip, promising unmatched machine learning capabilities. The chip is expected to revolutionize various industries, from healthcare to logistics.",
+    "title": "New AI Tool Transforms Sketches into Photorealistic Images",
+    "description": "Tech company, DoodleAI, has launched an impressive new AI tool that can transform simple sketches into photorealistic images. The technology could have wide-ranging applications in design, education, and entertainment.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 11, 2021",
+    "date": "October 17, 2022",
     "category": "Technology"
   },
   {
-    "title": "Artificial Intelligence Shakes Up the Finance Industry",
-    "description": "AI is making waves in the finance industry, with businesses adopting machine learning algorithms for risk assessment, fraud detection, and financial planning. It's a trend that's set to transform the industry.",
+    "title": "AI Startup, IntelliSense, Raises $50M in Series B Funding",
+    "description": "IntelliSense, an AI startup specializing in predictive analytics, has successfully raised $50 million in its latest funding round. The funds will be used to advance their technology and expand their global presence.",
     "url": "#",
     "source": "Forbes",
-    "date": "November 11, 2021",
+    "date": "October 17, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Exploring the Ethical Implications of AI in Law Enforcement",
-    "description": "As law enforcement agencies increasingly turn to AI to aid in their work, new questions arise regarding privacy, bias, and accountability. This highlights the need for robust ethical frameworks around AI use.",
+    "title": "Ethical Implications of AI in Hiring Processes",
+    "description": "As AI continues to permeate hiring and recruitment processes, concerns about its ethical implications are on the rise. Experts call for more transparency and regulation to ensure fair and unbiased AI use.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 11, 2021",
+    "date": "October 17, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Revolutionize Graphic Design",
-    "description": "A suite of AI-powered tools is changing the landscape of graphic design, allowing artists to create high-quality work in less time. These tools are accessible to professionals and novices alike.",
+    "title": "Google Launches New AI Tools for Data Analysis",
+    "description": "Google has announced the launch of new AI tools designed to streamline and enhance data analysis. These tools aim to enable businesses to harness the power of their data more effectively.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 11, 2021",
+    "source": "CNET",
+    "date": "October 17, 2022",
     "category": "Tools"
   }
 ];
