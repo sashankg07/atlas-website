@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Predicts Heart Disease with Remarkable Accuracy",
-    "description": "Researchers have developed an AI model that can predict the likelihood of heart disease with over 90% accuracy. This could revolutionize preventative care and help reduce the number of heart disease cases worldwide.",
+    "title": "AI Breakthrough: Machine Learning Models Predict Climate Change",
+    "description": "Researchers have developed an AI model capable of predicting the impacts of climate change with unprecedented accuracy. The advancement could play a crucial role in global environmental strategies.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "October 17, 2022",
+    "source": "The New Scientist",
+    "date": "September 20, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI Tool Transforms Sketches into Photorealistic Images",
-    "description": "Tech company, DoodleAI, has launched an impressive new AI tool that can transform simple sketches into photorealistic images. The technology could have wide-ranging applications in design, education, and entertainment.",
+    "title": "AI Ethics: Facial Recognition Technology Under Debate",
+    "description": "Questions are being raised about the ethical implications of facial recognition technology. Critics argue that without proper regulation, the technology could infringe on personal privacy rights.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 17, 2022",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "September 20, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI Startup, IntelliSense, Raises $50M in Series B Funding",
-    "description": "IntelliSense, an AI startup specializing in predictive analytics, has successfully raised $50 million in its latest funding round. The funds will be used to advance their technology and expand their global presence.",
+    "title": "Tech Giant Acquires AI Startup for Predictive Analytics",
+    "description": "In a significant business move, a leading tech company has acquired an AI startup known for its advanced predictive analytics. The deal is expected to revolutionize the tech giant's data analysis capabilities.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 17, 2022",
+    "source": "TechCrunch",
+    "date": "September 20, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Implications of AI in Hiring Processes",
-    "description": "As AI continues to permeate hiring and recruitment processes, concerns about its ethical implications are on the rise. Experts call for more transparency and regulation to ensure fair and unbiased AI use.",
+    "title": "New AI Tool Simplifies Complex Data Visualization",
+    "description": "A new AI-powered tool has been launched that simplifies the visual representation of complex data. The tool is expected to aid businesses in making more informed, data-driven decisions.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 17, 2022",
-    "category": "Ethics"
+    "source": "Wired",
+    "date": "September 20, 2022",
+    "category": "Tools"
   },
   {
-    "title": "Google Launches New AI Tools for Data Analysis",
-    "description": "Google has announced the launch of new AI tools designed to streamline and enhance data analysis. These tools aim to enable businesses to harness the power of their data more effectively.",
+    "title": "The Rise of AI in Healthcare: Predicting Patient Outcomes",
+    "description": "Artificial Intelligence is revolutionizing healthcare, with new models capable of predicting patient outcomes and assisting in early diagnosis. These advancements are expected to significantly improve patient care.",
     "url": "#",
-    "source": "CNET",
-    "date": "October 17, 2022",
-    "category": "Tools"
+    "source": "MIT Technology Review",
+    "date": "September 20, 2022",
+    "category": "Technology"
   }
 ];
