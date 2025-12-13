@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Models Predict Climate Change",
-    "description": "Researchers have developed an AI model capable of predicting the impacts of climate change with unprecedented accuracy. The advancement could play a crucial role in global environmental strategies.",
+    "title": "AI Breakthrough: New Algorithm Predicts Climate Change Impact with Incredible Accuracy",
+    "description": "Researchers have developed a groundbreaking AI model that can predict the future impact of climate change with unprecedented precision. The new model could revolutionize how scientists forecast environmental changes and devise strategies to mitigate them.",
     "url": "#",
-    "source": "The New Scientist",
-    "date": "September 20, 2022",
+    "source": "Nature",
+    "date": "February 26, 2023",
     "category": "Research"
   },
   {
-    "title": "AI Ethics: Facial Recognition Technology Under Debate",
-    "description": "Questions are being raised about the ethical implications of facial recognition technology. Critics argue that without proper regulation, the technology could infringe on personal privacy rights.",
+    "title": "Revolutionizing Healthcare: AI Tool Enables Early Detection of Heart Disease",
+    "description": "An AI-powered tool capable of detecting early signs of heart disease has been unveiled. This breakthrough technology could drastically improve patient outcomes and reduce healthcare costs globally.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 20, 2022",
-    "category": "Ethics"
+    "source": "The Lancet",
+    "date": "February 26, 2023",
+    "category": "Technology"
   },
   {
-    "title": "Tech Giant Acquires AI Startup for Predictive Analytics",
-    "description": "In a significant business move, a leading tech company has acquired an AI startup known for its advanced predictive analytics. The deal is expected to revolutionize the tech giant's data analysis capabilities.",
+    "title": "AI in Business: How AI is Streamlining Supply Chain Management",
+    "description": "A new report highlights how AI is being utilized to optimize supply chain management. Companies are leveraging AI to predict demand, manage inventory and reduce operational costs, leading to increased efficiency and profitability.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 20, 2022",
+    "source": "Forbes",
+    "date": "February 26, 2023",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Simplifies Complex Data Visualization",
-    "description": "A new AI-powered tool has been launched that simplifies the visual representation of complex data. The tool is expected to aid businesses in making more informed, data-driven decisions.",
+    "title": "Ethical Conundrum: The Debate on AI's Role in Decision-Making Intensifies",
+    "description": "As AI continues to permeate every aspect of our lives, the ethical debate around its role in decision-making is heating up. Experts argue for the need for transparency, accountability, and human oversight in AI-driven processes.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 20, 2022",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "February 26, 2023",
+    "category": "Ethics"
   },
   {
-    "title": "The Rise of AI in Healthcare: Predicting Patient Outcomes",
-    "description": "Artificial Intelligence is revolutionizing healthcare, with new models capable of predicting patient outcomes and assisting in early diagnosis. These advancements are expected to significantly improve patient care.",
+    "title": "AI Tools: New Deep Learning Framework Simplifies AI Model Training",
+    "description": "A newly released deep learning framework is set to make the training of AI models simpler and more accessible. This development is expected to accelerate AI research and application across various fields.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 20, 2022",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "February 26, 2023",
+    "category": "Tools"
   }
 ];
