@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Cancer Detection",
-    "description": "Researchers have unveiled an AI model that can identify cancerous tissues faster than human experts. The breakthrough could revolutionize the field of medical diagnostics.",
+    "title": "Groundbreaking AI Algorithm Predicts Climate Change Impact",
+    "description": "Scientists have developed a new AI model capable of predicting the environmental impact of climate change with unprecedented accuracy. This breakthrough may assist in the creation of more effective strategies for climate mitigation.",
     "url": "#",
-    "source": "Medical AI Today",
-    "date": "November 01, 2021",
+    "source": "The New York Times",
+    "date": "September 01, 2022",
     "category": "Research"
   },
   {
-    "title": "Autonomous Vehicle Technology Leaps Forward with Latest AI Innovations",
-    "description": "In a groundbreaking development, a tech firm has unveiled an AI system that significantly improves the decision-making abilities of self-driving cars. The technology promises to bolster safety in autonomous vehicles.",
+    "title": "AI Transforming the Retail Industry Amid Pandemic",
+    "description": "As the world adapts to the new normal, AI is playing a crucial role in reshaping the retail industry. With features for personalized shopping experiences to supply chain optimization, AI is the new game-changer.",
     "url": "#",
-    "source": "Tech Innovations Daily",
-    "date": "November 01, 2021",
-    "category": "Technology"
+    "source": "BBC",
+    "date": "September 01, 2022",
+    "category": "Business"
   },
   {
-    "title": "AI Startup Lands Major Investment for Next-Gen Predictive Analytics",
-    "description": "A rising AI startup has secured a significant investment to further develop its cutting-edge predictive analytics platform. The tool uses AI to generate real-time forecasts for businesses.",
+    "title": "New AI Tool Predicts Alzheimer’s Disease Years Before Onset",
+    "description": "A team of researchers have developed an AI tool that can predict the onset of Alzheimer's disease years before the first symptoms appear. This could revolutionize early detection and treatment.",
     "url": "#",
-    "source": "AI Business News",
-    "date": "November 01, 2021",
-    "category": "Business"
+    "source": "Nature",
+    "date": "September 01, 2022",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Guidelines Proposed for Ethical AI Development",
-    "description": "A renowned ethics committee has proposed a new set of guidelines for the ethical development of AI. The move aims to address growing concerns about AI's societal impact.",
+    "title": "Ethics in AI: Balancing Benefits and Risks",
+    "description": "As AI technology continues to evolve, ethical considerations are more important than ever. Experts discuss the importance of transparency, accountability, and public engagement in AI development and usage.",
     "url": "#",
-    "source": "AI Ethics Weekly",
-    "date": "November 01, 2021",
+    "source": "The Guardian",
+    "date": "September 01, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI-Powered Tool Transforms Data Processing",
-    "description": "A leading tech company has launched a new AI tool that streamlines data processing. The tool automates tasks, allowing businesses to focus on insights and decision-making.",
+    "title": "AI in Agriculture: The Future of Farming",
+    "description": "With the introduction of AI tools in farming, agriculture is undergoing a major transformation. From crop monitoring to weather prediction, AI is ensuring increased productivity and sustainability.",
     "url": "#",
-    "source": "AI Tools Review",
-    "date": "November 01, 2021",
-    "category": "Tools"
+    "source": "The Economist",
+    "date": "September 01, 2022",
+    "category": "Technology"
   }
 ];
