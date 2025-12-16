@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Algorithm Predicts Climate Change Impact",
-    "description": "Scientists have developed a new AI model capable of predicting the environmental impact of climate change with unprecedented accuracy. This breakthrough may assist in the creation of more effective strategies for climate mitigation.",
+    "title": "AI Breakthrough: New Algorithm Mimics Human Intelligence",
+    "description": "Researchers have developed a groundbreaking AI algorithm that closely mimics human intelligence. The algorithm opens new possibilities for AI in various fields including healthcare, robotics, and autonomous vehicles.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 01, 2022",
+    "source": "The Tech Journal",
+    "date": "November 18, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Transforming the Retail Industry Amid Pandemic",
-    "description": "As the world adapts to the new normal, AI is playing a crucial role in reshaping the retail industry. With features for personalized shopping experiences to supply chain optimization, AI is the new game-changer.",
+    "title": "AI in Business: Leveraging Machine Learning for Customer Engagement",
+    "description": "Businesses are increasingly utilizing AI and machine learning technologies to enhance customer engagement. This trend is transforming the business landscape, offering personalized customer experiences.",
     "url": "#",
-    "source": "BBC",
-    "date": "September 01, 2022",
+    "source": "Business Insider",
+    "date": "November 18, 2022",
     "category": "Business"
   },
   {
-    "title": "New AI Tool Predicts Alzheimer’s Disease Years Before Onset",
-    "description": "A team of researchers have developed an AI tool that can predict the onset of Alzheimer's disease years before the first symptoms appear. This could revolutionize early detection and treatment.",
+    "title": "Ethical Dilemma: Balancing AI Innovation and Privacy Concerns",
+    "description": "As AI continues to evolve, so do the ethical debates surrounding its implementation. Balancing technological progression with privacy and security remains a major concern.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 01, 2022",
-    "category": "Research"
+    "source": "The Guardian",
+    "date": "November 18, 2022",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: Balancing Benefits and Risks",
-    "description": "As AI technology continues to evolve, ethical considerations are more important than ever. Experts discuss the importance of transparency, accountability, and public engagement in AI development and usage.",
+    "title": "Latest AI tool: TensorFlow 2.7 Released with Exciting New Features",
+    "description": "The new version of the popular AI tool, TensorFlow 2.7, has been released. It includes a number of new features that enhance machine learning capabilities and overall performance.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 01, 2022",
-    "category": "Ethics"
+    "source": "The Verge",
+    "date": "November 18, 2022",
+    "category": "Tools"
   },
   {
-    "title": "AI in Agriculture: The Future of Farming",
-    "description": "With the introduction of AI tools in farming, agriculture is undergoing a major transformation. From crop monitoring to weather prediction, AI is ensuring increased productivity and sustainability.",
+    "title": "Artificial Intelligence Revolutionizing Healthcare Technology",
+    "description": "AI is playing a crucial role in the advancement of healthcare technology. From predicting diseases to personalizing treatments, AI is transforming the medical landscape like never before.",
     "url": "#",
-    "source": "The Economist",
-    "date": "September 01, 2022",
+    "source": "The New York Times",
+    "date": "November 18, 2022",
     "category": "Technology"
   }
 ];
