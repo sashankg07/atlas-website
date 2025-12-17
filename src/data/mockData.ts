@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Algorithm Mimics Human Intelligence",
-    "description": "Researchers have developed a groundbreaking AI algorithm that closely mimics human intelligence. The algorithm opens new possibilities for AI in various fields including healthcare, robotics, and autonomous vehicles.",
+    "title": "AI-Powered Healthcare: The Future is Here",
+    "description": "AI has significantly transformed the healthcare industry with its predictive analytics and automation capabilities. It is aiding in early disease detection, personalized treatment, and efficient patient care.",
     "url": "#",
-    "source": "The Tech Journal",
-    "date": "November 18, 2022",
+    "source": "AI Daily News",
+    "date": "October 02, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "Researchers Develop AI Model to Predict Climate Change Impact",
+    "description": "Scientists have developed a new AI model that accurately estimates the impact of climate change. This breakthrough could help policymakers implement sustainable practices effectively.",
+    "url": "#",
+    "source": "Tech Science Daily",
+    "date": "October 02, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Business: Leveraging Machine Learning for Customer Engagement",
-    "description": "Businesses are increasingly utilizing AI and machine learning technologies to enhance customer engagement. This trend is transforming the business landscape, offering personalized customer experiences.",
+    "title": "AI in E-commerce: A Game Changer for Customer Experience",
+    "description": "AI is revolutionizing the e-commerce industry by offering personalized shopping experiences. It's not just shaping customer engagement but also improving business operations and decision-making.",
     "url": "#",
     "source": "Business Insider",
-    "date": "November 18, 2022",
+    "date": "October 02, 2021",
     "category": "Business"
-  },
-  {
-    "title": "Ethical Dilemma: Balancing AI Innovation and Privacy Concerns",
-    "description": "As AI continues to evolve, so do the ethical debates surrounding its implementation. Balancing technological progression with privacy and security remains a major concern.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "November 18, 2022",
-    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Latest AI tool: TensorFlow 2.7 Released with Exciting New Features",
-    "description": "The new version of the popular AI tool, TensorFlow 2.7, has been released. It includes a number of new features that enhance machine learning capabilities and overall performance.",
+    "title": "The Ethical Dilemma of AI in Surveillance",
+    "description": "While AI-powered surveillance systems promise enhanced security, they raise serious ethical concerns about privacy and consent. Experts call for robust regulations to safeguard individual rights.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 18, 2022",
-    "category": "Tools"
+    "source": "Ethics Today",
+    "date": "October 02, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "Artificial Intelligence Revolutionizing Healthcare Technology",
-    "description": "AI is playing a crucial role in the advancement of healthcare technology. From predicting diseases to personalizing treatments, AI is transforming the medical landscape like never before.",
+    "title": "AI Tools Making Remote Work More Efficient",
+    "description": "From virtual meeting assistants to smart project management tools, AI is making remote work more productive and manageable, especially amid the ongoing pandemic.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 18, 2022",
-    "category": "Technology"
+    "source": "Tech Today",
+    "date": "October 02, 2021",
+    "category": "Tools"
   }
 ];
