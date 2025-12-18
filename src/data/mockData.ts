@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI-Powered Healthcare: The Future is Here",
-    "description": "AI has significantly transformed the healthcare industry with its predictive analytics and automation capabilities. It is aiding in early disease detection, personalized treatment, and efficient patient care.",
+    "title": "AI Breakthrough: New Algorithm Learns as Fast as Humans",
+    "description": "An international team of computer scientists has developed an AI algorithm capable of learning at the same speed as a human. This revolutionary development could have far-reaching implications in fields ranging from robotics to education.",
     "url": "#",
     "source": "AI Daily News",
-    "date": "October 02, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "Researchers Develop AI Model to Predict Climate Change Impact",
-    "description": "Scientists have developed a new AI model that accurately estimates the impact of climate change. This breakthrough could help policymakers implement sustainable practices effectively.",
-    "url": "#",
-    "source": "Tech Science Daily",
-    "date": "October 02, 2021",
+    "date": "November 11, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in E-commerce: A Game Changer for Customer Experience",
-    "description": "AI is revolutionizing the e-commerce industry by offering personalized shopping experiences. It's not just shaping customer engagement but also improving business operations and decision-making.",
+    "title": "Big Tech Adopts AI for Sustainable Practices",
+    "description": "Major tech companies are harnessing the power of AI to improve their sustainability efforts. The technology is being used to optimize energy use, reduce waste, and even predict environmental trends.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 02, 2021",
+    "source": "Tech Insider",
+    "date": "November 11, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Startup Raises $200 Million in Series B Funding",
+    "description": "AI startup, AlphaTech, has secured $200 million in its latest funding round. The company plans to use the funds to improve its machine learning capabilities and expand its global reach.",
+    "url": "#",
+    "source": "Business Weekly",
+    "date": "November 11, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Dilemma of AI in Surveillance",
-    "description": "While AI-powered surveillance systems promise enhanced security, they raise serious ethical concerns about privacy and consent. Experts call for robust regulations to safeguard individual rights.",
+    "title": "Ethical AI: Balancing Innovation and Human Rights",
+    "description": "As AI continues to evolve, the need for ethical guidelines is becoming increasingly important. Experts are calling for a balance between technological innovation and preserving human rights.",
     "url": "#",
     "source": "Ethics Today",
-    "date": "October 02, 2021",
+    "date": "November 11, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools Making Remote Work More Efficient",
-    "description": "From virtual meeting assistants to smart project management tools, AI is making remote work more productive and manageable, especially amid the ongoing pandemic.",
+    "title": "New Tool Simplifies Machine Learning for Non-experts",
+    "description": "A newly-released AI tool aims to make machine learning more accessible to non-experts. The user-friendly interface allows individuals with minimal coding experience to develop and implement AI models.",
     "url": "#",
-    "source": "Tech Today",
-    "date": "October 02, 2021",
+    "source": "AI Tools Review",
+    "date": "November 11, 2021",
     "category": "Tools"
   }
 ];
