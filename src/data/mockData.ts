@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Algorithm Learns as Fast as Humans",
-    "description": "An international team of computer scientists has developed an AI algorithm capable of learning at the same speed as a human. This revolutionary development could have far-reaching implications in fields ranging from robotics to education.",
+    "title": "AI Beats Physicians in Diagnosing Skin Cancer",
+    "description": "A new study reveals that artificial intelligence can now diagnose skin cancer with more accuracy than experienced dermatologists. This breakthrough could revolutionize future of medical diagnosis.",
     "url": "#",
-    "source": "AI Daily News",
-    "date": "November 11, 2021",
+    "source": "The New York Times",
+    "date": "October 26, 2022",
     "category": "Research"
   },
   {
-    "title": "Big Tech Adopts AI for Sustainable Practices",
-    "description": "Major tech companies are harnessing the power of AI to improve their sustainability efforts. The technology is being used to optimize energy use, reduce waste, and even predict environmental trends.",
+    "title": "AI Revolutionizing the Renewable Energy Sector",
+    "description": "Artificial intelligence is playing a pivotal role in optimizing renewable energy production. AI systems are helping to predict energy production and demand, thus increasing efficiency.",
     "url": "#",
-    "source": "Tech Insider",
-    "date": "November 11, 2021",
+    "source": "The Guardian",
+    "date": "October 26, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $200 Million in Series B Funding",
-    "description": "AI startup, AlphaTech, has secured $200 million in its latest funding round. The company plans to use the funds to improve its machine learning capabilities and expand its global reach.",
+    "title": "AI to Drive the Future of E-commerce",
+    "description": "The integration of AI in e-commerce is reshaping the shopping experience. AI is enhancing personalized shopping by understanding user behavior and preferences.",
     "url": "#",
-    "source": "Business Weekly",
-    "date": "November 11, 2021",
+    "source": "Wall Street Journal",
+    "date": "October 26, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: Balancing Innovation and Human Rights",
-    "description": "As AI continues to evolve, the need for ethical guidelines is becoming increasingly important. Experts are calling for a balance between technological innovation and preserving human rights.",
+    "title": "AI Ethics: Balancing Progress and Moral Dilemma",
+    "description": "As AI development accelerates, ethical considerations come to the forefront. The discussion centers around privacy, data usage, and the potential societal impacts of AI.",
     "url": "#",
-    "source": "Ethics Today",
-    "date": "November 11, 2021",
+    "source": "The Economist",
+    "date": "October 26, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New Tool Simplifies Machine Learning for Non-experts",
-    "description": "A newly-released AI tool aims to make machine learning more accessible to non-experts. The user-friendly interface allows individuals with minimal coding experience to develop and implement AI models.",
+    "title": "New AI Tool Transforms Animation Creation",
+    "description": "A novel AI tool is set to revolutionize the animation industry by automating tedious tasks. This breakthrough will allow animators to focus more on creativity.",
     "url": "#",
-    "source": "AI Tools Review",
-    "date": "November 11, 2021",
+    "source": "BBC News",
+    "date": "October 26, 2022",
     "category": "Tools"
   }
 ];
