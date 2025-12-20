@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Beats Physicians in Diagnosing Skin Cancer",
-    "description": "A new study reveals that artificial intelligence can now diagnose skin cancer with more accuracy than experienced dermatologists. This breakthrough could revolutionize future of medical diagnosis.",
+    "title": "AI Breakthrough: New Algorithm Predicts Climate Change Impact",
+    "description": "A team of researchers has developed a groundbreaking AI model capable of predicting the long-term effects of climate change. The algorithm offers unprecedented accuracy, opening up new possibilities in environmental planning and policy-making.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 26, 2022",
+    "source": "Nature Magazine",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizing the Renewable Energy Sector",
-    "description": "Artificial intelligence is playing a pivotal role in optimizing renewable energy production. AI systems are helping to predict energy production and demand, thus increasing efficiency.",
+    "title": "Tech Giants Collaborate on AI Chip Revolution",
+    "description": "Leading tech companies, including Google and Apple, are collaborating to develop next-generation AI chips. These chips aim to drastically enhance the efficiency and power of AI systems.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 26, 2022",
+    "source": "TechCrunch",
+    "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI to Drive the Future of E-commerce",
-    "description": "The integration of AI in e-commerce is reshaping the shopping experience. AI is enhancing personalized shopping by understanding user behavior and preferences.",
+    "title": "Unprecedented AI Investment Trends in 2021",
+    "description": "The AI sector has reportedly received an unprecedented level of investment in 2021. Startups leveraging AI technology continue to attract significant funding, signaling a positive trend for the industry's future.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "October 26, 2022",
+    "source": "Forbes",
+    "date": "September 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Balancing Progress and Moral Dilemma",
-    "description": "As AI development accelerates, ethical considerations come to the forefront. The discussion centers around privacy, data usage, and the potential societal impacts of AI.",
+    "title": "World Leaders Discuss AI Ethics at Recent Summit",
+    "description": "Global leaders convened at a recent summit to discuss the ethical implications of AI. The forum highlighted the need for regulations to ensure the safe and fair use of AI technology.",
     "url": "#",
-    "source": "The Economist",
-    "date": "October 26, 2022",
+    "source": "The New York Times",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Animation Creation",
-    "description": "A novel AI tool is set to revolutionize the animation industry by automating tedious tasks. This breakthrough will allow animators to focus more on creativity.",
+    "title": "New Open-Source AI Tool Transforms Data Analysis",
+    "description": "A newly released open-source tool is transforming how scientists handle large datasets. The AI-powered tool simplifies the process, making advanced data analysis accessible to researchers in various fields.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 26, 2022",
+    "source": "MIT Technology Review",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
