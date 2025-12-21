@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Algorithm Predicts Climate Change Impact",
-    "description": "A team of researchers has developed a groundbreaking AI model capable of predicting the long-term effects of climate change. The algorithm offers unprecedented accuracy, opening up new possibilities in environmental planning and policy-making.",
+    "title": "Revolutionizing Healthcare: AI Identifies Rare Diseases in Record Time",
+    "description": "Researchers have developed a novel AI algorithm capable of diagnosing rare diseases in mere hours, a process that traditionally takes years. This breakthrough could revolutionize healthcare and pave the way for timely treatments.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "September 30, 2021",
+    "source": "The Guardian",
+    "date": "November 30, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Collaborate on AI Chip Revolution",
-    "description": "Leading tech companies, including Google and Apple, are collaborating to develop next-generation AI chips. These chips aim to drastically enhance the efficiency and power of AI systems.",
+    "title": "Startup Unveils AI-powered Autonomous Vehicles for Urban Commute",
+    "description": "A leading startup has unveiled an innovative autonomous vehicle powered by AI. The vehicle promises to redefine urban transportation by providing efficient and safer commutes.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2021",
+    "date": "November 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "Unprecedented AI Investment Trends in 2021",
-    "description": "The AI sector has reportedly received an unprecedented level of investment in 2021. Startups leveraging AI technology continue to attract significant funding, signaling a positive trend for the industry's future.",
+    "title": "Multinational Corporation Invests Billions in AI Development",
+    "description": "A multinational corporation has announced a significant investment in AI, aiming to harness its potential for business growth and improved customer experience. This marks one of the largest corporate investments in AI to date.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 30, 2021",
+    "source": "Financial Times",
+    "date": "November 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "World Leaders Discuss AI Ethics at Recent Summit",
-    "description": "Global leaders convened at a recent summit to discuss the ethical implications of AI. The forum highlighted the need for regulations to ensure the safe and fair use of AI technology.",
+    "title": "New Guidelines Propose Ethical AI Use in Surveillance",
+    "description": "In response to growing privacy concerns, a global watchdog has proposed new guidelines for ethical AI use in surveillance systems. The guidelines aim to balance the benefits of AI with respect for individual privacy rights.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 30, 2021",
+    "source": "BBC News",
+    "date": "November 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New Open-Source AI Tool Transforms Data Analysis",
-    "description": "A newly released open-source tool is transforming how scientists handle large datasets. The AI-powered tool simplifies the process, making advanced data analysis accessible to researchers in various fields.",
+    "title": "AI Tool Predicts Climate Change Impact with Unprecedented Accuracy",
+    "description": "Scientists have developed an AI tool that predicts the impact of climate change with remarkable accuracy. The tool uses deep learning algorithms to analyze climate data and make predictions, proving crucial for future climate strategy.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 30, 2021",
+    "source": "Nature",
+    "date": "November 30, 2021",
     "category": "Tools"
   }
 ];
