@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Identifies Rare Diseases in Record Time",
-    "description": "Researchers have developed a novel AI algorithm capable of diagnosing rare diseases in mere hours, a process that traditionally takes years. This breakthrough could revolutionize healthcare and pave the way for timely treatments.",
+    "title": "AI Revolutionizes Drug Discovery",
+    "description": "Artificial Intelligence is rapidly becoming a valuable tool in the race for novel drug discovery. Innovative algorithms are speeding up the process and significantly reducing costs.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 30, 2021",
+    "source": "The New York Times",
+    "date": "October 05, 2021",
     "category": "Research"
   },
   {
-    "title": "Startup Unveils AI-powered Autonomous Vehicles for Urban Commute",
-    "description": "A leading startup has unveiled an innovative autonomous vehicle powered by AI. The vehicle promises to redefine urban transportation by providing efficient and safer commutes.",
+    "title": "Autonomous Vehicles: AI is Taking the Wheel",
+    "description": "With recent advancements in AI and machine learning, autonomous vehicles are becoming a realistic prospect for the near future. These technologies are set to revolutionize the transportation industry.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 30, 2021",
+    "source": "The Guardian",
+    "date": "October 05, 2021",
     "category": "Technology"
   },
   {
-    "title": "Multinational Corporation Invests Billions in AI Development",
-    "description": "A multinational corporation has announced a significant investment in AI, aiming to harness its potential for business growth and improved customer experience. This marks one of the largest corporate investments in AI to date.",
+    "title": "AI in Agriculture: A Solution for Sustainable Farming",
+    "description": "Artificial Intelligence is making waves in agriculture by helping farmers increase productivity while reducing environmental impact. AI-powered systems are predicting weather patterns, managing crops, and optimizing resources.",
     "url": "#",
     "source": "Financial Times",
-    "date": "November 30, 2021",
+    "date": "October 05, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Guidelines Propose Ethical AI Use in Surveillance",
-    "description": "In response to growing privacy concerns, a global watchdog has proposed new guidelines for ethical AI use in surveillance systems. The guidelines aim to balance the benefits of AI with respect for individual privacy rights.",
+    "title": "Ethical Implications of AI in Surveillance",
+    "description": "As AI technology advances, it brings with it ethical dilemmas, particularly in the realm of surveillance. Stakeholders are calling for clearer regulations and transparency to prevent misuse.",
     "url": "#",
     "source": "BBC News",
-    "date": "November 30, 2021",
+    "date": "October 05, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool Predicts Climate Change Impact with Unprecedented Accuracy",
-    "description": "Scientists have developed an AI tool that predicts the impact of climate change with remarkable accuracy. The tool uses deep learning algorithms to analyze climate data and make predictions, proving crucial for future climate strategy.",
+    "title": "AI Tool Deciphers Ancient Languages",
+    "description": "A groundbreaking AI tool has been developed that can decipher ancient languages. The technology may unlock secrets of early civilizations and contribute significantly to historical research.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 30, 2021",
+    "source": "National Geographic",
+    "date": "October 05, 2021",
     "category": "Tools"
   }
 ];
