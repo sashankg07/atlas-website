@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Drug Discovery",
-    "description": "Artificial Intelligence is rapidly becoming a valuable tool in the race for novel drug discovery. Innovative algorithms are speeding up the process and significantly reducing costs.",
+    "title": "AI Breakthrough: New Algorithm Outperforms Human Doctors in Diagnosing Diseases",
+    "description": "A team of researchers has developed an AI algorithm that outperforms human doctors in diagnosing a range of diseases. This marks a significant step forward in the field of AI in healthcare.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 05, 2021",
+    "source": "Medical AI Journal",
+    "date": "October 25, 2021",
     "category": "Research"
   },
   {
-    "title": "Autonomous Vehicles: AI is Taking the Wheel",
-    "description": "With recent advancements in AI and machine learning, autonomous vehicles are becoming a realistic prospect for the near future. These technologies are set to revolutionize the transportation industry.",
+    "title": "DeepMind Unveils New AI Tool for Predicting Climate Change Impact",
+    "description": "DeepMind has unveiled a new AI-powered tool that can predict the impact of climate change more accurately than ever before. This tool has the potential to revolutionize the way we tackle climate change.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 05, 2021",
+    "source": "Technology Review",
+    "date": "October 25, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI in Agriculture: A Solution for Sustainable Farming",
-    "description": "Artificial Intelligence is making waves in agriculture by helping farmers increase productivity while reducing environmental impact. AI-powered systems are predicting weather patterns, managing crops, and optimizing resources.",
+    "title": "AI in Business: How It's Transforming the Retail Industry",
+    "description": "AI is transforming the retail industry, from personalized marketing to inventory management. This article takes a closer look at these developments and what they mean for businesses.",
     "url": "#",
-    "source": "Financial Times",
-    "date": "October 05, 2021",
+    "source": "Business Insider",
+    "date": "October 25, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Implications of AI in Surveillance",
-    "description": "As AI technology advances, it brings with it ethical dilemmas, particularly in the realm of surveillance. Stakeholders are calling for clearer regulations and transparency to prevent misuse.",
+    "title": "Ethical Concerns Raised Over AI in Surveillance Technology",
+    "description": "The increasing use of AI in surveillance technology is raising ethical concerns about privacy and consent. This article examines these issues and discusses potential solutions.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 05, 2021",
+    "source": "Ethics in AI Review",
+    "date": "October 25, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool Deciphers Ancient Languages",
-    "description": "A groundbreaking AI tool has been developed that can decipher ancient languages. The technology may unlock secrets of early civilizations and contribute significantly to historical research.",
+    "title": "Introducing a New AI Tool for Advancing Quantum Computing",
+    "description": "Researchers have introduced a new AI tool that can accelerate developments in quantum computing. This tool could pave the way for significant advancements in the field.",
     "url": "#",
-    "source": "National Geographic",
-    "date": "October 05, 2021",
+    "source": "AI Tools Review",
+    "date": "October 25, 2021",
     "category": "Tools"
   }
 ];
