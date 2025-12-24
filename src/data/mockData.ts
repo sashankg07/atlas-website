@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Algorithm Outperforms Human Doctors in Diagnosing Diseases",
-    "description": "A team of researchers has developed an AI algorithm that outperforms human doctors in diagnosing a range of diseases. This marks a significant step forward in the field of AI in healthcare.",
+    "title": "AI Breakthrough: New Deep Learning Technique Surpasses Human Accuracy",
+    "description": "Researchers have developed a deep learning technique that is demonstrating unprecedented levels of accuracy, surpassing human abilities in certain tasks. This revolutionary development is set to transform industries ranging from healthcare to transportation.",
     "url": "#",
-    "source": "Medical AI Journal",
-    "date": "October 25, 2021",
+    "source": "Nature",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "DeepMind Unveils New AI Tool for Predicting Climate Change Impact",
-    "description": "DeepMind has unveiled a new AI-powered tool that can predict the impact of climate change more accurately than ever before. This tool has the potential to revolutionize the way we tackle climate change.",
+    "title": "AI in Healthcare: Predicting Disease Progression with Unprecedented Precision",
+    "description": "A new AI model, trained on vast datasets, is now capable of predicting disease progression with remarkable precision. This could lead to timely interventions and improved patient outcomes.",
     "url": "#",
-    "source": "Technology Review",
-    "date": "October 25, 2021",
+    "source": "The Lancet",
+    "date": "September 30, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI in Business: How It's Transforming the Retail Industry",
-    "description": "AI is transforming the retail industry, from personalized marketing to inventory management. This article takes a closer look at these developments and what they mean for businesses.",
+    "title": "AI Revolutionizes the Retail Industry: Personalized Shopping Experience",
+    "description": "AI is transforming the retail industry by providing personalized shopping experiences. Using machine learning algorithms, retailers can now anticipate customer needs and recommend products accurately.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 25, 2021",
+    "source": "Forbes",
+    "date": "September 30, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Raised Over AI in Surveillance Technology",
-    "description": "The increasing use of AI in surveillance technology is raising ethical concerns about privacy and consent. This article examines these issues and discusses potential solutions.",
+    "title": "The Ethical Implications of AI in Surveillance",
+    "description": "As AI becomes more prevalent in surveillance technology, concerns over privacy and ethical implications are on the rise. Experts call for regulations to ensure responsible use of the technology.",
     "url": "#",
-    "source": "Ethics in AI Review",
-    "date": "October 25, 2021",
+    "source": "The Guardian",
+    "date": "September 30, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Introducing a New AI Tool for Advancing Quantum Computing",
-    "description": "Researchers have introduced a new AI tool that can accelerate developments in quantum computing. This tool could pave the way for significant advancements in the field.",
+    "title": "OpenAI Releases New AI Training Toolkit",
+    "description": "OpenAI has released a new AI training toolkit that allows developers to train models more efficiently. This tool is set to democratize AI by making it accessible to a wider range of developers.",
     "url": "#",
-    "source": "AI Tools Review",
-    "date": "October 25, 2021",
+    "source": "TechCrunch",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
