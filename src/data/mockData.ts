@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Deep Learning Technique Surpasses Human Accuracy",
-    "description": "Researchers have developed a deep learning technique that is demonstrating unprecedented levels of accuracy, surpassing human abilities in certain tasks. This revolutionary development is set to transform industries ranging from healthcare to transportation.",
+    "title": "Revolutionizing Healthcare with AI: The Latest Breakthroughs",
+    "description": "AI is transforming the healthcare industry with new predictive algorithms and risk assessment tools. Recent breakthroughs have shown promise in early disease detection and treatment planning.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2022",
+    "source": "The New York Times",
+    "date": "October 12, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Healthcare: Predicting Disease Progression with Unprecedented Precision",
-    "description": "A new AI model, trained on vast datasets, is now capable of predicting disease progression with remarkable precision. This could lead to timely interventions and improved patient outcomes.",
+    "title": "New AI Tool Aims to Enhance Creativity in Film Industry",
+    "description": "A new AI tool that uses advanced algorithms to generate film scripts, plot lines, and character development is set to revolutionize the movie industry.",
     "url": "#",
-    "source": "The Lancet",
-    "date": "September 30, 2022",
+    "source": "The Guardian",
+    "date": "October 12, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Revolutionizes the Retail Industry: Personalized Shopping Experience",
-    "description": "AI is transforming the retail industry by providing personalized shopping experiences. Using machine learning algorithms, retailers can now anticipate customer needs and recommend products accurately.",
+    "title": "Tech Giants Invest Heavily in AI Startups",
+    "description": "Tech giants like Google and Apple are investing billions in AI startups. This trend reflects the growing significance of AI in shaping the future of technology.",
     "url": "#",
     "source": "Forbes",
-    "date": "September 30, 2022",
+    "date": "October 12, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Implications of AI in Surveillance",
-    "description": "As AI becomes more prevalent in surveillance technology, concerns over privacy and ethical implications are on the rise. Experts call for regulations to ensure responsible use of the technology.",
+    "title": "Ethical Concerns Over AI Facial Recognition Technology",
+    "description": "The increasing use of AI in facial recognition technology is raising valid ethical concerns. Critics argue for stricter regulations to prevent misuse.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2022",
+    "source": "BBC",
+    "date": "October 12, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases New AI Training Toolkit",
-    "description": "OpenAI has released a new AI training toolkit that allows developers to train models more efficiently. This tool is set to democratize AI by making it accessible to a wider range of developers.",
+    "title": "AI Simplifies Data Analysis with New Tools",
+    "description": "New AI tools are making data analysis simpler and more efficient. These tools can process large data sets quickly, providing valuable insights in real-time.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2022",
+    "date": "October 12, 2021",
     "category": "Tools"
   }
 ];
