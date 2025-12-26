@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare with AI: The Latest Breakthroughs",
-    "description": "AI is transforming the healthcare industry with new predictive algorithms and risk assessment tools. Recent breakthroughs have shown promise in early disease detection and treatment planning.",
+    "title": "AI Predicts Alzheimer's Years Before Diagnosis",
+    "description": "Researchers have developed an AI model that can predict Alzheimer's disease up to six years before doctors. The tool could revolutionize early detection and treatment.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 12, 2021",
+    "source": "Nature",
+    "date": "March 10, 2023",
     "category": "Research"
   },
   {
-    "title": "New AI Tool Aims to Enhance Creativity in Film Industry",
-    "description": "A new AI tool that uses advanced algorithms to generate film scripts, plot lines, and character development is set to revolutionize the movie industry.",
+    "title": "How AI is Shaping the Future of Renewable Energy",
+    "description": "AI is increasingly playing a key role in the renewable energy sector, with algorithms optimizing energy storage and distribution systems. This could be a game-changer in our fight against climate change.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 12, 2021",
+    "date": "March 10, 2023",
     "category": "Technology"
   },
   {
-    "title": "Tech Giants Invest Heavily in AI Startups",
-    "description": "Tech giants like Google and Apple are investing billions in AI startups. This trend reflects the growing significance of AI in shaping the future of technology.",
+    "title": "Tech Giants Invest in AI to Boost Customer Experience",
+    "description": "Big tech firms are heavily investing in AI to enhance customer experience. This trend is transforming how businesses interact with their consumers.",
     "url": "#",
     "source": "Forbes",
-    "date": "October 12, 2021",
+    "date": "March 10, 2023",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Over AI Facial Recognition Technology",
-    "description": "The increasing use of AI in facial recognition technology is raising valid ethical concerns. Critics argue for stricter regulations to prevent misuse.",
+    "title": "The Ethical Dilemma of AI in Surveillance",
+    "description": "As AI becomes more integrated into surveillance systems, ethical concerns about privacy and consent are on the rise. Balancing security and privacy rights is becoming a pressing issue.",
     "url": "#",
-    "source": "BBC",
-    "date": "October 12, 2021",
+    "source": "The New York Times",
+    "date": "March 10, 2023",
     "category": "Ethics"
   },
   {
-    "title": "AI Simplifies Data Analysis with New Tools",
-    "description": "New AI tools are making data analysis simpler and more efficient. These tools can process large data sets quickly, providing valuable insights in real-time.",
+    "title": "New AI Tools Transforming the Healthcare Industry",
+    "description": "A surge in AI-powered tools is set to revolutionize the healthcare industry. These tools can predict patient outcomes, optimize care, and even assist in complex surgeries.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 12, 2021",
+    "source": "MIT Technology Review",
+    "date": "March 10, 2023",
     "category": "Tools"
   }
 ];
