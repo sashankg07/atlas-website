@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Predicts Alzheimer's Years Before Diagnosis",
-    "description": "Researchers have developed an AI model that can predict Alzheimer's disease up to six years before doctors. The tool could revolutionize early detection and treatment.",
+    "title": "AI Outperforms Humans in Identifying Cancer Types",
+    "description": "Latest advancements in AI have led to the development of a system that can identify cancer types with greater accuracy than human experts. This breakthrough is expected to revolutionize the future of cancer diagnosis and treatment.",
     "url": "#",
-    "source": "Nature",
-    "date": "March 10, 2023",
+    "source": "The New York Times",
+    "date": "October 08, 2022",
     "category": "Research"
   },
   {
-    "title": "How AI is Shaping the Future of Renewable Energy",
-    "description": "AI is increasingly playing a key role in the renewable energy sector, with algorithms optimizing energy storage and distribution systems. This could be a game-changer in our fight against climate change.",
+    "title": "Cutting-Edge AI Chip Unveiled for Next Generation Applications",
+    "description": "Tech giant Intel has unveiled a new AI chip designed specifically for artificial intelligence workloads. The chip promises unprecedented processing power, fueling advancements in AI technologies.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "March 10, 2023",
+    "source": "TechCrunch",
+    "date": "October 08, 2022",
     "category": "Technology"
   },
   {
-    "title": "Tech Giants Invest in AI to Boost Customer Experience",
-    "description": "Big tech firms are heavily investing in AI to enhance customer experience. This trend is transforming how businesses interact with their consumers.",
+    "title": "Businesses Turn to AI for Enhanced Customer Experience",
+    "description": "More and more businesses are leveraging AI to personalize customer experience. The trend is reshaping the way companies interact with their customers, offering unprecedented levels of customization.",
     "url": "#",
     "source": "Forbes",
-    "date": "March 10, 2023",
+    "date": "October 08, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Dilemma of AI in Surveillance",
-    "description": "As AI becomes more integrated into surveillance systems, ethical concerns about privacy and consent are on the rise. Balancing security and privacy rights is becoming a pressing issue.",
+    "title": "Ethical Questions Surround Use of AI in Law Enforcement",
+    "description": "The use of AI in law enforcement is raising ethical questions. Critics argue that without proper regulation, AI could lead to invasive surveillance and the potential for bias in criminal justice systems.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "March 10, 2023",
+    "source": "The Guardian",
+    "date": "October 08, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Transforming the Healthcare Industry",
-    "description": "A surge in AI-powered tools is set to revolutionize the healthcare industry. These tools can predict patient outcomes, optimize care, and even assist in complex surgeries.",
+    "title": "Google Releases New AI Tools for Developers",
+    "description": "Google has released a new set of AI tools designed to help developers create more sophisticated artificial intelligence applications. The tools promise to streamline the development process and offer developers greater control over their AI projects.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "March 10, 2023",
+    "source": "Engadget",
+    "date": "October 08, 2022",
     "category": "Tools"
   }
 ];
