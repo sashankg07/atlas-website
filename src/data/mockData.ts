@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Identifying Cancer Types",
-    "description": "Latest advancements in AI have led to the development of a system that can identify cancer types with greater accuracy than human experts. This breakthrough is expected to revolutionize the future of cancer diagnosis and treatment.",
+    "title": "Groundbreaking AI Tool Predicts Climate Change Impact",
+    "description": "New AI technology has been developed that can predict the impact of climate change with remarkable accuracy. The tool uses machine learning algorithms to analyze patterns and trends, providing valuable data to climate scientists.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 08, 2022",
+    "date": "November 22, 2021",
     "category": "Research"
   },
   {
-    "title": "Cutting-Edge AI Chip Unveiled for Next Generation Applications",
-    "description": "Tech giant Intel has unveiled a new AI chip designed specifically for artificial intelligence workloads. The chip promises unprecedented processing power, fueling advancements in AI technologies.",
+    "title": "AI Revolutionizes Healthcare with Personalized Treatment Plans",
+    "description": "AI is transforming the healthcare industry by developing personalized treatment plans for patients. The technology uses data analysis and predictive modeling to determine the most effective treatment options.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 08, 2022",
+    "source": "BBC News",
+    "date": "November 22, 2021",
     "category": "Technology"
   },
   {
-    "title": "Businesses Turn to AI for Enhanced Customer Experience",
-    "description": "More and more businesses are leveraging AI to personalize customer experience. The trend is reshaping the way companies interact with their customers, offering unprecedented levels of customization.",
+    "title": "Tech Giant Invests Billions in AI for Business Innovation",
+    "description": "A leading technology company has announced a multi-billion dollar investment in AI. The company aims to leverage AI for innovative business solutions, driving efficiency and growth.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 08, 2022",
+    "source": "The Wall Street Journal",
+    "date": "November 22, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Questions Surround Use of AI in Law Enforcement",
-    "description": "The use of AI in law enforcement is raising ethical questions. Critics argue that without proper regulation, AI could lead to invasive surveillance and the potential for bias in criminal justice systems.",
+    "title": "Exploring the Ethical Implications of AI in Law Enforcement",
+    "description": "As AI becomes increasingly prevalent in law enforcement, concerns are being raised about its ethical implications. Experts are calling for clear guidelines and regulations to ensure the technology is used responsibly.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 08, 2022",
+    "date": "November 22, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Google Releases New AI Tools for Developers",
-    "description": "Google has released a new set of AI tools designed to help developers create more sophisticated artificial intelligence applications. The tools promise to streamline the development process and offer developers greater control over their AI projects.",
+    "title": "New AI Tool Streamlines Software Development Process",
+    "description": "A new AI tool has been launched that promises to streamline the software development process. The tool uses machine learning to automate tasks, increasing productivity and reducing errors.",
     "url": "#",
-    "source": "Engadget",
-    "date": "October 08, 2022",
+    "source": "TechCrunch",
+    "date": "November 22, 2021",
     "category": "Tools"
   }
 ];
