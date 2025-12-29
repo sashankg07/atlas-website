@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Tool Predicts Climate Change Impact",
-    "description": "New AI technology has been developed that can predict the impact of climate change with remarkable accuracy. The tool uses machine learning algorithms to analyze patterns and trends, providing valuable data to climate scientists.",
+    "title": "AI Breaks Ground in Predicting Climate Change Effects",
+    "description": "Scientists have leveraged AI to develop more accurate models for predicting the impact of climate change. This breakthrough could play a crucial role in formulating future environmental policies.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 22, 2021",
+    "source": "Nature",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizes Healthcare with Personalized Treatment Plans",
-    "description": "AI is transforming the healthcare industry by developing personalized treatment plans for patients. The technology uses data analysis and predictive modeling to determine the most effective treatment options.",
+    "title": "Revolutionizing Healthcare: AI Proves Effective in Early Cancer Detection",
+    "description": "A new AI algorithm has been designed to detect early signs of cancer, potentially saving countless lives. The technology has shown promising results in recent trials.",
     "url": "#",
-    "source": "BBC News",
-    "date": "November 22, 2021",
+    "source": "The Guardian",
+    "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI for Business Innovation",
-    "description": "A leading technology company has announced a multi-billion dollar investment in AI. The company aims to leverage AI for innovative business solutions, driving efficiency and growth.",
+    "title": "Tech Giant Acquires AI Startup to Boost Cloud Services",
+    "description": "A major tech company has acquired a promising AI startup, aiming to enhance its cloud services. The move follows the trend of tech companies leveraging AI for business growth.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "November 22, 2021",
+    "source": "Forbes",
+    "date": "September 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Exploring the Ethical Implications of AI in Law Enforcement",
-    "description": "As AI becomes increasingly prevalent in law enforcement, concerns are being raised about its ethical implications. Experts are calling for clear guidelines and regulations to ensure the technology is used responsibly.",
+    "title": "Ethics in AI: Balancing Innovation and Privacy",
+    "description": "As AI continues to evolve, ethical discussions around privacy are intensifying. Experts are calling for more robust regulations to ensure AI developments respect user privacy.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 22, 2021",
+    "source": "The New York Times",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
     "title": "New AI Tool Streamlines Software Development Process",
-    "description": "A new AI tool has been launched that promises to streamline the software development process. The tool uses machine learning to automate tasks, increasing productivity and reducing errors.",
+    "description": "A newly released AI tool aims to simplify the software development process, promising to drastically reduce the time spent on coding and debugging.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 22, 2021",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
