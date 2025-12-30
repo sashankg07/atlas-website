@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks Ground in Predicting Climate Change Effects",
-    "description": "Scientists have leveraged AI to develop more accurate models for predicting the impact of climate change. This breakthrough could play a crucial role in formulating future environmental policies.",
+    "title": "Revolutionizing Healthcare: AI Detects Rare Diseases with Unprecedented Accuracy",
+    "description": "Researchers have developed an AI model capable of diagnosing rare diseases with accuracy never seen before. This breakthrough could dramatically improve patient outcomes and save healthcare systems millions.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2021",
+    "source": "The New York Times",
+    "date": "October 06, 2021",
     "category": "Research"
   },
   {
-    "title": "Revolutionizing Healthcare: AI Proves Effective in Early Cancer Detection",
-    "description": "A new AI algorithm has been designed to detect early signs of cancer, potentially saving countless lives. The technology has shown promising results in recent trials.",
+    "title": "New AI Tech Predicts Climate Change Impact on Global Economy",
+    "description": "A cutting-edge AI tool that predicts the impact of climate change on the global economy has been unveiled. The technology could help policymakers make informed decisions to combat climate change.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 30, 2021",
+    "date": "October 06, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Acquires AI Startup to Boost Cloud Services",
-    "description": "A major tech company has acquired a promising AI startup, aiming to enhance its cloud services. The move follows the trend of tech companies leveraging AI for business growth.",
+    "title": "AI Start-up Raises $200 Million in Series C Funding",
+    "description": "An AI start-up specializing in autonomous driving technology has raised $200 million in Series C funding. The investment will be used to accelerate the company's research and development efforts.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 30, 2021",
+    "source": "Wall Street Journal",
+    "date": "October 06, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: Balancing Innovation and Privacy",
-    "description": "As AI continues to evolve, ethical discussions around privacy are intensifying. Experts are calling for more robust regulations to ensure AI developments respect user privacy.",
+    "title": "Ethical Concerns Rise Over AI's Role in Employment Decisions",
+    "description": "Concerns are growing over the ethical implications of AI's increased role in hiring decisions. Critics argue the technology may perpetuate biases, calling for greater transparency and regulation.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 30, 2021",
+    "source": "BBC News",
+    "date": "October 06, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Software Development Process",
-    "description": "A newly released AI tool aims to simplify the software development process, promising to drastically reduce the time spent on coding and debugging.",
+    "title": "OpenAI Unveils New Language Model That Writes Code",
+    "description": "OpenAI has unveiled a new AI language model capable of writing functioning code. The tool has the potential to revolutionize software development, making it more accessible to non-programmers.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2021",
+    "date": "October 06, 2021",
     "category": "Tools"
   }
 ];
