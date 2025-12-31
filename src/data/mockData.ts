@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Detects Rare Diseases with Unprecedented Accuracy",
-    "description": "Researchers have developed an AI model capable of diagnosing rare diseases with accuracy never seen before. This breakthrough could dramatically improve patient outcomes and save healthcare systems millions.",
+    "title": "Revolutionizing Medicine: AI Predicts Heart Failure Risk",
+    "description": "A groundbreaking AI model developed by researchers is now capable of predicting the risk of heart failure with remarkable accuracy. This pioneering technology could change the future of cardiology.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 06, 2021",
+    "date": "October 20, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI Tech Predicts Climate Change Impact on Global Economy",
-    "description": "A cutting-edge AI tool that predicts the impact of climate change on the global economy has been unveiled. The technology could help policymakers make informed decisions to combat climate change.",
+    "title": "AI Helps Solve Climate Crisis: Breakthrough in Carbon Capture Technology",
+    "description": "In a world-first, scientists have used AI to develop an efficient and cost-effective carbon capture solution. The technology could drastically cut greenhouse gas emissions and help combat global warming.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 06, 2021",
+    "source": "BBC News",
+    "date": "October 20, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Start-up Raises $200 Million in Series C Funding",
-    "description": "An AI start-up specializing in autonomous driving technology has raised $200 million in Series C funding. The investment will be used to accelerate the company's research and development efforts.",
+    "title": "AI Startup Acquired for $2B: A New Era for Autonomous Vehicles",
+    "description": "In a landmark deal, a leading tech company has acquired an AI startup specializing in autonomous vehicles. The deal, worth $2 billion, is expected to expedite the mass adoption of self-driving cars.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "October 06, 2021",
+    "source": "Forbes",
+    "date": "October 20, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Rise Over AI's Role in Employment Decisions",
-    "description": "Concerns are growing over the ethical implications of AI's increased role in hiring decisions. Critics argue the technology may perpetuate biases, calling for greater transparency and regulation.",
+    "title": "AI Ethics: New Legislation to Regulate Bias in AI Systems",
+    "description": "In a move towards more equitable AI, lawmakers have proposed new legislation to tackle bias in AI systems. The law aims to create a more fair and transparent AI environment.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 06, 2021",
+    "source": "The Guardian",
+    "date": "October 20, 2022",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Unveils New Language Model That Writes Code",
-    "description": "OpenAI has unveiled a new AI language model capable of writing functioning code. The tool has the potential to revolutionize software development, making it more accessible to non-programmers.",
+    "title": "New AI Toolkit Unveiled: Boosting Efficiency for Developers",
+    "description": "A new AI toolkit has been launched, designed to boost productivity and efficiency for AI developers. The toolkit offers a range of features, including pre-trained models and advanced analytics.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 06, 2021",
+    "date": "October 20, 2022",
     "category": "Tools"
   }
 ];
