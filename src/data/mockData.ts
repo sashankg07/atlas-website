@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine: AI Predicts Heart Failure Risk",
-    "description": "A groundbreaking AI model developed by researchers is now capable of predicting the risk of heart failure with remarkable accuracy. This pioneering technology could change the future of cardiology.",
+    "title": "Disrupting Healthcare: AI's Role in Disease Prediction",
+    "description": "Cutting-edge AI technology is being leveraged to predict diseases before they strike. This revolutionary development has the potential to save millions of lives worldwide.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 20, 2022",
+    "source": "MIT Technology Review",
+    "date": "December 20, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Helps Solve Climate Crisis: Breakthrough in Carbon Capture Technology",
-    "description": "In a world-first, scientists have used AI to develop an efficient and cost-effective carbon capture solution. The technology could drastically cut greenhouse gas emissions and help combat global warming.",
+    "title": "AI in Retail: A New Era of Personalized Shopping",
+    "description": "AI is transforming the retail industry by providing personalized shopping experiences. This new technology is significantly boosting customer engagement and sales.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 20, 2022",
-    "category": "Technology"
+    "source": "The Wall Street Journal",
+    "date": "December 20, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI Startup Acquired for $2B: A New Era for Autonomous Vehicles",
-    "description": "In a landmark deal, a leading tech company has acquired an AI startup specializing in autonomous vehicles. The deal, worth $2 billion, is expected to expedite the mass adoption of self-driving cars.",
+    "title": "AI Ethics: Striving for Transparency and Accountability",
+    "description": "As AI continues to evolve, ethical considerations are becoming increasingly important. AI developers are now focusing on creating transparent and accountable systems.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 20, 2022",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "December 20, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: New Legislation to Regulate Bias in AI Systems",
-    "description": "In a move towards more equitable AI, lawmakers have proposed new legislation to tackle bias in AI systems. The law aims to create a more fair and transparent AI environment.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "October 20, 2022",
-    "category": "Ethics"
-  },
-  {
-    "title": "New AI Toolkit Unveiled: Boosting Efficiency for Developers",
-    "description": "A new AI toolkit has been launched, designed to boost productivity and efficiency for AI developers. The toolkit offers a range of features, including pre-trained models and advanced analytics.",
+    "title": "Unveiling TensorFlow 2.6: A Powerful Tool for AI Developers",
+    "description": "The latest update to TensorFlow, the popular open-source machine learning library, includes several new features designed to enhance the development of AI applications.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 20, 2022",
+    "date": "December 20, 2021",
     "category": "Tools"
+  },
+  {
+    "title": "AI Revolutionizes Astrophysics: Unraveling the Mysteries of the Universe",
+    "description": "Artificial intelligence is aiding astrophysicists in their quest to understand the universe. AI algorithms are now capable of analyzing vast amounts of astronomical data faster and more accurately than ever before.",
+    "url": "#",
+    "source": "Nature",
+    "date": "December 20, 2021",
+    "category": "Technology"
   }
 ];
