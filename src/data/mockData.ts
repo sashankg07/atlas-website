@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Disrupting Healthcare: AI's Role in Disease Prediction",
-    "description": "Cutting-edge AI technology is being leveraged to predict diseases before they strike. This revolutionary development has the potential to save millions of lives worldwide.",
+    "title": "AI Breakthrough: Machines Now Able to Learn Without Human Supervision",
+    "description": "A recent development in artificial intelligence research has allowed machines to learn autonomously, without the need for human supervision. This breakthrough could lead to unprecedented advancements in the field.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "December 20, 2021",
+    "source": "The Verge",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "AI in Retail: A New Era of Personalized Shopping",
-    "description": "AI is transforming the retail industry by providing personalized shopping experiences. This new technology is significantly boosting customer engagement and sales.",
+    "title": "New AI Tool Predicts Climate Change Effects with Unprecedented Accuracy",
+    "description": "A new artificial intelligence tool has been developed that predicts the effects of climate change with greater accuracy than ever before. This groundbreaking technology could have significant implications for environmental science.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "December 20, 2021",
-    "category": "Business"
+    "source": "New Scientist",
+    "date": "September 30, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics: Striving for Transparency and Accountability",
-    "description": "As AI continues to evolve, ethical considerations are becoming increasingly important. AI developers are now focusing on creating transparent and accountable systems.",
+    "title": "Tech Giant Google Invests Billions in AI Startups",
+    "description": "Google is increasing its investments in artificial intelligence startups in a bid to stay ahead in the rapidly evolving field. The tech giant sees AI as the future of technology and is committed to leading the way.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 20, 2021",
-    "category": "Ethics"
+    "source": "Bloomberg",
+    "date": "September 30, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Unveiling TensorFlow 2.6: A Powerful Tool for AI Developers",
-    "description": "The latest update to TensorFlow, the popular open-source machine learning library, includes several new features designed to enhance the development of AI applications.",
+    "title": "Ethical Concerns Surrounding AI Continue to Grow",
+    "description": "As artificial intelligence continues to advance, so do concerns about its ethical implications. Experts call for more regulation and oversight to ensure that AI is developed and used responsibly.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "December 20, 2021",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "September 30, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI Revolutionizes Astrophysics: Unraveling the Mysteries of the Universe",
-    "description": "Artificial intelligence is aiding astrophysicists in their quest to understand the universe. AI algorithms are now capable of analyzing vast amounts of astronomical data faster and more accurately than ever before.",
+    "title": "New AI Toolkit Promises to Make Machine Learning More Accessible",
+    "description": "A new AI toolkit has been launched that promises to make machine learning more accessible to non-specialists. The toolkit offers a range of easy-to-use tools and resources for those looking to harness the power of AI.",
     "url": "#",
-    "source": "Nature",
-    "date": "December 20, 2021",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "September 30, 2022",
+    "category": "Tools"
   }
 ];
