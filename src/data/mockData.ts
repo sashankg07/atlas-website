@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machines Now Able to Learn Without Human Supervision",
-    "description": "A recent development in artificial intelligence research has allowed machines to learn autonomously, without the need for human supervision. This breakthrough could lead to unprecedented advancements in the field.",
+    "title": "Revolutionizing Medicine: AI Diagnoses Skin Cancer with 95% Accuracy",
+    "description": "In a recent breakthrough, researchers have developed an AI model that can diagnose skin cancer with an accuracy of 95%, exceeding the average accuracy of dermatologists. This development has the potential to revolutionize skin cancer diagnostics and treatment.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 30, 2022",
+    "source": "MIT Technology Review",
+    "date": "December 19, 2021",
     "category": "Research"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Effects with Unprecedented Accuracy",
-    "description": "A new artificial intelligence tool has been developed that predicts the effects of climate change with greater accuracy than ever before. This groundbreaking technology could have significant implications for environmental science.",
+    "title": "AI-powered Chatbots Transforming Customer Service Industry",
+    "description": "An increasing number of businesses are leveraging AI chatbots to enhance their customer service operations. These chatbots are capable of understanding and responding to customer queries in real-time, leading to improved customer satisfaction and efficiency.",
     "url": "#",
-    "source": "New Scientist",
-    "date": "September 30, 2022",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "December 19, 2021",
+    "category": "Business"
   },
   {
-    "title": "Tech Giant Google Invests Billions in AI Startups",
-    "description": "Google is increasing its investments in artificial intelligence startups in a bid to stay ahead in the rapidly evolving field. The tech giant sees AI as the future of technology and is committed to leading the way.",
+    "title": "Google's New AI Ethics Policy Promises Greater Transparency",
+    "description": "Google has announced a new set of AI ethics policies, promising more transparency and accountability in its AI operations. The move comes in response to previous controversies and criticism over the company's AI projects.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "September 30, 2022",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "December 19, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding AI Continue to Grow",
-    "description": "As artificial intelligence continues to advance, so do concerns about its ethical implications. Experts call for more regulation and oversight to ensure that AI is developed and used responsibly.",
+    "title": "OpenAI Releases New Language Model API",
+    "description": "OpenAI has unveiled its latest language model API, offering developers a new way to integrate AI into their products and services. The API supports a range of language tasks, including translation, summarization, and content generation.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2022",
-    "category": "Ethics"
+    "source": "Wired",
+    "date": "December 19, 2021",
+    "category": "Tools"
   },
   {
-    "title": "New AI Toolkit Promises to Make Machine Learning More Accessible",
-    "description": "A new AI toolkit has been launched that promises to make machine learning more accessible to non-specialists. The toolkit offers a range of easy-to-use tools and resources for those looking to harness the power of AI.",
+    "title": "AI Breakthrough: Machines Learning to Reason",
+    "description": "Researchers have developed a new AI system capable of basic reasoning, a significant leap towards more intelligent and autonomous AI systems. The system, which learns to make logical deductions, could have wide-ranging implications for AI development.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2022",
-    "category": "Tools"
+    "source": "Nature",
+    "date": "December 19, 2021",
+    "category": "Technology"
   }
 ];
