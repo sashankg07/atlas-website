@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Models Predict Climate Changes",
-    "description": "Scientists have developed new machine learning models that can accurately predict climate changes and extreme weather conditions. This AI-driven approach could revolutionize climate science.",
+    "title": "AI Breaks New Ground in Early Cancer Detection",
+    "description": "A revolutionary artificial intelligence model has been developed that can detect early signs of certain types of cancer, potentially saving millions of lives. The AI model promises to significantly improve early detection and treatment.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2021",
+    "source": "The New York Times",
+    "date": "October 31, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Healthcare: Revolutionizing Diagnostics and Patient Care",
-    "description": "Artificial Intelligence is transforming healthcare by improving diagnostics and patient care. Its applications range from early disease detection to personalized treatment plans.",
+    "title": "AI Now Powers the World's Largest Hedge Fund",
+    "description": "Bridgewater Associates, the largest hedge fund in the world, is now using artificial intelligence to predict market trends. The firm believes that AI will drastically reduce human error and increase profitability.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2021",
-    "category": "Technology"
+    "source": "Wall Street Journal",
+    "date": "October 31, 2021",
+    "category": "Business"
   },
   {
-    "title": "IBM Launches AI-Powered Automation Software for Businesses",
-    "description": "IBM has launched an AI-powered automation software to streamline business operations. This innovation aims to increase efficiency and reduce costs in the corporate world.",
+    "title": "Tech Giants in Race for AI Supremacy",
+    "description": "Google, Apple, and Amazon are investing billions into AI research and development. The tech giants are in a fierce competition to lead the next wave of AI technology.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 30, 2021",
-    "category": "Business"
+    "source": "Bloomberg",
+    "date": "October 31, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Concerns Over Biased Algorithms Continue to Grow",
-    "description": "As AI algorithms become increasingly integrated into society, concerns over algorithmic bias and discrimination are growing. Experts are calling for regulation and transparency to mitigate these issues.",
+    "title": "The Ethical Dilemma of AI in Combat Scenarios",
+    "description": "As military forces around the world increasingly incorporate AI into their arsenals, ethical questions are being raised about the potential consequences. Critics worry about the lack of human oversight and the potential for misuse.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 30, 2021",
+    "source": "The Guardian",
+    "date": "October 31, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Google's New AI Tools Enable Developers to Build Smarter Apps",
-    "description": "Google has launched a suite of AI tools to help developers build smarter and more intuitive applications. This will empower developers to create apps that can understand and interact with users in new ways.",
+    "title": "New AI Tool Transforms Design Industry",
+    "description": "A new AI-powered tool promises to revolutionize the design industry by automating complex tasks. The tool uses machine learning to understand user preferences and generate unique designs.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2021",
+    "date": "October 31, 2021",
     "category": "Tools"
   }
 ];
