@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Early Cancer Detection",
-    "description": "A revolutionary artificial intelligence model has been developed that can detect early signs of certain types of cancer, potentially saving millions of lives. The AI model promises to significantly improve early detection and treatment.",
+    "title": "AI Breaks New Ground in Climate Change Predictions",
+    "description": "Researchers have developed an artificial intelligence model that predicts climate change patterns with unprecedented accuracy. The model could revolutionize climate science, helping to mitigate future environmental crises.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 31, 2021",
+    "source": "Nature",
+    "date": "October 07, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Now Powers the World's Largest Hedge Fund",
-    "description": "Bridgewater Associates, the largest hedge fund in the world, is now using artificial intelligence to predict market trends. The firm believes that AI will drastically reduce human error and increase profitability.",
+    "title": "New AI Startup Revolutionizes Customer Service",
+    "description": "A groundbreaking AI startup has developed a chatbot that not only understands natural language but also detects customer emotions. This development could usher in a new era of empathetic, efficient customer service.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "October 31, 2021",
+    "source": "TechCrunch",
+    "date": "October 07, 2022",
     "category": "Business"
   },
   {
-    "title": "Tech Giants in Race for AI Supremacy",
-    "description": "Google, Apple, and Amazon are investing billions into AI research and development. The tech giants are in a fierce competition to lead the next wave of AI technology.",
+    "title": "AI Ethics Under Scrutiny: Bias in Machine Learning",
+    "description": "Machine learning algorithms are under the spotlight for perpetuating societal biases. Experts call for more ethical transparency in AI development to ensure fairness and inclusivity.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "October 31, 2021",
-    "category": "Technology"
+    "source": "The New York Times",
+    "date": "October 07, 2022",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Dilemma of AI in Combat Scenarios",
-    "description": "As military forces around the world increasingly incorporate AI into their arsenals, ethical questions are being raised about the potential consequences. Critics worry about the lack of human oversight and the potential for misuse.",
+    "title": "Tech Giants Invest Heavily in AI for Healthcare",
+    "description": "Top tech companies are investing billions into AI technologies to predict, diagnose, and treat diseases. This trend could significantly improve healthcare outcomes and accessibility in the near future.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 31, 2021",
-    "category": "Ethics"
+    "source": "The Wall Street Journal",
+    "date": "October 07, 2022",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Transforms Design Industry",
-    "description": "A new AI-powered tool promises to revolutionize the design industry by automating complex tasks. The tool uses machine learning to understand user preferences and generate unique designs.",
+    "title": "OpenAI Releases New Language Processing Tool",
+    "description": "OpenAI has unveiled an advanced language processing AI that can understand and generate human-like text. This tool could revolutionize content creation, translation, and more.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 31, 2021",
+    "source": "Ars Technica",
+    "date": "October 07, 2022",
     "category": "Tools"
   }
 ];
