@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Climate Change Predictions",
-    "description": "Researchers have developed an artificial intelligence model that predicts climate change patterns with unprecedented accuracy. The model could revolutionize climate science, helping to mitigate future environmental crises.",
+    "title": "AI Breakthrough: Machine Learning Models Now Predict Climate Change Impacts",
+    "description": "Researchers have developed AI models that can accurately predict the impacts of climate change, including potential damage to ecosystems. These innovations could revolutionize environmental research and policy-making.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 07, 2022",
+    "source": "Nature AI",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "New AI Startup Revolutionizes Customer Service",
-    "description": "A groundbreaking AI startup has developed a chatbot that not only understands natural language but also detects customer emotions. This development could usher in a new era of empathetic, efficient customer service.",
+    "title": "AI Ethics: Bias in Facial Recognition Technology Sparks Concern",
+    "description": "Recent studies highlight the prevalence of racial and gender bias in facial recognition technology. Experts call for greater transparency and ethical considerations in AI development.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 07, 2022",
-    "category": "Business"
+    "source": "MIT Technology Review",
+    "date": "September 30, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Ethics Under Scrutiny: Bias in Machine Learning",
-    "description": "Machine learning algorithms are under the spotlight for perpetuating societal biases. Experts call for more ethical transparency in AI development to ensure fairness and inclusivity.",
+    "title": "AI in Business: How Artificial Intelligence is Transforming Customer Experience",
+    "description": "Several companies are increasingly leveraging AI to deliver personalized and efficient customer experiences. This trend is reshaping business operations and customer expectations alike.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 07, 2022",
-    "category": "Ethics"
+    "source": "Forbes AI",
+    "date": "September 30, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Tech Giants Invest Heavily in AI for Healthcare",
-    "description": "Top tech companies are investing billions into AI technologies to predict, diagnose, and treat diseases. This trend could significantly improve healthcare outcomes and accessibility in the near future.",
+    "title": "AI Tools: New Language Model Transforms Content Creation",
+    "description": "A new AI-powered language model promises to transform content creation, offering high-quality writing assistance and innovative features. This tool is expected to redefine digital writing and communication.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "October 07, 2022",
-    "category": "Technology"
+    "source": "The Verge AI",
+    "date": "September 30, 2021",
+    "category": "Tools"
   },
   {
-    "title": "OpenAI Releases New Language Processing Tool",
-    "description": "OpenAI has unveiled an advanced language processing AI that can understand and generate human-like text. This tool could revolutionize content creation, translation, and more.",
+    "title": "AI and Edge Computing: The Future of Technology",
+    "description": "The combination of AI and edge computing is heralded as the future of technology, promising real-time insights and enhanced performance. This development is set to revolutionize data processing and analytics.",
     "url": "#",
-    "source": "Ars Technica",
-    "date": "October 07, 2022",
-    "category": "Tools"
+    "source": "Wired AI",
+    "date": "September 30, 2021",
+    "category": "Technology"
   }
 ];
