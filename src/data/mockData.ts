@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Models Now Predict Climate Change Impacts",
-    "description": "Researchers have developed AI models that can accurately predict the impacts of climate change, including potential damage to ecosystems. These innovations could revolutionize environmental research and policy-making.",
+    "title": "Artificial Intelligence Breaks New Ground in Disease Prediction",
+    "description": "Researchers have developed a new AI model capable of predicting the progression of genetic diseases. This breakthrough could revolutionize personalized medicine and patient care.",
     "url": "#",
-    "source": "Nature AI",
-    "date": "September 30, 2021",
+    "source": "Nature",
+    "date": "September 22, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Ethics: Bias in Facial Recognition Technology Sparks Concern",
-    "description": "Recent studies highlight the prevalence of racial and gender bias in facial recognition technology. Experts call for greater transparency and ethical considerations in AI development.",
+    "title": "AI Transforms the Landscape of E-commerce",
+    "description": "Leading e-commerce companies are using AI to personalize customer shopping experiences. The technology analyzes consumer behavior to predict preferences and recommend products.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 30, 2021",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "September 22, 2022",
+    "category": "Business"
   },
   {
-    "title": "AI in Business: How Artificial Intelligence is Transforming Customer Experience",
-    "description": "Several companies are increasingly leveraging AI to deliver personalized and efficient customer experiences. This trend is reshaping business operations and customer expectations alike.",
+    "title": "New AI Ethics Guidelines Released by Tech Giants",
+    "description": "In response to growing public concern, major technology companies have released new guidelines to ensure ethical use of AI. The initiative aims to curb misuse and promote transparency.",
     "url": "#",
-    "source": "Forbes AI",
-    "date": "September 30, 2021",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "September 22, 2022",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Tools: New Language Model Transforms Content Creation",
-    "description": "A new AI-powered language model promises to transform content creation, offering high-quality writing assistance and innovative features. This tool is expected to redefine digital writing and communication.",
+    "title": "AI Powers Next Generation of Climate Change Models",
+    "description": "Scientists are leveraging AI to develop more accurate climate change prediction models. The technology is capable of analyzing vast amounts of data to help understand complex weather patterns.",
     "url": "#",
-    "source": "The Verge AI",
-    "date": "September 30, 2021",
-    "category": "Tools"
+    "source": "Scientific American",
+    "date": "September 22, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI and Edge Computing: The Future of Technology",
-    "description": "The combination of AI and edge computing is heralded as the future of technology, promising real-time insights and enhanced performance. This development is set to revolutionize data processing and analytics.",
+    "title": "New Tool Uses AI to Enhance Video Streaming Quality",
+    "description": "A groundbreaking new tool capitalizes on AI to optimize video streaming quality in real-time. The tool promises to reduce buffering and improve the viewing experience for millions of users.",
     "url": "#",
-    "source": "Wired AI",
-    "date": "September 30, 2021",
-    "category": "Technology"
+    "source": "Wired",
+    "date": "September 22, 2022",
+    "category": "Tools"
   }
 ];
