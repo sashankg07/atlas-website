@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Artificial Intelligence Breaks New Ground in Disease Prediction",
-    "description": "Researchers have developed a new AI model capable of predicting the progression of genetic diseases. This breakthrough could revolutionize personalized medicine and patient care.",
+    "title": "AI Outperforms Humans in Complex Game",
+    "description": "In a breakthrough for artificial intelligence, a new AI model has outperformed humans in a complex multiplayer game. This development could have implications for real-world tasks like self-driving cars and climate modeling.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 22, 2022",
+    "source": "New York Times",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Transforms the Landscape of E-commerce",
-    "description": "Leading e-commerce companies are using AI to personalize customer shopping experiences. The technology analyzes consumer behavior to predict preferences and recommend products.",
+    "title": "AI Transforms Business Analytics",
+    "description": "Artificial intelligence is revolutionizing business analytics, enabling companies to process large amounts of data with unprecedented accuracy and speed. This trend is expected to drive significant growth in the AI market over the next decade.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 22, 2022",
+    "source": "Wall Street Journal",
+    "date": "September 30, 2022",
     "category": "Business"
   },
   {
-    "title": "New AI Ethics Guidelines Released by Tech Giants",
-    "description": "In response to growing public concern, major technology companies have released new guidelines to ensure ethical use of AI. The initiative aims to curb misuse and promote transparency.",
+    "title": "AI Tools Revolutionize Healthcare Diagnostics",
+    "description": "Innovative AI tools are transforming healthcare diagnostics, allowing doctors to detect diseases earlier and with greater accuracy. These technologies could significantly improve patient outcomes and reduce healthcare costs.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 22, 2022",
-    "category": "Ethics"
+    "source": "The Guardian",
+    "date": "September 30, 2022",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Powers Next Generation of Climate Change Models",
-    "description": "Scientists are leveraging AI to develop more accurate climate change prediction models. The technology is capable of analyzing vast amounts of data to help understand complex weather patterns.",
+    "title": "AI Ethics: A Growing Concern",
+    "description": "As artificial intelligence becomes increasingly integrated into our lives, questions about its ethical implications are becoming more urgent. Policymakers and technologists alike are grappling with how to ensure that AI is used responsibly and fairly.",
     "url": "#",
-    "source": "Scientific American",
-    "date": "September 22, 2022",
-    "category": "Technology"
+    "source": "BBC News",
+    "date": "September 30, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "New Tool Uses AI to Enhance Video Streaming Quality",
-    "description": "A groundbreaking new tool capitalizes on AI to optimize video streaming quality in real-time. The tool promises to reduce buffering and improve the viewing experience for millions of users.",
+    "title": "AI Tool Helps Fight Climate Change",
+    "description": "A new AI tool is helping scientists better understand and combat climate change. The tool can analyze large amounts of climate data and predict future trends with remarkable accuracy.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 22, 2022",
+    "source": "Nature",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
