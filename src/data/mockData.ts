@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Complex Game",
-    "description": "In a breakthrough for artificial intelligence, a new AI model has outperformed humans in a complex multiplayer game. This development could have implications for real-world tasks like self-driving cars and climate modeling.",
+    "title": "AI Breakthrough: New Algorithm Mimics Human Learning",
+    "description": "Researchers have developed a new AI algorithm that mimics the learning patterns of the human brain. This breakthrough could revolutionize how AI systems learn and adapt over time.",
     "url": "#",
-    "source": "New York Times",
-    "date": "September 30, 2022",
+    "source": "Scientific American",
+    "date": "November 24, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Transforms Business Analytics",
-    "description": "Artificial intelligence is revolutionizing business analytics, enabling companies to process large amounts of data with unprecedented accuracy and speed. This trend is expected to drive significant growth in the AI market over the next decade.",
+    "title": "Tech Giant Unveils AI-Powered Virtual Assistant",
+    "description": "A leading technology company has unveiled a new AI-powered virtual assistant. The new tool is expected to significantly streamline tasks and enhance productivity for users.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "September 30, 2022",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "November 24, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Tools Revolutionize Healthcare Diagnostics",
-    "description": "Innovative AI tools are transforming healthcare diagnostics, allowing doctors to detect diseases earlier and with greater accuracy. These technologies could significantly improve patient outcomes and reduce healthcare costs.",
+    "title": "Artificial Intelligence Transforming the Business Landscape",
+    "description": "AI is drastically reshaping the business landscape, with many companies adopting AI-driven solutions to optimize operations and improve customer experience.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2022",
-    "category": "Technology"
+    "source": "Business Insider",
+    "date": "November 24, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: A Growing Concern",
-    "description": "As artificial intelligence becomes increasingly integrated into our lives, questions about its ethical implications are becoming more urgent. Policymakers and technologists alike are grappling with how to ensure that AI is used responsibly and fairly.",
+    "title": "AI Ethics: Balancing Innovation and Responsibility",
+    "description": "As AI technology advances, ethical considerations come to the forefront. Experts stress the importance of balancing innovation with responsibility to ensure AI serves humanity in a beneficial way.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 30, 2022",
+    "source": "The New York Times",
+    "date": "November 24, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool Helps Fight Climate Change",
-    "description": "A new AI tool is helping scientists better understand and combat climate change. The tool can analyze large amounts of climate data and predict future trends with remarkable accuracy.",
+    "title": "Revolutionary AI Tools Enhance Data Analysis",
+    "description": "New AI tools are revolutionizing data analysis, enabling businesses to extract valuable insights from their data like never before. These advancements are predicted to drastically improve decision-making processes across various sectors.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2022",
+    "source": "MIT Technology Review",
+    "date": "November 24, 2021",
     "category": "Tools"
   }
 ];
