@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Algorithm Mimics Human Learning",
-    "description": "Researchers have developed a new AI algorithm that mimics the learning patterns of the human brain. This breakthrough could revolutionize how AI systems learn and adapt over time.",
+    "title": "AI Breaks New Ground in Disease Diagnosis",
+    "description": "Recent breakthroughs in AI technology have led to unprecedented accuracy in diagnosing a range of diseases. The technology is expected to be a game-changer in the healthcare industry.",
     "url": "#",
-    "source": "Scientific American",
-    "date": "November 24, 2021",
+    "source": "TechCrunch",
+    "date": "November 04, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils AI-Powered Virtual Assistant",
-    "description": "A leading technology company has unveiled a new AI-powered virtual assistant. The new tool is expected to significantly streamline tasks and enhance productivity for users.",
+    "title": "Revolutionizing Business with AI: The New Normal",
+    "description": "AI is being adopted at an ever-increasing rate in the business sector, leading to significant changes in how companies operate and strategize.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 24, 2021",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "November 04, 2021",
+    "category": "Business"
   },
   {
-    "title": "Artificial Intelligence Transforming the Business Landscape",
-    "description": "AI is drastically reshaping the business landscape, with many companies adopting AI-driven solutions to optimize operations and improve customer experience.",
+    "title": "Evolving AI Ethics: Key Considerations for Future Development",
+    "description": "As AI technology becomes more integrated into our daily lives, critical questions about ethics and fairness in AI usage have come to the forefront.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "November 24, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "November 04, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Balancing Innovation and Responsibility",
-    "description": "As AI technology advances, ethical considerations come to the forefront. Experts stress the importance of balancing innovation with responsibility to ensure AI serves humanity in a beneficial way.",
+    "title": "AI Tools Transforming the Landscape of Data Analysis",
+    "description": "New AI software is making it easier than ever to analyze and interpret large data sets, unlocking new potential for research and development across various fields.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 24, 2021",
-    "category": "Ethics"
+    "source": "Wired",
+    "date": "November 04, 2021",
+    "category": "Tools"
   },
   {
-    "title": "Revolutionary AI Tools Enhance Data Analysis",
-    "description": "New AI tools are revolutionizing data analysis, enabling businesses to extract valuable insights from their data like never before. These advancements are predicted to drastically improve decision-making processes across various sectors.",
+    "title": "Next-Gen AI: The New Frontier in Tech Innovation",
+    "description": "The world of tech is abuzz with the latest advancements in AI, from machine learning to neural networks, promising a future of exciting innovation and progress.",
     "url": "#",
     "source": "MIT Technology Review",
-    "date": "November 24, 2021",
-    "category": "Tools"
+    "date": "November 04, 2021",
+    "category": "Technology"
   }
 ];
