@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Disease Diagnosis",
-    "description": "Recent breakthroughs in AI technology have led to unprecedented accuracy in diagnosing a range of diseases. The technology is expected to be a game-changer in the healthcare industry.",
+    "title": "Groundbreaking AI Model Predicts Climate Change Patterns",
+    "description": "Researchers have developed a new AI model capable of predicting future climate change patterns with unprecedented accuracy. This breakthrough could significantly improve our understanding and management of global warming.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 04, 2021",
+    "source": "Nature",
+    "date": "November 14, 2022",
     "category": "Research"
   },
   {
-    "title": "Revolutionizing Business with AI: The New Normal",
-    "description": "AI is being adopted at an ever-increasing rate in the business sector, leading to significant changes in how companies operate and strategize.",
+    "title": "AI Tech Start-Up Raises $100M in Series C Funding",
+    "description": "AI start-up SynthMind has raised $100 million in a recent Series C funding round. The company, known for its innovative machine learning algorithms, plans to use the funds to expand its research and development team.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 04, 2021",
+    "source": "TechCrunch",
+    "date": "November 14, 2022",
     "category": "Business"
   },
   {
-    "title": "Evolving AI Ethics: Key Considerations for Future Development",
-    "description": "As AI technology becomes more integrated into our daily lives, critical questions about ethics and fairness in AI usage have come to the forefront.",
+    "title": "AI Ethics Concerns Rise As Facial Recognition Tech Improves",
+    "description": "As facial recognition technology becomes increasingly accurate, ethical concerns about its use are also growing. Critics argue that without proper regulations, this technology could be used for mass surveillance.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 04, 2021",
+    "source": "The New York Times",
+    "date": "November 14, 2022",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Tools Transforming the Landscape of Data Analysis",
-    "description": "New AI software is making it easier than ever to analyze and interpret large data sets, unlocking new potential for research and development across various fields.",
+    "title": "New AI Tool Transforms Text into Realistic Images",
+    "description": "A new AI tool called 'Text2Pic' can generate highly realistic images from simple text descriptions. This technology could revolutionize fields such as graphic design and visual storytelling.",
     "url": "#",
     "source": "Wired",
-    "date": "November 04, 2021",
+    "date": "November 14, 2022",
     "category": "Tools"
   },
   {
-    "title": "Next-Gen AI: The New Frontier in Tech Innovation",
-    "description": "The world of tech is abuzz with the latest advancements in AI, from machine learning to neural networks, promising a future of exciting innovation and progress.",
+    "title": "Major Tech Companies Adopt AI for Cloud Computing",
+    "description": "Google, Amazon, and Microsoft are integrating artificial intelligence into their cloud computing services. The move is expected to provide more efficient and personalized user experiences.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 04, 2021",
+    "source": "Forbes",
+    "date": "November 14, 2022",
     "category": "Technology"
   }
 ];
