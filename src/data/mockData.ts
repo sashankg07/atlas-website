@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Model Predicts Climate Change Patterns",
-    "description": "Researchers have developed a new AI model capable of predicting future climate change patterns with unprecedented accuracy. This breakthrough could significantly improve our understanding and management of global warming.",
+    "title": "Revolutionizing Healthcare: AI Detects Heart Disease in Record Time",
+    "description": "A groundbreaking AI model has been developed that can detect early signs of heart disease faster than ever before. The model promises to revolutionize preventative healthcare, potentially saving millions of lives annually.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 14, 2022",
+    "source": "The New York Times",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Tech Start-Up Raises $100M in Series C Funding",
-    "description": "AI start-up SynthMind has raised $100 million in a recent Series C funding round. The company, known for its innovative machine learning algorithms, plans to use the funds to expand its research and development team.",
+    "title": "AI-powered Robots to Boost E-commerce Efficiency",
+    "description": "A leading tech company has launched a fleet of AI-powered robots designed to streamline warehouse operations. The robots are expected to significantly increase efficiency in the e-commerce sector.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 14, 2022",
+    "source": "The Financial Times",
+    "date": "September 30, 2022",
     "category": "Business"
   },
   {
-    "title": "AI Ethics Concerns Rise As Facial Recognition Tech Improves",
-    "description": "As facial recognition technology becomes increasingly accurate, ethical concerns about its use are also growing. Critics argue that without proper regulations, this technology could be used for mass surveillance.",
+    "title": "AI Ethical Guidelines: A Step Towards Responsible AI",
+    "description": "In a bid to encourage responsible AI development, a prestigious tech association has released a comprehensive set of ethical guidelines. The guide aims to prevent harmful AI practices and promote fairness and transparency.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 14, 2022",
+    "source": "The Guardian",
+    "date": "September 30, 2022",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Transforms Text into Realistic Images",
-    "description": "A new AI tool called 'Text2Pic' can generate highly realistic images from simple text descriptions. This technology could revolutionize fields such as graphic design and visual storytelling.",
+    "title": "Revolution in Gaming: AI Creates Realistic Virtual Worlds",
+    "description": "In a major breakthrough, a tech giant has developed an AI tool that can create hyper-realistic virtual worlds for gaming. This leap in technology could usher in a new era of immersive gaming experiences.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 14, 2022",
-    "category": "Tools"
+    "source": "BBC",
+    "date": "September 30, 2022",
+    "category": "Technology"
   },
   {
-    "title": "Major Tech Companies Adopt AI for Cloud Computing",
-    "description": "Google, Amazon, and Microsoft are integrating artificial intelligence into their cloud computing services. The move is expected to provide more efficient and personalized user experiences.",
+    "title": "AI Tool to Predict Climate Change Effects",
+    "description": "Scientists have unveiled a new AI tool capable of predicting the effects of climate change with unprecedented accuracy. The tool will help policymakers make informed decisions to combat the climate crisis.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 14, 2022",
-    "category": "Technology"
+    "source": "The Washington Post",
+    "date": "September 30, 2022",
+    "category": "Research"
   }
 ];
