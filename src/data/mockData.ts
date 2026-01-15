@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Detects Heart Disease in Record Time",
-    "description": "A groundbreaking AI model has been developed that can detect early signs of heart disease faster than ever before. The model promises to revolutionize preventative healthcare, potentially saving millions of lives annually.",
+    "title": "AI Powers a New Wave of Drug Discovery",
+    "description": "Artificial intelligence is revolutionizing the pharmaceutical industry by accelerating drug discovery and development. This technology can analyze vast amounts of data, identify new targets, and predict successful drug candidates with unprecedented speed and accuracy.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 30, 2022",
+    "source": "The Verge",
+    "date": "November 08, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-powered Robots to Boost E-commerce Efficiency",
-    "description": "A leading tech company has launched a fleet of AI-powered robots designed to streamline warehouse operations. The robots are expected to significantly increase efficiency in the e-commerce sector.",
+    "title": "AI Helps Astronomers Uncover Hidden Galaxies",
+    "description": "Astronomers are using artificial intelligence to uncover hidden galaxies and better understand the universe. The AI model uses machine learning algorithms to analyze telescope data and detect faint galaxy signals that were previously unnoticed.",
     "url": "#",
-    "source": "The Financial Times",
-    "date": "September 30, 2022",
-    "category": "Business"
+    "source": "Scientific American",
+    "date": "November 08, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethical Guidelines: A Step Towards Responsible AI",
-    "description": "In a bid to encourage responsible AI development, a prestigious tech association has released a comprehensive set of ethical guidelines. The guide aims to prevent harmful AI practices and promote fairness and transparency.",
+    "title": "Artificial Intelligence to Drive Future Business Decision-making",
+    "description": "As businesses increasingly adopt AI, decision-making processes are becoming more data-driven and less reliant on intuition. Companies are leveraging AI for predictive analysis, risk management, and operational efficiency.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2022",
-    "category": "Ethics"
+    "source": "Harvard Business Review",
+    "date": "November 08, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Revolution in Gaming: AI Creates Realistic Virtual Worlds",
-    "description": "In a major breakthrough, a tech giant has developed an AI tool that can create hyper-realistic virtual worlds for gaming. This leap in technology could usher in a new era of immersive gaming experiences.",
+    "title": "Ethical Questions Surface in AI's Role in Hiring",
+    "description": "The use of AI in hiring raises ethical questions about bias and fairness. Critics argue that AI algorithms can perpetuate human biases, while supporters believe they can help eliminate human bias from the hiring process.",
     "url": "#",
-    "source": "BBC",
-    "date": "September 30, 2022",
-    "category": "Technology"
+    "source": "New York Times",
+    "date": "November 08, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Tool to Predict Climate Change Effects",
-    "description": "Scientists have unveiled a new AI tool capable of predicting the effects of climate change with unprecedented accuracy. The tool will help policymakers make informed decisions to combat the climate crisis.",
+    "title": "OpenAI Releases New Language Model GPT-4",
+    "description": "OpenAI has released its latest language model, GPT-4, promising even more accurate text generation. GPT-4 is expected to drive advancements in natural language processing and understanding.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "September 30, 2022",
-    "category": "Research"
+    "source": "TechCrunch",
+    "date": "November 08, 2021",
+    "category": "Tools"
   }
 ];
