@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Powers a New Wave of Drug Discovery",
-    "description": "Artificial intelligence is revolutionizing the pharmaceutical industry by accelerating drug discovery and development. This technology can analyze vast amounts of data, identify new targets, and predict successful drug candidates with unprecedented speed and accuracy.",
+    "title": "DeepMind's Latest AI System Outperforms Humans in 57 Atari Games",
+    "description": "DeepMind's new AI model, Agent57, has managed to outperform humans in 57 classic Atari games, setting a new benchmark in the world of artificial intelligence. Agent57 uses a novel combination of methods to learn how to excel at these games.",
     "url": "#",
     "source": "The Verge",
-    "date": "November 08, 2021",
+    "date": "October 09, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Helps Astronomers Uncover Hidden Galaxies",
-    "description": "Astronomers are using artificial intelligence to uncover hidden galaxies and better understand the universe. The AI model uses machine learning algorithms to analyze telescope data and detect faint galaxy signals that were previously unnoticed.",
+    "title": "OpenAI Launches New Language Prediction Model, GPT-4",
+    "description": "OpenAI has released its latest language prediction model, GPT-4. The new model boasts enhanced comprehension and contextual understanding, making it the most powerful AI model to date.",
     "url": "#",
-    "source": "Scientific American",
-    "date": "November 08, 2021",
+    "source": "TechCrunch",
+    "date": "October 09, 2022",
     "category": "Technology"
   },
   {
-    "title": "Artificial Intelligence to Drive Future Business Decision-making",
-    "description": "As businesses increasingly adopt AI, decision-making processes are becoming more data-driven and less reliant on intuition. Companies are leveraging AI for predictive analysis, risk management, and operational efficiency.",
+    "title": "AI Startup, Cognixion, Raises $20M to Develop 'SpeakPro'",
+    "description": "AI startup Cognixion has secured $20M in funding to create 'SpeakPro', an AI-powered neuroprosthetic device aimed at giving speech to those who are unable. This is a significant breakthrough in assistive technology.",
     "url": "#",
-    "source": "Harvard Business Review",
-    "date": "November 08, 2021",
+    "source": "Forbes",
+    "date": "October 09, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Questions Surface in AI's Role in Hiring",
-    "description": "The use of AI in hiring raises ethical questions about bias and fairness. Critics argue that AI algorithms can perpetuate human biases, while supporters believe they can help eliminate human bias from the hiring process.",
+    "title": "Controversy Surrounds Facial Recognition Tech Amid Privacy Concerns",
+    "description": "As AI-based facial recognition technology becomes increasingly sophisticated, debates around privacy and ethical implications have been reignited. Critics argue for strict regulations to protect user data and privacy.",
     "url": "#",
-    "source": "New York Times",
-    "date": "November 08, 2021",
+    "source": "The New York Times",
+    "date": "October 09, 2022",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases New Language Model GPT-4",
-    "description": "OpenAI has released its latest language model, GPT-4, promising even more accurate text generation. GPT-4 is expected to drive advancements in natural language processing and understanding.",
+    "title": "IBM Unveils 'Watson Assistant', an AI Tool for Customer Service",
+    "description": "IBM has unveiled 'Watson Assistant', an AI tool designed to enhance customer service across various industries. The tool is expected to streamline customer interactions and provide quicker resolutions.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 08, 2021",
+    "source": "Business Insider",
+    "date": "October 09, 2022",
     "category": "Tools"
   }
 ];
