@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Algorithm Teaches Itself",
-    "description": "A new AI algorithm developed by researchers has the unique ability to teach itself and improve over time. The development could revolutionize the future of AI learning and problem solving.",
+    "title": "AI Breakthrough: Computers Now Understand Context",
+    "description": "Researchers have developed a new AI model that can understand the context of a conversation, a significant advancement in natural language processing. This could revolutionize how we interact with AI in our daily lives.",
     "url": "#",
-    "source": "Tech Crunch",
-    "date": "October 25, 2021",
+    "source": "MIT Technology Review",
+    "date": "August 04, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Startup Raises $100M to Automate Customer Service",
-    "description": "An AI startup has raised $100 million in Series C funding. The company aims to use AI to completely automate customer service, transforming the industry.",
+    "title": "AI Powered Drones Aid in Wildlife Conservation",
+    "description": "AI is being used to power drones to monitor and protect wildlife across the globe. These smart drones can identify species, track movements, and alert officials to potential poaching.",
     "url": "#",
-    "source": "CNBC",
-    "date": "October 25, 2021",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "August 04, 2022",
+    "category": "Technology"
   },
   {
-    "title": "Data Ethics in AI: A Growing Concern",
-    "description": "As AI technology advances, concerns over data ethics are increasing. Experts are calling for more stringent regulations to ensure responsible use of data in AI.",
+    "title": "AI Now a Must-Have in Business, Says New Report",
+    "description": "According to a recent report, businesses that are failing to invest in AI risk falling behind their competitors. The report suggests that AI is no longer an optional extra, but a necessary tool for success.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 25, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "August 04, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Introducing TensorFlow 3.0: New Features and Improvements",
-    "description": "Google's AI framework, TensorFlow, has launched its latest version, TensorFlow 3.0. The new release comes with exciting features and improvements that promise to enhance AI development and machine learning.",
+    "title": "The Ethical Implications of AI in Healthcare",
+    "description": "As AI becomes increasingly prevalent in healthcare, experts are calling for more focus on the ethical implications. The technology has potential to greatly improve patient care, but also raises concerns about privacy and consent.",
     "url": "#",
-    "source": "Google AI Blog",
-    "date": "October 25, 2021",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "August 04, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "Artificial Intelligence to Revolutionize Healthcare",
-    "description": "Researchers are leveraging AI technology to revolutionize healthcare, from early disease detection to personalized treatment plans. These advancements could significantly improve patient care and outcomes.",
+    "title": "New AI Tools Transform the Field of Design",
+    "description": "New AI-powered tools are revolutionizing the field of design, automating tasks that once took hours and offering new ways to visualize and create. However, experts warn that the technology is no substitute for human creativity.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 25, 2021",
-    "category": "Technology"
+    "source": "Wired",
+    "date": "August 04, 2022",
+    "category": "Tools"
   }
 ];
