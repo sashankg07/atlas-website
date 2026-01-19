@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Computers Now Understand Context",
-    "description": "Researchers have developed a new AI model that can understand the context of a conversation, a significant advancement in natural language processing. This could revolutionize how we interact with AI in our daily lives.",
+    "title": "AI Revolutionizes Drug Discovery",
+    "description": "Artificial Intelligence is making waves in the pharmaceutical industry by accelerating drug discovery. New AI models can now predict potential drug candidates in mere days, a process that used to take years.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "August 04, 2022",
+    "source": "The New York Times",
+    "date": "July 20, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Powered Drones Aid in Wildlife Conservation",
-    "description": "AI is being used to power drones to monitor and protect wildlife across the globe. These smart drones can identify species, track movements, and alert officials to potential poaching.",
+    "title": "AI Outperforms Humans in Coding Challenge",
+    "description": "In a significant breakthrough, an AI model has outperformed human programmers in a code-writing contest for the first time. This development indicates the growing potential of AI in the software development field.",
     "url": "#",
     "source": "BBC News",
-    "date": "August 04, 2022",
+    "date": "July 20, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Now a Must-Have in Business, Says New Report",
-    "description": "According to a recent report, businesses that are failing to invest in AI risk falling behind their competitors. The report suggests that AI is no longer an optional extra, but a necessary tool for success.",
+    "title": "Tech Giants Invest Heavily in AI",
+    "description": "Major tech corporations like Google, Apple, and Microsoft are investing billions in AI development. As AI continues to transform various industries, these investments could shape the future of technology.",
     "url": "#",
-    "source": "Forbes",
-    "date": "August 04, 2022",
+    "source": "The Wall Street Journal",
+    "date": "July 20, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Implications of AI in Healthcare",
-    "description": "As AI becomes increasingly prevalent in healthcare, experts are calling for more focus on the ethical implications. The technology has potential to greatly improve patient care, but also raises concerns about privacy and consent.",
+    "title": "AI in Justice: Promise and Peril",
+    "description": "AI is being increasingly used in the justice system, with promising results in areas like case prediction. However, concerns about bias and transparency persist, highlighting the need for ethical guidelines.",
     "url": "#",
     "source": "The Guardian",
-    "date": "August 04, 2022",
+    "date": "July 20, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Transform the Field of Design",
-    "description": "New AI-powered tools are revolutionizing the field of design, automating tasks that once took hours and offering new ways to visualize and create. However, experts warn that the technology is no substitute for human creativity.",
+    "title": "New AI Tool Transforms Animation Industry",
+    "description": "A new AI-powered tool is set to revolutionize the animation industry. The tool can generate high-quality animations in real-time, significantly reducing the time and effort required to create animations.",
     "url": "#",
     "source": "Wired",
-    "date": "August 04, 2022",
+    "date": "July 20, 2021",
     "category": "Tools"
   }
 ];
