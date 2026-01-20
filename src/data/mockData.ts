@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Drug Discovery",
-    "description": "Artificial Intelligence is making waves in the pharmaceutical industry by accelerating drug discovery. New AI models can now predict potential drug candidates in mere days, a process that used to take years.",
+    "title": "AI Breakthrough: Machine Learning Predicts Alzheimer's",
+    "description": "Researchers have developed an AI algorithm that can predict the onset of Alzheimer's disease with over 95% accuracy. This significant breakthrough could lead to early detection and treatment.",
     "url": "#",
     "source": "The New York Times",
-    "date": "July 20, 2021",
+    "date": "November 16, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Outperforms Humans in Coding Challenge",
-    "description": "In a significant breakthrough, an AI model has outperformed human programmers in a code-writing contest for the first time. This development indicates the growing potential of AI in the software development field.",
+    "title": "New AI-powered App Transforms Mental Health Treatment",
+    "description": "A new app utilizing AI technology provides personalized mental health treatments, revolutionizing the healthcare industry. The app learns from each interaction, delivering more effective treatment over time.",
     "url": "#",
-    "source": "BBC News",
-    "date": "July 20, 2021",
+    "source": "The Guardian",
+    "date": "November 16, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giants Invest Heavily in AI",
-    "description": "Major tech corporations like Google, Apple, and Microsoft are investing billions in AI development. As AI continues to transform various industries, these investments could shape the future of technology.",
+    "title": "AI Takes Center Stage in the Fight Against Climate Change",
+    "description": "AI is being deployed to combat climate change, with promising results. By analyzing vast amounts of data, AI models can predict environmental trends and suggest effective strategies.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "July 20, 2021",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "November 16, 2021",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI in Justice: Promise and Peril",
-    "description": "AI is being increasingly used in the justice system, with promising results in areas like case prediction. However, concerns about bias and transparency persist, highlighting the need for ethical guidelines.",
+    "title": "Ethical Considerations in AI: A Growing Concern",
+    "description": "As AI continues to permeate every aspect of our lives, ethical considerations become increasingly important. Experts call for regulations to ensure AI systems are fair, transparent, and accountable.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "July 20, 2021",
+    "source": "The Wall Street Journal",
+    "date": "November 16, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Animation Industry",
-    "description": "A new AI-powered tool is set to revolutionize the animation industry. The tool can generate high-quality animations in real-time, significantly reducing the time and effort required to create animations.",
+    "title": "Google Launches AI Tool to Help Companies Reduce Carbon Footprint",
+    "description": "Google has released a new AI tool to assist businesses in reducing their carbon emissions. The tool provides detailed insights and recommendations, paving the way for sustainable business practices.",
     "url": "#",
-    "source": "Wired",
-    "date": "July 20, 2021",
+    "source": "TechCrunch",
+    "date": "November 16, 2021",
     "category": "Tools"
   }
 ];
