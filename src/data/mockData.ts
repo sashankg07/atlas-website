@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Predicts Alzheimer's",
-    "description": "Researchers have developed an AI algorithm that can predict the onset of Alzheimer's disease with over 95% accuracy. This significant breakthrough could lead to early detection and treatment.",
+    "title": "AI Models Predict Climate Change Impacts with Unprecedented Accuracy",
+    "description": "Researchers have developed cutting-edge AI models that can predict the impacts of climate change with greater precision than ever before. These advancements could revolutionize climate science, enabling more effective mitigation strategies.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 16, 2021",
+    "source": "The AI Times",
+    "date": "October 31, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI-powered App Transforms Mental Health Treatment",
-    "description": "A new app utilizing AI technology provides personalized mental health treatments, revolutionizing the healthcare industry. The app learns from each interaction, delivering more effective treatment over time.",
+    "title": "Start-up Unveils AI-empowered Customer Service Platform",
+    "description": "Tech startup 'AI Serve' has unveiled a new AI-driven customer service platform. The tool leverages deep learning to understand and respond to customer queries in real-time, promising to transform the customer experience.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 16, 2021",
+    "source": "The Tech Journal",
+    "date": "October 31, 2022",
+    "category": "Business"
+  },
+  {
+    "title": "New AI Tool Helps Detect Early Signs of Parkinson's Disease",
+    "description": "A revolutionary AI tool has been developed that can detect early signs of Parkinson's disease. The tool uses machine learning algorithms to analyze speech patterns, offering a non-invasive diagnostic approach.",
+    "url": "#",
+    "source": "Medical AI News",
+    "date": "October 31, 2022",
     "category": "Technology"
-  },
-  {
-    "title": "AI Takes Center Stage in the Fight Against Climate Change",
-    "description": "AI is being deployed to combat climate change, with promising results. By analyzing vast amounts of data, AI models can predict environmental trends and suggest effective strategies.",
-    "url": "#",
-    "source": "BBC News",
-    "date": "November 16, 2021",
-    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
     "title": "Ethical Considerations in AI: A Growing Concern",
-    "description": "As AI continues to permeate every aspect of our lives, ethical considerations become increasingly important. Experts call for regulations to ensure AI systems are fair, transparent, and accountable.",
+    "description": "As AI continues to permeate every aspect of our lives, ethical considerations are becoming increasingly important. Recent debates have highlighted the need for more transparency and accountability in AI systems.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "November 16, 2021",
+    "source": "AI Ethics Weekly",
+    "date": "October 31, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Google Launches AI Tool to Help Companies Reduce Carbon Footprint",
-    "description": "Google has released a new AI tool to assist businesses in reducing their carbon emissions. The tool provides detailed insights and recommendations, paving the way for sustainable business practices.",
+    "title": "AI Tool 'DeepCode' Simplifies Software Development",
+    "description": "A new AI tool named 'DeepCode' is set to simplify the software development process. The tool uses machine learning to detect bugs and suggest improvements, promising to save developers time and effort.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 16, 2021",
+    "source": "AI Developments Daily",
+    "date": "October 31, 2022",
     "category": "Tools"
   }
 ];
