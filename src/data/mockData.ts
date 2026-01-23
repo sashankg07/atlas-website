@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Drug Discovery",
-    "description": "Artificial intelligence is transforming the pharmaceutical industry by expediting drug discovery and development. New AI models are capable of predicting drug outcomes and side effects, radically reducing the timeframe and cost of R&D.",
+    "title": "AI Outperforms Human Doctors in Diagnosing Skin Cancer",
+    "description": "Recent studies reveal that AI algorithms can now diagnose skin cancer with more accuracy than human doctors. This breakthrough could revolutionize the medical field, increasing early detection and saving lives.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "April 13, 2022",
+    "source": "The AI Times",
+    "date": "October 12, 2021",
     "category": "Research"
   },
   {
-    "title": "AI to Combat Climate Change: A New Frontier",
-    "description": "Scientists are leveraging artificial intelligence to address climate change challenges. Machine learning models are being utilized to predict climate patterns and propose sustainable solutions.",
+    "title": "Breakthrough in AI Language Understanding: GPT-4 Released",
+    "description": "OpenAI has released GPT-4, the latest iteration of its AI-driven language model. The new version boasts improved performance and even more sophisticated language understanding capabilities.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "April 13, 2022",
+    "source": "AI Daily",
+    "date": "October 12, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI Startups",
-    "description": "A leading tech company has pumped billions into AI startups this year, highlighting the growing interest and investment in AI and machine learning technologies across industries.",
+    "title": "New Study Shows AI Could Add Trillions to Economy",
+    "description": "A new report suggests that AI could add up to $15.7 trillion to the global economy by 2030. The study highlights the potential of AI in boosting productivity and enhancing business processes.",
     "url": "#",
     "source": "Forbes",
-    "date": "April 13, 2022",
+    "date": "October 12, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Navigating the Gray Areas",
-    "description": "As AI permeates various sectors, ethical considerations are coming to the fore. Experts call for robust guidelines to ensure responsible and fair use of AI technologies.",
+    "title": "Ethics in AI: The Debate Over Facial Recognition Technology",
+    "description": "As facial recognition technology improves, ethical questions arise. Critics argue the technology poses significant privacy risks, while others see it as a powerful tool for law enforcement and security.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "April 13, 2022",
+    "source": "The Guardian",
+    "date": "October 12, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "A novel AI tool is set to revolutionize data analysis by automating complex processes. The tool promises to make data analytics more accessible to non-specialists.",
+    "title": "Google Launches New AI-Powered Analytics Tool",
+    "description": "Google has launched a new analytics tool powered by AI. The tool, called Analytics 360, aims to provide insights into customer behavior and improve decision-making processes for businesses.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "April 13, 2022",
+    "date": "October 12, 2021",
     "category": "Tools"
   }
 ];
