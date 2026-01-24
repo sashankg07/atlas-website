@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Human Doctors in Diagnosing Skin Cancer",
-    "description": "Recent studies reveal that AI algorithms can now diagnose skin cancer with more accuracy than human doctors. This breakthrough could revolutionize the medical field, increasing early detection and saving lives.",
+    "title": "AI Breakthrough: New Algorithm Learns to Understand Context",
+    "description": "Researchers have developed an AI algorithm capable of understanding context in human conversations, marking a significant leap in AI language processing capabilities. The breakthrough may open new possibilities in customer service, personal assistants, and mental health applications.",
     "url": "#",
     "source": "The AI Times",
-    "date": "October 12, 2021",
+    "date": "October 30, 2021",
     "category": "Research"
   },
   {
-    "title": "Breakthrough in AI Language Understanding: GPT-4 Released",
-    "description": "OpenAI has released GPT-4, the latest iteration of its AI-driven language model. The new version boasts improved performance and even more sophisticated language understanding capabilities.",
+    "title": "AI-Powered Climate Prediction Models Show Promising Results",
+    "description": "Climate researchers have started using AI to create more accurate predictions of climate change. The AI models are showing promising results, potentially revolutionizing our ability to forecast and mitigate the effects of climate change.",
     "url": "#",
-    "source": "AI Daily",
-    "date": "October 12, 2021",
+    "source": "TechNews Daily",
+    "date": "October 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "New Study Shows AI Could Add Trillions to Economy",
-    "description": "A new report suggests that AI could add up to $15.7 trillion to the global economy by 2030. The study highlights the potential of AI in boosting productivity and enhancing business processes.",
+    "title": "AI Investments Skyrocket: The Next Frontier for Businesses",
+    "description": "Investments in AI have dramatically increased in 2021 as businesses look to leverage AI in streamlining operations and driving innovation. This trend underlines the growing recognition of AI as a key factor in future business success.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 12, 2021",
+    "source": "Business Insider",
+    "date": "October 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: The Debate Over Facial Recognition Technology",
-    "description": "As facial recognition technology improves, ethical questions arise. Critics argue the technology poses significant privacy risks, while others see it as a powerful tool for law enforcement and security.",
+    "title": "AI Ethics: New Guidelines for Responsible AI Usage",
+    "description": "A leading tech ethics body has released new guidelines for the responsible use of AI. The guidelines aim to address concerns over privacy, fairness, and transparency in AI applications.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 12, 2021",
+    "date": "October 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Google Launches New AI-Powered Analytics Tool",
-    "description": "Google has launched a new analytics tool powered by AI. The tool, called Analytics 360, aims to provide insights into customer behavior and improve decision-making processes for businesses.",
+    "title": "Launch of AI Tool Simplifies Machine Learning for Non-Techies",
+    "description": "A new AI tool that simplifies machine learning processes for non-technical users has been launched. The tool aims to democratize access to AI, allowing more people to benefit from its capabilities.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 12, 2021",
+    "source": "TechRadar",
+    "date": "October 30, 2021",
     "category": "Tools"
   }
 ];
