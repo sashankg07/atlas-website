@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Algorithm Learns to Understand Context",
-    "description": "Researchers have developed an AI algorithm capable of understanding context in human conversations, marking a significant leap in AI language processing capabilities. The breakthrough may open new possibilities in customer service, personal assistants, and mental health applications.",
+    "title": "AI Outperforms Doctors in Diagnosing Skin Cancer",
+    "description": "A new study reports that artificial intelligence has surpassed human doctors in accurately diagnosing skin cancer, marking a major breakthrough in medical AI. This could revolutionize healthcare, with AI potentially being used as a diagnostic tool in the near future.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "October 30, 2021",
+    "source": "The New York Times",
+    "date": "October 10, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Climate Prediction Models Show Promising Results",
-    "description": "Climate researchers have started using AI to create more accurate predictions of climate change. The AI models are showing promising results, potentially revolutionizing our ability to forecast and mitigate the effects of climate change.",
+    "title": "AI Startup Raises $100M for Cloud-based Machine Learning",
+    "description": "AI startup, CloudMind, has raised $100 million in Series B funding to advance its cloud-based machine learning platform. The platform allows businesses to develop and implement AI tools more efficiently.",
     "url": "#",
-    "source": "TechNews Daily",
-    "date": "October 30, 2021",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "October 10, 2022",
+    "category": "Business"
   },
   {
-    "title": "AI Investments Skyrocket: The Next Frontier for Businesses",
-    "description": "Investments in AI have dramatically increased in 2021 as businesses look to leverage AI in streamlining operations and driving innovation. This trend underlines the growing recognition of AI as a key factor in future business success.",
+    "title": "Google's New AI Tool Predicts Weather with Unprecedented Accuracy",
+    "description": "Google's latest AI tool boasts unprecedented accuracy in weather prediction, outperforming traditional models. The tool uses machine learning to analyze atmospheric data and generate forecasts in real-time.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 30, 2021",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "October 10, 2022",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: New Guidelines for Responsible AI Usage",
-    "description": "A leading tech ethics body has released new guidelines for the responsible use of AI. The guidelines aim to address concerns over privacy, fairness, and transparency in AI applications.",
+    "title": "AI Ethics Debate Intensifies: Bias and Fairness Under Scrutiny",
+    "description": "As AI becomes more prevalent, debates around AI ethics, particularly issues of bias and fairness, are intensifying. Researchers and businesses alike are calling for more transparency and accountability in AI systems.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 30, 2021",
+    "date": "October 10, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Launch of AI Tool Simplifies Machine Learning for Non-Techies",
-    "description": "A new AI tool that simplifies machine learning processes for non-technical users has been launched. The tool aims to democratize access to AI, allowing more people to benefit from its capabilities.",
+    "title": "New Open-source AI Tool Streamlines Machine Learning Process",
+    "description": "AI researchers have developed a new open-source AI tool that streamlines the machine learning process. The tool, called AutoML, automates the design of machine learning models, making AI more accessible to non-experts.",
     "url": "#",
-    "source": "TechRadar",
-    "date": "October 30, 2021",
+    "source": "Wired",
+    "date": "October 10, 2022",
     "category": "Tools"
   }
 ];
