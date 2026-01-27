@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Achieves Breakthrough in Protein Folding Problem",
-    "description": "Google's DeepMind has reportedly solved the decades-old 'protein folding' problem, marking a significant milestone in biology. The breakthrough could aid in solving major health crises, including cancer and COVID-19.",
+    "title": "Tech Giant Unveils AI Supercomputer",
+    "description": "In a major technological breakthrough, a tech industry giant has unveiled a new AI supercomputer. The machine is expected to revolutionize various sectors, including healthcare, research, and more.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 13, 2022",
+    "source": "TechCrunch",
+    "date": "March 11, 2023",
+    "category": "Technology"
+  },
+  {
+    "title": "Using AI to Predict Climate Change",
+    "description": "Scientists are using artificial intelligence to predict climate change with more accuracy than ever before. The new AI model helps anticipate extreme weather patterns and their potential impacts.",
+    "url": "#",
+    "source": "BBC News",
+    "date": "March 11, 2023",
     "category": "Research"
   },
   {
-    "title": "IBM Releases New AI Tool to Combat Online Harassment",
-    "description": "IBM has launched a new AI tool designed to detect and mitigate online harassment. The tool aims to make the internet a safer place by identifying harmful content and enabling effective moderation.",
+    "title": "AI Ethics: A Call for Standardization",
+    "description": "A group of renowned AI researchers is calling for international standards for AI ethics. The move aims to ensure fair and responsible use of AI across all sectors.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 13, 2022",
-    "category": "Tools"
-  },
-  {
-    "title": "AI Adoption Skyrockets Among Fortune 500 Companies",
-    "description": "A recent report shows that AI adoption has increased significantly amongst Fortune 500 companies. The survey results highlight AI's potential to drive business performance and efficiency.",
-    "url": "#",
-    "source": "Forbes",
-    "date": "October 13, 2022",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "March 11, 2023",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics in Question Following Facial Recognition Misidentification",
-    "description": "The recent wrongful arrest due to misidentification by a facial recognition system has sparked a debate on AI ethics. Critics argue for more robust regulation and transparency in AI deployments, particularly in law enforcement.",
+    "title": "AI Start-up Secures Record Funding",
+    "description": "A promising AI start-up has secured record funding in its latest investment round. The company is developing AI tools for industrial automation and robotics.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 13, 2022",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "March 11, 2023",
+    "category": "Business"
   },
   {
-    "title": "NVIDIA Unveils Next Generation AI Chips",
-    "description": "NVIDIA has unveiled its next-generation AI chips, promising unprecedented computational power and energy efficiency. The new chip is expected to accelerate the development and deployment of AI solutions.",
+    "title": "New AI Tool Streamlines Machine Learning",
+    "description": "A new AI tool promises to streamline the machine learning process. The software simplifies training AI models, making the technology more accessible to non-experts.",
     "url": "#",
-    "source": "Reuters",
-    "date": "October 13, 2022",
-    "category": "Technology"
+    "source": "Wired",
+    "date": "March 11, 2023",
+    "category": "Tools"
   }
 ];
