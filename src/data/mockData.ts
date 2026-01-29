@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Takes on Climate Change: Breakthroughs and Challenges",
-    "description": "Artificial Intelligence proves instrumental in predicting climate change patterns. Despite the potential, experts debate the ethical implications and accuracy of AI models.",
+    "title": "New AI Model Predicts Climate Change Impact",
+    "description": "Researchers have developed an innovative AI model capable of predicting long-term climate patterns. This breakthrough could have significant implications for future climate change policy and planning.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 07, 2021",
+    "source": "The New York Times",
+    "date": "November 10, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Embrace AI for Cybersecurity",
-    "description": "Amazon, Google, and Facebook have started integrating AI into their cybersecurity systems. The move aims to enhance security protocols and detect threats more accurately.",
+    "title": "AI Startup Raises $100M for Retail Automation",
+    "description": "An AI startup has raised $100 million in Series B funding to further its mission of automating retail processes through AI. The funding will be used to refine the AI's learning capabilities and expand operations.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 07, 2021",
-    "category": "Technology"
+    "date": "November 10, 2022",
+    "category": "Business"
   },
   {
-    "title": "AI in Healthcare: New Partnerships Drive Innovation",
-    "description": "Major pharmaceutical companies are partnering with AI startups to revolutionize drug discovery and diagnostics. The partnerships promise a new era of personalized medicine.",
+    "title": "AI Takes Center Stage in Cancer Detection",
+    "description": "A new study reveals that AI models can accurately detect cancer from medical images, potentially revolutionizing early detection and treatment. The AI system outperformed human doctors in identifying certain types of cancer.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 07, 2021",
-    "category": "Business"
+    "source": "Scientific American",
+    "date": "November 10, 2022",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Debate: Balancing Progress and Potential Harm",
-    "description": "As AI impacts every sphere of life, scholars debate the ethical implications. Key concerns include privacy, bias in algorithms, and the potential misuse of technology.",
+    "title": "Ethical Guidelines for AI Deployment Unveiled",
+    "description": "A leading tech company has released a comprehensive set of ethical guidelines for AI deployment. The document aims to guide developers and policymakers in ensuring AI systems are used responsibly and fairly.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 07, 2021",
+    "source": "The Verge",
+    "date": "November 10, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools Reshape the Landscape of Digital Marketing",
-    "description": "Emerging AI tools are transforming the digital marketing industry. Predictive analytics, chatbots, and personalized recommendations are among the top trends.",
+    "title": "New AI Tool Streamlines Image Processing",
+    "description": "A new AI tool has been launched that simplifies the process of editing and optimizing images. The tool uses machine learning techniques to automate routine tasks, saving users time and effort.",
     "url": "#",
-    "source": "Marketing Week",
-    "date": "October 07, 2021",
+    "source": "Wired",
+    "date": "November 10, 2022",
     "category": "Tools"
   }
 ];
