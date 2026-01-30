@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI Model Predicts Climate Change Impact",
-    "description": "Researchers have developed an innovative AI model capable of predicting long-term climate patterns. This breakthrough could have significant implications for future climate change policy and planning.",
+    "title": "AI Revolutionizes Cancer Diagnosis: Breakthrough in Medical Research",
+    "description": "A new AI model developed by medical researchers has the potential to significantly improve the accuracy of cancer diagnosis. This leap in technology could save countless lives.",
     "url": "#",
     "source": "The New York Times",
-    "date": "November 10, 2022",
+    "date": "December 02, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Startup Raises $100M for Retail Automation",
-    "description": "An AI startup has raised $100 million in Series B funding to further its mission of automating retail processes through AI. The funding will be used to refine the AI's learning capabilities and expand operations.",
+    "title": "Google's DeepMind Develops AI That Can Learn Without Human Input",
+    "description": "Google's AI firm, DeepMind, has created an AI model that can learn and improve itself without human input. This milestone could have profound implications for the future of AI technology.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 10, 2022",
+    "source": "The Guardian",
+    "date": "December 02, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Startups Attract Record Investments in 2021",
+    "description": "AI startups have attracted a record-breaking level of investment in 2021, indicating the growing importance of AI technology in the business world.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "December 02, 2021",
     "category": "Business"
-  },
-  {
-    "title": "AI Takes Center Stage in Cancer Detection",
-    "description": "A new study reveals that AI models can accurately detect cancer from medical images, potentially revolutionizing early detection and treatment. The AI system outperformed human doctors in identifying certain types of cancer.",
-    "url": "#",
-    "source": "Scientific American",
-    "date": "November 10, 2022",
-    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Guidelines for AI Deployment Unveiled",
-    "description": "A leading tech company has released a comprehensive set of ethical guidelines for AI deployment. The document aims to guide developers and policymakers in ensuring AI systems are used responsibly and fairly.",
+    "title": "New Ethical Guidelines for AI Development Proposed",
+    "description": "In response to growing concern over AI's societal impact, a leading group of researchers proposed new ethical guidelines for AI development.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 10, 2022",
+    "source": "MIT Technology Review",
+    "date": "December 02, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Image Processing",
-    "description": "A new AI tool has been launched that simplifies the process of editing and optimizing images. The tool uses machine learning techniques to automate routine tasks, saving users time and effort.",
+    "title": "New AI Tools Transforming the Field of Data Analysis",
+    "description": "The emergence of powerful AI tools is transforming the field of data analysis, enabling greater efficiency and accuracy in interpreting data.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 10, 2022",
+    "source": "TechCrunch",
+    "date": "December 02, 2021",
     "category": "Tools"
   }
 ];
