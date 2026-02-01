@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Diagnosing Heart Disease",
-    "description": "In a groundbreaking study, artificial intelligence has been found to more accurately diagnose heart disease than human doctors. The system uses machine learning algorithms to analyze cardiovascular images and detect abnormalities.",
+    "title": "Revolutionizing Healthcare: AI Predicts Heart Disease with Unprecedented Accuracy",
+    "description": "Researchers have developed an AI model that can predict the onset of heart disease with 95% accuracy. This breakthrough could potentially save millions of lives every year.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 01, 2021",
+    "source": "AI Today",
+    "date": "October 04, 2021",
     "category": "Research"
   },
   {
-    "title": "New AI System Revolutionizes E-commerce",
-    "description": "A newly developed AI system is transforming the landscape of e-commerce by predicting consumer behavior with unprecedented accuracy. This high-tech tool can analyze a customer's shopping habits and tailor personalized recommendations.",
+    "title": "New AI Tool Accelerates Drug Discovery",
+    "description": "A cutting-edge AI tool has been designed to accelerate the drug discovery process. The technology can accurately predict the effectiveness of new drugs, significantly reducing the time and cost of clinical trials.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 01, 2021",
-    "category": "Business"
+    "source": "Tech Times",
+    "date": "October 04, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics Concerns Rise Amid Increased Use",
-    "description": "As AI technology becomes more pervasive, ethical concerns over its use are growing. Experts are calling for increased transparency and regulation to prevent potential misuse.",
+    "title": "AI Startup Raises $100M in Series C Funding",
+    "description": "AI startup, BrainWave, has successfully raised $100 million in Series C funding. The company plans to use the funding to expand its AI capabilities and enter new markets.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 01, 2021",
-    "category": "Ethics"
+    "source": "Business Insider",
+    "date": "October 04, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Tools Help Predict Climate Change Impact",
-    "description": "Researchers are using AI tools to predict the impact of climate change more accurately. These systems can analyze vast amounts of data to make highly accurate predictions about future weather patterns, aiding in disaster prevention efforts.",
+    "title": "The Ethics of AI: Balancing Innovation and Human Rights",
+    "description": "As AI continues to advance, experts are calling for policies that balance technological innovation with human rights. This includes ethical guidelines on the use of AI in surveillance and decision-making.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 01, 2021",
-    "category": "Technology"
+    "source": "The AI Ethics Journal",
+    "date": "October 04, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Breakthrough in Language Processing",
-    "description": "A new AI model has achieved a breakthrough in understanding and generating human language. This innovative technology could revolutionize areas such as customer service, translation services, and even creative writing.",
+    "title": "AI’s Next Frontier: Self-Taught Machines",
+    "description": "A new AI model, capable of learning without human supervision, has been developed. This represents a significant step towards truly autonomous AI systems.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 01, 2021",
-    "category": "Research"
+    "source": "Tech Crunch",
+    "date": "October 04, 2021",
+    "category": "Tools"
   }
 ];
