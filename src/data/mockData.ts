@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Predicts Heart Disease with Unprecedented Accuracy",
-    "description": "Researchers have developed an AI model that can predict the onset of heart disease with 95% accuracy. This breakthrough could potentially save millions of lives every year.",
+    "title": "AI Transforms Cancer Diagnosis with Astonishing Accuracy",
+    "description": "In a breakthrough for medical science, an AI model has achieved unprecedented accuracy in diagnosing various types of cancer. The model, trained on thousands of patient data, could revolutionize early detection and treatment.",
     "url": "#",
-    "source": "AI Today",
-    "date": "October 04, 2021",
+    "source": "The Guardian",
+    "date": "December 02, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI Tool Accelerates Drug Discovery",
-    "description": "A cutting-edge AI tool has been designed to accelerate the drug discovery process. The technology can accurately predict the effectiveness of new drugs, significantly reducing the time and cost of clinical trials.",
+    "title": "Major Tech Company Launches AI-Based Cybersecurity System",
+    "description": "In response to increasing cyber threats, a leading tech company has announced the launch of a new AI-driven cybersecurity system. The system promises to identify and neutralize threats faster than ever before.",
     "url": "#",
-    "source": "Tech Times",
-    "date": "October 04, 2021",
+    "source": "TechCrunch",
+    "date": "December 02, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $100M in Series C Funding",
-    "description": "AI startup, BrainWave, has successfully raised $100 million in Series C funding. The company plans to use the funding to expand its AI capabilities and enter new markets.",
+    "title": "New AI Start-Up Raises $50M in Series B Funding",
+    "description": "A promising AI start-up has secured $50 million in Series B funding. The company's innovative machine learning solutions have made waves in the tech industry, attracting significant investor interest.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 04, 2021",
+    "source": "Bloomberg",
+    "date": "December 02, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethics of AI: Balancing Innovation and Human Rights",
-    "description": "As AI continues to advance, experts are calling for policies that balance technological innovation with human rights. This includes ethical guidelines on the use of AI in surveillance and decision-making.",
+    "title": "Ethical Concerns Rise with AI's Growing Presence in Healthcare",
+    "description": "As AI becomes increasingly prevalent in healthcare, experts are raising questions about the ethical implications. Concerns center around data privacy and the need for a human touch in patient care.",
     "url": "#",
-    "source": "The AI Ethics Journal",
-    "date": "October 04, 2021",
+    "source": "The New York Times",
+    "date": "December 02, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI’s Next Frontier: Self-Taught Machines",
-    "description": "A new AI model, capable of learning without human supervision, has been developed. This represents a significant step towards truly autonomous AI systems.",
+    "title": "New Open Source AI Tool Revolutionizes Image Recognition",
+    "description": "A new open-source AI tool promises to take image recognition to the next level, with improved accuracy and efficiency. This tool is set to be a game-changer for industries relying on image processing.",
     "url": "#",
-    "source": "Tech Crunch",
-    "date": "October 04, 2021",
+    "source": "Wired",
+    "date": "December 02, 2022",
     "category": "Tools"
   }
 ];
