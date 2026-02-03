@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Transforms Cancer Diagnosis with Astonishing Accuracy",
-    "description": "In a breakthrough for medical science, an AI model has achieved unprecedented accuracy in diagnosing various types of cancer. The model, trained on thousands of patient data, could revolutionize early detection and treatment.",
+    "title": "Using AI for Climate Change Mitigation: A Breakthrough",
+    "description": "Scientists have developed a new AI model that accurately predicts the impacts of climate change, allowing for more effective mitigation strategies. This breakthrough highlights the growing role of AI in environmental conservation.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 02, 2022",
+    "source": "Nature AI Journal",
+    "date": "March 12, 2022",
     "category": "Research"
   },
   {
-    "title": "Major Tech Company Launches AI-Based Cybersecurity System",
-    "description": "In response to increasing cyber threats, a leading tech company has announced the launch of a new AI-driven cybersecurity system. The system promises to identify and neutralize threats faster than ever before.",
+    "title": "AI-Powered Robots Transforming the Retail Industry",
+    "description": "AI-powered robots are revolutionizing the retail industry, driving efficiency and improving customer experiences. These robots can restock shelves, manage inventory, and even provide customer service.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "December 02, 2022",
+    "date": "March 12, 2022",
     "category": "Technology"
   },
   {
-    "title": "New AI Start-Up Raises $50M in Series B Funding",
-    "description": "A promising AI start-up has secured $50 million in Series B funding. The company's innovative machine learning solutions have made waves in the tech industry, attracting significant investor interest.",
+    "title": "AI Startup Raises $100M in Series B Funding",
+    "description": "AI startup, DataMind, has raised $100 million in Series B funding to further develop its machine learning algorithms. This funding round highlights the increasing interest of venture capitalists in AI technologies.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "December 02, 2022",
+    "source": "The Wall Street Journal",
+    "date": "March 12, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Rise with AI's Growing Presence in Healthcare",
-    "description": "As AI becomes increasingly prevalent in healthcare, experts are raising questions about the ethical implications. Concerns center around data privacy and the need for a human touch in patient care.",
+    "title": "Debate Over AI Ethics Intensifies",
+    "description": "As AI continues to evolve, so do concerns about its ethical implications. The debate over the use and potential misuse of AI is intensifying, with calls for stricter regulations and more transparency.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "December 02, 2022",
+    "source": "The Guardian",
+    "date": "March 12, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New Open Source AI Tool Revolutionizes Image Recognition",
-    "description": "A new open-source AI tool promises to take image recognition to the next level, with improved accuracy and efficiency. This tool is set to be a game-changer for industries relying on image processing.",
+    "title": "New AI Tool for Accurate Disease Diagnosis",
+    "description": "MedTech has launched a new AI tool that enhances the accuracy of disease diagnosis. This tool uses machine learning algorithms to analyze patient data and provide diagnosis in real-time.",
     "url": "#",
-    "source": "Wired",
-    "date": "December 02, 2022",
+    "source": "MIT Technology Review",
+    "date": "March 12, 2022",
     "category": "Tools"
   }
 ];
