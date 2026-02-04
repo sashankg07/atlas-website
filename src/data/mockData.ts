@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Using AI for Climate Change Mitigation: A Breakthrough",
-    "description": "Scientists have developed a new AI model that accurately predicts the impacts of climate change, allowing for more effective mitigation strategies. This breakthrough highlights the growing role of AI in environmental conservation.",
+    "title": "AI Transforms Diabetic Retinopathy Diagnosis",
+    "description": "A recent breakthrough in AI technology has led to a revolutionary diagnostic tool for diabetic retinopathy. The AI model, which can accurately detect the eye disease in its early stages, could significantly reduce the rate of blindness among diabetic patients.",
     "url": "#",
-    "source": "Nature AI Journal",
-    "date": "March 12, 2022",
+    "source": "New York Times",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Robots Transforming the Retail Industry",
-    "description": "AI-powered robots are revolutionizing the retail industry, driving efficiency and improving customer experiences. These robots can restock shelves, manage inventory, and even provide customer service.",
+    "title": "AI Start-Up Raises $100M in Series B Funding",
+    "description": "AI startup, NeuFlow, has successfully raised $100M in a series B funding round. The funds will be used to accelerate the development of their deep learning algorithms and expand their global reach.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "March 12, 2022",
-    "category": "Technology"
+    "date": "September 30, 2022",
+    "category": "Business"
   },
   {
-    "title": "AI Startup Raises $100M in Series B Funding",
-    "description": "AI startup, DataMind, has raised $100 million in Series B funding to further develop its machine learning algorithms. This funding round highlights the increasing interest of venture capitalists in AI technologies.",
+    "title": "AI Ethics: Balancing Innovation and Responsibility",
+    "description": "As AI continues to advance, debates surrounding ethical considerations have grown. Industry leaders are now calling for comprehensive regulations to ensure the responsible use of AI technologies.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "March 12, 2022",
-    "category": "Business"
+    "source": "Washington Post",
+    "date": "September 30, 2022",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Debate Over AI Ethics Intensifies",
-    "description": "As AI continues to evolve, so do concerns about its ethical implications. The debate over the use and potential misuse of AI is intensifying, with calls for stricter regulations and more transparency.",
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "A new AI-based tool capable of predicting climate change impact has been unveiled. The model can forecast the effects of climate change with unprecedented accuracy, helping shape future environmental strategies.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "March 12, 2022",
-    "category": "Ethics"
+    "source": "BBC News",
+    "date": "September 30, 2022",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool for Accurate Disease Diagnosis",
-    "description": "MedTech has launched a new AI tool that enhances the accuracy of disease diagnosis. This tool uses machine learning algorithms to analyze patient data and provide diagnosis in real-time.",
+    "title": "DeepMind's Latest AI Defeats Human Chess Champion",
+    "description": "DeepMind's newest AI, AlphaZ, has defeated a human chess champion in a series of matches. This achievement underscores the stunning progress being made in the field of artificial intelligence.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "March 12, 2022",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "September 30, 2022",
+    "category": "Research"
   }
 ];
