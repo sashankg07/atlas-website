@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Transforms Diabetic Retinopathy Diagnosis",
-    "description": "A recent breakthrough in AI technology has led to a revolutionary diagnostic tool for diabetic retinopathy. The AI model, which can accurately detect the eye disease in its early stages, could significantly reduce the rate of blindness among diabetic patients.",
+    "title": "AI Breaks New Ground in Protein Folding Prediction",
+    "description": "Google's DeepMind has announced a major breakthrough in the field of bioinformatics, using their AI system AlphaFold to accurately predict protein structures. This could revolutionize medicine and biology.",
     "url": "#",
-    "source": "New York Times",
-    "date": "September 30, 2022",
+    "source": "The New York Times",
+    "date": "November 25, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Start-Up Raises $100M in Series B Funding",
-    "description": "AI startup, NeuFlow, has successfully raised $100M in a series B funding round. The funds will be used to accelerate the development of their deep learning algorithms and expand their global reach.",
+    "title": "AI Tools Transforming the Landscape of Digital Marketing",
+    "description": "Sophisticated AI tools are reshaping digital marketing strategies by offering unprecedented insights into consumer behavior, enhancing personalized customer experiences, and optimizing marketing efforts.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2022",
+    "source": "The Guardian",
+    "date": "November 25, 2021",
     "category": "Business"
   },
   {
-    "title": "AI Ethics: Balancing Innovation and Responsibility",
-    "description": "As AI continues to advance, debates surrounding ethical considerations have grown. Industry leaders are now calling for comprehensive regulations to ensure the responsible use of AI technologies.",
+    "title": "OpenAI's GPT-3 Powers New Generation of Chatbots",
+    "description": "OpenAI's language model GPT-3 is lending its power to a new wave of chatbots, delivering unprecedented levels of natural language understanding and interaction.",
     "url": "#",
-    "source": "Washington Post",
-    "date": "September 30, 2022",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "November 25, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Predicts Climate Change Impact",
-    "description": "A new AI-based tool capable of predicting climate change impact has been unveiled. The model can forecast the effects of climate change with unprecedented accuracy, helping shape future environmental strategies.",
+    "title": "Ethical Challenges of AI: Balancing Innovation with Responsibility",
+    "description": "As AI technology advances rapidly, ethical concerns including data privacy, algorithmic bias, and job displacement are gaining prominence. Policymakers and technology leaders are grappling with these challenges.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 30, 2022",
-    "category": "Technology"
+    "source": "The Economist",
+    "date": "November 25, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "DeepMind's Latest AI Defeats Human Chess Champion",
-    "description": "DeepMind's newest AI, AlphaZ, has defeated a human chess champion in a series of matches. This achievement underscores the stunning progress being made in the field of artificial intelligence.",
+    "title": "New AI Tool Speeds Up Drug Discovery",
+    "description": "A new AI tool, developed by researchers at Stanford University, is able to predict the potential of a drug candidate in early stages of development, significantly reducing time and costs.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2022",
-    "category": "Research"
+    "source": "Science Daily",
+    "date": "November 25, 2021",
+    "category": "Tools"
   }
 ];
