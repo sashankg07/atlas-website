@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Detects Lung Cancer with Unprecedented Accuracy",
-    "description": "A new AI model has been developed that outperforms radiologists in detecting lung cancer. This breakthrough could potentially revolutionize early detection and treatment methodologies.",
+    "title": "Major Breakthrough in AI Research: Quantum Computing Meets Artificial Intelligence",
+    "description": "In a groundbreaking research project, scientists have successfully integrated quantum computing with AI. This quantum leap could revolutionize AI's problem-solving capabilities.",
     "url": "#",
-    "source": "AI Today",
-    "date": "October 24, 2022",
+    "source": "The New York Times",
+    "date": "August 11, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Robots are Transforming the Warehouse Industry",
-    "description": "AI Technology is setting new benchmarks in the warehouse industry by maximizing efficiency and reducing errors. Robots are now capable of performing complex tasks independently.",
+    "title": "Artificial Intelligence is Shaping the Future of E-commerce",
+    "description": "Leading tech companies are utilizing AI to revolutionize e-commerce. From personalized product recommendations to innovative payment solutions, AI is transforming online shopping.",
     "url": "#",
-    "source": "The Future Tech",
-    "date": "October 24, 2022",
-    "category": "Technology"
+    "source": "The Wall Street Journal",
+    "date": "August 11, 2022",
+    "category": "Business"
   },
   {
-    "title": "Tech Giant Invests Billions in AI for Climate Change Solutions",
-    "description": "A leading tech company is investing heavily in AI to develop effective solutions for climate change. The initiative aims to leverage AI to forecast climate patterns and devise mitigation strategies.",
+    "title": "Google's New AI Tool Can Predict Weather Patterns with Unprecedented Accuracy",
+    "description": "Google's latest AI tool is a game-changer for meteorology, offering highly accurate weather predictions. This technology could potentially save lives and property by providing early warnings.",
     "url": "#",
-    "source": "Business AI",
-    "date": "October 24, 2022",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "August 11, 2022",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Faces Ethical Scrutiny: Raising Questions on Privacy and Bias",
-    "description": "Ethical concerns surrounding AI technology have come to the fore, with critics questioning its implications on privacy and societal biases. Governments and tech companies are urged to address these issues promptly.",
+    "title": "Ethics in AI: A Rising Concern Amidst Rapid AI Advancements",
+    "description": "As AI continues to advance, ethical concerns are increasingly coming to the forefront. Discussions around AI's potential impacts on privacy, job security, and decision-making are growing in importance.",
     "url": "#",
-    "source": "Ethics in AI",
-    "date": "October 24, 2022",
+    "source": "The Guardian",
+    "date": "August 11, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Toolkit Promises to Simplify Machine Learning",
-    "description": "A newly launched AI toolkit claims to make machine learning accessible to non-experts. This development could democratize AI application across sectors.",
+    "title": "OpenAI Launches New AI Language Model: GPT-4",
+    "description": "OpenAI has announced the release of GPT-4, the latest iteration of its language prediction model. It's expected to vastly improve AI's natural language processing capabilities.",
     "url": "#",
-    "source": "Tech Insider",
-    "date": "October 24, 2022",
+    "source": "MIT Technology Review",
+    "date": "August 11, 2022",
     "category": "Tools"
   }
 ];
