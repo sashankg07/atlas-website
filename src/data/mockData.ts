@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Major Breakthrough in AI Research: Quantum Computing Meets Artificial Intelligence",
-    "description": "In a groundbreaking research project, scientists have successfully integrated quantum computing with AI. This quantum leap could revolutionize AI's problem-solving capabilities.",
+    "title": "AI Revolutionizes Healthcare with Predictive Analysis",
+    "description": "Artificial Intelligence is making strides in the healthcare sector with predictive analysis capabilities. It's now possible to foresee health risks and provide proactive care, potentially saving millions of lives.",
     "url": "#",
     "source": "The New York Times",
-    "date": "August 11, 2022",
+    "date": "October 10, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "New AI Research Aims to Enhance Natural Language Processing",
+    "description": "A team of scientists have developed a groundbreaking AI model to improve Natural Language Processing. This model can better understand and generate human-like text, promising improvements in communication technology.",
+    "url": "#",
+    "source": "Science Daily",
+    "date": "October 10, 2021",
     "category": "Research"
   },
   {
-    "title": "Artificial Intelligence is Shaping the Future of E-commerce",
-    "description": "Leading tech companies are utilizing AI to revolutionize e-commerce. From personalized product recommendations to innovative payment solutions, AI is transforming online shopping.",
+    "title": "AI in Business: Innovative Solutions for Retail Industries",
+    "description": "New AI tools are assisting retail businesses in inventory management, customer service, and predictive sales analysis. These advancements are propelling the retail industry into a new era of efficiency.",
     "url": "#",
     "source": "The Wall Street Journal",
-    "date": "August 11, 2022",
+    "date": "October 10, 2021",
     "category": "Business"
-  },
-  {
-    "title": "Google's New AI Tool Can Predict Weather Patterns with Unprecedented Accuracy",
-    "description": "Google's latest AI tool is a game-changer for meteorology, offering highly accurate weather predictions. This technology could potentially save lives and property by providing early warnings.",
-    "url": "#",
-    "source": "TechCrunch",
-    "date": "August 11, 2022",
-    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: A Rising Concern Amidst Rapid AI Advancements",
-    "description": "As AI continues to advance, ethical concerns are increasingly coming to the forefront. Discussions around AI's potential impacts on privacy, job security, and decision-making are growing in importance.",
+    "title": "The Ethical Implications of AI: A Global Conversation",
+    "description": "As AI continues to evolve, ethical questions arise. A global conversation on AI ethics has begun, focusing on privacy, bias, and the potential implications of AI decision-making.",
     "url": "#",
     "source": "The Guardian",
-    "date": "August 11, 2022",
+    "date": "October 10, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Launches New AI Language Model: GPT-4",
-    "description": "OpenAI has announced the release of GPT-4, the latest iteration of its language prediction model. It's expected to vastly improve AI's natural language processing capabilities.",
+    "title": "AI Tools Transforming the Landscape of Data Analysis",
+    "description": "Cutting-edge AI tools are changing the way businesses handle data. These tools offer superior data analysis, leading to more informed business decisions and strategies.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "August 11, 2022",
+    "source": "TechCrunch",
+    "date": "October 10, 2021",
     "category": "Tools"
   }
 ];
