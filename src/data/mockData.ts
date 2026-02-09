@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Healthcare with Predictive Analysis",
-    "description": "Artificial Intelligence is making strides in the healthcare sector with predictive analysis capabilities. It's now possible to foresee health risks and provide proactive care, potentially saving millions of lives.",
+    "title": "AI Transforms the Landscape of E-commerce",
+    "description": "Artificial Intelligence is revolutionizing the e-commerce industry by driving customer engagement and increasing sales. AI-powered chatbots and recommendation systems are at the forefront of this transformation.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 10, 2021",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "September 13, 2022",
+    "category": "Business"
   },
   {
-    "title": "New AI Research Aims to Enhance Natural Language Processing",
-    "description": "A team of scientists have developed a groundbreaking AI model to improve Natural Language Processing. This model can better understand and generate human-like text, promising improvements in communication technology.",
+    "title": "Researchers Unveil New AI Model that Predicts Climate Change Patterns",
+    "description": "A team of scientists has developed an AI model capable of predicting climate change patterns with unprecedented accuracy. This breakthrough could play a crucial role in global climate change mitigation efforts.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "October 10, 2021",
+    "source": "Nature",
+    "date": "September 13, 2022",
     "category": "Research"
   },
   {
-    "title": "AI in Business: Innovative Solutions for Retail Industries",
-    "description": "New AI tools are assisting retail businesses in inventory management, customer service, and predictive sales analysis. These advancements are propelling the retail industry into a new era of efficiency.",
+    "title": "Ethical Considerations in AI: A Growing Concern",
+    "description": "With the rise of AI, ethical issues such as privacy, fairness, and transparency are gaining prominence. Experts call for robust ethical frameworks to guide the development and use of AI technologies.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "October 10, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "September 13, 2022",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Implications of AI: A Global Conversation",
-    "description": "As AI continues to evolve, ethical questions arise. A global conversation on AI ethics has begun, focusing on privacy, bias, and the potential implications of AI decision-making.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "October 10, 2021",
-    "category": "Ethics"
-  },
-  {
-    "title": "AI Tools Transforming the Landscape of Data Analysis",
-    "description": "Cutting-edge AI tools are changing the way businesses handle data. These tools offer superior data analysis, leading to more informed business decisions and strategies.",
+    "title": "Google Unveils New AI Tools for App Developers",
+    "description": "Google has introduced a suite of new AI tools designed to help app developers improve user engagement and retention. These tools leverage machine learning to personalize app experiences.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 10, 2021",
+    "date": "September 13, 2022",
     "category": "Tools"
+  },
+  {
+    "title": "AI and Quantum Computing: A Promising Convergence",
+    "description": "The convergence of AI and quantum computing promises to accelerate problem-solving and data analysis capabilities exponentially. This could usher in a new era of technological advancements.",
+    "url": "#",
+    "source": "MIT Technology Review",
+    "date": "September 13, 2022",
+    "category": "Technology"
   }
 ];
