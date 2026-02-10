@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Transforms the Landscape of E-commerce",
-    "description": "Artificial Intelligence is revolutionizing the e-commerce industry by driving customer engagement and increasing sales. AI-powered chatbots and recommendation systems are at the forefront of this transformation.",
+    "title": "AI Breakthrough: Quantum Computing and Artificial Intelligence",
+    "description": "A quantum leap in AI research as scientists have combined quantum computing and AI for the first time. This unprecedented development may revolutionize how we understand and use AI.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 13, 2022",
-    "category": "Business"
-  },
-  {
-    "title": "Researchers Unveil New AI Model that Predicts Climate Change Patterns",
-    "description": "A team of scientists has developed an AI model capable of predicting climate change patterns with unprecedented accuracy. This breakthrough could play a crucial role in global climate change mitigation efforts.",
-    "url": "#",
-    "source": "Nature",
-    "date": "September 13, 2022",
+    "source": "The Science Times",
+    "date": "November 13, 2021",
     "category": "Research"
   },
   {
-    "title": "Ethical Considerations in AI: A Growing Concern",
-    "description": "With the rise of AI, ethical issues such as privacy, fairness, and transparency are gaining prominence. Experts call for robust ethical frameworks to guide the development and use of AI technologies.",
+    "title": "AI-Driven Cybersecurity: Future of Digital Protection",
+    "description": "As cyber threats evolve, AI-driven cybersecurity tools are increasingly being used to counter them. These new tools can predict and prevent cyber attacks with unparalleled accuracy.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 13, 2022",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "November 13, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "AI in Healthcare: New Startup Uses AI to Detect Early Signs of Diseases",
+    "description": "A new startup is leveraging AI to detect diseases in their early stages. This innovative approach could greatly improve patient outcomes and revolutionize the healthcare industry.",
+    "url": "#",
+    "source": "Business Insider",
+    "date": "November 13, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Google Unveils New AI Tools for App Developers",
-    "description": "Google has introduced a suite of new AI tools designed to help app developers improve user engagement and retention. These tools leverage machine learning to personalize app experiences.",
+    "title": "The Ethics of AI: Balancing Innovation and Privacy",
+    "description": "As AI continues to evolve, so do the ethical concerns surrounding it. A recent forum discusses the balance between technological innovation and privacy protection.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 13, 2022",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "November 13, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI and Quantum Computing: A Promising Convergence",
-    "description": "The convergence of AI and quantum computing promises to accelerate problem-solving and data analysis capabilities exponentially. This could usher in a new era of technological advancements.",
+    "title": "AI Tools: New Software Makes AI More Accessible",
+    "description": "A new software tool is making it easier for businesses to integrate AI into their operations. This development is expected to democratize AI, making it accessible to more people and businesses.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 13, 2022",
-    "category": "Technology"
+    "source": "Wired",
+    "date": "November 13, 2021",
+    "category": "Tools"
   }
 ];
