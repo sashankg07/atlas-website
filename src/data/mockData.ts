@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Quantum Computing and Artificial Intelligence",
-    "description": "A quantum leap in AI research as scientists have combined quantum computing and AI for the first time. This unprecedented development may revolutionize how we understand and use AI.",
+    "title": "AI Transforms Healthcare: New Developments Unveiled",
+    "description": "Groundbreaking advancements in AI are set to revolutionize the healthcare industry. From early diagnosis to personalized treatment plans, AI is reshaping medical practices.",
     "url": "#",
-    "source": "The Science Times",
-    "date": "November 13, 2021",
+    "source": "The AI Times",
+    "date": "November 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-Driven Cybersecurity: Future of Digital Protection",
-    "description": "As cyber threats evolve, AI-driven cybersecurity tools are increasingly being used to counter them. These new tools can predict and prevent cyber attacks with unparalleled accuracy.",
+    "title": "AI Goes Green: Promising Trends in Energy Efficiency",
+    "description": "As sustainability takes center stage, AI technologies are being leveraged to optimize energy consumption, marking a significant step towards a greener future.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 13, 2021",
+    "source": "AI Daily",
+    "date": "November 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI in Healthcare: New Startup Uses AI to Detect Early Signs of Diseases",
-    "description": "A new startup is leveraging AI to detect diseases in their early stages. This innovative approach could greatly improve patient outcomes and revolutionize the healthcare industry.",
+    "title": "AI in Retail: The Future of Shopping is Here",
+    "description": "Innovative AI solutions are transforming the retail landscape, enabling personalized experiences and efficient operations like never before.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "November 13, 2021",
+    "source": "Business AI Weekly",
+    "date": "November 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethics of AI: Balancing Innovation and Privacy",
-    "description": "As AI continues to evolve, so do the ethical concerns surrounding it. A recent forum discusses the balance between technological innovation and privacy protection.",
+    "title": "Balancing Act: Ethical Considerations in AI Development",
+    "description": "With AI's rapid advancements, ethical considerations are becoming increasingly critical. Stakeholders are focusing on fairness, accountability, and transparency in AI systems.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 13, 2021",
+    "source": "AI Ethics Journal",
+    "date": "November 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools: New Software Makes AI More Accessible",
-    "description": "A new software tool is making it easier for businesses to integrate AI into their operations. This development is expected to democratize AI, making it accessible to more people and businesses.",
+    "title": "AI Tools Reshape Creative Industry: New Frontiers Explored",
+    "description": "AI-powered tools are opening new avenues in the creative industry, automating processes and offering unique possibilities for artists and designers.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 13, 2021",
+    "source": "Creative AI Magazine",
+    "date": "November 30, 2021",
     "category": "Tools"
   }
 ];
