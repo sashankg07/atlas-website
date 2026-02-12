@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Transforms Healthcare: New Developments Unveiled",
-    "description": "Groundbreaking advancements in AI are set to revolutionize the healthcare industry. From early diagnosis to personalized treatment plans, AI is reshaping medical practices.",
+    "title": "AI Breakthrough: DeepMind Masters Protein Folding",
+    "description": "Google's DeepMind has unveiled a new AI that can predict the 3D structures of proteins with remarkable accuracy. This breakthrough could significantly speed up drug discovery and disease understanding.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "November 30, 2021",
+    "source": "BBC News",
+    "date": "September 28, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Goes Green: Promising Trends in Energy Efficiency",
-    "description": "As sustainability takes center stage, AI technologies are being leveraged to optimize energy consumption, marking a significant step towards a greener future.",
+    "title": "AI Revolutionizing the World of Finance",
+    "description": "AI and machine learning are transforming the finance sector, offering new ways to prevent fraud, optimize trading, and improve customer service. The technology's predictive capabilities are particularly valuable in this industry.",
     "url": "#",
-    "source": "AI Daily",
-    "date": "November 30, 2021",
-    "category": "Technology"
+    "source": "Financial Times",
+    "date": "September 28, 2022",
+    "category": "Business"
   },
   {
-    "title": "AI in Retail: The Future of Shopping is Here",
-    "description": "Innovative AI solutions are transforming the retail landscape, enabling personalized experiences and efficient operations like never before.",
+    "title": "AI Ethics: The Ongoing Debate on Autonomous Weapons",
+    "description": "As AI continues to evolve, so does the debate on autonomous weapons. Critics argue that these weapons could lead to lethal decision-making without human intervention, while proponents believe they could minimize casualties in conflict situations.",
     "url": "#",
-    "source": "Business AI Weekly",
-    "date": "November 30, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "September 28, 2022",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Balancing Act: Ethical Considerations in AI Development",
-    "description": "With AI's rapid advancements, ethical considerations are becoming increasingly critical. Stakeholders are focusing on fairness, accountability, and transparency in AI systems.",
+    "title": "AI Transforming the Landscape of Healthcare",
+    "description": "From diagnosis to treatment, AI is revolutionizing healthcare. It's enabling personalized medicine and predictive analytics, improving patient care and outcomes.",
     "url": "#",
-    "source": "AI Ethics Journal",
-    "date": "November 30, 2021",
-    "category": "Ethics"
+    "source": "The New York Times",
+    "date": "September 28, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI Tools Reshape Creative Industry: New Frontiers Explored",
-    "description": "AI-powered tools are opening new avenues in the creative industry, automating processes and offering unique possibilities for artists and designers.",
+    "title": "New AI Tools Enhance Remote Learning",
+    "description": "With the shift to remote learning, new AI tools are emerging to enhance the experience. These tools use AI to provide personalized lesson plans and instant feedback, improving the learning process for students worldwide.",
     "url": "#",
-    "source": "Creative AI Magazine",
-    "date": "November 30, 2021",
+    "source": "TechCrunch",
+    "date": "September 28, 2022",
     "category": "Tools"
   }
 ];
