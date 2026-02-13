@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: DeepMind Masters Protein Folding",
-    "description": "Google's DeepMind has unveiled a new AI that can predict the 3D structures of proteins with remarkable accuracy. This breakthrough could significantly speed up drug discovery and disease understanding.",
+    "title": "Revolutionizing Medicine: AI Diagnoses Disease with Unprecedented Accuracy",
+    "description": "A groundbreaking AI model has been developed with the capability to diagnose diseases with higher accuracy than ever before. This innovation could transform healthcare as we know it.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 28, 2022",
+    "source": "The New York Times",
+    "date": "October 08, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizing the World of Finance",
-    "description": "AI and machine learning are transforming the finance sector, offering new ways to prevent fraud, optimize trading, and improve customer service. The technology's predictive capabilities are particularly valuable in this industry.",
+    "title": "AI-powered Cybersecurity: The Future of Online Safety",
+    "description": "Advancements in AI technology are paving the way for a new era in cybersecurity. With AI algorithms, threats can be detected and neutralized in real-time.",
     "url": "#",
-    "source": "Financial Times",
-    "date": "September 28, 2022",
-    "category": "Business"
+    "source": "The Washington Post",
+    "date": "October 08, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics: The Ongoing Debate on Autonomous Weapons",
-    "description": "As AI continues to evolve, so does the debate on autonomous weapons. Critics argue that these weapons could lead to lethal decision-making without human intervention, while proponents believe they could minimize casualties in conflict situations.",
+    "title": "Business Intelligence: How AI is Driving Smarter Decision Making",
+    "description": "Companies worldwide are harnessing the power of AI to streamline their decision-making processes. AI-driven insights are leading to increased efficiency and profitability.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 28, 2022",
-    "category": "Ethics"
+    "source": "Business Insider",
+    "date": "October 08, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Transforming the Landscape of Healthcare",
-    "description": "From diagnosis to treatment, AI is revolutionizing healthcare. It's enabling personalized medicine and predictive analytics, improving patient care and outcomes.",
+    "title": "AI Ethics: Balancing Innovation and Responsibility",
+    "description": "As AI continues to evolve, the ethical implications of its applications are becoming more apparent. Experts call for clear policies and regulations to ensure responsible use of AI.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 28, 2022",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "October 08, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tools Enhance Remote Learning",
-    "description": "With the shift to remote learning, new AI tools are emerging to enhance the experience. These tools use AI to provide personalized lesson plans and instant feedback, improving the learning process for students worldwide.",
+    "title": "New AI Tools Promise to Reinvent Creative Industries",
+    "description": "Emerging AI tools are breaking barriers in the creative sector, offering artists novel ways to express their creativity and opening up new possibilities for innovation.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 28, 2022",
+    "date": "October 08, 2021",
     "category": "Tools"
   }
 ];
