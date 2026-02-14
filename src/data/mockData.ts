@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine: AI Diagnoses Disease with Unprecedented Accuracy",
-    "description": "A groundbreaking AI model has been developed with the capability to diagnose diseases with higher accuracy than ever before. This innovation could transform healthcare as we know it.",
+    "title": "AI Breakthrough: DeepMind's AI Models Weather Patterns",
+    "description": "Google's DeepMind has developed a new AI that can accurately predict weather patterns, a monumental step in tackling climate change. The AI model can forecast potential weather disasters with impressive accuracy.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 08, 2021",
+    "source": "BBC News",
+    "date": "November 02, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-powered Cybersecurity: The Future of Online Safety",
-    "description": "Advancements in AI technology are paving the way for a new era in cybersecurity. With AI algorithms, threats can be detected and neutralized in real-time.",
+    "title": "AI Ethics: European Union Proposes Stricter Regulations on AI Use",
+    "description": "The European Union has proposed new regulations aimed at governing the use of AI in the region. A focus has been placed on high-risk applications, with violations potentially leading to hefty penalties.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "October 08, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "November 02, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "Business Intelligence: How AI is Driving Smarter Decision Making",
-    "description": "Companies worldwide are harnessing the power of AI to streamline their decision-making processes. AI-driven insights are leading to increased efficiency and profitability.",
+    "title": "AI in Business: Amazon Unveils New AI Tools for AWS",
+    "description": "Amazon has unveiled new AI tools for its cloud service, AWS. These tools aim to simplify AI accessibility for businesses, aiding in tasks ranging from data analysis to customer service.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 08, 2021",
+    "source": "Bloomberg",
+    "date": "November 02, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Balancing Innovation and Responsibility",
-    "description": "As AI continues to evolve, the ethical implications of its applications are becoming more apparent. Experts call for clear policies and regulations to ensure responsible use of AI.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "October 08, 2021",
-    "category": "Ethics"
-  },
-  {
-    "title": "New AI Tools Promise to Reinvent Creative Industries",
-    "description": "Emerging AI tools are breaking barriers in the creative sector, offering artists novel ways to express their creativity and opening up new possibilities for innovation.",
+    "title": "AI Technology: NVIDIA's AI Creates Realistic Virtual Worlds",
+    "description": "NVIDIA has unveiled an AI that can generate highly realistic virtual worlds. This technology could revolutionize the gaming industry and potentially offer new tools for architects and planners.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 08, 2021",
-    "category": "Tools"
+    "date": "November 02, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Research: Stanford Scientists Develop AI to Detect Heart Disease",
+    "description": "Scientists at Stanford University have developed an AI system that can diagnose heart disease with high accuracy. This AI could revolutionize healthcare and save countless lives.",
+    "url": "#",
+    "source": "Stanford News",
+    "date": "November 02, 2021",
+    "category": "Research"
   }
 ];
