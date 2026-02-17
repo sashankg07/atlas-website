@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "DeepMind's AI Tackles Protein Folding Problem",
-    "description": "DeepMind's AI algorithm, AlphaFold, has solved the 50-year-old problem of protein folding, revolutionizing the field of biology. The breakthrough could have far-reaching implications in drug discovery and disease understanding.",
+    "title": "AI Breakthrough: New Model Outperforms Humans in Language Understanding",
+    "description": "A team of researchers has developed an AI model that surpasses human performance in understanding and interpreting complex language tasks. This groundbreaking advancement could revolutionize the way we interact with computers.",
     "url": "#",
-    "source": "BBC News",
-    "date": "January 21, 2023",
+    "source": "The AI Times",
+    "date": "December 06, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Helps in Early Detection of Alzheimer's",
-    "description": "Researchers have developed an AI model that can predict the onset of Alzheimer's disease with over 90% accuracy. The technology could be a game-changer in the early diagnosis and treatment of the disease.",
+    "title": "Tech Giant Unveils AI Software to Predict Market Trends",
+    "description": "A leading tech company has unveiled a state-of-the-art AI software capable of predicting market trends with superior accuracy. This tool could transform decision-making in the business world.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "January 21, 2023",
-    "category": "Technology"
+    "source": "The AI Review",
+    "date": "December 06, 2021",
+    "category": "Business"
   },
   {
-    "title": "OpenAI Releases GPT-4, the Latest AI Language Model",
-    "description": "OpenAI has released GPT-4, the most advanced AI language model to date. The new model can generate even more coherent and contextually accurate text, expanding potential use-cases across industries.",
+    "title": "New AI Ethics Guidelines Released to Safeguard User Privacy",
+    "description": "In response to growing concerns about user privacy and data security, a global AI ethics committee has released new guidelines. These rules aim to ensure that AI technology respects user rights and promotes transparency.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "January 21, 2023",
-    "category": "Tools"
+    "source": "The AI Post",
+    "date": "December 06, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Controversy at Major Tech Firm",
-    "description": "A leading tech firm faces backlash over its dismissal of a prominent AI ethicist. The incident has sparked a broader conversation about the ethical implications of AI development and deployment.",
+    "title": "AI Helping to Combat Climate Change: Recent Developments",
+    "description": "Researchers are leveraging AI to combat climate change, using advanced algorithms to predict environmental patterns and develop sustainable solutions. This technology could be key in the fight against global warming.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "January 21, 2023",
-    "category": "Ethics"
+    "source": "The AI Journal",
+    "date": "December 06, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Startup Acquired for $1B in Landmark Deal",
-    "description": "In a landmark deal, a leading tech company has acquired a promising AI startup for $1 billion. The deal underscores the growing business value of AI and machine learning technologies.",
+    "title": "New AI Tool Streamlines Software Development",
+    "description": "A new AI-powered tool promises to streamline software development by automating code generation. This tool could significantly expedite and simplify the development process for programmers.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "January 21, 2023",
-    "category": "Business"
+    "source": "The AI Tech News",
+    "date": "December 06, 2021",
+    "category": "Tools"
   }
 ];
