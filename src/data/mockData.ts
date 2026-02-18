@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Model Outperforms Humans in Language Understanding",
-    "description": "A team of researchers has developed an AI model that surpasses human performance in understanding and interpreting complex language tasks. This groundbreaking advancement could revolutionize the way we interact with computers.",
+    "title": "Groundbreaking AI Platform Revolutionizes Disease Diagnosis",
+    "description": "A new AI-powered platform has been developed that can accurately diagnose diseases in record time, transforming the medical field. The platform uses machine learning to analyze patient data and detect patterns often missed by human doctors.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "December 06, 2021",
-    "category": "Research"
+    "source": "The New York Times",
+    "date": "December 01, 2021",
+    "category": "Technology"
   },
   {
-    "title": "Tech Giant Unveils AI Software to Predict Market Trends",
-    "description": "A leading tech company has unveiled a state-of-the-art AI software capable of predicting market trends with superior accuracy. This tool could transform decision-making in the business world.",
+    "title": "Tech Giant Invests Billions in AI for Sustainability",
+    "description": "A leading tech company has announced a multi-billion dollar investment in AI to tackle global environmental issues. The funding is aimed at developing innovative AI technologies to reduce carbon emissions and promote sustainability.",
     "url": "#",
-    "source": "The AI Review",
-    "date": "December 06, 2021",
+    "source": "Forbes",
+    "date": "December 01, 2021",
     "category": "Business"
   },
   {
-    "title": "New AI Ethics Guidelines Released to Safeguard User Privacy",
-    "description": "In response to growing concerns about user privacy and data security, a global AI ethics committee has released new guidelines. These rules aim to ensure that AI technology respects user rights and promotes transparency.",
+    "title": "New AI Ethics Guidelines Released",
+    "description": "In response to growing public concern, a respected AI research institute has released a comprehensive set of guidelines for the ethical use of artificial intelligence. These guidelines aim to ensure AI advancements benefit humanity without compromising privacy or security.",
     "url": "#",
-    "source": "The AI Post",
-    "date": "December 06, 2021",
+    "source": "MIT Technology Review",
+    "date": "December 01, 2021",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Helping to Combat Climate Change: Recent Developments",
-    "description": "Researchers are leveraging AI to combat climate change, using advanced algorithms to predict environmental patterns and develop sustainable solutions. This technology could be key in the fight against global warming.",
+    "title": "AI Breakthrough in Predicting Natural Disasters",
+    "description": "Scientists have successfully used AI to predict natural disasters with unprecedented accuracy. By analyzing vast amounts of geological data, the AI system can predict earthquakes and other disasters, potentially saving thousands of lives.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "December 06, 2021",
-    "category": "Technology"
+    "source": "Nature",
+    "date": "December 01, 2021",
+    "category": "Research"
   },
   {
     "title": "New AI Tool Streamlines Software Development",
-    "description": "A new AI-powered tool promises to streamline software development by automating code generation. This tool could significantly expedite and simplify the development process for programmers.",
+    "description": "A new AI-powered tool has been launched that significantly reduces the time required for software development. The tool uses machine learning to automate coding, allowing developers to focus on more complex tasks.",
     "url": "#",
-    "source": "The AI Tech News",
-    "date": "December 06, 2021",
+    "source": "TechCrunch",
+    "date": "December 01, 2021",
     "category": "Tools"
   }
 ];
