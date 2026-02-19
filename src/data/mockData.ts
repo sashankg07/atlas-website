@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Platform Revolutionizes Disease Diagnosis",
-    "description": "A new AI-powered platform has been developed that can accurately diagnose diseases in record time, transforming the medical field. The platform uses machine learning to analyze patient data and detect patterns often missed by human doctors.",
+    "title": "AI to Revolutionize Healthcare: A New Era of Diagnosis",
+    "description": "Artificial Intelligence is shaping the future of healthcare with its potential to improve diagnosis and treatment. This emerging technology is transforming medical care and enabling personalized medicine.",
     "url": "#",
     "source": "The New York Times",
-    "date": "December 01, 2021",
+    "date": "October 28, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI for Sustainability",
-    "description": "A leading tech company has announced a multi-billion dollar investment in AI to tackle global environmental issues. The funding is aimed at developing innovative AI technologies to reduce carbon emissions and promote sustainability.",
+    "title": "Latest AI Breakthrough in Climate Change Predictions",
+    "description": "Researchers have developed a new AI model that can predict climate change patterns with unprecedented accuracy. This advancement could be instrumental in shaping future climate policies.",
     "url": "#",
-    "source": "Forbes",
-    "date": "December 01, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "October 28, 2021",
+    "category": "Research"
   },
   {
-    "title": "New AI Ethics Guidelines Released",
-    "description": "In response to growing public concern, a respected AI research institute has released a comprehensive set of guidelines for the ethical use of artificial intelligence. These guidelines aim to ensure AI advancements benefit humanity without compromising privacy or security.",
+    "title": "AI Ethics: Addressing Bias in AI Systems",
+    "description": "As the use of AI becomes more prevalent, experts call for more scrutiny of algorithmic bias. Fairness and transparency in AI systems have become a paramount concern.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "December 01, 2021",
+    "source": "BBC News",
+    "date": "October 28, 2021",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Breakthrough in Predicting Natural Disasters",
-    "description": "Scientists have successfully used AI to predict natural disasters with unprecedented accuracy. By analyzing vast amounts of geological data, the AI system can predict earthquakes and other disasters, potentially saving thousands of lives.",
-    "url": "#",
-    "source": "Nature",
-    "date": "December 01, 2021",
-    "category": "Research"
-  },
-  {
-    "title": "New AI Tool Streamlines Software Development",
-    "description": "A new AI-powered tool has been launched that significantly reduces the time required for software development. The tool uses machine learning to automate coding, allowing developers to focus on more complex tasks.",
+    "title": "AI Tools Powering Remote Work",
+    "description": "The pandemic has accelerated the adoption of AI tools in the remote work landscape. AI-powered platforms are enhancing productivity and collaboration in virtual workspaces.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "December 01, 2021",
+    "date": "October 28, 2021",
     "category": "Tools"
+  },
+  {
+    "title": "AI in Business: Transforming Customer Experience",
+    "description": "Artificial Intelligence is redefining customer experience strategies in businesses. AI-powered solutions are providing personalized experiences, fostering customer loyalty and engagement.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "October 28, 2021",
+    "category": "Business"
   }
 ];
