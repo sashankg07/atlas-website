@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI to Revolutionize Healthcare: A New Era of Diagnosis",
-    "description": "Artificial Intelligence is shaping the future of healthcare with its potential to improve diagnosis and treatment. This emerging technology is transforming medical care and enabling personalized medicine.",
-    "url": "#",
-    "source": "The New York Times",
-    "date": "October 28, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "Latest AI Breakthrough in Climate Change Predictions",
-    "description": "Researchers have developed a new AI model that can predict climate change patterns with unprecedented accuracy. This advancement could be instrumental in shaping future climate policies.",
+    "title": "DeepMind's AI Solves Long-Standing Biological Mystery",
+    "description": "DeepMind's AI, AlphaFold, has successfully predicted the structure of proteins, a challenge that has puzzled scientists for decades. This breakthrough could significantly advance drug discovery and disease understanding.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 28, 2021",
+    "date": "October 05, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Ethics: Addressing Bias in AI Systems",
-    "description": "As the use of AI becomes more prevalent, experts call for more scrutiny of algorithmic bias. Fairness and transparency in AI systems have become a paramount concern.",
+    "title": "IBM Introduces AI to Manage Hybrid Work Environments",
+    "description": "IBM's Watson Works uses AI to help businesses manage changing workplace environments. The tool provides real-time insights and automates processes to improve productivity and wellbeing.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 28, 2021",
-    "category": "Ethics"
+    "source": "Business Insider",
+    "date": "October 05, 2021",
+    "category": "Business"
+  },
+  {
+    "title": "Facebook Unveils AI that Understands Video Content",
+    "description": "Facebook's new AI model, SEER, is capable of interpreting video content. This could improve content recommendation algorithms and enhance the social media experience.",
+    "url": "#",
+    "source": "Wired",
+    "date": "October 05, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Tools Powering Remote Work",
-    "description": "The pandemic has accelerated the adoption of AI tools in the remote work landscape. AI-powered platforms are enhancing productivity and collaboration in virtual workspaces.",
+    "title": "Ethical Concerns Rise Over Use of AI in Surveillance",
+    "description": "As AI becomes increasingly prevalent in surveillance, ethical concerns are growing. Critics argue for stricter regulations to prevent misuse of technology and protect privacy rights.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 28, 2021",
-    "category": "Tools"
+    "source": "The New York Times",
+    "date": "October 05, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI in Business: Transforming Customer Experience",
-    "description": "Artificial Intelligence is redefining customer experience strategies in businesses. AI-powered solutions are providing personalized experiences, fostering customer loyalty and engagement.",
+    "title": "Google Announces New AI-powered Tool for Developers",
+    "description": "Google has introduced a new tool, Vertex AI, designed to streamline the process of deploying and maintaining AI models. This will allow developers to focus more on creating innovative solutions.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 28, 2021",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "October 05, 2021",
+    "category": "Tools"
   }
 ];
