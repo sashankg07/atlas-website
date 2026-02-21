@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "DeepMind's AI Solves Long-Standing Biological Mystery",
-    "description": "DeepMind's AI, AlphaFold, has successfully predicted the structure of proteins, a challenge that has puzzled scientists for decades. This breakthrough could significantly advance drug discovery and disease understanding.",
+    "title": "AI Breaks New Ground in Predicting Alzheimer's",
+    "description": "A new AI model has showcased unprecedented accuracy in predicting the onset of Alzheimer's disease, years before the first symptoms appear. This breakthrough could revolutionize early detection and patient care.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 05, 2021",
+    "source": "The New York Times",
+    "date": "September 26, 2022",
     "category": "Research"
   },
   {
-    "title": "IBM Introduces AI to Manage Hybrid Work Environments",
-    "description": "IBM's Watson Works uses AI to help businesses manage changing workplace environments. The tool provides real-time insights and automates processes to improve productivity and wellbeing.",
+    "title": "Tech Giants Battle Over AI Chip Dominance",
+    "description": "In a face-off between industry heavyweights, Microsoft and Google are vying for pole position in the AI chip market. They aim to deliver unparalleled processing power and energy efficiency in AI computations.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 05, 2021",
-    "category": "Business"
+    "source": "The Wall Street Journal",
+    "date": "September 26, 2022",
+    "category": "Technology"
   },
   {
-    "title": "Facebook Unveils AI that Understands Video Content",
-    "description": "Facebook's new AI model, SEER, is capable of interpreting video content. This could improve content recommendation algorithms and enhance the social media experience.",
+    "title": "AI Startup Scores $100 Million in Latest Funding Round",
+    "description": "AI startup, DeepVision, has raised $100 million in a Series C funding round, demonstrating the continued investor interest in AI-driven solutions. DeepVision plans to use the funds to scale its image recognition technology.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 05, 2021",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "September 26, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Rise Over Use of AI in Surveillance",
-    "description": "As AI becomes increasingly prevalent in surveillance, ethical concerns are growing. Critics argue for stricter regulations to prevent misuse of technology and protect privacy rights.",
+    "title": "Ethical Implications of AI in Surveillance",
+    "description": "With the increasing use of AI in surveillance systems, ethical considerations are coming to the forefront. Experts call for clear guidelines to prevent misuse and safeguard individual privacy.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 05, 2021",
+    "source": "The Guardian",
+    "date": "September 26, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Google Announces New AI-powered Tool for Developers",
-    "description": "Google has introduced a new tool, Vertex AI, designed to streamline the process of deploying and maintaining AI models. This will allow developers to focus more on creating innovative solutions.",
+    "title": "New AI Tool Streamlines Machine Learning Process",
+    "description": "A new AI tool, called AutoML, is making waves by automating the time-consuming process of training machine learning algorithms. This tool could democratize access to AI and accelerate its adoption.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 05, 2021",
+    "date": "September 26, 2022",
     "category": "Tools"
   }
 ];
