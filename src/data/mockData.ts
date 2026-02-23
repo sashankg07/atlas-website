@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "DeepMind's New AI Tool Predicts Protein Structures with Unprecedented Accuracy",
-    "description": "DeepMind's latest AI tool, AlphaFold, is revolutionizing biochemistry by accurately predicting protein structures. This breakthrough could expedite drug discovery and disease understanding.",
+    "title": "AI Breakthrough: DeepMind's AlphaFold Solves Protein Folding Problem",
+    "description": "DeepMind's AlphaFold AI has made a groundbreaking advancement by solving the decades old protein folding problem. This could revolutionize drug discovery and disease understanding.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 12, 2021",
+    "date": "October 22, 2021",
     "category": "Research"
   },
   {
-    "title": "IBM Unveils AI Model That Mimics the Human Brain",
-    "description": "IBM has developed a new AI model capable of mimicking the human brain's cognitive functions. This development is a significant stride towards creating more human-like AI systems.",
+    "title": "OpenAI Unveils DALL-E: AI That Generates Images from Text",
+    "description": "OpenAI has released a new AI model, DALL-E, that can generate images from text descriptions, showcasing the startlingly creative potential of AI.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 12, 2021",
+    "source": "MIT Technology Review",
+    "date": "October 22, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Cerebras Systems Raises $250M in Series E Funding",
-    "description": "AI hardware startup Cerebras Systems has raised $250 million in a series E funding round. The funds will be used to scale production and meet growing demand for its AI supercomputers.",
+    "title": "Microsoft Acquires AI Startup Nuance for $19.7 Billion",
+    "description": "Microsoft is set to acquire AI startup Nuance Communications, specializing in healthcare tech, for a whopping $19.7 billion, marking its largest acquisition in the AI field.",
     "url": "#",
     "source": "Bloomberg",
-    "date": "November 12, 2021",
+    "date": "October 22, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Facebook's AI Ethics Research In Question",
-    "description": "Facebook's commitment to AI ethics research is under scrutiny following recent controversies. Critics argue the company needs to prioritize ethical considerations in its AI developments.",
+    "title": "EU Proposes Strict Regulations for High-Risk AI Applications",
+    "description": "The European Union has proposed stringent regulations for high-risk AI applications, in an effort to ensure safety and uphold fundamental rights.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 12, 2021",
+    "source": "Reuters",
+    "date": "October 22, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Google Launches Vertex AI, a New Managed Machine Learning Platform",
-    "description": "Google has launched Vertex AI, a new managed machine learning platform. The tool aims to help companies build, deploy, and scale AI models more efficiently.",
+    "title": "Google Releases TensorFlow 2.5: New Features and Improvements",
+    "description": "Google has released TensorFlow 2.5, the latest version of its open-source machine learning library, with new features and various improvements.",
     "url": "#",
-    "source": "TechRadar",
-    "date": "November 12, 2021",
+    "source": "TechCrunch",
+    "date": "October 22, 2021",
     "category": "Tools"
   }
 ];
