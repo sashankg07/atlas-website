@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: DeepMind's AlphaFold Solves Protein Folding Problem",
-    "description": "DeepMind's AlphaFold AI has made a groundbreaking advancement by solving the decades old protein folding problem. This could revolutionize drug discovery and disease understanding.",
+    "title": "AI Redefines Space Exploration: NASA's Latest AI Project",
+    "description": "NASA has unveiled a new AI project aiming to advance space exploration. The AI system will help in analyzing vast amounts of data from the cosmos, speeding up discoveries.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 22, 2021",
+    "source": "The Space Review",
+    "date": "November 22, 2021",
     "category": "Research"
   },
   {
-    "title": "OpenAI Unveils DALL-E: AI That Generates Images from Text",
-    "description": "OpenAI has released a new AI model, DALL-E, that can generate images from text descriptions, showcasing the startlingly creative potential of AI.",
+    "title": "AI Revolutionizes Healthcare: Predicting Heart Attacks with Machine Learning",
+    "description": "A groundbreaking research project has utilized AI to accurately predict heart attacks, potentially saving countless lives. The study shows the power of machine learning in healthcare.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 22, 2021",
+    "source": "Medical News Today",
+    "date": "November 22, 2021",
     "category": "Technology"
   },
   {
-    "title": "Microsoft Acquires AI Startup Nuance for $19.7 Billion",
-    "description": "Microsoft is set to acquire AI startup Nuance Communications, specializing in healthcare tech, for a whopping $19.7 billion, marking its largest acquisition in the AI field.",
+    "title": "Microsoft Acquires AI Startup to Boost Cloud Computing Power",
+    "description": "Microsoft has acquired a leading AI startup to enhance its cloud computing capabilities. This move is part of a larger trend of tech giants investing heavily in AI.",
     "url": "#",
     "source": "Bloomberg",
-    "date": "October 22, 2021",
+    "date": "November 22, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "EU Proposes Strict Regulations for High-Risk AI Applications",
-    "description": "The European Union has proposed stringent regulations for high-risk AI applications, in an effort to ensure safety and uphold fundamental rights.",
+    "title": "New Ethical Framework for AI: Balancing Innovation and Privacy",
+    "description": "A new ethical framework for AI has been proposed to balance the need for innovation and privacy. It aims to guide AI development in a way that respects individual rights and freedoms.",
     "url": "#",
-    "source": "Reuters",
-    "date": "October 22, 2021",
+    "source": "The Guardian",
+    "date": "November 22, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Google Releases TensorFlow 2.5: New Features and Improvements",
-    "description": "Google has released TensorFlow 2.5, the latest version of its open-source machine learning library, with new features and various improvements.",
+    "title": "Google Launches New AI Tools for Developers",
+    "description": "Google has launched a suite of new AI tools for developers. These tools aim to make AI development more accessible and efficient, encouraging more innovation in the field.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 22, 2021",
+    "date": "November 22, 2021",
     "category": "Tools"
   }
 ];
