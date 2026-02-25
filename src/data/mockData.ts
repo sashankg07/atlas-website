@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Redefines Space Exploration: NASA's Latest AI Project",
-    "description": "NASA has unveiled a new AI project aiming to advance space exploration. The AI system will help in analyzing vast amounts of data from the cosmos, speeding up discoveries.",
+    "title": "AI Helps Scientists Understand Climate Change",
+    "description": "Researchers are using artificial intelligence to gain a better understanding of climate change impacts. The AI model can predict climate patterns and natural disasters with unprecedented accuracy.",
     "url": "#",
-    "source": "The Space Review",
-    "date": "November 22, 2021",
+    "source": "The Science Times",
+    "date": "October 01, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizes Healthcare: Predicting Heart Attacks with Machine Learning",
-    "description": "A groundbreaking research project has utilized AI to accurately predict heart attacks, potentially saving countless lives. The study shows the power of machine learning in healthcare.",
+    "title": "Microsoft Announces New AI-Driven Cloud Services",
+    "description": "Microsoft unveiled new cloud services with AI capabilities, aiming to accelerate digital transformation for businesses. These services promise to improve efficiency and provide valuable insights.",
     "url": "#",
-    "source": "Medical News Today",
-    "date": "November 22, 2021",
+    "source": "TechCrunch",
+    "date": "October 01, 2021",
     "category": "Technology"
   },
   {
-    "title": "Microsoft Acquires AI Startup to Boost Cloud Computing Power",
-    "description": "Microsoft has acquired a leading AI startup to enhance its cloud computing capabilities. This move is part of a larger trend of tech giants investing heavily in AI.",
+    "title": "AI Start-up Raises $100 Million in Series C Funding",
+    "description": "AI start-up, AI Corp, has secured $100 million in its latest funding round. The investment will be used to scale up operations and expand its AI-driven solutions.",
     "url": "#",
     "source": "Bloomberg",
-    "date": "November 22, 2021",
+    "date": "October 01, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Ethical Framework for AI: Balancing Innovation and Privacy",
-    "description": "A new ethical framework for AI has been proposed to balance the need for innovation and privacy. It aims to guide AI development in a way that respects individual rights and freedoms.",
+    "title": "New Ethical Guidelines for AI Released",
+    "description": "A global consortium has released a new set of ethical guidelines for AI development and usage. The guidelines aim to ensure AI technologies respect human rights and promote fairness.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 22, 2021",
+    "date": "October 01, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Google Launches New AI Tools for Developers",
-    "description": "Google has launched a suite of new AI tools for developers. These tools aim to make AI development more accessible and efficient, encouraging more innovation in the field.",
+    "title": "Google's New AI Tool Transforms Sketches Into Landscapes",
+    "description": "Google's latest AI tool lets users convert simple sketches into realistic landscape images. This tool demonstrates the potential of AI in creative fields.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 22, 2021",
+    "source": "Wired",
+    "date": "October 01, 2021",
     "category": "Tools"
   }
 ];
