@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Helps Scientists Understand Climate Change",
-    "description": "Researchers are using artificial intelligence to gain a better understanding of climate change impacts. The AI model can predict climate patterns and natural disasters with unprecedented accuracy.",
+    "title": "AI Helps Decode the Complex Language of Whales",
+    "description": "Researchers have successfully used artificial intelligence to decode the complex language of whales. The breakthrough could help us understand these majestic creatures and their social behaviors better.",
     "url": "#",
-    "source": "The Science Times",
-    "date": "October 01, 2021",
+    "source": "Nature",
+    "date": "March 22, 2022",
     "category": "Research"
   },
   {
-    "title": "Microsoft Announces New AI-Driven Cloud Services",
-    "description": "Microsoft unveiled new cloud services with AI capabilities, aiming to accelerate digital transformation for businesses. These services promise to improve efficiency and provide valuable insights.",
+    "title": "AI Predicts the Next Big Trends in Fashion",
+    "description": "Fashion brands are turning to artificial intelligence to predict the next big trends. The technology analyzes social media data and marketplace analytics to forecast what consumers will want next season.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 01, 2021",
-    "category": "Technology"
+    "source": "Vogue",
+    "date": "March 22, 2022",
+    "category": "Business"
   },
   {
-    "title": "AI Start-up Raises $100 Million in Series C Funding",
-    "description": "AI start-up, AI Corp, has secured $100 million in its latest funding round. The investment will be used to scale up operations and expand its AI-driven solutions.",
+    "title": "AI in Healthcare: The Future of Disease Detection",
+    "description": "AI is revolutionizing the healthcare industry by providing early and accurate disease detection. This could potentially save millions of lives and transform the approach to patient care.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "October 01, 2021",
-    "category": "Business"
+    "source": "The Lancet",
+    "date": "March 22, 2022",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Ethical Guidelines for AI Released",
-    "description": "A global consortium has released a new set of ethical guidelines for AI development and usage. The guidelines aim to ensure AI technologies respect human rights and promote fairness.",
+    "title": "Ethics in AI: Ensuring Fairness and Equality",
+    "description": "As AI continues to evolve, ethical concerns are at the forefront of the conversation. Experts are calling for regulations to ensure fairness, transparency, and accountability in AI algorithms.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 01, 2021",
+    "date": "March 22, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Google's New AI Tool Transforms Sketches Into Landscapes",
-    "description": "Google's latest AI tool lets users convert simple sketches into realistic landscape images. This tool demonstrates the potential of AI in creative fields.",
+    "title": "New AI Tool Transforms Sketches Into Photorealistic Images",
+    "description": "A new artificial intelligence tool allows users to transform simple sketches into photorealistic images. This groundbreaking technology could revolutionize digital art and graphic design.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 01, 2021",
+    "source": "The Verge",
+    "date": "March 22, 2022",
     "category": "Tools"
   }
 ];
