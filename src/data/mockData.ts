@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Helps Decode the Complex Language of Whales",
-    "description": "Researchers have successfully used artificial intelligence to decode the complex language of whales. The breakthrough could help us understand these majestic creatures and their social behaviors better.",
+    "title": "AI Breakthrough: Machine Learning Models Predict Climate Changes More Accurately",
+    "description": "New AI-based climate models have proven to be more accurate than traditional methods, offering precise predictions for future climate changes. This breakthrough could be instrumental in the fight against global warming.",
     "url": "#",
-    "source": "Nature",
-    "date": "March 22, 2022",
+    "source": "The Guardian",
+    "date": "October 05, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Predicts the Next Big Trends in Fashion",
-    "description": "Fashion brands are turning to artificial intelligence to predict the next big trends. The technology analyzes social media data and marketplace analytics to forecast what consumers will want next season.",
+    "title": "AI Revolutionizing Customer Service in Post-Pandemic Era",
+    "description": "As businesses adapt to the new normal, AI-powered customer service tools are becoming increasingly popular. They are providing an efficient way to handle customer queries while maintaining social distancing protocols.",
     "url": "#",
-    "source": "Vogue",
-    "date": "March 22, 2022",
+    "source": "Forbes",
+    "date": "October 05, 2021",
     "category": "Business"
   },
   {
-    "title": "AI in Healthcare: The Future of Disease Detection",
-    "description": "AI is revolutionizing the healthcare industry by providing early and accurate disease detection. This could potentially save millions of lives and transform the approach to patient care.",
+    "title": "AI Meets Art: Innovative Tools Transforming Creative Industry",
+    "description": "Artificial Intelligence is making inroads into the creative industry, providing artists with innovative tools that enhance their creativity and productivity. It's a game-changer for artists worldwide.",
     "url": "#",
-    "source": "The Lancet",
-    "date": "March 22, 2022",
-    "category": "Technology"
+    "source": "The New York Times",
+    "date": "October 05, 2021",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: Ensuring Fairness and Equality",
-    "description": "As AI continues to evolve, ethical concerns are at the forefront of the conversation. Experts are calling for regulations to ensure fairness, transparency, and accountability in AI algorithms.",
+    "title": "AI Ethics: Bridging the Gap Between Technology and Moral Values",
+    "description": "The rapid growth of AI technology has sparked a crucial discussion about ethical implications. Renowned AI experts are now working to ensure technology development aligns with human values and ethical principles.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "March 22, 2022",
+    "source": "BBC News",
+    "date": "October 05, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Sketches Into Photorealistic Images",
-    "description": "A new artificial intelligence tool allows users to transform simple sketches into photorealistic images. This groundbreaking technology could revolutionize digital art and graphic design.",
+    "title": "AI in Healthcare: Next-Gen Tools Aid Early Diagnosis of Diseases",
+    "description": "AI is revolutionizing healthcare with next-gen tools that enable early disease diagnosis, improving outcomes and saving lives. These tools are set to transform the future of healthcare.",
     "url": "#",
-    "source": "The Verge",
-    "date": "March 22, 2022",
-    "category": "Tools"
+    "source": "Reuters",
+    "date": "October 05, 2021",
+    "category": "Technology"
   }
 ];
