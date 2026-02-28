@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Models Predict Climate Changes More Accurately",
-    "description": "New AI-based climate models have proven to be more accurate than traditional methods, offering precise predictions for future climate changes. This breakthrough could be instrumental in the fight against global warming.",
+    "title": "Major Breakthrough in AI Language Understanding",
+    "description": "Researchers have unveiled a new AI model capable of understanding and interpreting human language with unprecedented accuracy. The development promises significant advancements in AI-human interactions.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 05, 2021",
+    "source": "AI Today",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizing Customer Service in Post-Pandemic Era",
-    "description": "As businesses adapt to the new normal, AI-powered customer service tools are becoming increasingly popular. They are providing an efficient way to handle customer queries while maintaining social distancing protocols.",
+    "title": "AI Tools Revolutionizing the Healthcare Industry",
+    "description": "AI-driven diagnostic tools are making waves in the healthcare industry, promising faster and more accurate patient diagnosis. These tools are expected to drastically improve patient care.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 05, 2021",
-    "category": "Business"
+    "source": "Tech Weekly",
+    "date": "September 30, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI Meets Art: Innovative Tools Transforming Creative Industry",
-    "description": "Artificial Intelligence is making inroads into the creative industry, providing artists with innovative tools that enhance their creativity and productivity. It's a game-changer for artists worldwide.",
+    "title": "Major Tech Firm Invests Billions in AI",
+    "description": "A renowned tech company is investing billions into AI development, signaling strong belief in the technology's potential. The investment is expected to spur significant advancements in AI technology.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 05, 2021",
-    "category": "Tools"
+    "source": "Business Insider",
+    "date": "September 30, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Bridging the Gap Between Technology and Moral Values",
-    "description": "The rapid growth of AI technology has sparked a crucial discussion about ethical implications. Renowned AI experts are now working to ensure technology development aligns with human values and ethical principles.",
+    "title": "The Ethics of AI: A Growing Concern",
+    "description": "As AI technology becomes increasingly integrated into our lives, questions around ethics and regulations grow. Experts call for clear guidelines to ensure responsible AI use.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 05, 2021",
+    "source": "The Guardian",
+    "date": "September 30, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI in Healthcare: Next-Gen Tools Aid Early Diagnosis of Diseases",
-    "description": "AI is revolutionizing healthcare with next-gen tools that enable early disease diagnosis, improving outcomes and saving lives. These tools are set to transform the future of healthcare.",
+    "title": "New AI Tool Promises Better Data Analysis",
+    "description": "A newly launched AI tool is set to enhance data analysis, offering businesses better insights and decision-making capabilities. The tool promises to revolutionize the way businesses handle data.",
     "url": "#",
-    "source": "Reuters",
-    "date": "October 05, 2021",
-    "category": "Technology"
+    "source": "Tech Crunch",
+    "date": "September 30, 2022",
+    "category": "Tools"
   }
 ];
