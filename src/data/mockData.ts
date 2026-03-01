@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Major Breakthrough in AI Language Understanding",
-    "description": "Researchers have unveiled a new AI model capable of understanding and interpreting human language with unprecedented accuracy. The development promises significant advancements in AI-human interactions.",
+    "title": "Revolutionizing Medicine Through AI-Driven Diagnosis",
+    "description": "Researchers have developed a new AI system capable of accurately diagnosing diseases, paving the way for a future of AI-driven healthcare. The system is already outperforming human doctors in some areas.",
     "url": "#",
-    "source": "AI Today",
-    "date": "September 30, 2022",
+    "source": "Science Daily",
+    "date": "June 24, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Tools Revolutionizing the Healthcare Industry",
-    "description": "AI-driven diagnostic tools are making waves in the healthcare industry, promising faster and more accurate patient diagnosis. These tools are expected to drastically improve patient care.",
+    "title": "AI Predicts Climate Change Impact with Unprecedented Accuracy",
+    "description": "Scientists have used artificial intelligence to predict the impact of climate change with greater precision than ever before. The AI model can accurately predict changes in weather patterns, offering new hope for climate change mitigation strategies.",
     "url": "#",
-    "source": "Tech Weekly",
-    "date": "September 30, 2022",
+    "source": "Nature",
+    "date": "June 24, 2022",
     "category": "Technology"
   },
   {
-    "title": "Major Tech Firm Invests Billions in AI",
-    "description": "A renowned tech company is investing billions into AI development, signaling strong belief in the technology's potential. The investment is expected to spur significant advancements in AI technology.",
+    "title": "AI Company Raises $100M in Series C Funding",
+    "description": "A leading AI technology company has secured $100M in Series C funding, highlighting the growing investor interest in artificial intelligence. The funding will be used to further develop their advanced AI solutions.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 30, 2022",
+    "source": "VentureBeat",
+    "date": "June 24, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethics of AI: A Growing Concern",
-    "description": "As AI technology becomes increasingly integrated into our lives, questions around ethics and regulations grow. Experts call for clear guidelines to ensure responsible AI use.",
+    "title": "Exploring the Ethical Implications of AI in Law Enforcement",
+    "description": "As AI technology becomes increasingly integrated into law enforcement, concerns are being raised about the ethical implications. Critics argue the need for clear regulation to prevent misuse and ensure transparency.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 30, 2022",
+    "date": "June 24, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Promises Better Data Analysis",
-    "description": "A newly launched AI tool is set to enhance data analysis, offering businesses better insights and decision-making capabilities. The tool promises to revolutionize the way businesses handle data.",
+    "title": "New AI Tool Transforms Text into Realistic Speech",
+    "description": "A new AI tool has been developed that can turn text into lifelike speech, offering potential applications in audiobooks, voice assistants, and more. The tool uses advanced machine learning techniques to generate human-like speech patterns.",
     "url": "#",
-    "source": "Tech Crunch",
-    "date": "September 30, 2022",
+    "source": "TechCrunch",
+    "date": "June 24, 2022",
     "category": "Tools"
   }
 ];
