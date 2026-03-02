@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine Through AI-Driven Diagnosis",
-    "description": "Researchers have developed a new AI system capable of accurately diagnosing diseases, paving the way for a future of AI-driven healthcare. The system is already outperforming human doctors in some areas.",
+    "title": "AI Achieves Breakthrough in Protein Folding",
+    "description": "Google's DeepMind has made a significant breakthrough in predicting the structure of proteins, which could have far-reaching implications in drug discovery and biology research. The AI model, AlphaFold, has outperformed all other systems in a major competition.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "June 24, 2022",
+    "source": "The New York Times",
+    "date": "November 07, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Predicts Climate Change Impact with Unprecedented Accuracy",
-    "description": "Scientists have used artificial intelligence to predict the impact of climate change with greater precision than ever before. The AI model can accurately predict changes in weather patterns, offering new hope for climate change mitigation strategies.",
+    "title": "AI-Based Facial Recognition Tools Spark Ethics Debate",
+    "description": "The use of AI-based facial recognition tools by law enforcement and governments has sparked a heated debate about ethics, privacy, and regulation. Critics argue these technologies can lead to false positives and contribute to racial bias.",
     "url": "#",
-    "source": "Nature",
-    "date": "June 24, 2022",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "November 07, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI Company Raises $100M in Series C Funding",
-    "description": "A leading AI technology company has secured $100M in Series C funding, highlighting the growing investor interest in artificial intelligence. The funding will be used to further develop their advanced AI solutions.",
+    "title": "AI Trends Shaping the Business Landscape in 2023",
+    "description": "From automation to personalization, AI is shaping the business landscape like never before. Experts predict that AI will continue to drive innovation in industries ranging from healthcare to finance in 2023.",
     "url": "#",
-    "source": "VentureBeat",
-    "date": "June 24, 2022",
+    "source": "Forbes",
+    "date": "November 07, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Exploring the Ethical Implications of AI in Law Enforcement",
-    "description": "As AI technology becomes increasingly integrated into law enforcement, concerns are being raised about the ethical implications. Critics argue the need for clear regulation to prevent misuse and ensure transparency.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "June 24, 2022",
-    "category": "Ethics"
-  },
-  {
-    "title": "New AI Tool Transforms Text into Realistic Speech",
-    "description": "A new AI tool has been developed that can turn text into lifelike speech, offering potential applications in audiobooks, voice assistants, and more. The tool uses advanced machine learning techniques to generate human-like speech patterns.",
+    "title": "New AI Tool Detects Deepfakes with 96% Accuracy",
+    "description": "Researchers have developed a new AI tool that can detect deepfakes with 96% accuracy, a significant improvement over previous methods. This tool could play a crucial role in combating the spread of misinformation and fake news.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "June 24, 2022",
+    "date": "November 07, 2022",
     "category": "Tools"
+  },
+  {
+    "title": "IBM Unveils Breakthrough in Quantum Computing",
+    "description": "IBM has unveiled a major breakthrough in quantum computing that could accelerate the development of AI technologies. The new quantum computer is expected to significantly enhance machine learning capabilities.",
+    "url": "#",
+    "source": "Bloomberg",
+    "date": "November 07, 2022",
+    "category": "Technology"
   }
 ];
