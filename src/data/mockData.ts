@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizing Healthcare: New Breakthroughs",
-    "description": "In a leap forward for medical science, AI has begun reshaping healthcare by diagnosing diseases and predicting patient outcomes more accurately than ever before. This could potentially revolutionize healthcare and save countless lives.",
+    "title": "AI Breaks New Ground in Earthquake Prediction",
+    "description": "Artificial Intelligence has made significant strides in predicting seismic activities, potentially saving lives and resources. The technology can identify patterns humans can't, making the prediction more accurate.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 26, 2021",
+    "source": "Nature",
+    "date": "December 05, 2021",
+    "category": "Research"
+  },
+  {
+    "title": "AI Gets Creative with Artistic Endeavors",
+    "description": "AI is stepping into the creative world with algorithms generating impactful visual arts. This could revolutionize how we understand and create art.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "December 05, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI and Ethics: The Crucial Conversation",
-    "description": "As AI continues to advance, the debate around its ethical implications intensifies. Experts are calling for comprehensive regulations to ensure AI technologies are developed and used responsibly.",
+    "title": "Ethics in AI: A Growing Concern",
+    "description": "As AI continues to permeate every part of our lives, ethical considerations are becoming increasingly important. Experts call for clear policies to ensure responsible use of AI.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 26, 2021",
+    "source": "The New York Times",
+    "date": "December 05, 2021",
     "category": "Ethics"
-  },
-  {
-    "title": "AI Tools Redefining the Future of Content Creation",
-    "description": "Content creators are increasingly turning to AI tools to streamline their workflow and enhance creativity. With the assistance of AI, producing high-quality content is becoming easier and more efficient.",
-    "url": "#",
-    "source": "TechCrunch",
-    "date": "October 26, 2021",
-    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI in the Business World: A Game Changer",
-    "description": "AI continues to transform the world of business by streamlining operations, enhancing customer experience, and generating insights from data. Industries across the board are profiting from its implementation.",
+    "title": "AI-powered Cybersecurity: The Future of Online Safety",
+    "description": "In the face of evolving digital threats, AI-based cybersecurity solutions are proving to be a game changer. The technology enables proactive threat detection and prevention.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 26, 2021",
-    "category": "Business"
+    "source": "Wired",
+    "date": "December 05, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Research: Exploring the Frontiers of Artificial Intelligence",
-    "description": "AI research is pushing the boundaries of what's possible, with exciting new developments in machine learning and neural networks. These advances could unlock unprecedented capabilities in AI systems.",
+    "title": "AI Startups: New Investment Frontier",
+    "description": "Investment in AI startups has surged in recent years, reflecting growing business interest in AI applications. This trend is set to continue, given AI's transformative potential across industries.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "October 26, 2021",
-    "category": "Research"
+    "source": "Financial Times",
+    "date": "December 05, 2021",
+    "category": "Business"
   }
 ];
