@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Earthquake Prediction",
-    "description": "Artificial Intelligence has made significant strides in predicting seismic activities, potentially saving lives and resources. The technology can identify patterns humans can't, making the prediction more accurate.",
+    "title": "AI System Outperforms Humans in Identifying Rare Diseases",
+    "description": "A new AI system has been developed that can diagnose rare diseases more accurately than human physicians. Using machine learning, the system analyzes patient data to make its diagnoses.",
     "url": "#",
-    "source": "Nature",
-    "date": "December 05, 2021",
+    "source": "The New York Times",
+    "date": "October 15, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Gets Creative with Artistic Endeavors",
-    "description": "AI is stepping into the creative world with algorithms generating impactful visual arts. This could revolutionize how we understand and create art.",
+    "title": "AI Start-up Raises $100 Million to Revolutionize E-commerce",
+    "description": "An AI start-up has secured $100 million in funding to develop an AI tool that personalizes the e-commerce experience. The tool uses AI to predict customer preferences and make product recommendations.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 05, 2021",
-    "category": "Technology"
+    "source": "Bloomberg",
+    "date": "October 15, 2022",
+    "category": "Business"
   },
   {
-    "title": "Ethics in AI: A Growing Concern",
-    "description": "As AI continues to permeate every part of our lives, ethical considerations are becoming increasingly important. Experts call for clear policies to ensure responsible use of AI.",
+    "title": "New AI Technology Predicts Climate Change Effects",
+    "description": "A groundbreaking AI tech can now predict the effects of climate change with unprecedented accuracy. The technology uses deep learning algorithms to analyze climate data and generate its forecasts.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "December 05, 2021",
-    "category": "Ethics"
+    "source": "The Guardian",
+    "date": "October 15, 2022",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI-powered Cybersecurity: The Future of Online Safety",
-    "description": "In the face of evolving digital threats, AI-based cybersecurity solutions are proving to be a game changer. The technology enables proactive threat detection and prevention.",
+    "title": "Ethical Concerns Surrounding AI in Healthcare Raises Debates",
+    "description": "The use of AI in healthcare has sparked ethical debates. Concerns center around issues of data privacy, as well as the potential for AI systems to make mistakes in patient diagnoses and treatment.",
     "url": "#",
-    "source": "Wired",
-    "date": "December 05, 2021",
-    "category": "Technology"
+    "source": "The Economist",
+    "date": "October 15, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI Startups: New Investment Frontier",
-    "description": "Investment in AI startups has surged in recent years, reflecting growing business interest in AI applications. This trend is set to continue, given AI's transformative potential across industries.",
+    "title": "OpenAI Releases New Language Processing Tool",
+    "description": "OpenAI has released a new tool for natural language processing. The tool, called GPT-4, boasts improved language understanding and generation capabilities.",
     "url": "#",
-    "source": "Financial Times",
-    "date": "December 05, 2021",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "October 15, 2022",
+    "category": "Tools"
   }
 ];
