@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI System Outperforms Humans in Identifying Rare Diseases",
-    "description": "A new AI system has been developed that can diagnose rare diseases more accurately than human physicians. Using machine learning, the system analyzes patient data to make its diagnoses.",
+    "title": "AI Breakthrough: Machines Now Understand Context",
+    "description": "Researchers have developed a new AI model capable of understanding context in language, a significant step towards truly conversational AI. This could revolutionize how humans interact with technology.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 15, 2022",
+    "source": "The AI Times",
+    "date": "October 15, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Start-up Raises $100 Million to Revolutionize E-commerce",
-    "description": "An AI start-up has secured $100 million in funding to develop an AI tool that personalizes the e-commerce experience. The tool uses AI to predict customer preferences and make product recommendations.",
+    "title": "AI and Quantum Computing: A New Era for Technology",
+    "description": "Scientists have successfully integrated AI algorithms with quantum computing. This breakthrough could potentially speed up AI computations exponentially.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "October 15, 2022",
-    "category": "Business"
+    "source": "Tech Innovations Daily",
+    "date": "October 15, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Technology Predicts Climate Change Effects",
-    "description": "A groundbreaking AI tech can now predict the effects of climate change with unprecedented accuracy. The technology uses deep learning algorithms to analyze climate data and generate its forecasts.",
+    "title": "Startup Uses AI to Predict Market Trends",
+    "description": "A new startup is leveraging AI to predict market trends, promising a significant advantage to investors and businesses. This could change how businesses strategize and operate.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 15, 2022",
-    "category": "Technology"
+    "source": "Business Insider",
+    "date": "October 15, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding AI in Healthcare Raises Debates",
-    "description": "The use of AI in healthcare has sparked ethical debates. Concerns center around issues of data privacy, as well as the potential for AI systems to make mistakes in patient diagnoses and treatment.",
+    "title": "Ethical Implications of AI in Healthcare: A Deep Dive",
+    "description": "As AI becomes increasingly integrated into healthcare, experts discuss the ethical implications. This includes concerns over privacy, bias, and decision-making in AI systems.",
     "url": "#",
-    "source": "The Economist",
-    "date": "October 15, 2022",
+    "source": "Ethics Today",
+    "date": "October 15, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases New Language Processing Tool",
-    "description": "OpenAI has released a new tool for natural language processing. The tool, called GPT-4, boasts improved language understanding and generation capabilities.",
+    "title": "New AI Tool Aids in Climate Change Research",
+    "description": "Scientists have developed a new AI tool to analyze climate data, aiding in research and predictions related to climate change. The tool opens up new possibilities for climate research.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 15, 2022",
+    "source": "Climate Change News",
+    "date": "October 15, 2021",
     "category": "Tools"
   }
 ];
