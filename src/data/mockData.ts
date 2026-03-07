@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machines Now Understand Context",
-    "description": "Researchers have developed a new AI model capable of understanding context in language, a significant step towards truly conversational AI. This could revolutionize how humans interact with technology.",
+    "title": "AI Breakthrough: Machine Learns to Understand Context",
+    "description": "A new AI model has been unveiled that can understand context like never before. This breakthrough could revolutionize industries from customer service to healthcare.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "October 15, 2021",
+    "source": "Technology Times",
+    "date": "October 25, 2021",
     "category": "Research"
   },
   {
-    "title": "AI and Quantum Computing: A New Era for Technology",
-    "description": "Scientists have successfully integrated AI algorithms with quantum computing. This breakthrough could potentially speed up AI computations exponentially.",
+    "title": "AI Ethics: Balancing Progress with Responsibility",
+    "description": "The growing field of AI ethics is pushing for increased accountability in AI development. This aims to ensure that AI benefits society without causing unintended harm.",
     "url": "#",
-    "source": "Tech Innovations Daily",
-    "date": "October 15, 2021",
-    "category": "Technology"
+    "source": "AI News Daily",
+    "date": "October 25, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "Startup Uses AI to Predict Market Trends",
-    "description": "A new startup is leveraging AI to predict market trends, promising a significant advantage to investors and businesses. This could change how businesses strategize and operate.",
+    "title": "AI Tools: Streamlining Business Operations",
+    "description": "A new suite of AI tools is helping businesses streamline operations and improve efficiency. The tools use machine learning algorithms to automate tasks and optimize processes.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 15, 2021",
-    "category": "Business"
+    "source": "Business Insider AI",
+    "date": "October 25, 2021",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Implications of AI in Healthcare: A Deep Dive",
-    "description": "As AI becomes increasingly integrated into healthcare, experts discuss the ethical implications. This includes concerns over privacy, bias, and decision-making in AI systems.",
+    "title": "AI in Healthcare: A Revolutionary Approach to Diagnosis",
+    "description": "A new AI algorithm is helping doctors diagnose diseases with unprecedented accuracy. The system uses deep learning techniques to analyze medical images and detect abnormalities.",
     "url": "#",
-    "source": "Ethics Today",
-    "date": "October 15, 2021",
-    "category": "Ethics"
+    "source": "AI Medicine Today",
+    "date": "October 25, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Aids in Climate Change Research",
-    "description": "Scientists have developed a new AI tool to analyze climate data, aiding in research and predictions related to climate change. The tool opens up new possibilities for climate research.",
+    "title": "AI and Business: How AI is Driving Profitability",
+    "description": "AI is proving to be a game-changer in the business world, with companies leveraging machine learning to drive profitability. From customer service to supply chain management, AI is transforming the way businesses operate.",
     "url": "#",
-    "source": "Climate Change News",
-    "date": "October 15, 2021",
-    "category": "Tools"
+    "source": "Forbes AI",
+    "date": "October 25, 2021",
+    "category": "Business"
   }
 ];
