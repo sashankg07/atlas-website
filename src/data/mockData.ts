@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI Model Predicts Climate Change Effects with Unprecedented Accuracy",
-    "description": "Scientists have developed a new AI model which can predict the effects of climate change with an unprecedented level of precision. The model uses machine learning algorithms to analyze large-scale environmental data.",
+    "title": "DeepMind's AlphaFold Solves Decades-Old Biological Mystery",
+    "description": "DeepMind's AI model, AlphaFold, has solved a 50-year-old challenge in biology, predicting the 3D structures of proteins accurately. This breakthrough could revolutionize drug discovery and disease understanding.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 12, 2021",
+    "source": "The Guardian",
+    "date": "September 21, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils AI-Powered Cybersecurity Solution",
-    "description": "A leading technology company has unveiled a new cybersecurity solution powered by artificial intelligence. The system is said to detect and neutralize threats in real-time with a remarkable accuracy rate.",
+    "title": "AI Beats Humans at Popular Strategy Game Go",
+    "description": "Google's AI, AlphaGo, has defeated the world champion of Go, marking a significant milestone in AI development. This achievement shows the potential of AI in complex decision-making scenarios.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 12, 2021",
+    "source": "BBC News",
+    "date": "September 21, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $20M in Series A Funding",
-    "description": "A promising AI startup has successfully raised $20 million in a series A funding round. The startup plans to use the funds to further develop their AI-powered product line and expand their reach globally.",
+    "title": "OpenAI Develops ChatGPT, the Most Advanced AI Language Model",
+    "description": "OpenAI has developed ChatGPT, an AI language model that can generate human-like text. This development points to significant advances in natural language processing.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 12, 2021",
-    "category": "Business"
+    "source": "OpenAI Blog",
+    "date": "September 21, 2022",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethicists Call for Greater Transparency in AI Development",
-    "description": "A group of ethicists have published a paper calling for greater transparency in the development and use of artificial intelligence. They argue that transparency is key to ensuring ethical and responsible use of the technology.",
+    "title": "Microsoft Invests $1 Billion in OpenAI",
+    "description": "Microsoft has invested $1 billion in OpenAI to develop AI technologies that can be deployed on Microsoft's Azure cloud platform. The move signifies Microsoft's intent to lead the AI market.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 12, 2021",
-    "category": "Ethics"
+    "source": "Reuters",
+    "date": "September 21, 2022",
+    "category": "Business"
   },
   {
-    "title": "New AI Tool Streamlines Remote Work",
-    "description": "Developers have launched a new AI tool aimed at streamlining remote work. The software uses machine learning algorithms to manage tasks and improve productivity in remote teams.",
+    "title": "AI Ethics in Spotlight After Twitter's Algorithm Bias Controversy",
+    "description": "Twitter's image cropping algorithm has sparked a controversy over potential racial and gender bias, putting AI ethics into the spotlight. This incident reaffirms the need for transparency and fairness in AI development.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 12, 2021",
-    "category": "Tools"
+    "source": "TechCrunch",
+    "date": "September 21, 2022",
+    "category": "Ethics"
   }
 ];
