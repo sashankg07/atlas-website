@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "DeepMind's AlphaFold Solves Decades-Old Biological Mystery",
-    "description": "DeepMind's AI model, AlphaFold, has solved a 50-year-old challenge in biology, predicting the 3D structures of proteins accurately. This breakthrough could revolutionize drug discovery and disease understanding.",
+    "title": "AI Transforms Drug Discovery Landscape",
+    "description": "Innovative AI algorithms are expediting the drug discovery process, promising faster and more effective treatments. The technology provides a significant boost to precision medicine.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 21, 2022",
+    "source": "Nature",
+    "date": "December 10, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Beats Humans at Popular Strategy Game Go",
-    "description": "Google's AI, AlphaGo, has defeated the world champion of Go, marking a significant milestone in AI development. This achievement shows the potential of AI in complex decision-making scenarios.",
+    "title": "AI and Climate Change: A Potential Game Changer",
+    "description": "Artificial Intelligence is being leveraged to tackle issues of climate change. Machine learning models are predicting and analyzing environmental patterns with impressive accuracy.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 21, 2022",
+    "source": "MIT Technology Review",
+    "date": "December 10, 2021",
     "category": "Technology"
   },
   {
-    "title": "OpenAI Develops ChatGPT, the Most Advanced AI Language Model",
-    "description": "OpenAI has developed ChatGPT, an AI language model that can generate human-like text. This development points to significant advances in natural language processing.",
+    "title": "The Rise of AI in the Business World",
+    "description": "Modern businesses are rapidly adopting AI to streamline operations and enhance customer experience. The technology is proving to be a valuable asset in decision-making processes.",
     "url": "#",
-    "source": "OpenAI Blog",
-    "date": "September 21, 2022",
-    "category": "Tools"
+    "source": "Forbes",
+    "date": "December 10, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Microsoft Invests $1 Billion in OpenAI",
-    "description": "Microsoft has invested $1 billion in OpenAI to develop AI technologies that can be deployed on Microsoft's Azure cloud platform. The move signifies Microsoft's intent to lead the AI market.",
+    "title": "Ethical Considerations in AI Adoption",
+    "description": "As AI becomes increasingly prevalent, ethical concerns are gaining prominence. The debate around privacy and bias in AI continues to grow.",
     "url": "#",
-    "source": "Reuters",
-    "date": "September 21, 2022",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "December 10, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Ethics in Spotlight After Twitter's Algorithm Bias Controversy",
-    "description": "Twitter's image cropping algorithm has sparked a controversy over potential racial and gender bias, putting AI ethics into the spotlight. This incident reaffirms the need for transparency and fairness in AI development.",
+    "title": "New AI Tools Revolutionize Data Analysis",
+    "description": "The advent of powerful AI tools is transforming data analysis. These tools are enabling data scientists to extract more insightful information from complex data sets.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 21, 2022",
-    "category": "Ethics"
+    "date": "December 10, 2021",
+    "category": "Tools"
   }
 ];
