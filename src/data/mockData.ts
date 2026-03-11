@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Transforms Drug Discovery Landscape",
-    "description": "Innovative AI algorithms are expediting the drug discovery process, promising faster and more effective treatments. The technology provides a significant boost to precision medicine.",
+    "title": "AI Outperforms Human Experts in Identifying Cervical Precancer",
+    "description": "Researchers have trained an artificial intelligence model to detect precancerous changes in the cervix more accurately than expert clinicians. The breakthrough could have significant implications for cervical cancer screening, particularly in low-resource settings.",
     "url": "#",
-    "source": "Nature",
-    "date": "December 10, 2021",
+    "source": "Nature Communications",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI and Climate Change: A Potential Game Changer",
-    "description": "Artificial Intelligence is being leveraged to tackle issues of climate change. Machine learning models are predicting and analyzing environmental patterns with impressive accuracy.",
+    "title": "OpenAI Unveils New Language Model, GPT-4",
+    "description": "OpenAI has revealed its latest AI model, GPT-4, which exhibits a remarkable understanding of human language. The new model is expected to have applications ranging from content creation to customer service.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "December 10, 2021",
+    "source": "TechCrunch",
+    "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "The Rise of AI in the Business World",
-    "description": "Modern businesses are rapidly adopting AI to streamline operations and enhance customer experience. The technology is proving to be a valuable asset in decision-making processes.",
+    "title": "IBM and Top Banks Develop AI Solution for Regulatory Compliance",
+    "description": "IBM, in collaboration with top banks, has developed an AI system capable of understanding and interpreting complex financial regulations. This technology could help financial institutions streamline their compliance operations and reduce costs.",
     "url": "#",
-    "source": "Forbes",
-    "date": "December 10, 2021",
+    "source": "Financial Times",
+    "date": "September 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI Adoption",
-    "description": "As AI becomes increasingly prevalent, ethical concerns are gaining prominence. The debate around privacy and bias in AI continues to grow.",
+    "title": "Ethics of AI: New Guidelines for Responsible AI Development",
+    "description": "Leading AI researchers have published new ethical guidelines for the development of artificial intelligence. The document outlines the importance of transparency, fairness, and accountability in AI technology.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 10, 2021",
+    "source": "AI Ethics Journal",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Revolutionize Data Analysis",
-    "description": "The advent of powerful AI tools is transforming data analysis. These tools are enabling data scientists to extract more insightful information from complex data sets.",
+    "title": "Google Launches New AI Tool to Improve Urban Planning",
+    "description": "Google has introduced a new AI tool that allows urban planners to visualize and predict the impact of urban development projects. The tool utilizes machine learning to analyze data from various sources and generate detailed predictions.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "December 10, 2021",
+    "source": "Wired",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
