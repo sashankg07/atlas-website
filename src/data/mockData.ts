@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Human Experts in Identifying Cervical Precancer",
-    "description": "Researchers have trained an artificial intelligence model to detect precancerous changes in the cervix more accurately than expert clinicians. The breakthrough could have significant implications for cervical cancer screening, particularly in low-resource settings.",
+    "title": "AI Breakthrough: Machine Learning Algorithms Predict Alzheimer's with 90% Accuracy",
+    "description": "Researchers have developed an AI model capable of predicting Alzheimer's disease with remarkable accuracy. This breakthrough could revolutionize early detection and treatment strategies.",
     "url": "#",
-    "source": "Nature Communications",
-    "date": "September 30, 2021",
+    "source": "Science Daily",
+    "date": "February 18, 2023",
     "category": "Research"
   },
   {
-    "title": "OpenAI Unveils New Language Model, GPT-4",
-    "description": "OpenAI has revealed its latest AI model, GPT-4, which exhibits a remarkable understanding of human language. The new model is expected to have applications ranging from content creation to customer service.",
+    "title": "Tech Giants Google and Microsoft Battle for AI Supremacy",
+    "description": "Google and Microsoft are locked in a fierce competition to dominate the AI market. Recent developments show both are making significant strides in AI and machine learning capabilities.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2021",
-    "category": "Technology"
+    "date": "February 18, 2023",
+    "category": "Business"
   },
   {
-    "title": "IBM and Top Banks Develop AI Solution for Regulatory Compliance",
-    "description": "IBM, in collaboration with top banks, has developed an AI system capable of understanding and interpreting complex financial regulations. This technology could help financial institutions streamline their compliance operations and reduce costs.",
+    "title": "AI Ethics: The Challenge of Ensuring Fairness in Machine Learning",
+    "description": "As AI continues to influence every aspect of our lives, the question of fairness and bias in machine learning algorithms becomes more pressing. Experts are calling for more transparency and regulation in the sector.",
     "url": "#",
-    "source": "Financial Times",
-    "date": "September 30, 2021",
-    "category": "Business"
+    "source": "Wired",
+    "date": "February 18, 2023",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics of AI: New Guidelines for Responsible AI Development",
-    "description": "Leading AI researchers have published new ethical guidelines for the development of artificial intelligence. The document outlines the importance of transparency, fairness, and accountability in AI technology.",
+    "title": "AI-Powered Tools Transforming the Healthcare Industry",
+    "description": "AI is set to revolutionize healthcare with tools that can analyze medical images, predict patient outcomes, and even assist in surgeries. The potential for AI in healthcare seems limitless.",
     "url": "#",
-    "source": "AI Ethics Journal",
-    "date": "September 30, 2021",
-    "category": "Ethics"
+    "source": "Medical News Today",
+    "date": "February 18, 2023",
+    "category": "Technology"
   },
   {
-    "title": "Google Launches New AI Tool to Improve Urban Planning",
-    "description": "Google has introduced a new AI tool that allows urban planners to visualize and predict the impact of urban development projects. The tool utilizes machine learning to analyze data from various sources and generate detailed predictions.",
+    "title": "New AI Tool Helps Detect Deepfakes with Unprecedented Accuracy",
+    "description": "A team of researchers has developed an AI tool that can detect deepfakes with 99% accuracy, a significant step in the fight against misinformation.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 30, 2021",
+    "source": "The Verge",
+    "date": "February 18, 2023",
     "category": "Tools"
   }
 ];
