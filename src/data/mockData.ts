@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Algorithms Predict Alzheimer's with 90% Accuracy",
-    "description": "Researchers have developed an AI model capable of predicting Alzheimer's disease with remarkable accuracy. This breakthrough could revolutionize early detection and treatment strategies.",
+    "title": "AI Revolutionizes Cancer Treatment",
+    "description": "Recent developments in AI technology have led to breakthroughs in cancer diagnosis and treatment. AI algorithms are now capable of identifying cancerous cells with remarkable accuracy.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "February 18, 2023",
+    "source": "The New York Times",
+    "date": "December 16, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Google and Microsoft Battle for AI Supremacy",
-    "description": "Google and Microsoft are locked in a fierce competition to dominate the AI market. Recent developments show both are making significant strides in AI and machine learning capabilities.",
+    "title": "Tech Giant Launches New AI-powered Product",
+    "description": "A leading technology company has unveiled its latest AI-powered product, setting new standards for speed, efficiency, and user-friendliness. The product will make AI accessible to a wider consumer base.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "February 18, 2023",
-    "category": "Business"
+    "date": "December 16, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics: The Challenge of Ensuring Fairness in Machine Learning",
-    "description": "As AI continues to influence every aspect of our lives, the question of fairness and bias in machine learning algorithms becomes more pressing. Experts are calling for more transparency and regulation in the sector.",
+    "title": "AI Startups Boom in 2021",
+    "description": "This year saw a significant increase in venture capital funding for AI startups. This trend reflects growing confidence in AI's potential to transform various industries.",
     "url": "#",
-    "source": "Wired",
-    "date": "February 18, 2023",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "December 16, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI-Powered Tools Transforming the Healthcare Industry",
-    "description": "AI is set to revolutionize healthcare with tools that can analyze medical images, predict patient outcomes, and even assist in surgeries. The potential for AI in healthcare seems limitless.",
+    "title": "Addressing Ethical Concerns in AI",
+    "description": "The rapid development of AI technologies has sparked a global conversation about ethics and regulation. Experts call for increased transparency and accountability in AI systems.",
     "url": "#",
-    "source": "Medical News Today",
-    "date": "February 18, 2023",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "December 16, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tool Helps Detect Deepfakes with Unprecedented Accuracy",
-    "description": "A team of researchers has developed an AI tool that can detect deepfakes with 99% accuracy, a significant step in the fight against misinformation.",
+    "title": "New AI Tools Transform Data Analysis",
+    "description": "A suite of new AI tools is revolutionizing data analysis, offering unprecedented insights and predictive capabilities. These tools promise to democratize data science.",
     "url": "#",
-    "source": "The Verge",
-    "date": "February 18, 2023",
+    "source": "MIT Technology Review",
+    "date": "December 16, 2021",
     "category": "Tools"
   }
 ];
