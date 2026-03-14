@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Cancer Treatment",
-    "description": "Recent developments in AI technology have led to breakthroughs in cancer diagnosis and treatment. AI algorithms are now capable of identifying cancerous cells with remarkable accuracy.",
+    "title": "AI Breakthrough: Neural Networks Decode Brain Activity",
+    "description": "Researchers have developed an AI model that can interpret human brain activity with unprecedented accuracy. The new development could revolutionize neurology and the treatment of neurological disorders.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "December 16, 2021",
+    "source": "Nature Neuroscience",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Launches New AI-powered Product",
-    "description": "A leading technology company has unveiled its latest AI-powered product, setting new standards for speed, efficiency, and user-friendliness. The product will make AI accessible to a wider consumer base.",
+    "title": "New AI System Predicts Climate Change Impact More Precisely",
+    "description": "A groundbreaking AI technology has been developed that can predict the impacts of climate change with unparalleled precision. This could help governments and organizations to prepare more effectively for future scenarios.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "December 16, 2021",
+    "source": "Science Daily",
+    "date": "September 30, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startups Boom in 2021",
-    "description": "This year saw a significant increase in venture capital funding for AI startups. This trend reflects growing confidence in AI's potential to transform various industries.",
+    "title": "Google Unleashes Quantum AI Capabilities for Business",
+    "description": "Google has announced the launch of its Quantum AI services for businesses, aiming to revolutionize industries with its superior computing capabilities. This step is expected to provide a significant boost to the tech giant's AI portfolio.",
     "url": "#",
-    "source": "Forbes",
-    "date": "December 16, 2021",
+    "source": "The Wall Street Journal",
+    "date": "September 30, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Addressing Ethical Concerns in AI",
-    "description": "The rapid development of AI technologies has sparked a global conversation about ethics and regulation. Experts call for increased transparency and accountability in AI systems.",
+    "title": "AI Ethics: The Debate Over Facial Recognition Technology",
+    "description": "As facial recognition technology becomes increasingly sophisticated, the ethical implications of its use are under intense scrutiny. Governments and corporations are grappling with the balance between security and privacy.",
     "url": "#",
     "source": "The Guardian",
-    "date": "December 16, 2021",
+    "date": "September 30, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Transform Data Analysis",
-    "description": "A suite of new AI tools is revolutionizing data analysis, offering unprecedented insights and predictive capabilities. These tools promise to democratize data science.",
+    "title": "OpenAI Launches Powerful Language Model API",
+    "description": "OpenAI has launched a new language model API that promises to bring human-like text generation to more developers. This tool could significantly improve the quality of conversational AI and other language-based applications.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "December 16, 2021",
+    "source": "TechCrunch",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
