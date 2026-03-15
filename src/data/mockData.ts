@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Neural Networks Decode Brain Activity",
-    "description": "Researchers have developed an AI model that can interpret human brain activity with unprecedented accuracy. The new development could revolutionize neurology and the treatment of neurological disorders.",
+    "title": "Groundbreaking AI System Unveils New Possibilities for Drug Discovery",
+    "description": "An innovative AI system has been developed that could greatly accelerate the process of drug discovery. Its machine learning algorithm predicts the pharmacological properties of drugs, potentially reducing the time and cost of new drug development.",
     "url": "#",
-    "source": "Nature Neuroscience",
-    "date": "September 30, 2022",
+    "source": "The AI Journal",
+    "date": "December 05, 2021",
     "category": "Research"
   },
   {
-    "title": "New AI System Predicts Climate Change Impact More Precisely",
-    "description": "A groundbreaking AI technology has been developed that can predict the impacts of climate change with unparalleled precision. This could help governments and organizations to prepare more effectively for future scenarios.",
+    "title": "AI Adoption Skyrockets in Business Amid Pandemic",
+    "description": "The pandemic has accelerated the adoption of AI in businesses, as companies turn to technology to navigate the new normal. AI is being used to automate processes, improve decision-making, and enhance customer experience.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "September 30, 2022",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "December 05, 2021",
+    "category": "Business"
   },
   {
-    "title": "Google Unleashes Quantum AI Capabilities for Business",
-    "description": "Google has announced the launch of its Quantum AI services for businesses, aiming to revolutionize industries with its superior computing capabilities. This step is expected to provide a significant boost to the tech giant's AI portfolio.",
+    "title": "AI System Outperforms Humans in Designing Floorplans",
+    "description": "A new AI system developed by researchers has demonstrated the ability to design floorplans more effectively than human architects. The system uses generative design principles to optimize space utilization and energy efficiency.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "September 30, 2022",
-    "category": "Business"
+    "source": "Nature",
+    "date": "December 05, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: The Debate Over Facial Recognition Technology",
-    "description": "As facial recognition technology becomes increasingly sophisticated, the ethical implications of its use are under intense scrutiny. Governments and corporations are grappling with the balance between security and privacy.",
+    "title": "Ethical Concerns Rise over AI's Role in Job Recruitment",
+    "description": "The use of AI in job recruitment processes has sparked concerns over potential bias and privacy issues. Experts are calling for greater transparency and regulation in how these systems are used and developed.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 30, 2022",
+    "date": "December 05, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Launches Powerful Language Model API",
-    "description": "OpenAI has launched a new language model API that promises to bring human-like text generation to more developers. This tool could significantly improve the quality of conversational AI and other language-based applications.",
+    "title": "OpenAI Unveils Cutting-Edge Language Understanding Tool",
+    "description": "OpenAI has introduced a new language understanding tool that enhances the ability of AI to grasp complex linguistic concepts. The tool is predicted to revolutionize various sectors from customer service to content creation.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2022",
+    "date": "December 05, 2021",
     "category": "Tools"
   }
 ];
