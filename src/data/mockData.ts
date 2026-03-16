@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI System Unveils New Possibilities for Drug Discovery",
-    "description": "An innovative AI system has been developed that could greatly accelerate the process of drug discovery. Its machine learning algorithm predicts the pharmacological properties of drugs, potentially reducing the time and cost of new drug development.",
+    "title": "AI Breaks New Ground in Medical Diagnosis",
+    "description": "A revolutionary AI system has demonstrated capabilities to diagnose specific medical conditions with accuracy surpassing that of expert doctors. The development is expected to revolutionize healthcare industry, providing support to medical professionals and improving patient outcomes.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "December 05, 2021",
+    "source": "AI Health News",
+    "date": "June 04, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Adoption Skyrockets in Business Amid Pandemic",
-    "description": "The pandemic has accelerated the adoption of AI in businesses, as companies turn to technology to navigate the new normal. AI is being used to automate processes, improve decision-making, and enhance customer experience.",
+    "title": "Leading Tech Firm Unveils Advanced AI Chip",
+    "description": "A top technology company has unveiled a new AI chip, boasting improved machine learning capabilities and energy efficiency. The chip is set to power the next generation of AI technologies, from autonomous vehicles to voice recognition systems.",
     "url": "#",
-    "source": "Forbes",
-    "date": "December 05, 2021",
-    "category": "Business"
+    "source": "Tech Times",
+    "date": "June 04, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI System Outperforms Humans in Designing Floorplans",
-    "description": "A new AI system developed by researchers has demonstrated the ability to design floorplans more effectively than human architects. The system uses generative design principles to optimize space utilization and energy efficiency.",
+    "title": "AI Start-Up Lands Record Investment",
+    "description": "An AI start-up focusing on natural language processing has secured a record-breaking investment in a recent funding round. The funds will be used to further refine and expand the company's innovative technology.",
     "url": "#",
-    "source": "Nature",
-    "date": "December 05, 2021",
-    "category": "Technology"
+    "source": "Business Weekly",
+    "date": "June 04, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Rise over AI's Role in Job Recruitment",
-    "description": "The use of AI in job recruitment processes has sparked concerns over potential bias and privacy issues. Experts are calling for greater transparency and regulation in how these systems are used and developed.",
+    "title": "New Guidelines for AI Ethics Released",
+    "description": "A prestigious international organization has released a new set of guidelines for AI ethics, aiming to address growing concerns over privacy, bias, and accountability in AI systems. The guidelines are expected to set a benchmark for AI development and use globally.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 05, 2021",
+    "source": "Ethics in AI Review",
+    "date": "June 04, 2022",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Unveils Cutting-Edge Language Understanding Tool",
-    "description": "OpenAI has introduced a new language understanding tool that enhances the ability of AI to grasp complex linguistic concepts. The tool is predicted to revolutionize various sectors from customer service to content creation.",
+    "title": "New AI Tool Transforms Data Analysis",
+    "description": "A newly launched AI tool is set to revolutionize data analysis, offering unprecedented speed and accuracy in parsing large data sets. The tool will facilitate businesses in making data-driven decisions, enhancing efficiency and profitability.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "December 05, 2021",
+    "source": "AI Tools Today",
+    "date": "June 04, 2022",
     "category": "Tools"
   }
 ];
