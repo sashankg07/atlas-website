@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Medical Diagnosis",
-    "description": "A revolutionary AI system has demonstrated capabilities to diagnose specific medical conditions with accuracy surpassing that of expert doctors. The development is expected to revolutionize healthcare industry, providing support to medical professionals and improving patient outcomes.",
+    "title": "AI Outperforms Humans in Predicting Heart Attacks",
+    "description": "A new AI algorithm developed by CardiAI Inc. has shown promising results in early detection of heart diseases, outperforming doctors in accurately predicting heart attacks.",
     "url": "#",
-    "source": "AI Health News",
-    "date": "June 04, 2022",
+    "source": "The New York Times",
+    "date": "November 12, 2021",
     "category": "Research"
   },
   {
-    "title": "Leading Tech Firm Unveils Advanced AI Chip",
-    "description": "A top technology company has unveiled a new AI chip, boasting improved machine learning capabilities and energy efficiency. The chip is set to power the next generation of AI technologies, from autonomous vehicles to voice recognition systems.",
+    "title": "AI Helps in the Fight Against Climate Change",
+    "description": "Researchers at MIT have developed an AI model that predicts climate patterns with unprecedented accuracy, providing valuable insights for climate change mitigation strategies.",
     "url": "#",
-    "source": "Tech Times",
-    "date": "June 04, 2022",
+    "source": "MIT Technology Review",
+    "date": "November 12, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-Up Lands Record Investment",
-    "description": "An AI start-up focusing on natural language processing has secured a record-breaking investment in a recent funding round. The funds will be used to further refine and expand the company's innovative technology.",
+    "title": "OpenAI's New Language Model, GPT-4, Sets New Benchmark",
+    "description": "OpenAI's latest AI language model, GPT-4, is setting new benchmarks in natural language understanding and generation, showing improvements in translation, summarization and conversation tasks.",
     "url": "#",
-    "source": "Business Weekly",
-    "date": "June 04, 2022",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "November 12, 2021",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Guidelines for AI Ethics Released",
-    "description": "A prestigious international organization has released a new set of guidelines for AI ethics, aiming to address growing concerns over privacy, bias, and accountability in AI systems. The guidelines are expected to set a benchmark for AI development and use globally.",
+    "title": "Google's AI Ethics Scandal: What You Need to Know",
+    "description": "The recent firing of two prominent AI ethics researchers by Google has sparked an industry-wide debate about the influence of big tech in AI ethics research.",
     "url": "#",
-    "source": "Ethics in AI Review",
-    "date": "June 04, 2022",
+    "source": "The Guardian",
+    "date": "November 12, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Data Analysis",
-    "description": "A newly launched AI tool is set to revolutionize data analysis, offering unprecedented speed and accuracy in parsing large data sets. The tool will facilitate businesses in making data-driven decisions, enhancing efficiency and profitability.",
+    "title": "TensorFlow 2.6 Released: A Deep Dive into the New Features",
+    "description": "Google has released TensorFlow 2.6, the latest version of its popular open-source machine learning library, with many new features and updates that enhance model performance and ease of use.",
     "url": "#",
-    "source": "AI Tools Today",
-    "date": "June 04, 2022",
+    "source": "The Verge",
+    "date": "November 12, 2021",
     "category": "Tools"
   }
 ];
