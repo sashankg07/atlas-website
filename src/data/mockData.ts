@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Predicting Heart Attacks",
-    "description": "A new AI algorithm developed by CardiAI Inc. has shown promising results in early detection of heart diseases, outperforming doctors in accurately predicting heart attacks.",
+    "title": "AI Revolutionizes Drug Discovery",
+    "description": "AI is making waves in the pharmaceutical industry by drastically speeding up the drug discovery process. This could potentially save years of research and countless lives.",
     "url": "#",
     "source": "The New York Times",
-    "date": "November 12, 2021",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Helps in the Fight Against Climate Change",
-    "description": "Researchers at MIT have developed an AI model that predicts climate patterns with unprecedented accuracy, providing valuable insights for climate change mitigation strategies.",
+    "title": "AI Takes on Climate Change: A New Era of Environmental Solutions",
+    "description": "AI is now being utilized to combat climate change, offering innovative solutions to one of the world's most pressing issues. It's a game-changer for environmental conservation.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 12, 2021",
+    "source": "BBC News",
+    "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "OpenAI's New Language Model, GPT-4, Sets New Benchmark",
-    "description": "OpenAI's latest AI language model, GPT-4, is setting new benchmarks in natural language understanding and generation, showing improvements in translation, summarization and conversation tasks.",
+    "title": "The AI Startup Boom: A New Wave of Investment",
+    "description": "Investments in AI startups have reached unprecedented levels, signaling a future where AI will be at the forefront of business and industry.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 12, 2021",
-    "category": "Research"
+    "source": "Forbes",
+    "date": "September 30, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Google's AI Ethics Scandal: What You Need to Know",
-    "description": "The recent firing of two prominent AI ethics researchers by Google has sparked an industry-wide debate about the influence of big tech in AI ethics research.",
+    "title": "Ethical AI: Balancing Innovation with Accountability",
+    "description": "As AI continues to evolve, so does the discussion around ethical considerations. Experts stress the importance of accountability and transparency in AI development.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 12, 2021",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "TensorFlow 2.6 Released: A Deep Dive into the New Features",
-    "description": "Google has released TensorFlow 2.6, the latest version of its popular open-source machine learning library, with many new features and updates that enhance model performance and ease of use.",
+    "title": "OpenAI's New Software: A Leap Forward in AI Tools",
+    "description": "OpenAI has released a new software that promises to make AI more accessible to developers, signaling a significant advancement in the field.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 12, 2021",
+    "source": "TechCrunch",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
