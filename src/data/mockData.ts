@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Drug Discovery",
-    "description": "AI is making waves in the pharmaceutical industry by drastically speeding up the drug discovery process. This could potentially save years of research and countless lives.",
+    "title": "AI Breakthrough: Machine Learning Deciphers Long Lost Languages",
+    "description": "Researchers have recently developed an AI that can translate long-lost languages. The breakthrough could revolutionize the way we understand ancient civilizations.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 30, 2021",
+    "source": "The AI Journal",
+    "date": "November 07, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Takes on Climate Change: A New Era of Environmental Solutions",
-    "description": "AI is now being utilized to combat climate change, offering innovative solutions to one of the world's most pressing issues. It's a game-changer for environmental conservation.",
+    "title": "AI in Climate Change: A Powerful Tool or a Double-Edged Sword?",
+    "description": "While AI has the potential to significantly aid in combating climate change, its energy consumption presents an ethical dilemma. Understanding this paradox is crucial in the era of sustainability.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 30, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "November 07, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "The AI Startup Boom: A New Wave of Investment",
-    "description": "Investments in AI startups have reached unprecedented levels, signaling a future where AI will be at the forefront of business and industry.",
+    "title": "Revolutionizing Retail: AI-Powered Shopping Experiences on the Rise",
+    "description": "The integration of AI in retail is transforming shopping into a personalized experience. Retailers leveraging AI technologies have seen significant improvements in customer engagement and sales.",
     "url": "#",
     "source": "Forbes",
-    "date": "September 30, 2021",
+    "date": "November 07, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: Balancing Innovation with Accountability",
-    "description": "As AI continues to evolve, so does the discussion around ethical considerations. Experts stress the importance of accountability and transparency in AI development.",
+    "title": "AI Innovation: New Tool Predicts Protein Structures",
+    "description": "A new AI tool has been developed that accurately predicts protein structures. This could have far-reaching implications in drug discovery and biology.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2021",
-    "category": "Ethics"
+    "source": "Nature",
+    "date": "November 07, 2021",
+    "category": "Tools"
   },
   {
-    "title": "OpenAI's New Software: A Leap Forward in AI Tools",
-    "description": "OpenAI has released a new software that promises to make AI more accessible to developers, signaling a significant advancement in the field.",
+    "title": "Next-Gen AI: Quantum Computing Enhances Machine Learning",
+    "description": "Quantum computing is set to revolutionize AI by significantly enhancing machine learning capabilities. This could lead to more efficient problem-solving and data processing.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2021",
-    "category": "Tools"
+    "date": "November 07, 2021",
+    "category": "Technology"
   }
 ];
