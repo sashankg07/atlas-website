@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Deciphers Long Lost Languages",
-    "description": "Researchers have recently developed an AI that can translate long-lost languages. The breakthrough could revolutionize the way we understand ancient civilizations.",
+    "title": "New AI breakthrough in cancer detection",
+    "description": "Researchers have developed an AI system that can accurately detect cancer cells in real time, potentially revolutionizing healthcare. The system, developed by a leading tech company, uses machine learning algorithms to identify and classify cancer cells with unprecedented accuracy.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "November 07, 2021",
+    "source": "New York Times",
+    "date": "October 14, 2022",
     "category": "Research"
   },
   {
-    "title": "AI in Climate Change: A Powerful Tool or a Double-Edged Sword?",
-    "description": "While AI has the potential to significantly aid in combating climate change, its energy consumption presents an ethical dilemma. Understanding this paradox is crucial in the era of sustainability.",
+    "title": "AI-driven tech startup raises $200M in Series B",
+    "description": "AI-driven tech startup, DeepTech, has raised $200 million in Series B funding. The startup aims to use the funding to accelerate the development and deployment of its groundbreaking AI technology.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 07, 2021",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "October 14, 2022",
+    "category": "Business"
   },
   {
-    "title": "Revolutionizing Retail: AI-Powered Shopping Experiences on the Rise",
-    "description": "The integration of AI in retail is transforming shopping into a personalized experience. Retailers leveraging AI technologies have seen significant improvements in customer engagement and sales.",
+    "title": "AI and Ethics: The ongoing debate",
+    "description": "As AI technology continues to evolve, so does the debate around its ethical implications. Experts are calling for clear regulations and guidelines to ensure that AI is developed and used responsibly.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 07, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "October 14, 2022",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Innovation: New Tool Predicts Protein Structures",
-    "description": "A new AI tool has been developed that accurately predicts protein structures. This could have far-reaching implications in drug discovery and biology.",
+    "title": "New AI tool promises to simplify data analysis",
+    "description": "Tech giant, DataGen, has launched a new AI tool aimed at simplifying the process of data analysis. The tool uses machine learning algorithms to analyze and interpret complex data sets, saving businesses valuable time and resources.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 07, 2021",
+    "source": "Forbes",
+    "date": "October 14, 2022",
     "category": "Tools"
   },
   {
-    "title": "Next-Gen AI: Quantum Computing Enhances Machine Learning",
-    "description": "Quantum computing is set to revolutionize AI by significantly enhancing machine learning capabilities. This could lead to more efficient problem-solving and data processing.",
+    "title": "The future of AI in autonomous vehicles",
+    "description": "As the race for autonomous driving heats up, AI is playing a crucial role. Recent advancements in AI technology are paving the way for safer and more efficient autonomous vehicles.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 07, 2021",
+    "source": "Wired",
+    "date": "October 14, 2022",
     "category": "Technology"
   }
 ];
