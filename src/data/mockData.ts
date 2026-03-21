@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI breakthrough in cancer detection",
-    "description": "Researchers have developed an AI system that can accurately detect cancer cells in real time, potentially revolutionizing healthcare. The system, developed by a leading tech company, uses machine learning algorithms to identify and classify cancer cells with unprecedented accuracy.",
+    "title": "Tech Giant Amazon Unveils Its New AI-based Customer Support Bot",
+    "description": "Amazon has launched a highly sophisticated AI chatbot that is capable of handling complex customer queries. The bot leverages machine learning to improve its responses over time.",
     "url": "#",
-    "source": "New York Times",
-    "date": "October 14, 2022",
-    "category": "Research"
-  },
-  {
-    "title": "AI-driven tech startup raises $200M in Series B",
-    "description": "AI-driven tech startup, DeepTech, has raised $200 million in Series B funding. The startup aims to use the funding to accelerate the development and deployment of its groundbreaking AI technology.",
-    "url": "#",
-    "source": "TechCrunch",
-    "date": "October 14, 2022",
+    "source": "The Wall Street Journal",
+    "date": "March 27, 2022",
     "category": "Business"
   },
   {
-    "title": "AI and Ethics: The ongoing debate",
-    "description": "As AI technology continues to evolve, so does the debate around its ethical implications. Experts are calling for clear regulations and guidelines to ensure that AI is developed and used responsibly.",
+    "title": "MIT Researchers Develop AI That Can Predict Alzheimer's",
+    "description": "A team of researchers at MIT has developed an AI model that can predict the onset of Alzheimer's disease five years in advance. This breakthrough could revolutionize early detection and treatment strategies.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 14, 2022",
+    "source": "MIT News",
+    "date": "March 27, 2022",
+    "category": "Research"
+  },
+  {
+    "title": "AI Ethics Spotlight: IBM's AI Fairness Toolkit",
+    "description": "IBM has released an AI toolkit designed to mitigate bias in AI algorithms. This move highlights the growing importance of ethical considerations in AI development.",
+    "url": "#",
+    "source": "IBM News Room",
+    "date": "March 27, 2022",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI tool promises to simplify data analysis",
-    "description": "Tech giant, DataGen, has launched a new AI tool aimed at simplifying the process of data analysis. The tool uses machine learning algorithms to analyze and interpret complex data sets, saving businesses valuable time and resources.",
+    "title": "OpenAI Introduces New Language Processing Tool",
+    "description": "OpenAI has introduced a cutting-edge language processing tool that understands and generates human-like text. This tool is expected to have a significant impact on various industries.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 14, 2022",
+    "source": "OpenAI Blog",
+    "date": "March 27, 2022",
     "category": "Tools"
   },
   {
-    "title": "The future of AI in autonomous vehicles",
-    "description": "As the race for autonomous driving heats up, AI is playing a crucial role. Recent advancements in AI technology are paving the way for safer and more efficient autonomous vehicles.",
+    "title": "AI Revolutionizing Autonomous Driving: Tesla's New Update",
+    "description": "Tesla has released a new software update that significantly improves its vehicles' autonomous driving capabilities. The update leverages advanced AI technologies to enhance performance and safety.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 14, 2022",
+    "source": "TechCrunch",
+    "date": "March 27, 2022",
     "category": "Technology"
   }
 ];
