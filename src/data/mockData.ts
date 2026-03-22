@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Tech Giant Amazon Unveils Its New AI-based Customer Support Bot",
-    "description": "Amazon has launched a highly sophisticated AI chatbot that is capable of handling complex customer queries. The bot leverages machine learning to improve its responses over time.",
+    "title": "AI Breaks New Ground in Predicting Climate Change Impact",
+    "description": "A team of scientists has developed an AI model capable of providing highly accurate predictions of climate change impact. This breakthrough could be instrumental in formulating global environmental policies.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "March 27, 2022",
-    "category": "Business"
-  },
-  {
-    "title": "MIT Researchers Develop AI That Can Predict Alzheimer's",
-    "description": "A team of researchers at MIT has developed an AI model that can predict the onset of Alzheimer's disease five years in advance. This breakthrough could revolutionize early detection and treatment strategies.",
-    "url": "#",
-    "source": "MIT News",
-    "date": "March 27, 2022",
+    "source": "Nature Magazine",
+    "date": "September 21, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Ethics Spotlight: IBM's AI Fairness Toolkit",
-    "description": "IBM has released an AI toolkit designed to mitigate bias in AI algorithms. This move highlights the growing importance of ethical considerations in AI development.",
+    "title": "AI Revolutionizes Cancer Diagnosis with Unprecedented Accuracy",
+    "description": "In a ground-breaking development, AI has demonstrated the ability to diagnose certain types of cancer with an accuracy surpassing that of human doctors. This could revolutionize the field of medical diagnosis.",
     "url": "#",
-    "source": "IBM News Room",
-    "date": "March 27, 2022",
-    "category": "Ethics"
+    "source": "The Lancet",
+    "date": "September 21, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "Tech Giant Invests Billions in AI for Business Automation",
+    "description": "A leading tech corporation has announced a multi-billion dollar investment in AI technologies aimed at business automation. This move is expected to significantly disrupt the business landscape.",
+    "url": "#",
+    "source": "The Wall Street Journal",
+    "date": "September 21, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "OpenAI Introduces New Language Processing Tool",
-    "description": "OpenAI has introduced a cutting-edge language processing tool that understands and generates human-like text. This tool is expected to have a significant impact on various industries.",
+    "title": "Ethical Concerns Rise in AI Facial Recognition Technology",
+    "description": "The increasing use of AI in facial recognition technologies has raised serious ethical concerns. Critics argue for increased regulation to protect privacy and prevent misuse.",
     "url": "#",
-    "source": "OpenAI Blog",
-    "date": "March 27, 2022",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "September 21, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Revolutionizing Autonomous Driving: Tesla's New Update",
-    "description": "Tesla has released a new software update that significantly improves its vehicles' autonomous driving capabilities. The update leverages advanced AI technologies to enhance performance and safety.",
+    "title": "New AI Tool Streamlines Data Analysis, Unveils Trends at Light Speed",
+    "description": "An innovative AI tool has been unveiled that can streamline data analysis and detect trends faster than ever before. This has vast implications for a multitude of sectors, from finance to healthcare.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 27, 2022",
-    "category": "Technology"
+    "source": "MIT Technology Review",
+    "date": "September 21, 2021",
+    "category": "Tools"
   }
 ];
