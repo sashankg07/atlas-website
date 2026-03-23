@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Predicting Climate Change Impact",
-    "description": "A team of scientists has developed an AI model capable of providing highly accurate predictions of climate change impact. This breakthrough could be instrumental in formulating global environmental policies.",
+    "title": "AI Breaks Ground in Predicting Climate Change Effects",
+    "description": "Researchers have developed a new AI model capable of predicting the effects of climate change more accurately and efficiently. The model can simulate complex environmental phenomena that were previously difficult to predict.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "September 21, 2021",
+    "source": "Nature",
+    "date": "October 15, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizes Cancer Diagnosis with Unprecedented Accuracy",
-    "description": "In a ground-breaking development, AI has demonstrated the ability to diagnose certain types of cancer with an accuracy surpassing that of human doctors. This could revolutionize the field of medical diagnosis.",
+    "title": "AI Revolutionizing Customer Experience in E-commerce",
+    "description": "AI is transforming the e-commerce landscape by enhancing customer experience through personalized recommendations and streamlined operations. Businesses are leveraging machine learning algorithms to understand customer behavior better.",
     "url": "#",
-    "source": "The Lancet",
-    "date": "September 21, 2021",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "October 15, 2021",
+    "category": "Business"
   },
   {
-    "title": "Tech Giant Invests Billions in AI for Business Automation",
-    "description": "A leading tech corporation has announced a multi-billion dollar investment in AI technologies aimed at business automation. This move is expected to significantly disrupt the business landscape.",
+    "title": "New AI Tool Helps Detect Early Stages of Parkinson's",
+    "description": "A groundbreaking AI tool has been developed that can detect early stages of Parkinson's disease. The tool uses machine learning algorithms to analyze speech patterns and detect subtle changes associated with the disease.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "September 21, 2021",
-    "category": "Business"
+    "source": "MIT Technology Review",
+    "date": "October 15, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Rise in AI Facial Recognition Technology",
-    "description": "The increasing use of AI in facial recognition technologies has raised serious ethical concerns. Critics argue for increased regulation to protect privacy and prevent misuse.",
+    "title": "Ethical Considerations in AI: A Rising Concern",
+    "description": "The growing use of AI has sparked a global conversation about ethics in technology. Issues such as privacy, bias, and accountability have become central to discussions on AI's future.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 21, 2021",
+    "date": "October 15, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Data Analysis, Unveils Trends at Light Speed",
-    "description": "An innovative AI tool has been unveiled that can streamline data analysis and detect trends faster than ever before. This has vast implications for a multitude of sectors, from finance to healthcare.",
+    "title": "OpenAI Releases New Language Model, GPT-4",
+    "description": "OpenAI has released its latest language model, GPT-4, promising better text generation and understanding. The model is expected to significantly impact various fields, like content creation, customer service, and more.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 21, 2021",
+    "source": "The Verge",
+    "date": "October 15, 2021",
     "category": "Tools"
   }
 ];
