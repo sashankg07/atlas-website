@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks Ground in Predicting Climate Change Effects",
-    "description": "Researchers have developed a new AI model capable of predicting the effects of climate change more accurately and efficiently. The model can simulate complex environmental phenomena that were previously difficult to predict.",
+    "title": "Revolutionizing Healthcare: AI Detects Heart Disease from Eye Scans",
+    "description": "Researchers have developed an AI model capable of detecting early signs of heart disease through retinal scans, potentially transforming preventative healthcare. The model uses deep learning to analyze images and identify patterns associated with heart disease.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 15, 2021",
+    "source": "MIT Technology Review",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizing Customer Experience in E-commerce",
-    "description": "AI is transforming the e-commerce landscape by enhancing customer experience through personalized recommendations and streamlined operations. Businesses are leveraging machine learning algorithms to understand customer behavior better.",
+    "title": "AI Startup Hike.ai Raises $50M in Series B Funding",
+    "description": "AI startup Hike.ai has secured $50 million in Series B funding to accelerate the development of its machine learning platform. The funding will enable the company to expand its team and scale its operations.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 15, 2021",
+    "source": "TechCrunch",
+    "date": "September 30, 2021",
     "category": "Business"
   },
   {
-    "title": "New AI Tool Helps Detect Early Stages of Parkinson's",
-    "description": "A groundbreaking AI tool has been developed that can detect early stages of Parkinson's disease. The tool uses machine learning algorithms to analyze speech patterns and detect subtle changes associated with the disease.",
+    "title": "AI Ethics: Establishing Fairness in Algorithmic Decision Making",
+    "description": "A new report has highlighted the need for fairness in algorithmic decision-making. It discusses the ethical implications of AI and offers recommendations for ensuring equitable outcomes.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 15, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "September 30, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI: A Rising Concern",
-    "description": "The growing use of AI has sparked a global conversation about ethics in technology. Issues such as privacy, bias, and accountability have become central to discussions on AI's future.",
+    "title": "AI-Powered Drones: The Future of Delivery Services",
+    "description": "AI-powered drones are revolutionizing the delivery industry, offering faster and more efficient services. These autonomous drones are expected to be the future of package delivery.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 15, 2021",
-    "category": "Ethics"
+    "source": "CNN Business",
+    "date": "September 30, 2021",
+    "category": "Technology"
   },
   {
-    "title": "OpenAI Releases New Language Model, GPT-4",
-    "description": "OpenAI has released its latest language model, GPT-4, promising better text generation and understanding. The model is expected to significantly impact various fields, like content creation, customer service, and more.",
+    "title": "New AI Tool Streamlines Data Analysis Process",
+    "description": "A new AI tool promises to streamline the data analysis process, making it more accessible to non-technical users. This tool uses machine learning to automate the data interpretation process, providing insights in real time.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 15, 2021",
+    "source": "Wired",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
