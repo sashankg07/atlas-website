@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Detects Heart Disease from Eye Scans",
-    "description": "Researchers have developed an AI model capable of detecting early signs of heart disease through retinal scans, potentially transforming preventative healthcare. The model uses deep learning to analyze images and identify patterns associated with heart disease.",
+    "title": "AI Transforms Healthcare: A New Era of Diagnosis",
+    "description": "Researchers have developed an AI that can predict health risks with unprecedented accuracy. The model uses personal health data to forecast potential future complications, revolutionizing the healthcare industry.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 30, 2021",
+    "source": "The New York Times",
+    "date": "October 24, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Startup Hike.ai Raises $50M in Series B Funding",
-    "description": "AI startup Hike.ai has secured $50 million in Series B funding to accelerate the development of its machine learning platform. The funding will enable the company to expand its team and scale its operations.",
+    "title": "Leading Tech Firm Unveils Next-Gen AI Chip",
+    "description": "A prominent tech firm has revealed its latest AI chip, promising a significant leap in processing power. The chip is set to redefine the capabilities of AI applications across various industries.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2021",
-    "category": "Business"
+    "date": "October 24, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics: Establishing Fairness in Algorithmic Decision Making",
-    "description": "A new report has highlighted the need for fairness in algorithmic decision-making. It discusses the ethical implications of AI and offers recommendations for ensuring equitable outcomes.",
+    "title": "AI Startup Raises $50M in Series B Funding",
+    "description": "An AI startup specializing in autonomous driving technology has successfully raised $50 million in Series B funding. The funding will boost the startup's efforts to roll out its technology on a global scale.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2021",
-    "category": "Ethics"
+    "source": "Bloomberg",
+    "date": "October 24, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI-Powered Drones: The Future of Delivery Services",
-    "description": "AI-powered drones are revolutionizing the delivery industry, offering faster and more efficient services. These autonomous drones are expected to be the future of package delivery.",
+    "title": "New Guidelines for AI Ethics Proposed",
+    "description": "In response to growing concerns over AI misuse, a leading ethics authority has proposed new guidelines. These aim to provide a framework for ethical AI development and use.",
     "url": "#",
-    "source": "CNN Business",
-    "date": "September 30, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "October 24, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Data Analysis Process",
-    "description": "A new AI tool promises to streamline the data analysis process, making it more accessible to non-technical users. This tool uses machine learning to automate the data interpretation process, providing insights in real time.",
+    "title": "Innovative AI Tool Streamlines Data Analysis",
+    "description": "An innovative AI tool has been launched that drastically simplifies data analysis. The tool uses machine learning to provide accurate and efficient analysis, promising to save businesses vast amounts of time and resources.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 30, 2021",
+    "source": "Forbes",
+    "date": "October 24, 2021",
     "category": "Tools"
   }
 ];
