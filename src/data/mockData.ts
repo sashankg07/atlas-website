@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Transforms Healthcare: A New Era of Diagnosis",
-    "description": "Researchers have developed an AI that can predict health risks with unprecedented accuracy. The model uses personal health data to forecast potential future complications, revolutionizing the healthcare industry.",
+    "title": "AI Helps Scientists Predict Catastrophic Weather Events",
+    "description": "Researchers have developed an AI model that can predict catastrophic weather events with unprecedented accuracy. This breakthrough could aid in more effective disaster management and planning.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 24, 2021",
+    "source": "The Science Times",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "Leading Tech Firm Unveils Next-Gen AI Chip",
-    "description": "A prominent tech firm has revealed its latest AI chip, promising a significant leap in processing power. The chip is set to redefine the capabilities of AI applications across various industries.",
+    "title": "Tech Giant Reveals New AI Supercomputer",
+    "description": "A leading technology company has unveiled its latest AI supercomputer, promising to significantly enhance machine learning capabilities and data processing speeds.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 24, 2021",
+    "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $50M in Series B Funding",
-    "description": "An AI startup specializing in autonomous driving technology has successfully raised $50 million in Series B funding. The funding will boost the startup's efforts to roll out its technology on a global scale.",
+    "title": "AI Startup Raises Millions in Series B Funding",
+    "description": "An innovative AI startup has successfully raised millions of dollars in Series B funding, signaling increasing investor interest in the artificial intelligence sector.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "October 24, 2021",
+    "source": "Business Insider",
+    "date": "September 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Guidelines for AI Ethics Proposed",
-    "description": "In response to growing concerns over AI misuse, a leading ethics authority has proposed new guidelines. These aim to provide a framework for ethical AI development and use.",
+    "title": "New Report Highlights Ethical Concerns in AI",
+    "description": "A new report from a reputable human rights organization raises concerns about the potential misuse of AI and the need for ethical guidelines and regulations.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 24, 2021",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Innovative AI Tool Streamlines Data Analysis",
-    "description": "An innovative AI tool has been launched that drastically simplifies data analysis. The tool uses machine learning to provide accurate and efficient analysis, promising to save businesses vast amounts of time and resources.",
+    "title": "OpenAI Releases New Machine Learning Tool",
+    "description": "OpenAI has released a cutting-edge tool designed to make machine learning more accessible, aiming to democratize the field and encourage innovation.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 24, 2021",
+    "source": "MIT Technology Review",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
