@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Helps Scientists Predict Catastrophic Weather Events",
-    "description": "Researchers have developed an AI model that can predict catastrophic weather events with unprecedented accuracy. This breakthrough could aid in more effective disaster management and planning.",
+    "title": "AI Revolutionizes Drug Discovery",
+    "description": "Groundbreaking AI technology is rapidly accelerating the pace of drug discovery, potentially revolutionizing the healthcare industry. This innovative approach could drastically reduce the time and cost associated with bringing new treatments to market.",
     "url": "#",
-    "source": "The Science Times",
-    "date": "September 30, 2021",
-    "category": "Research"
-  },
-  {
-    "title": "Tech Giant Reveals New AI Supercomputer",
-    "description": "A leading technology company has unveiled its latest AI supercomputer, promising to significantly enhance machine learning capabilities and data processing speeds.",
-    "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2021",
+    "source": "The Wall Street Journal",
+    "date": "October 11, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises Millions in Series B Funding",
-    "description": "An innovative AI startup has successfully raised millions of dollars in Series B funding, signaling increasing investor interest in the artificial intelligence sector.",
+    "title": "New AI Ethics Guidelines Released",
+    "description": "In response to growing concerns about AI bias and transparency, a leading tech organization has released a comprehensive new set of ethical guidelines for AI development. The guidelines aim to ensure AI systems are fair, accountable, and respect user privacy.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 30, 2021",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "October 11, 2022",
+    "category": "Ethics"
+  },
+  {
+    "title": "AI Tool Streamlines Manufacturing Processes",
+    "description": "A new AI-powered tool is set to revolutionize manufacturing processes, promising significant efficiency improvements. The tool uses machine learning to predict and prevent equipment failures, reducing downtime and increasing productivity.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "October 11, 2022",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Report Highlights Ethical Concerns in AI",
-    "description": "A new report from a reputable human rights organization raises concerns about the potential misuse of AI and the need for ethical guidelines and regulations.",
+    "title": "AI Research Breaks New Ground in Natural Language Processing",
+    "description": "Researchers have made a significant breakthrough in natural language processing (NLP) with a new AI model. The model has achieved record-breaking performance, demonstrating a deeper understanding of human language than ever before.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2021",
-    "category": "Ethics"
+    "source": "Nature",
+    "date": "October 11, 2022",
+    "category": "Research"
   },
   {
-    "title": "OpenAI Releases New Machine Learning Tool",
-    "description": "OpenAI has released a cutting-edge tool designed to make machine learning more accessible, aiming to democratize the field and encourage innovation.",
+    "title": "AI Start-up Secures Major Investment",
+    "description": "An AI start-up specializing in predictive analytics has secured a major investment, reinforcing the growing interest in AI within the business sector. The funds will be used to expand the company's innovative services across new industries.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 30, 2021",
-    "category": "Tools"
+    "source": "Business Insider",
+    "date": "October 11, 2022",
+    "category": "Business"
   }
 ];
