@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Drug Discovery",
-    "description": "Groundbreaking AI technology is rapidly accelerating the pace of drug discovery, potentially revolutionizing the healthcare industry. This innovative approach could drastically reduce the time and cost associated with bringing new treatments to market.",
+    "title": "Revolutionizing Healthcare: AI Predicts Heart Disease with Unprecedented Accuracy",
+    "description": "Researchers have developed an AI model that can predict heart diseases with over 90% accuracy. The breakthrough could potentially save millions of lives worldwide.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "October 11, 2022",
+    "source": "The New Scientist",
+    "date": "September 01, 2022",
+    "category": "Research"
+  },
+  {
+    "title": "AI Enhances Renewable Energy: Predicting Wind Power Generation",
+    "description": "An innovative AI model is set to boost the renewable energy sector by accurately predicting wind power output. This development could significantly optimize the use of wind power.",
+    "url": "#",
+    "source": "TechCrunch",
+    "date": "September 01, 2022",
     "category": "Technology"
   },
   {
-    "title": "New AI Ethics Guidelines Released",
-    "description": "In response to growing concerns about AI bias and transparency, a leading tech organization has released a comprehensive new set of ethical guidelines for AI development. The guidelines aim to ensure AI systems are fair, accountable, and respect user privacy.",
+    "title": "Tech Giant Invests Billions in AI Startups",
+    "description": "Continuing its investment spree, a major tech company has invested billions in AI startups. The move underscores the growing importance of AI in the global economy.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 11, 2022",
-    "category": "Ethics"
-  },
-  {
-    "title": "AI Tool Streamlines Manufacturing Processes",
-    "description": "A new AI-powered tool is set to revolutionize manufacturing processes, promising significant efficiency improvements. The tool uses machine learning to predict and prevent equipment failures, reducing downtime and increasing productivity.",
-    "url": "#",
-    "source": "Forbes",
-    "date": "October 11, 2022",
-    "category": "Tools"
+    "source": "Bloomberg",
+    "date": "September 01, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Research Breaks New Ground in Natural Language Processing",
-    "description": "Researchers have made a significant breakthrough in natural language processing (NLP) with a new AI model. The model has achieved record-breaking performance, demonstrating a deeper understanding of human language than ever before.",
+    "title": "AI Ethics Debate Intensifies: The Balance Between Innovation and Privacy",
+    "description": "As AI continues to evolve, the debate about its ethical implications intensifies. Key issues include privacy, bias, and the potential for misuse of technology.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 11, 2022",
-    "category": "Research"
+    "source": "The Guardian",
+    "date": "September 01, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI Start-up Secures Major Investment",
-    "description": "An AI start-up specializing in predictive analytics has secured a major investment, reinforcing the growing interest in AI within the business sector. The funds will be used to expand the company's innovative services across new industries.",
+    "title": "New AI Tool Transforms Data Analysis",
+    "description": "A newly launched AI tool is set to revolutionize data analysis, offering real-time insights and predictive capabilities. The tool is expected to be a game-changer for businesses across industries.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 11, 2022",
-    "category": "Business"
+    "source": "Forbes",
+    "date": "September 01, 2022",
+    "category": "Tools"
   }
 ];
