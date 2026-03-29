@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Predicts Heart Disease with Unprecedented Accuracy",
-    "description": "Researchers have developed an AI model that can predict heart diseases with over 90% accuracy. The breakthrough could potentially save millions of lives worldwide.",
+    "title": "Revolutionary AI Predicts Climate Change Effects",
+    "description": "A new AI model by scientists at the University of Cambridge can precisely predict the impact of climate change. The model uses AI algorithms to analyze a vast array of data and predict future climate patterns.",
     "url": "#",
-    "source": "The New Scientist",
-    "date": "September 01, 2022",
+    "source": "Nature",
+    "date": "October 27, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Enhances Renewable Energy: Predicting Wind Power Generation",
-    "description": "An innovative AI model is set to boost the renewable energy sector by accurately predicting wind power output. This development could significantly optimize the use of wind power.",
+    "title": "AI-Powered Robots Transforming the Manufacturing Industry",
+    "description": "AI technology is leading a revolution in the manufacturing sector, with AI-powered robots enhancing efficiency and productivity. These advancements promise to redefine industry standards.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 01, 2022",
+    "source": "The Wall Street Journal",
+    "date": "October 27, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI Startups",
-    "description": "Continuing its investment spree, a major tech company has invested billions in AI startups. The move underscores the growing importance of AI in the global economy.",
+    "title": "Google Invests in AI-Based Healthcare Startups",
+    "description": "Google is supporting AI-based healthcare startups to transform patient care. The tech giant's move signals a growing interest in AI's potential within the healthcare industry.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "September 01, 2022",
+    "source": "Forbes",
+    "date": "October 27, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Debate Intensifies: The Balance Between Innovation and Privacy",
-    "description": "As AI continues to evolve, the debate about its ethical implications intensifies. Key issues include privacy, bias, and the potential for misuse of technology.",
+    "title": "Ethical Concerns Arise from AI Surveillance Tools",
+    "description": "The increasing use of AI surveillance tools has sparked a debate over privacy and ethical implications. Advocates urge for regulatory measures to prevent potential misuse.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 01, 2022",
+    "date": "October 27, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Data Analysis",
-    "description": "A newly launched AI tool is set to revolutionize data analysis, offering real-time insights and predictive capabilities. The tool is expected to be a game-changer for businesses across industries.",
+    "title": "NVIDIA Unveils New AI Tools for Game Developers",
+    "description": "NVIDIA has introduced new AI tools for game developers, promising to enhance gaming experiences. The new tools utilize deep learning to deliver realistic graphics and immersive environments.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 01, 2022",
+    "source": "TechCrunch",
+    "date": "October 27, 2021",
     "category": "Tools"
   }
 ];
