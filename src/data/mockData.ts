@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Cancer Diagnosis",
-    "description": "Recent advancements in AI have enabled early and accurate detection of cancerous cells. The technology promises a revolution in healthcare, making cancer diagnosis faster and more reliable.",
+    "title": "Neural Networks Unlock New Possibilities in Drug Discovery",
+    "description": "Researchers have developed a new AI system that utilizes advanced neural networks to accelerate drug discovery. The breakthrough could potentially revolutionize the pharmaceutical industry.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2021",
+    "source": "Nature",
+    "date": "October 31, 2021",
     "category": "Research"
   },
   {
-    "title": "Autonomous Vehicles: The Future of Transportation Driven by AI",
-    "description": "Artificial intelligence is propelling the autonomous vehicles industry forward, promising safer and more efficient transportation. Major automobile manufacturers have begun integrating AI technology into their latest models.",
+    "title": "AI-Powered Robots Transforming E-commerce Warehouses",
+    "description": "A new breed of AI-powered robots is revolutionizing the supply chain industry, with major e-commerce companies employing them to optimize warehouse operations.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 30, 2021",
+    "source": "TechCrunch",
+    "date": "October 31, 2021",
     "category": "Technology"
   },
   {
-    "title": "How AI Is Transforming the Business Landscape",
-    "description": "From automating routine tasks to predicting market trends, AI is reshaping the way businesses operate. The technology is expected to generate trillions in economic value over the next decade.",
+    "title": "Tech Giant Invests Billions in Artificial Intelligence Startups",
+    "description": "In a bid to boost its AI capabilities, a renowned tech giant has invested billions in promising AI startups. The move signifies the growing business interest in AI technologies.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "September 30, 2021",
+    "source": "Business Insider",
+    "date": "October 31, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Challenges in AI: A Rising Concern",
-    "description": "As AI increasingly permeates our lives, concerns over its ethical implications are growing. Experts call for clear regulations and transparency to ensure the technology is used responsibly.",
+    "title": "AI Bias: A Growing Ethical Concern",
+    "description": "As AI systems become more prevalent in society, concerns about AI bias and its potential implications are growing. Experts call for more transparency and ethical guidelines in AI development.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 30, 2021",
+    "date": "October 31, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Streamline Data Analysis",
-    "description": "The advent of AI-powered tools has made data analysis more accessible and efficient. These tools are helping businesses make data-driven decisions more quickly and accurately.",
+    "title": "New AI Tool Set to Revamp Customer Service",
+    "description": "A newly launched AI tool promises to transform customer service, using advanced machine learning algorithms to better understand and respond to customer needs.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 30, 2021",
+    "source": "The Verge",
+    "date": "October 31, 2021",
     "category": "Tools"
   }
 ];
