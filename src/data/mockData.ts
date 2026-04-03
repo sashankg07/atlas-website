@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Neural Networks Unlock New Possibilities in Drug Discovery",
-    "description": "Researchers have developed a new AI system that utilizes advanced neural networks to accelerate drug discovery. The breakthrough could potentially revolutionize the pharmaceutical industry.",
+    "title": "AI Breaks New Ground in Climate Change Predictions",
+    "description": "Artificial Intelligence technology is now being used to generate more accurate climate change predictions. Researchers have created a model that predicts climate patterns with unprecedented accuracy.",
     "url": "#",
     "source": "Nature",
-    "date": "October 31, 2021",
+    "date": "September 29, 2023",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Robots Transforming E-commerce Warehouses",
-    "description": "A new breed of AI-powered robots is revolutionizing the supply chain industry, with major e-commerce companies employing them to optimize warehouse operations.",
+    "title": "Tech Giant Releases AI-Powered Virtual Assistant",
+    "description": "Tech giant has released a new AI-powered virtual assistant that promises to revolutionize user interaction. The assistant is capable of understanding and responding to complex queries with a human-like understanding.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 31, 2021",
+    "date": "September 29, 2023",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in Artificial Intelligence Startups",
-    "description": "In a bid to boost its AI capabilities, a renowned tech giant has invested billions in promising AI startups. The move signifies the growing business interest in AI technologies.",
+    "title": "AI Startup Raises $50M in Series B Funding",
+    "description": "A promising AI startup has just raised $50 million in Series B funding. The company aims to use the funding to further develop their innovative machine learning platforms.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 31, 2021",
+    "source": "Forbes",
+    "date": "September 29, 2023",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Bias: A Growing Ethical Concern",
-    "description": "As AI systems become more prevalent in society, concerns about AI bias and its potential implications are growing. Experts call for more transparency and ethical guidelines in AI development.",
+    "title": "Ethical Concerns Surrounding AI Facial Recognition",
+    "description": "Recent developments in AI facial recognition technology have raised significant ethical concerns. Critics argue that the technology, if misused, could lead to unprecedented invasions of privacy.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 31, 2021",
+    "source": "The Economist",
+    "date": "September 29, 2023",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Set to Revamp Customer Service",
-    "description": "A newly launched AI tool promises to transform customer service, using advanced machine learning algorithms to better understand and respond to customer needs.",
+    "title": "New AI Tool Transforms Text into Visualizations",
+    "description": "A newly-released AI tool can transform written text into complex visualizations, aiding in data analysis. The tool opens up new possibilities for researchers and data scientists.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 31, 2021",
+    "source": "MIT Technology Review",
+    "date": "September 29, 2023",
     "category": "Tools"
   }
 ];
