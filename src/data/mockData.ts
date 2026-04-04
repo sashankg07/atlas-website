@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Climate Change Predictions",
-    "description": "Artificial Intelligence technology is now being used to generate more accurate climate change predictions. Researchers have created a model that predicts climate patterns with unprecedented accuracy.",
+    "title": "AI Algorithm Outperforms Human Dermatologists in Diagnosing Skin Cancer",
+    "description": "Researchers have developed an artificial intelligence algorithm that outperforms human dermatologists in diagnosing skin cancer. The new AI technology could revolutionize early detection and treatment of the disease.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 29, 2023",
+    "source": "The New York Times",
+    "date": "October 05, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Releases AI-Powered Virtual Assistant",
-    "description": "Tech giant has released a new AI-powered virtual assistant that promises to revolutionize user interaction. The assistant is capable of understanding and responding to complex queries with a human-like understanding.",
+    "title": "DeepMind's New AI System: A Leap Forward in Protein Folding Prediction",
+    "description": "DeepMind's AlphaFold, an AI system, has achieved remarkable accuracy in predicting protein structure. This breakthrough could speed up drug discovery and disease understanding.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 29, 2023",
+    "source": "The Guardian",
+    "date": "October 05, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $50M in Series B Funding",
-    "description": "A promising AI startup has just raised $50 million in Series B funding. The company aims to use the funding to further develop their innovative machine learning platforms.",
+    "title": "Tech Giant Google Integrates AI in Their New Data Analytics Tools",
+    "description": "Google has integrated AI into its new data analytics tools, allowing businesses to streamline their data processing. The move is expected to enhance decision-making and improve efficiency.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 29, 2023",
+    "source": "TechCrunch",
+    "date": "October 05, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding AI Facial Recognition",
-    "description": "Recent developments in AI facial recognition technology have raised significant ethical concerns. Critics argue that the technology, if misused, could lead to unprecedented invasions of privacy.",
+    "title": "Ethical Considerations in AI: A Growing Concern",
+    "description": "As AI technology continues to develop, ethical considerations are becoming increasingly important. Experts are calling for comprehensive policy frameworks to address potential misuse and bias.",
     "url": "#",
-    "source": "The Economist",
-    "date": "September 29, 2023",
+    "source": "BBC",
+    "date": "October 05, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Text into Visualizations",
-    "description": "A newly-released AI tool can transform written text into complex visualizations, aiding in data analysis. The tool opens up new possibilities for researchers and data scientists.",
+    "title": "Latest AI-Powered Tools Revolutionize Video Content Creation",
+    "description": "New AI-powered tools are making video content creation more accessible and efficient than ever. These advancements could democratize the field, enabling more people to create high-quality content.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 29, 2023",
+    "source": "Wired",
+    "date": "October 05, 2022",
     "category": "Tools"
   }
 ];
