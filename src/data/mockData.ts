@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Algorithm Outperforms Human Dermatologists in Diagnosing Skin Cancer",
-    "description": "Researchers have developed an artificial intelligence algorithm that outperforms human dermatologists in diagnosing skin cancer. The new AI technology could revolutionize early detection and treatment of the disease.",
+    "title": "AI Breaks New Ground in Disease Prediction",
+    "description": "Researchers have developed a new AI model that can predict the likelihood of diseases more accurately than ever before. This breakthrough could revolutionize healthcare and save countless lives.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 05, 2022",
+    "source": "Nature Medicine",
+    "date": "March 07, 2023",
     "category": "Research"
   },
   {
-    "title": "DeepMind's New AI System: A Leap Forward in Protein Folding Prediction",
-    "description": "DeepMind's AlphaFold, an AI system, has achieved remarkable accuracy in predicting protein structure. This breakthrough could speed up drug discovery and disease understanding.",
+    "title": "AI Changing the Shape of Business Analytics",
+    "description": "Artificial Intelligence is transforming business analytics by providing more insightful and accurate predictions. Companies are harnessing this power to make smarter decisions and gain a competitive edge.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 05, 2022",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "March 07, 2023",
+    "category": "Business"
   },
   {
-    "title": "Tech Giant Google Integrates AI in Their New Data Analytics Tools",
-    "description": "Google has integrated AI into its new data analytics tools, allowing businesses to streamline their data processing. The move is expected to enhance decision-making and improve efficiency.",
+    "title": "The Ethics of AI: A Growing Concern",
+    "description": "As AI continues to grow and evolve, ethical concerns are becoming more prominent. Experts are calling for robust regulations to ensure AI develops in a way that benefits humanity, not harms it.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 05, 2022",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "March 07, 2023",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI: A Growing Concern",
-    "description": "As AI technology continues to develop, ethical considerations are becoming increasingly important. Experts are calling for comprehensive policy frameworks to address potential misuse and bias.",
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "A new AI-powered tool is making it easier for analysts to interpret and utilize large sets of data. This tool could greatly improve efficiency in many industries.",
     "url": "#",
-    "source": "BBC",
-    "date": "October 05, 2022",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "March 07, 2023",
+    "category": "Tools"
   },
   {
-    "title": "Latest AI-Powered Tools Revolutionize Video Content Creation",
-    "description": "New AI-powered tools are making video content creation more accessible and efficient than ever. These advancements could democratize the field, enabling more people to create high-quality content.",
+    "title": "AI Revolutionizes Weather Prediction",
+    "description": "Artificial Intelligence is being used to create more accurate and timely weather predictions. This development could help us better prepare for severe weather events and potentially save lives.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 05, 2022",
-    "category": "Tools"
+    "source": "National Geographic",
+    "date": "March 07, 2023",
+    "category": "Technology"
   }
 ];
