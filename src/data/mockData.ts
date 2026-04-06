@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Disease Prediction",
-    "description": "Researchers have developed a new AI model that can predict the likelihood of diseases more accurately than ever before. This breakthrough could revolutionize healthcare and save countless lives.",
+    "title": "AI Breaks Ground in Disease Prediction",
+    "description": "Researchers have developed an AI model capable of predicting the onset of diseases with exceptional accuracy. This groundbreaking technology could revolutionize preventative medicine.",
     "url": "#",
-    "source": "Nature Medicine",
-    "date": "March 07, 2023",
+    "source": "The New York Times",
+    "date": "April 08, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Changing the Shape of Business Analytics",
-    "description": "Artificial Intelligence is transforming business analytics by providing more insightful and accurate predictions. Companies are harnessing this power to make smarter decisions and gain a competitive edge.",
+    "title": "New AI Algorithm Outperforms Humans in Complex Tasks",
+    "description": "A new AI algorithm has been developed that outperforms humans in complex decision-making tasks. This breakthrough could have significant implications for automation in various industries.",
     "url": "#",
-    "source": "Forbes",
-    "date": "March 07, 2023",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "April 08, 2022",
+    "category": "Technology"
   },
   {
-    "title": "The Ethics of AI: A Growing Concern",
-    "description": "As AI continues to grow and evolve, ethical concerns are becoming more prominent. Experts are calling for robust regulations to ensure AI develops in a way that benefits humanity, not harms it.",
+    "title": "Tech Giant Invests Billions in AI Startups",
+    "description": "A leading tech company has invested billions in AI startups, signaling a strong belief in the future of artificial intelligence. This substantial investment is expected to accelerate AI development.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "March 07, 2023",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "April 08, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "A new AI-powered tool is making it easier for analysts to interpret and utilize large sets of data. This tool could greatly improve efficiency in many industries.",
+    "title": "Ethics of AI: The Debate Continues",
+    "description": "As AI continues to evolve, so does the debate around its ethical implications. Experts are calling for more regulations to ensure AI technology is developed and used responsibly.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 07, 2023",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "April 08, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI Revolutionizes Weather Prediction",
-    "description": "Artificial Intelligence is being used to create more accurate and timely weather predictions. This development could help us better prepare for severe weather events and potentially save lives.",
+    "title": "Revolutionary AI Tools Transforming the Art Industry",
+    "description": "New AI tools are significantly influencing the art industry by enabling artists to produce unique and complex works. These tools are changing the way we create and perceive art.",
     "url": "#",
-    "source": "National Geographic",
-    "date": "March 07, 2023",
-    "category": "Technology"
+    "source": "The Verge",
+    "date": "April 08, 2022",
+    "category": "Tools"
   }
 ];
