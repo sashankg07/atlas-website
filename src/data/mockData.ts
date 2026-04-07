@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks Ground in Disease Prediction",
-    "description": "Researchers have developed an AI model capable of predicting the onset of diseases with exceptional accuracy. This groundbreaking technology could revolutionize preventative medicine.",
+    "title": "Revolutionizing Healthcare: AI Diagnoses Diseases as Accurately as Doctors",
+    "description": "Recent studies show that AI can now diagnose a range of diseases with the same accuracy as healthcare professionals. This breakthrough has potential to transform the medical field.",
     "url": "#",
     "source": "The New York Times",
-    "date": "April 08, 2022",
+    "date": "March 03, 2023",
     "category": "Research"
   },
   {
-    "title": "New AI Algorithm Outperforms Humans in Complex Tasks",
-    "description": "A new AI algorithm has been developed that outperforms humans in complex decision-making tasks. This breakthrough could have significant implications for automation in various industries.",
+    "title": "AI Takes the Wheel: Self-Driving Cars Now Safer Than Human Drivers",
+    "description": "New data reveals that AI-controlled vehicles have a lower accident rate than those driven by humans. This development could accelerate the widespread adoption of autonomous vehicles.",
     "url": "#",
-    "source": "BBC News",
-    "date": "April 08, 2022",
+    "source": "The Guardian",
+    "date": "March 03, 2023",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI Startups",
-    "description": "A leading tech company has invested billions in AI startups, signaling a strong belief in the future of artificial intelligence. This substantial investment is expected to accelerate AI development.",
+    "title": "Tech Giants Invest Billions in AI Startups",
+    "description": "Major tech companies are pouring billions into AI startups, signaling a shift in the business landscape. This trend emphasizes the growing importance of AI in the economy.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "April 08, 2022",
+    "source": "Forbes",
+    "date": "March 03, 2023",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics of AI: The Debate Continues",
-    "description": "As AI continues to evolve, so does the debate around its ethical implications. Experts are calling for more regulations to ensure AI technology is developed and used responsibly.",
+    "title": "New Guidelines Set for Ethical Use of AI",
+    "description": "In response to growing concerns about AI misuse, international bodies have established new guidelines. These norms aim to ensure ethical and responsible use of AI.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "April 08, 2022",
+    "source": "The Economist",
+    "date": "March 03, 2023",
     "category": "Ethics"
   },
   {
-    "title": "Revolutionary AI Tools Transforming the Art Industry",
-    "description": "New AI tools are significantly influencing the art industry by enabling artists to produce unique and complex works. These tools are changing the way we create and perceive art.",
+    "title": "AI-Powered Tools Transforming Graphic Design",
+    "description": "AI-powered tools are reshaping the graphic design industry by automating complex tasks. These new tools offer unprecedented efficiency and creative possibilities.",
     "url": "#",
-    "source": "The Verge",
-    "date": "April 08, 2022",
+    "source": "Wired",
+    "date": "March 03, 2023",
     "category": "Tools"
   }
 ];
