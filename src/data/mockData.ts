@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Quantum AI Breaks New Ground in Machine Learning",
-    "description": "Scientists have developed a new quantum machine learning algorithm that outperforms classical methods. This could revolutionize AI, opening up a whole new way to process information.",
+    "title": "AI Breaks New Ground in Disease Prediction",
+    "description": "Researchers have developed an AI model capable of predicting disease progression with unprecedented accuracy. This could revolutionize the healthcare industry and impact the lives of millions globally.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 27, 2022",
+    "source": "Nature",
+    "date": "November 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Robots to Assist in Construction Projects",
-    "description": "A leading tech company has introduced AI-powered robots designed to assist in large-scale construction projects. The robots are intended to streamline operations and improve worker safety.",
+    "title": "Tech Giant Unveils Next-Gen AI Chip",
+    "description": "A leading technology company has announced the launch of a new AI chip promising significant improvements in processing speed and power efficiency. This chip will enable more advanced AI applications across various industries.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 27, 2022",
+    "date": "November 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-Up Raises $100M in Series B Funding",
-    "description": "An innovative AI start-up has successfully raised $100 million in its latest funding round. The funds will be used to expand its AI solutions across various industries.",
+    "title": "AI Start-up Raises Millions in Funding",
+    "description": "An innovative AI start-up has secured significant funding to further develop its ground-breaking AI solution. The funding will aid the company in making strides in the AI industry.",
     "url": "#",
     "source": "Forbes",
-    "date": "September 27, 2022",
+    "date": "November 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Balancing Progress and Human Rights",
-    "description": "As AI continues to evolve, experts call for a balance between technological progress and human rights. They stress the importance of ethical guidelines in AI development.",
+    "title": "Debate Intensifies Over AI Ethics",
+    "description": "As AI continues to permeate every aspect of our lives, concerns about its ethical implications are growing. Industry experts are calling for stricter regulations and transparency.",
     "url": "#",
-    "source": "New York Times",
-    "date": "September 27, 2022",
+    "source": "The Guardian",
+    "date": "November 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Revolutionizes Image Recognition",
-    "description": "A newly developed AI tool enhances image recognition, with potential applications in healthcare, agriculture, and security. The tool promises to make image-based AI systems more accurate and efficient.",
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "A new tool harnessing the power of AI to analyze and interpret complex data sets has been launched. This tool could significantly simplify data analysis, reducing the time and resources needed.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 27, 2022",
+    "source": "MIT Technology Review",
+    "date": "November 30, 2021",
     "category": "Tools"
   }
 ];
