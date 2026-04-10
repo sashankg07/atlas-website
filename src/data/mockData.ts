@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Disease Prediction",
-    "description": "Researchers have developed an AI model capable of predicting disease progression with unprecedented accuracy. This could revolutionize the healthcare industry and impact the lives of millions globally.",
+    "title": "Revolutionizing Healthcare: AI Diagnoses Lung Cancer with 97% Accuracy",
+    "description": "Researchers have created an AI that can diagnose lung cancer with a 97% accuracy rate, surpassing human radiologists. This revolutionary technology aims to improve early detection and treatment procedures.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 30, 2021",
+    "source": "The New York Times",
+    "date": "September 20, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Next-Gen AI Chip",
-    "description": "A leading technology company has announced the launch of a new AI chip promising significant improvements in processing speed and power efficiency. This chip will enable more advanced AI applications across various industries.",
+    "title": "AI in the Sky: Drones Use Machine Learning to Protect Endangered Species",
+    "description": "A new drone technology uses AI and machine learning to monitor and protect endangered species. The technology can identify specific animals and track their movements, providing invaluable data to conservation efforts.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 30, 2021",
+    "source": "The Guardian",
+    "date": "September 20, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Start-up Raises Millions in Funding",
-    "description": "An innovative AI start-up has secured significant funding to further develop its ground-breaking AI solution. The funding will aid the company in making strides in the AI industry.",
+    "title": "Big Tech Acquisition: Google Buys AI Startup DeepMind for $500 Million",
+    "description": "Google has acquired AI startup DeepMind for $500 million. The acquisition is expected to bolster Google's AI capabilities and influence the future of machine learning.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 30, 2021",
+    "source": "Bloomberg",
+    "date": "September 20, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Debate Intensifies Over AI Ethics",
-    "description": "As AI continues to permeate every aspect of our lives, concerns about its ethical implications are growing. Industry experts are calling for stricter regulations and transparency.",
+    "title": "Call for Transparency: AI Ethics Movement Gains Momentum",
+    "description": "More tech companies are being urged to be transparent about their AI algorithms. The movement is being driven by concerns about bias and the impact of AI on society.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 30, 2021",
+    "source": "BBC News",
+    "date": "September 20, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "A new tool harnessing the power of AI to analyze and interpret complex data sets has been launched. This tool could significantly simplify data analysis, reducing the time and resources needed.",
+    "title": "Building AI Made Easier: Google Launches New AI Tools for Developers",
+    "description": "Google has launched a suite of new AI tools designed to make it easier for developers to build and deploy artificial intelligence systems. The tools aim to simplify the process and make AI more accessible.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 30, 2021",
+    "source": "TechCrunch",
+    "date": "September 20, 2022",
     "category": "Tools"
   }
 ];
