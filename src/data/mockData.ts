@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Diagnoses Lung Cancer with 97% Accuracy",
-    "description": "Researchers have created an AI that can diagnose lung cancer with a 97% accuracy rate, surpassing human radiologists. This revolutionary technology aims to improve early detection and treatment procedures.",
+    "title": "AI Breakthrough in Cancer Detection",
+    "description": "Researchers have developed an AI model capable of detecting early-stage cancer with unprecedented accuracy. This breakthrough may revolutionize future medical diagnostics.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 20, 2022",
+    "source": "The Guardian",
+    "date": "September 21, 2022",
     "category": "Research"
   },
   {
-    "title": "AI in the Sky: Drones Use Machine Learning to Protect Endangered Species",
-    "description": "A new drone technology uses AI and machine learning to monitor and protect endangered species. The technology can identify specific animals and track their movements, providing invaluable data to conservation efforts.",
+    "title": "AI Driven Smart Farming: The Future of Agriculture",
+    "description": "A new wave of AI technology is transforming farming, with smart AI systems helping to increase crop yields and reduce environmental impact.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 20, 2022",
+    "source": "Forbes",
+    "date": "September 21, 2022",
     "category": "Technology"
   },
   {
-    "title": "Big Tech Acquisition: Google Buys AI Startup DeepMind for $500 Million",
-    "description": "Google has acquired AI startup DeepMind for $500 million. The acquisition is expected to bolster Google's AI capabilities and influence the future of machine learning.",
+    "title": "Tech Giant's Investment in AI Startups Hits Record High",
+    "description": "Tech giants are investing heavily in AI startups, signaling a strong belief in the potential of artificial intelligence to shape the future of business.",
     "url": "#",
     "source": "Bloomberg",
-    "date": "September 20, 2022",
+    "date": "September 21, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Call for Transparency: AI Ethics Movement Gains Momentum",
-    "description": "More tech companies are being urged to be transparent about their AI algorithms. The movement is being driven by concerns about bias and the impact of AI on society.",
+    "title": "Ethical Concerns Over AI's Role in Hiring",
+    "description": "There is growing debate over the use of AI in hiring processes. Critics argue these systems may perpetuate bias, pointing to the need for more regulation.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 20, 2022",
+    "source": "The New York Times",
+    "date": "September 21, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Building AI Made Easier: Google Launches New AI Tools for Developers",
-    "description": "Google has launched a suite of new AI tools designed to make it easier for developers to build and deploy artificial intelligence systems. The tools aim to simplify the process and make AI more accessible.",
+    "title": "AI Tools Transforming the World of Graphic Design",
+    "description": "New AI tools are revolutionizing graphic design, automating time-consuming tasks and unlocking new creative possibilities.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 20, 2022",
+    "date": "September 21, 2022",
     "category": "Tools"
   }
 ];
