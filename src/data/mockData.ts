@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough in Cancer Detection",
-    "description": "Researchers have developed an AI model capable of detecting early-stage cancer with unprecedented accuracy. This breakthrough may revolutionize future medical diagnostics.",
+    "title": "AI Revolutionizes Predictive Analysis in Healthcare",
+    "description": "Artificial Intelligence is leading a revolution in predictive analysis in healthcare, providing unprecedented accuracy in disease detection and prevention. With AI, healthcare providers can now make more informed decisions, effectively saving lives.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 21, 2022",
-    "category": "Research"
-  },
-  {
-    "title": "AI Driven Smart Farming: The Future of Agriculture",
-    "description": "A new wave of AI technology is transforming farming, with smart AI systems helping to increase crop yields and reduce environmental impact.",
-    "url": "#",
-    "source": "Forbes",
-    "date": "September 21, 2022",
+    "source": "The New York Times",
+    "date": "October 13, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant's Investment in AI Startups Hits Record High",
-    "description": "Tech giants are investing heavily in AI startups, signaling a strong belief in the potential of artificial intelligence to shape the future of business.",
+    "title": "How AI is Redefining the World of Finance",
+    "description": "Artificial intelligence is rapidly changing the landscape of finance, with advanced algorithms making real-time market predictions and automated trading systems becoming increasingly prevalent.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "September 21, 2022",
+    "source": "Financial Times",
+    "date": "October 13, 2021",
     "category": "Business"
+  },
+  {
+    "title": "Ethical Considerations in AI: A Growing Conversation",
+    "description": "As AI continues to permeate society, ethical considerations are increasingly coming into the spotlight. Experts are urging for stronger regulations to ensure AI systems are used fairly and responsibly.",
+    "url": "#",
+    "source": "BBC Technology",
+    "date": "October 13, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Over AI's Role in Hiring",
-    "description": "There is growing debate over the use of AI in hiring processes. Critics argue these systems may perpetuate bias, pointing to the need for more regulation.",
-    "url": "#",
-    "source": "The New York Times",
-    "date": "September 21, 2022",
-    "category": "Ethics"
-  },
-  {
-    "title": "AI Tools Transforming the World of Graphic Design",
-    "description": "New AI tools are revolutionizing graphic design, automating time-consuming tasks and unlocking new creative possibilities.",
+    "title": "New AI Tools Promote Accessibility in Tech",
+    "description": "Innovative AI tools are being developed to promote accessibility in technology, making digital spaces more inclusive for people with disabilities. From voice recognition to predictive text, AI is at the forefront of accessibility solutions.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 21, 2022",
+    "date": "October 13, 2021",
     "category": "Tools"
+  },
+  {
+    "title": "Groundbreaking Research in AI Enhances Climate Change Predictions",
+    "description": "New research has leveraged artificial intelligence to enhance the accuracy of climate change predictions. This breakthrough could help policymakers make more informed decisions to combat global warming.",
+    "url": "#",
+    "source": "Nature",
+    "date": "October 13, 2021",
+    "category": "Research"
   }
 ];
