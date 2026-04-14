@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Disease Diagnosis",
-    "description": "In a groundbreaking development, a new AI model has shown exceptional results in diagnosing diseases. It promises to revolutionize the field of medical diagnostics.",
+    "title": "OpenAI Unveils GPT-4: A New Milestone in AI Language Models",
+    "description": "OpenAI has introduced the fourth iteration of its groundbreaking language model, GPT-4. The AI model boasts advanced comprehension and generation capabilities, setting a new standard in the field.",
     "url": "#",
-    "source": "New York Times",
-    "date": "September 23, 2021",
+    "source": "TechCrunch",
+    "date": "November 23, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Invest Heavily in AI Tools",
-    "description": "Leading technology companies are making significant investments in AI tools. This trend underscores the growing importance of AI in today's digital world.",
+    "title": "AI Revolutionizes Healthcare: A Look at IBM's Watson in Action",
+    "description": "IBM's artificial intelligence tool, Watson, is making waves in the healthcare sector, assisting doctors in diagnosing diseases with unprecedented speed and accuracy.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 23, 2021",
+    "source": "The New York Times",
+    "date": "November 23, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Set to Transform the Business Landscape",
-    "description": "With its potential for automating tasks and improving decision-making, AI is poised to bring about massive changes in the business sector.",
+    "title": "Google's DeepMind Solves 50-Year-Old Biology Mystery",
+    "description": "Google's AI division, DeepMind, has solved a 50-year-old challenge in biology, predicting the 3D structures of proteins, marking a significant breakthrough in the field.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 23, 2021",
-    "category": "Business"
+    "source": "BBC",
+    "date": "November 23, 2021",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surround AI Developments",
-    "description": "As AI continues to evolve, so do ethical concerns surrounding its use. Experts call for robust regulations to ensure the technology is used responsibly.",
+    "title": "Microsoft's AI Ethical Guidelines: A Step Towards Responsible AI",
+    "description": "Microsoft has released ethical guidelines for its AI projects, aiming to ensure that AI technology is developed and used in a responsible and equitable manner.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "September 23, 2021",
+    "source": "The Wall Street Journal",
+    "date": "November 23, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Latest AI Tools Open New Horizons for Developers",
-    "description": "The emergence of new AI tools is a boon for developers. The tools not only streamline development processes but also open up new possibilities.",
+    "title": "Nvidia Launches New AI Tools for Developers",
+    "description": "Nvidia has rolled out a suite of new AI tools designed to assist developers in creating and implementing AI solutions more efficiently, reinforcing its position in the AI hardware and software market.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 23, 2021",
+    "source": "Forbes",
+    "date": "November 23, 2021",
     "category": "Tools"
   }
 ];
