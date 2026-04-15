@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "OpenAI Unveils GPT-4: A New Milestone in AI Language Models",
-    "description": "OpenAI has introduced the fourth iteration of its groundbreaking language model, GPT-4. The AI model boasts advanced comprehension and generation capabilities, setting a new standard in the field.",
+    "title": "AI Breakthrough: Controlling Quantum Computers Through AI",
+    "description": "In a revolutionary development, researchers have successfully used AI to control quantum computers. The breakthrough will open up new possibilities in quantum computing.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 23, 2021",
+    "source": "Scientific American",
+    "date": "November 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizes Healthcare: A Look at IBM's Watson in Action",
-    "description": "IBM's artificial intelligence tool, Watson, is making waves in the healthcare sector, assisting doctors in diagnosing diseases with unprecedented speed and accuracy.",
+    "title": "AI in Healthcare: Predicting Patient Outcomes",
+    "description": "Scientists have developed an AI model that can accurately predict patient outcomes. The new tool could revolutionize patient care and personalize medicine.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 23, 2021",
+    "source": "HealthTech Magazine",
+    "date": "November 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "Google's DeepMind Solves 50-Year-Old Biology Mystery",
-    "description": "Google's AI division, DeepMind, has solved a 50-year-old challenge in biology, predicting the 3D structures of proteins, marking a significant breakthrough in the field.",
+    "title": "AI Startups on the Rise: Record Investments in 2021",
+    "description": "Investors are pumping more money into AI startups than ever before. The trend underscores the growing importance of AI in our economy.",
     "url": "#",
-    "source": "BBC",
-    "date": "November 23, 2021",
-    "category": "Research"
+    "source": "Wall Street Journal",
+    "date": "November 30, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Microsoft's AI Ethical Guidelines: A Step Towards Responsible AI",
-    "description": "Microsoft has released ethical guidelines for its AI projects, aiming to ensure that AI technology is developed and used in a responsible and equitable manner.",
+    "title": "Ethical AI: Balancing Innovation and Fairness",
+    "description": "As AI becomes more prevalent, the conversation around ethical AI is more crucial than ever. Experts call for guidelines to ensure fairness in AI applications.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "November 23, 2021",
+    "source": "The Guardian",
+    "date": "November 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Nvidia Launches New AI Tools for Developers",
-    "description": "Nvidia has rolled out a suite of new AI tools designed to assist developers in creating and implementing AI solutions more efficiently, reinforcing its position in the AI hardware and software market.",
+    "title": "AI Tools: Democratizing AI with Open Source Software",
+    "description": "Open source AI tools are making AI accessible to more people. The trend could foster innovation and drive the AI industry forward.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 23, 2021",
+    "source": "TechCrunch",
+    "date": "November 30, 2021",
     "category": "Tools"
   }
 ];
