@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Controlling Quantum Computers Through AI",
-    "description": "In a revolutionary development, researchers have successfully used AI to control quantum computers. The breakthrough will open up new possibilities in quantum computing.",
+    "title": "AI Revolutionizes Cancer Diagnosis: A New Era in Medical Science",
+    "description": "Recent advancements in AI technology have led to revolutionary improvements in the field of cancer diagnosis, potentially saving millions of lives. Groundbreaking algorithms can now accurately detect and identify cancerous cells at a much earlier stage than traditional methods.",
     "url": "#",
-    "source": "Scientific American",
-    "date": "November 30, 2021",
+    "source": "Medical AI Today",
+    "date": "November 15, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Healthcare: Predicting Patient Outcomes",
-    "description": "Scientists have developed an AI model that can accurately predict patient outcomes. The new tool could revolutionize patient care and personalize medicine.",
+    "title": "Tech Giant Unveils AI-Powered Virtual Assistant With Unprecedented Accuracy",
+    "description": "The latest iteration of the popular virtual assistant powered by AI boasts improved speech recognition and predictive capabilities. This major breakthrough is expected to enhance user experience and set a new standard in the industry.",
     "url": "#",
-    "source": "HealthTech Magazine",
-    "date": "November 30, 2021",
+    "source": "TechWorld News",
+    "date": "November 15, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startups on the Rise: Record Investments in 2021",
-    "description": "Investors are pumping more money into AI startups than ever before. The trend underscores the growing importance of AI in our economy.",
+    "title": "AI Startup Secures $100 Million in Funding",
+    "description": "A promising AI startup focusing on autonomous driving technology has successfully secured $100 million in its latest funding round. This funding will expedite the development and deployment of their AI systems in vehicles.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "November 30, 2021",
+    "source": "Business Insider",
+    "date": "November 15, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: Balancing Innovation and Fairness",
-    "description": "As AI becomes more prevalent, the conversation around ethical AI is more crucial than ever. Experts call for guidelines to ensure fairness in AI applications.",
+    "title": "Laying Down the Law: New Regulations for AI Ethics",
+    "description": "In response to growing concerns about AI and privacy, a new set of regulations has been proposed to guide ethical AI development and usage. The regulations aim to protect individual privacy and prevent misuse of AI technologies.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 30, 2021",
+    "source": "The AI Ethics Journal",
+    "date": "November 15, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools: Democratizing AI with Open Source Software",
-    "description": "Open source AI tools are making AI accessible to more people. The trend could foster innovation and drive the AI industry forward.",
+    "title": "AI Developer Tools: The Next Big Thing in Software Engineering",
+    "description": "The growth in AI technology has triggered a surge in innovative AI developer tools. These tools are designed to streamline the AI development process, making it more accessible to programmers across the globe.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 30, 2021",
+    "date": "November 15, 2021",
     "category": "Tools"
   }
 ];
