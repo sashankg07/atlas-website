@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Cancer Diagnosis: A New Era in Medical Science",
-    "description": "Recent advancements in AI technology have led to revolutionary improvements in the field of cancer diagnosis, potentially saving millions of lives. Groundbreaking algorithms can now accurately detect and identify cancerous cells at a much earlier stage than traditional methods.",
+    "title": "AI Breaks New Ground in Disease Prediction",
+    "description": "Researchers have developed an AI model that can predict disease progression in a way never seen before. The breakthrough could revolutionize healthcare and diagnostics.",
     "url": "#",
-    "source": "Medical AI Today",
-    "date": "November 15, 2021",
+    "source": "The New York Times",
+    "date": "October 17, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils AI-Powered Virtual Assistant With Unprecedented Accuracy",
-    "description": "The latest iteration of the popular virtual assistant powered by AI boasts improved speech recognition and predictive capabilities. This major breakthrough is expected to enhance user experience and set a new standard in the industry.",
+    "title": "AI Pioneers Quantum Computing Advancements",
+    "description": "In a major breakthrough, AI has been used to solve complex quantum computing problems. This development could significantly speed up computational tasks.",
     "url": "#",
-    "source": "TechWorld News",
-    "date": "November 15, 2021",
+    "source": "The Wall Street Journal",
+    "date": "October 17, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Secures $100 Million in Funding",
-    "description": "A promising AI startup focusing on autonomous driving technology has successfully secured $100 million in its latest funding round. This funding will expedite the development and deployment of their AI systems in vehicles.",
+    "title": "AI Startup Raises Millions in Investment",
+    "description": "An AI startup specializing in autonomous vehicles has raised millions in a recent investment round, signaling strong investor confidence in the AI industry.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "November 15, 2021",
+    "source": "Forbes",
+    "date": "October 17, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Laying Down the Law: New Regulations for AI Ethics",
-    "description": "In response to growing concerns about AI and privacy, a new set of regulations has been proposed to guide ethical AI development and usage. The regulations aim to protect individual privacy and prevent misuse of AI technologies.",
+    "title": "New Ethical Guidelines for AI Proposed",
+    "description": "A leading tech firm has proposed new ethical guidelines for AI development and usage, emphasizing transparency and fairness.",
     "url": "#",
-    "source": "The AI Ethics Journal",
-    "date": "November 15, 2021",
+    "source": "The Guardian",
+    "date": "October 17, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Developer Tools: The Next Big Thing in Software Engineering",
-    "description": "The growth in AI technology has triggered a surge in innovative AI developer tools. These tools are designed to streamline the AI development process, making it more accessible to programmers across the globe.",
+    "title": "AI Driven Tool Simplifies Software Development",
+    "description": "A new AI-powered tool that simplifies software development has been launched. It promises to significantly reduce coding errors and improve the overall quality of software.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 15, 2021",
+    "date": "October 17, 2021",
     "category": "Tools"
   }
 ];
