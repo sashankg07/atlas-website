@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Disease Prediction",
-    "description": "Researchers have developed an AI model that can predict disease progression in a way never seen before. The breakthrough could revolutionize healthcare and diagnostics.",
+    "title": "AI Revolutionizes Healthcare Diagnostics",
+    "description": "Groundbreaking AI technology is transforming the healthcare sector by enabling faster and more accurate diagnostics. This development is expected to significantly improve patient outcomes and reduce healthcare costs.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 17, 2021",
-    "category": "Research"
-  },
-  {
-    "title": "AI Pioneers Quantum Computing Advancements",
-    "description": "In a major breakthrough, AI has been used to solve complex quantum computing problems. This development could significantly speed up computational tasks.",
-    "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "October 17, 2021",
+    "source": "AI Today",
+    "date": "November 03, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises Millions in Investment",
-    "description": "An AI startup specializing in autonomous vehicles has raised millions in a recent investment round, signaling strong investor confidence in the AI industry.",
+    "title": "IBM's New AI Model Predicts Climate Change Impact",
+    "description": "IBM's latest AI model is set to revolutionize climate change predictions. The model can accurately forecast the impact of climate change on local environments around the globe.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 17, 2021",
-    "category": "Business"
+    "source": "The AI Journal",
+    "date": "November 03, 2021",
+    "category": "Research"
+  },
+  {
+    "title": "Ethical Implications of AI in Surveillance Explored",
+    "description": "As AI technology becomes increasingly integrated into surveillance systems, concerns about privacy and ethics are rising. Experts call for stricter regulations and transparent practices.",
+    "url": "#",
+    "source": "AI News Network",
+    "date": "November 03, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Ethical Guidelines for AI Proposed",
-    "description": "A leading tech firm has proposed new ethical guidelines for AI development and usage, emphasizing transparency and fairness.",
+    "title": "AI Startups Booming Amid Pandemic",
+    "description": "The AI startup scene is experiencing significant growth, with investors pouring in billions of dollars despite the ongoing pandemic. This trend underscores the increasing relevance of AI across various industries.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 17, 2021",
-    "category": "Ethics"
+    "source": "AI Business Times",
+    "date": "November 03, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI Driven Tool Simplifies Software Development",
-    "description": "A new AI-powered tool that simplifies software development has been launched. It promises to significantly reduce coding errors and improve the overall quality of software.",
+    "title": "Google's New AI Tool Helps Preserve Endangered Languages",
+    "description": "Google's latest AI tool aims to preserve endangered languages by using AI to understand, translate, and teach these languages. The tool could play a crucial role in cultural preservation.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 17, 2021",
+    "source": "AI Tech News",
+    "date": "November 03, 2021",
     "category": "Tools"
   }
 ];
