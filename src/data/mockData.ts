@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Predicts Climate Change Patterns with Unprecedented Accuracy",
-    "description": "A groundbreaking AI model developed by researchers has shown potential in predicting climate change patterns with remarkable precision. The model utilizes deep learning algorithms to analyze vast amounts of climate data and make accurate predictions.",
+    "title": "AI Breakthrough: AI Helps Decode Complex Brain Signals",
+    "description": "Researchers have developed an AI that can decode complex brain signals, potentially leading to new treatments for neurological disorders. This groundbreaking study shows promising steps towards understanding the human brain.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 05, 2021",
+    "source": "Science Daily",
+    "date": "October 13, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Transforming Healthcare: Personalized Medicine on the Rise",
-    "description": "AI technologies are reshaping the healthcare industry, delivering personalized medicine that targets individual genetic makeup. These developments could revolutionize treatments for numerous diseases, including cancer.",
+    "title": "AI in Business: How AI is Revolutionizing Customer Experience",
+    "description": "Businesses are increasingly using AI to enhance customer experience, with chatbots and predictive analytics leading the charge. This trend shows AI's expanding role in business operations and strategy.",
     "url": "#",
     "source": "Forbes",
-    "date": "November 05, 2021",
-    "category": "Technology"
+    "date": "October 13, 2021",
+    "category": "Business"
   },
   {
-    "title": "Microsoft Acquires AI Startup to Bolster Cloud Services",
-    "description": "Microsoft recently announced the acquisition of a prominent AI startup, aiming to enhance its cloud services. The acquisition highlights the growing role of AI in business strategies.",
+    "title": "AI Ethics: Balancing Innovation and Responsibility",
+    "description": "As AI continues to evolve, there is a growing call for ethical guidelines to ensure its responsible use. Experts argue that balancing innovation and ethical considerations is crucial for sustainable AI development.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "November 05, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "October 13, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Questioned in Recent Autonomous Vehicle Incidents",
-    "description": "Recent incidents involving autonomous vehicles have raised important questions about AI ethics and safety. Experts are calling for better regulations and transparency in AI systems.",
+    "title": "New AI Tool for Efficient Data Analysis",
+    "description": "A new AI tool has been developed that significantly increases the efficiency of data analysis, offering businesses a faster and more accurate way to understand their data.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 05, 2021",
-    "category": "Ethics"
+    "source": "Tech Crunch",
+    "date": "October 13, 2021",
+    "category": "Tools"
   },
   {
-    "title": "Google Launches New AI Tools to Streamline Workflow",
-    "description": "Google has introduced a set of AI-powered tools designed to boost productivity and streamline workflow. The tools leverage machine learning to automate routine tasks, freeing up time for more strategic work.",
+    "title": "AI Technology: The Future of Autonomous Vehicles",
+    "description": "With advancements in AI technology, the dream of fully autonomous vehicles is fast becoming a reality. Recent developments show promising progress in AI-powered transportation.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 05, 2021",
-    "category": "Tools"
+    "source": "The Verge",
+    "date": "October 13, 2021",
+    "category": "Technology"
   }
 ];
