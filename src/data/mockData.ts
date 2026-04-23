@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: AI Helps Decode Complex Brain Signals",
-    "description": "Researchers have developed an AI that can decode complex brain signals, potentially leading to new treatments for neurological disorders. This groundbreaking study shows promising steps towards understanding the human brain.",
+    "title": "AI Breaks New Ground in Drug Discovery",
+    "description": "Artificial Intelligence is revolutionizing drug discovery by predicting the success of novel drugs. This could significantly shorten the time to market for new life-saving treatments.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "October 13, 2021",
+    "source": "New York Times",
+    "date": "November 27, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Business: How AI is Revolutionizing Customer Experience",
-    "description": "Businesses are increasingly using AI to enhance customer experience, with chatbots and predictive analytics leading the charge. This trend shows AI's expanding role in business operations and strategy.",
-    "url": "#",
-    "source": "Forbes",
-    "date": "October 13, 2021",
-    "category": "Business"
-  },
-  {
-    "title": "AI Ethics: Balancing Innovation and Responsibility",
-    "description": "As AI continues to evolve, there is a growing call for ethical guidelines to ensure its responsible use. Experts argue that balancing innovation and ethical considerations is crucial for sustainable AI development.",
+    "title": "AI-powered Drones Change the Game in Environmental Conservation",
+    "description": "A new breed of AI-enabled drones provides an unprecedented level of accuracy in environmental monitoring, opening up new possibilities for conservation efforts.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 13, 2021",
-    "category": "Ethics"
+    "date": "November 27, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Startups Continue to Attract Record Investment in 2021",
+    "description": "Despite global economic uncertainties, AI startups continue to attract record levels of investment, highlighting the growing importance of AI in the business world.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "November 27, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool for Efficient Data Analysis",
-    "description": "A new AI tool has been developed that significantly increases the efficiency of data analysis, offering businesses a faster and more accurate way to understand their data.",
+    "title": "Ethical Guidelines for AI: A Growing Concern",
+    "description": "As AI continues to evolve and permeate our lives, the need for ethical guidelines becomes increasingly apparent. Governments and organizations are now working to address this pressing issue.",
     "url": "#",
-    "source": "Tech Crunch",
-    "date": "October 13, 2021",
-    "category": "Tools"
+    "source": "The Washington Post",
+    "date": "November 27, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Technology: The Future of Autonomous Vehicles",
-    "description": "With advancements in AI technology, the dream of fully autonomous vehicles is fast becoming a reality. Recent developments show promising progress in AI-powered transportation.",
+    "title": "AI Tools Transforming the World of Design",
+    "description": "AI tools are bringing about a paradigm shift in the design industry, enabling designers to automate tedious tasks and focus more on creativity.",
     "url": "#",
     "source": "The Verge",
-    "date": "October 13, 2021",
-    "category": "Technology"
+    "date": "November 27, 2021",
+    "category": "Tools"
   }
 ];
