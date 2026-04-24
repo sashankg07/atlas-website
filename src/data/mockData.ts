@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Drug Discovery",
-    "description": "Artificial Intelligence is revolutionizing drug discovery by predicting the success of novel drugs. This could significantly shorten the time to market for new life-saving treatments.",
+    "title": "AI Breaks New Ground in Neurological Disorder Treatment",
+    "description": "Researchers have developed a novel AI model that shows incredible promise in diagnosing and treating various neurological disorders. This breakthrough could redefine the way we approach mental health.",
     "url": "#",
-    "source": "New York Times",
-    "date": "November 27, 2021",
+    "source": "The Guardian",
+    "date": "November 24, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-powered Drones Change the Game in Environmental Conservation",
-    "description": "A new breed of AI-enabled drones provides an unprecedented level of accuracy in environmental monitoring, opening up new possibilities for conservation efforts.",
+    "title": "Tech Giant Unveils Next-Gen AI-Powered Virtual Assistant",
+    "description": "A leading tech company has introduced its latest AI-powered virtual assistant which boasts advanced understanding of human speech, setting a new standard in the tech industry.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 27, 2021",
+    "source": "TechCrunch",
+    "date": "November 24, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startups Continue to Attract Record Investment in 2021",
-    "description": "Despite global economic uncertainties, AI startups continue to attract record levels of investment, highlighting the growing importance of AI in the business world.",
+    "title": "AI Start-up Raises $100M in Series B Funding",
+    "description": "An AI start-up specializing in autonomous vehicles has secured $100 million in Series B funding, signaling investor confidence in AI's role in revolutionizing transportation.",
     "url": "#",
     "source": "Forbes",
-    "date": "November 27, 2021",
+    "date": "November 24, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Guidelines for AI: A Growing Concern",
-    "description": "As AI continues to evolve and permeate our lives, the need for ethical guidelines becomes increasingly apparent. Governments and organizations are now working to address this pressing issue.",
+    "title": "Ethical Considerations in AI: A Growing Concern",
+    "description": "As AI continues to evolve, so does the concern about its ethical implications. Experts are calling for stricter regulations to manage these emerging technologies.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "November 27, 2021",
+    "source": "Wired",
+    "date": "November 24, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools Transforming the World of Design",
-    "description": "AI tools are bringing about a paradigm shift in the design industry, enabling designers to automate tedious tasks and focus more on creativity.",
+    "title": "New AI Tool Predicts Climate Change Impact with Unprecedented Accuracy",
+    "description": "A groundbreaking AI tool has been developed that can predict the impacts of climate change with greater accuracy than ever before, offering valuable insights for future planning.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 27, 2021",
+    "source": "Nature",
+    "date": "November 24, 2022",
     "category": "Tools"
   }
 ];
