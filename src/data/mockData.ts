@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Neurological Disorder Treatment",
-    "description": "Researchers have developed a novel AI model that shows incredible promise in diagnosing and treating various neurological disorders. This breakthrough could redefine the way we approach mental health.",
+    "title": "AI Predicts Heart Disease with Unprecedented Accuracy",
+    "description": "A groundbreaking new AI model developed by researchers has shown unprecedented accuracy in predicting heart disease. The tool uses machine learning to analyze a wide range of data, offering a more comprehensive risk assessment.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 24, 2022",
+    "source": "The New York Times",
+    "date": "December 20, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Next-Gen AI-Powered Virtual Assistant",
-    "description": "A leading tech company has introduced its latest AI-powered virtual assistant which boasts advanced understanding of human speech, setting a new standard in the tech industry.",
+    "title": "AI's Role in Climate Change Mitigation",
+    "description": "A recent report highlights how artificial intelligence is being used to combat climate change. AI technology, with its predictive and modeling capabilities, is proving to be a key tool in understanding and addressing climate-related challenges.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 24, 2022",
+    "source": "The Guardian",
+    "date": "December 20, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-up Raises $100M in Series B Funding",
-    "description": "An AI start-up specializing in autonomous vehicles has secured $100 million in Series B funding, signaling investor confidence in AI's role in revolutionizing transportation.",
+    "title": "Tech Giant Acquires AI Start-up for Improved User Experience",
+    "description": "A leading tech company has made a strategic acquisition of a promising AI start-up. The move is expected to significantly enhance the tech giant's user experience and personalization capabilities.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 24, 2022",
+    "source": "Bloomberg",
+    "date": "December 20, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI: A Growing Concern",
-    "description": "As AI continues to evolve, so does the concern about its ethical implications. Experts are calling for stricter regulations to manage these emerging technologies.",
+    "title": "New Guidelines for AI Ethics in Healthcare",
+    "description": "The healthcare industry is grappling with ethical implications of AI and machine learning. A set of new guidelines has been proposed to ensure ethical considerations are at the forefront of AI integration in healthcare.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 24, 2022",
+    "source": "The Lancet",
+    "date": "December 20, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Impact with Unprecedented Accuracy",
-    "description": "A groundbreaking AI tool has been developed that can predict the impacts of climate change with greater accuracy than ever before, offering valuable insights for future planning.",
+    "title": "AI Toolset Revolutionizes Graphic Design",
+    "description": "A new toolset powered by AI is set to transform the world of graphic design. The tools offer features like automatic layout suggestions and smart color matching, significantly speeding up the design process.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 24, 2022",
+    "source": "Adobe Blog",
+    "date": "December 20, 2021",
     "category": "Tools"
   }
 ];
