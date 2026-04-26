@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Predicts Heart Disease with Unprecedented Accuracy",
-    "description": "A groundbreaking new AI model developed by researchers has shown unprecedented accuracy in predicting heart disease. The tool uses machine learning to analyze a wide range of data, offering a more comprehensive risk assessment.",
+    "title": "Groundbreaking AI System Decodes Brain Signals into Text",
+    "description": "Scientists have developed an AI system capable of translating brain signals into text with unprecedented accuracy. This breakthrough could provide a voice to those unable to speak.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "December 20, 2021",
+    "source": "Nature Magazine",
+    "date": "March 23, 2023",
     "category": "Research"
   },
   {
-    "title": "AI's Role in Climate Change Mitigation",
-    "description": "A recent report highlights how artificial intelligence is being used to combat climate change. AI technology, with its predictive and modeling capabilities, is proving to be a key tool in understanding and addressing climate-related challenges.",
+    "title": "AI Beats Human Experts in Spotting Breast Cancer",
+    "description": "A new AI model has surpassed human radiologists in detecting breast cancer in mammograms. The technology promises to revolutionize early detection and treatment.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 20, 2021",
+    "source": "MIT Technology Review",
+    "date": "March 23, 2023",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Acquires AI Start-up for Improved User Experience",
-    "description": "A leading tech company has made a strategic acquisition of a promising AI start-up. The move is expected to significantly enhance the tech giant's user experience and personalization capabilities.",
+    "title": "IBM Unveils AI that Can Debate with Humans",
+    "description": "IBM has unveiled Project Debater, an AI system that can engage in a complex debate with humans. This marks a significant step forward in natural language processing.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "December 20, 2021",
+    "source": "The Wall Street Journal",
+    "date": "March 23, 2023",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Guidelines for AI Ethics in Healthcare",
-    "description": "The healthcare industry is grappling with ethical implications of AI and machine learning. A set of new guidelines has been proposed to ensure ethical considerations are at the forefront of AI integration in healthcare.",
+    "title": "Ethical AI: A Global Framework Emerges",
+    "description": "A coalition of tech companies, academics, and NGOs have proposed the first global framework for ethical AI. The initiative aims to promote transparency, fairness, and accountability in AI.",
     "url": "#",
-    "source": "The Lancet",
-    "date": "December 20, 2021",
+    "source": "TechCrunch",
+    "date": "March 23, 2023",
     "category": "Ethics"
   },
   {
-    "title": "AI Toolset Revolutionizes Graphic Design",
-    "description": "A new toolset powered by AI is set to transform the world of graphic design. The tools offer features like automatic layout suggestions and smart color matching, significantly speeding up the design process.",
+    "title": "OpenAI Unveils GPT-4: Even More Powerful Language Model",
+    "description": "OpenAI has released GPT-4, its latest language model. The AI tool is expected to dramatically enhance a range of applications, from chatbots to content generation.",
     "url": "#",
-    "source": "Adobe Blog",
-    "date": "December 20, 2021",
+    "source": "OpenAI Blog",
+    "date": "March 23, 2023",
     "category": "Tools"
   }
 ];
