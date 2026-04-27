@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI System Decodes Brain Signals into Text",
-    "description": "Scientists have developed an AI system capable of translating brain signals into text with unprecedented accuracy. This breakthrough could provide a voice to those unable to speak.",
+    "title": "AI Beats Human Doctors in Diagnosing Skin Cancer: A Landmark Study",
+    "description": "In a groundbreaking study, artificial intelligence has dramatically outperformed a team of dermatologists in diagnosing skin cancer. This AI breakthrough could revolutionize the healthcare industry.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "March 23, 2023",
+    "source": "The Guardian",
+    "date": "September 21, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Beats Human Experts in Spotting Breast Cancer",
-    "description": "A new AI model has surpassed human radiologists in detecting breast cancer in mammograms. The technology promises to revolutionize early detection and treatment.",
+    "title": "Google's AI Can Now Predict Weather Patterns with Incredible Accuracy",
+    "description": "Google has developed an AI model capable of predicting weather patterns with unprecedented precision. The system could significantly improve local weather forecasts, aiding in disaster management.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "March 23, 2023",
+    "source": "TechCrunch",
+    "date": "September 21, 2022",
     "category": "Technology"
   },
   {
-    "title": "IBM Unveils AI that Can Debate with Humans",
-    "description": "IBM has unveiled Project Debater, an AI system that can engage in a complex debate with humans. This marks a significant step forward in natural language processing.",
+    "title": "Apple Acquires AI Startup Focusing on Edge Computing",
+    "description": "Apple has acquired an AI startup that specializes in edge computing, aiming to enhance the AI capabilities of its devices while minimizing the data sent to the cloud.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "March 23, 2023",
+    "source": "Bloomberg",
+    "date": "September 21, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: A Global Framework Emerges",
-    "description": "A coalition of tech companies, academics, and NGOs have proposed the first global framework for ethical AI. The initiative aims to promote transparency, fairness, and accountability in AI.",
+    "title": "AI Ethics Becomes a Major Focus in Tech Companies",
+    "description": "Tech giants are increasingly implementing AI ethics guidelines to ensure the responsible use of artificial intelligence. The move is seen as a crucial step to address growing concerns about AI's societal impact.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 23, 2023",
+    "source": "The New York Times",
+    "date": "September 21, 2022",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Unveils GPT-4: Even More Powerful Language Model",
-    "description": "OpenAI has released GPT-4, its latest language model. The AI tool is expected to dramatically enhance a range of applications, from chatbots to content generation.",
+    "title": "OpenAI Releases Powerful NLP Tool, Expanding AI's Linguistic Capabilities",
+    "description": "OpenAI has released a new natural language processing tool that can understand and generate human-like text. The tool could pave the way for more sophisticated AI communication.",
     "url": "#",
-    "source": "OpenAI Blog",
-    "date": "March 23, 2023",
+    "source": "Wired",
+    "date": "September 21, 2022",
     "category": "Tools"
   }
 ];
