@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Beats Human Doctors in Diagnosing Skin Cancer: A Landmark Study",
-    "description": "In a groundbreaking study, artificial intelligence has dramatically outperformed a team of dermatologists in diagnosing skin cancer. This AI breakthrough could revolutionize the healthcare industry.",
+    "title": "DeepMind Solves 50-Year-Old 'Protein Folding' Problem",
+    "description": "DeepMind's AI program AlphaFold has made a major breakthrough in bioscience by solving the 50-year-old challenge of protein folding. This development could accelerate research in diseases like cancer and COVID-19.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 21, 2022",
+    "date": "September 14, 2021",
     "category": "Research"
   },
   {
-    "title": "Google's AI Can Now Predict Weather Patterns with Incredible Accuracy",
-    "description": "Google has developed an AI model capable of predicting weather patterns with unprecedented precision. The system could significantly improve local weather forecasts, aiding in disaster management.",
+    "title": "AI Is Now Capable of Creating Lifelike Art and Music",
+    "description": "AI programs are now capable of creating stunningly realistic art and music, opening a new chapter in creativity. These developments are revolutionizing the creative industry.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 21, 2022",
+    "source": "The New York Times",
+    "date": "September 14, 2021",
     "category": "Technology"
   },
   {
-    "title": "Apple Acquires AI Startup Focusing on Edge Computing",
-    "description": "Apple has acquired an AI startup that specializes in edge computing, aiming to enhance the AI capabilities of its devices while minimizing the data sent to the cloud.",
+    "title": "AI in Business: Companies Leveraging AI for Competitive Advantage",
+    "description": "More and more businesses are turning to AI for a competitive edge, transforming industries. This trend is expected to continue as the technology becomes more accessible.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "September 21, 2022",
+    "source": "Forbes",
+    "date": "September 14, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Becomes a Major Focus in Tech Companies",
-    "description": "Tech giants are increasingly implementing AI ethics guidelines to ensure the responsible use of artificial intelligence. The move is seen as a crucial step to address growing concerns about AI's societal impact.",
+    "title": "Ethical Questions Surrounding the Use of AI in Surveillance",
+    "description": "As AI is increasingly used in surveillance, ethical questions are being raised about privacy and consent. Experts are calling for regulations to guide its use.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 21, 2022",
+    "source": "BBC",
+    "date": "September 14, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases Powerful NLP Tool, Expanding AI's Linguistic Capabilities",
-    "description": "OpenAI has released a new natural language processing tool that can understand and generate human-like text. The tool could pave the way for more sophisticated AI communication.",
+    "title": "AI Tools Transforming Software Development",
+    "description": "AI-powered tools are changing the way software is developed, making it faster and more efficient. These tools are predicted to dominate the future of software development.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 21, 2022",
+    "source": "TechCrunch",
+    "date": "September 14, 2021",
     "category": "Tools"
   }
 ];
