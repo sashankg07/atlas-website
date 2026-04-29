@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "DeepMind Solves 50-Year-Old 'Protein Folding' Problem",
-    "description": "DeepMind's AI program AlphaFold has made a major breakthrough in bioscience by solving the 50-year-old challenge of protein folding. This development could accelerate research in diseases like cancer and COVID-19.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "September 14, 2021",
-    "category": "Research"
-  },
-  {
-    "title": "AI Is Now Capable of Creating Lifelike Art and Music",
-    "description": "AI programs are now capable of creating stunningly realistic art and music, opening a new chapter in creativity. These developments are revolutionizing the creative industry.",
+    "title": "AI Revolutionizes Medical Imaging",
+    "description": "Artificial Intelligence is transforming the field of medical imaging, enhancing diagnostics and treatment plans. With the power of AI, healthcare professionals can identify and analyze diseases more accurately and efficiently.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 14, 2021",
+    "date": "September 17, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI in Business: Companies Leveraging AI for Competitive Advantage",
-    "description": "More and more businesses are turning to AI for a competitive edge, transforming industries. This trend is expected to continue as the technology becomes more accessible.",
+    "title": "Emerging AI Trends in E-commerce",
+    "description": "From personalized recommendations to intelligent search functions, AI is reshaping the e-commerce landscape. Businesses are leveraging AI to improve customer experience and boost sales.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 14, 2021",
+    "source": "TechCrunch",
+    "date": "September 17, 2021",
     "category": "Business"
+  },
+  {
+    "title": "AI Ethics: Balancing Benefits and Risks",
+    "description": "As AI continues to advance, ethical considerations are becoming increasingly important. Experts call for careful management of AI to prevent misuse and ensure it benefits society as a whole.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "September 17, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Questions Surrounding the Use of AI in Surveillance",
-    "description": "As AI is increasingly used in surveillance, ethical questions are being raised about privacy and consent. Experts are calling for regulations to guide its use.",
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "A new AI-powered tool is helping researchers analyze complex datasets with ease. The tool's advanced algorithms can extract meaningful insights from raw data, accelerating the pace of research.",
     "url": "#",
-    "source": "BBC",
-    "date": "September 14, 2021",
-    "category": "Ethics"
+    "source": "Nature",
+    "date": "September 17, 2021",
+    "category": "Tools"
   },
   {
-    "title": "AI Tools Transforming Software Development",
-    "description": "AI-powered tools are changing the way software is developed, making it faster and more efficient. These tools are predicted to dominate the future of software development.",
+    "title": "Breakthrough in AI Research: Machines Learning to Reason",
+    "description": "A groundbreaking study has demonstrated that machines can now learn to reason abstractly, a significant leap forward in AI research. This could pave the way for more intelligent and versatile AI systems.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 14, 2021",
-    "category": "Tools"
+    "source": "Science Daily",
+    "date": "September 17, 2021",
+    "category": "Research"
   }
 ];
