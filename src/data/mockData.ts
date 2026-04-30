@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Medical Imaging",
-    "description": "Artificial Intelligence is transforming the field of medical imaging, enhancing diagnostics and treatment plans. With the power of AI, healthcare professionals can identify and analyze diseases more accurately and efficiently.",
+    "title": "AI Breaks New Ground in Disease Diagnosis",
+    "description": "A ground-breaking AI model has proven capable of diagnosing diseases with an accuracy surpassing human doctors. This revolutionary development could reshape the medical industry.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 17, 2021",
+    "source": "BBC News",
+    "date": "September 23, 2022",
+    "category": "Research"
+  },
+  {
+    "title": "AI-driven Climate Change Solutions Gain Momentum",
+    "description": "Innovative AI technologies are being harnessed to combat climate change, offering new hope for environmental preservation efforts. These solutions range from predictive climate models to energy-efficient algorithms.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "September 23, 2022",
     "category": "Technology"
   },
   {
-    "title": "Emerging AI Trends in E-commerce",
-    "description": "From personalized recommendations to intelligent search functions, AI is reshaping the e-commerce landscape. Businesses are leveraging AI to improve customer experience and boost sales.",
+    "title": "Big Business Adopts AI for Competitive Edge",
+    "description": "Corporations are increasingly implementing AI solutions for strategic advantages, leading to massive productivity boosts and efficiency gains. This adoption wave signals a paradigm shift in business strategy.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 17, 2021",
+    "source": "Forbes",
+    "date": "September 23, 2022",
     "category": "Business"
-  },
-  {
-    "title": "AI Ethics: Balancing Benefits and Risks",
-    "description": "As AI continues to advance, ethical considerations are becoming increasingly important. Experts call for careful management of AI to prevent misuse and ensure it benefits society as a whole.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "September 17, 2021",
-    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "A new AI-powered tool is helping researchers analyze complex datasets with ease. The tool's advanced algorithms can extract meaningful insights from raw data, accelerating the pace of research.",
+    "title": "Concerns Rise Over Bias in AI Decision-Making",
+    "description": "Concerns over inherent biases in AI algorithms have sparked intense debates in the tech community. This issue underlines the urgent need for inclusive and ethical AI development practices.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 17, 2021",
-    "category": "Tools"
+    "source": "The New York Times",
+    "date": "September 23, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "Breakthrough in AI Research: Machines Learning to Reason",
-    "description": "A groundbreaking study has demonstrated that machines can now learn to reason abstractly, a significant leap forward in AI research. This could pave the way for more intelligent and versatile AI systems.",
+    "title": "New AI Tools Transform Software Development",
+    "description": "Emerging AI-powered tools are revolutionizing software development, automating complex tasks and significantly reducing production times. These advancements are set to redefine the tech landscape.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "September 17, 2021",
-    "category": "Research"
+    "source": "Wired",
+    "date": "September 23, 2022",
+    "category": "Tools"
   }
 ];
