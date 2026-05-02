@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: DeepMind Solves 50-Year-Old 'Protein Folding' Challenge",
-    "description": "Google's DeepMind has made a major breakthrough in AI by solving the 50-year-old 'protein folding' problem. This could revolutionize the understanding of diseases and the development of drugs.",
+    "title": "AI Breaks Ground with Unprecedented Language Understanding Capabilities",
+    "description": "A new AI model has demonstrated an unprecedented understanding of natural language, outperforming previous models in benchmark tests. The development could revolutionize how we interact with AI, from customer service to personal assistants.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 30, 2021",
+    "source": "The AI Journal",
+    "date": "October 29, 2021",
     "category": "Research"
   },
   {
-    "title": "Artificial Intelligence to Power New Era of Autonomous Vehicles",
-    "description": "AI is set to transform the automotive industry with autonomous vehicles becoming increasingly sophisticated. The integration of AI is predicted to improve safety, efficiency, and user experience.",
+    "title": "Groundbreaking AI Tool Predicts Climate Change Impact",
+    "description": "Scientists have developed an AI tool that can accurately predict the impact of climate change. The tool could be instrumental in helping policymakers make informed decisions about climate change mitigation strategies.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 30, 2021",
+    "source": "Science Daily",
+    "date": "October 29, 2021",
     "category": "Technology"
   },
   {
-    "title": "Microsoft's AI Technology Boosts Business Operations",
-    "description": "Microsoft has unveiled new AI technology that can enhance business operations through improved data analysis. The technology promises to help businesses make more informed, data-driven decisions.",
+    "title": "AI Startup Raises Millions in Funding for Healthcare Innovation",
+    "description": "A promising AI startup has secured millions in funding to develop AI solutions for healthcare. The company aims to improve diagnostics and treatment plans through machine learning.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "November 30, 2021",
+    "source": "TechCrunch",
+    "date": "October 29, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: The Importance of Making AI Fair, Transparent, and Accountable",
-    "description": "As AI becomes widespread, calls for legislation ensuring fairness, transparency, and accountability have intensified. This highlights the growing importance of ethical considerations in AI development.",
+    "title": "Ethics in AI: Navigating the Challenges of Bias and Fairness",
+    "description": "As AI becomes increasingly integrated into our lives, the issue of bias and fairness has come to the forefront. Experts discuss potential solutions and the importance of transparency in AI systems.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 30, 2021",
+    "date": "October 29, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI's New Tool Promises to Streamline AI Training",
-    "description": "OpenAI has released a new tool that aims to simplify and accelerate the process of training AI models. This could unlock new possibilities in AI development and application.",
+    "title": "Google Launches New AI Tools for Developers",
+    "description": "Google has launched a suite of new AI tools for developers, aimed at making AI development more accessible and efficient. The tools will help developers create AI applications with less coding.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 30, 2021",
+    "source": "CNET",
+    "date": "October 29, 2021",
     "category": "Tools"
   }
 ];
