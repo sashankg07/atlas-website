@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks Ground with Unprecedented Language Understanding Capabilities",
-    "description": "A new AI model has demonstrated an unprecedented understanding of natural language, outperforming previous models in benchmark tests. The development could revolutionize how we interact with AI, from customer service to personal assistants.",
+    "title": "AI Breaks New Ground in Early Cancer Detection",
+    "description": "Researchers have developed an AI model that can predict the likelihood of cancer earlier than traditional methods. This breakthrough could drastically change the future of healthcare, making it more proactive than reactive.",
     "url": "#",
     "source": "The AI Journal",
-    "date": "October 29, 2021",
+    "date": "September 21, 2022",
     "category": "Research"
   },
   {
-    "title": "Groundbreaking AI Tool Predicts Climate Change Impact",
-    "description": "Scientists have developed an AI tool that can accurately predict the impact of climate change. The tool could be instrumental in helping policymakers make informed decisions about climate change mitigation strategies.",
+    "title": "Tech Giant Launches New AI-powered Virtual Assistant",
+    "description": "The newest virtual assistant on the market takes voice recognition to the next level by using AI to learn and adapt to each user's unique needs, promising a more personalized experience than ever before.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "October 29, 2021",
+    "source": "TechCrunch",
+    "date": "September 21, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises Millions in Funding for Healthcare Innovation",
-    "description": "A promising AI startup has secured millions in funding to develop AI solutions for healthcare. The company aims to improve diagnostics and treatment plans through machine learning.",
+    "title": "AI Start-up Raises $100M in Series B Funding",
+    "description": "The AI start-up, known for its innovative use of machine learning in logistics, has successfully raised $100 million in its latest funding round, signifying investor confidence in the AI sector.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 29, 2021",
+    "source": "Business Insider",
+    "date": "September 21, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: Navigating the Challenges of Bias and Fairness",
-    "description": "As AI becomes increasingly integrated into our lives, the issue of bias and fairness has come to the forefront. Experts discuss potential solutions and the importance of transparency in AI systems.",
+    "title": "Ethical Concerns Raised Over AI Facial Recognition",
+    "description": "The use of AI in facial recognition technology has stoked controversy due to its potential misuse in surveillance and privacy infringement, sparking important discussions on the ethical implications of AI.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 29, 2021",
+    "date": "September 21, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Google Launches New AI Tools for Developers",
-    "description": "Google has launched a suite of new AI tools for developers, aimed at making AI development more accessible and efficient. The tools will help developers create AI applications with less coding.",
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "A newly released AI tool aims to simplify complex data analysis, making it more accessible to businesses of all sizes. Its intuitive interface and powerful AI engine are set to revolutionize the way companies understand their data.",
     "url": "#",
-    "source": "CNET",
-    "date": "October 29, 2021",
+    "source": "Data Science Weekly",
+    "date": "September 21, 2022",
     "category": "Tools"
   }
 ];
