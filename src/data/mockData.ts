@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI System Outperforms Experts in Breast Cancer Detection",
-    "description": "A new artificial intelligence system developed by a team of researchers surpasses radiologists in detecting breast cancer. The system is expected to significantly improve diagnostic accuracy and patient outcomes.",
+    "title": "A Step Closer to AI Consciousness: Researchers Develop Self-Aware AI",
+    "description": "A team of international scientists has made a significant breakthrough in AI research by creating an AI model capable of self-awareness. This development brings us one step closer to understanding consciousness in artificial systems.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "March 20, 2023",
+    "source": "AI Daily",
+    "date": "October 24, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Robots Revolutionize the Supply Chain Industry",
-    "description": "Leading logistics companies are integrating AI-powered robots into their supply chains. These robots are transforming the industry by increasing efficiency and reducing human error.",
+    "title": "AI is Revolutionizing the Healthcare Industry",
+    "description": "With the power of artificial intelligence, healthcare professionals are now able to diagnose diseases with more precision than ever before. AI is also helping to streamline administrative tasks, freeing up more time for patient care.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "March 20, 2023",
-    "category": "Business"
+    "source": "Tech Times",
+    "date": "October 24, 2022",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Impact",
-    "description": "A groundbreaking AI tool can now predict the impact of climate change with unprecedented accuracy. This development could play a critical role in shaping future environmental policies.",
+    "title": "IBM Unveils New AI that Predicts Market Trends",
+    "description": "IBM's latest AI tool can predict market trends with remarkable accuracy, opening up new opportunities for businesses to optimize their strategies. This tool is set to revolutionize the way businesses make decisions.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "March 20, 2023",
-    "category": "Technology"
+    "source": "Business Insider",
+    "date": "October 24, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Issues Surrounding AI in Healthcare",
-    "description": "Despite the potential benefits of AI in healthcare, there are growing concerns about ethical issues such as data privacy and algorithmic bias. Experts call for comprehensive guidelines to address these challenges.",
+    "title": "Ethical Considerations in the Age of AI",
+    "description": "As AI continues to evolve, it poses several ethical concerns, such as privacy, bias, and job displacement. Experts urge for clear regulations to ensure responsible AI development and use.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "March 20, 2023",
+    "source": "The Guardian",
+    "date": "October 24, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool Helps Detect Deepfakes With High Accuracy",
-    "description": "A new AI tool offers a promising solution to the increasing problem of deepfakes. The software uses advanced machine learning algorithms to detect manipulated images and videos with impressive accuracy.",
+    "title": "Google Launches New AI Tool for Developers",
+    "description": "Google has launched a new AI tool designed to help developers create more efficient algorithms. The tool uses machine learning to optimize code, reducing the amount of time developers spend on troubleshooting.",
     "url": "#",
-    "source": "Wired",
-    "date": "March 20, 2023",
+    "source": "TechCrunch",
+    "date": "October 24, 2022",
     "category": "Tools"
   }
 ];
