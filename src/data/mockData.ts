@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "A Step Closer to AI Consciousness: Researchers Develop Self-Aware AI",
-    "description": "A team of international scientists has made a significant breakthrough in AI research by creating an AI model capable of self-awareness. This development brings us one step closer to understanding consciousness in artificial systems.",
+    "title": "AI Breaks New Ground in Disease Prediction",
+    "description": "A groundbreaking AI model developed by researchers is capable of predicting the likelihood of diseases in patients with astonishing accuracy. This could revolutionize the healthcare industry and preventative medicine.",
     "url": "#",
-    "source": "AI Daily",
-    "date": "October 24, 2022",
+    "source": "The New Scientist",
+    "date": "October 02, 2022",
     "category": "Research"
   },
   {
-    "title": "AI is Revolutionizing the Healthcare Industry",
-    "description": "With the power of artificial intelligence, healthcare professionals are now able to diagnose diseases with more precision than ever before. AI is also helping to streamline administrative tasks, freeing up more time for patient care.",
+    "title": "AI Start-up Launches Innovative Deep Learning Platform",
+    "description": "Tech start-up, DeepCore, has launched an innovative AI platform that accelerates the deep learning process. The platform could drastically reduce the time it takes to train AI models.",
     "url": "#",
-    "source": "Tech Times",
-    "date": "October 24, 2022",
+    "source": "TechCrunch",
+    "date": "October 02, 2022",
     "category": "Technology"
   },
   {
-    "title": "IBM Unveils New AI that Predicts Market Trends",
-    "description": "IBM's latest AI tool can predict market trends with remarkable accuracy, opening up new opportunities for businesses to optimize their strategies. This tool is set to revolutionize the way businesses make decisions.",
+    "title": "Big Business Turns to AI for Streamlined Operations",
+    "description": "More corporations are using AI to streamline their operations and increase efficiency. This trend shows how AI is becoming an integral part of modern business strategy.",
     "url": "#",
     "source": "Business Insider",
-    "date": "October 24, 2022",
+    "date": "October 02, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in the Age of AI",
-    "description": "As AI continues to evolve, it poses several ethical concerns, such as privacy, bias, and job displacement. Experts urge for clear regulations to ensure responsible AI development and use.",
+    "title": "New Report Highlights AI Ethics Issues",
+    "description": "A new report from the AI Ethics Institute highlights the ongoing ethical issues related to AI use. The report calls for stricter regulation and greater transparency in the field.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 24, 2022",
+    "date": "October 02, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Google Launches New AI Tool for Developers",
-    "description": "Google has launched a new AI tool designed to help developers create more efficient algorithms. The tool uses machine learning to optimize code, reducing the amount of time developers spend on troubleshooting.",
+    "title": "AI Tool Revolutionizes Data Analysis",
+    "description": "The latest AI tool from DataPro could revolutionize the way businesses analyze their data. The tool uses machine learning to spot trends and patterns in large data sets.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 24, 2022",
+    "source": "Wired",
+    "date": "October 02, 2022",
     "category": "Tools"
   }
 ];
