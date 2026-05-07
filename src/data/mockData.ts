@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Disease Prediction",
-    "description": "A groundbreaking AI model developed by researchers is capable of predicting the likelihood of diseases in patients with astonishing accuracy. This could revolutionize the healthcare industry and preventative medicine.",
+    "title": "New AI Algorithm Outperforms Humans in Identifying Emotions",
+    "description": "Researchers have developed an AI algorithm that outperforms humans in identifying emotions based on facial expressions. This breakthrough could revolutionize fields like mental health and customer service.",
     "url": "#",
-    "source": "The New Scientist",
-    "date": "October 02, 2022",
+    "source": "TechCrunch",
+    "date": "December 01, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Start-up Launches Innovative Deep Learning Platform",
-    "description": "Tech start-up, DeepCore, has launched an innovative AI platform that accelerates the deep learning process. The platform could drastically reduce the time it takes to train AI models.",
+    "title": "AI-powered Robot Assists in Successful Heart Surgery",
+    "description": "In a global first, an AI-powered robotic technology was leveraged in a complex heart surgery, leading to a successful outcome. This could redefine surgical procedures in the future.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 02, 2022",
+    "source": "The Guardian",
+    "date": "December 01, 2022",
     "category": "Technology"
   },
   {
-    "title": "Big Business Turns to AI for Streamlined Operations",
-    "description": "More corporations are using AI to streamline their operations and increase efficiency. This trend shows how AI is becoming an integral part of modern business strategy.",
+    "title": "AI Start-up Raises $100M in Series B Funding",
+    "description": "AI start-up, DeepLearn, has successfully raised $100M in Series B funding, marking one of the largest investments in the AI sector this year. The funds will be used to enhance their machine learning capabilities.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 02, 2022",
+    "source": "Forbes",
+    "date": "December 01, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Report Highlights AI Ethics Issues",
-    "description": "A new report from the AI Ethics Institute highlights the ongoing ethical issues related to AI use. The report calls for stricter regulation and greater transparency in the field.",
+    "title": "Experts Discuss Ethical Implications of AI in Job Markets",
+    "description": "A panel of experts recently discussed the ethical implications of AI in job markets at a major tech conference. The discussion highlighted the need for regulations to ensure fair AI implementation.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 02, 2022",
+    "source": "BBC News",
+    "date": "December 01, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool Revolutionizes Data Analysis",
-    "description": "The latest AI tool from DataPro could revolutionize the way businesses analyze their data. The tool uses machine learning to spot trends and patterns in large data sets.",
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "A new AI tool, ClimatePredict, can accurately predict climate change impacts, providing crucial data for environmental efforts. It’s a major step towards leveraging AI for the global good.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 02, 2022",
+    "source": "The New York Times",
+    "date": "December 01, 2022",
     "category": "Tools"
   }
 ];
