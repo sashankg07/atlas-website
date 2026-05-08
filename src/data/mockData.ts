@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI Algorithm Outperforms Humans in Identifying Emotions",
-    "description": "Researchers have developed an AI algorithm that outperforms humans in identifying emotions based on facial expressions. This breakthrough could revolutionize fields like mental health and customer service.",
+    "title": "AI Breakthrough: New Algorithm Solves Rubik’s Cube in Less than a Second",
+    "description": "In a groundbreaking development, researchers have created an AI algorithm that can solve a Rubik’s Cube in under a second. This is a significant step forward in the field of machine learning and complex problem-solving abilities.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "December 01, 2022",
+    "source": "The New York Times",
+    "date": "November 01, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-powered Robot Assists in Successful Heart Surgery",
-    "description": "In a global first, an AI-powered robotic technology was leveraged in a complex heart surgery, leading to a successful outcome. This could redefine surgical procedures in the future.",
+    "title": "OpenAI Unveils 'Davinci', a New AI Supercomputer",
+    "description": "OpenAI has announced its latest creation - an AI supercomputer named 'Davinci'. The computer is expected to significantly advance research and application in various AI fields.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 01, 2022",
+    "source": "The Verge",
+    "date": "November 01, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Start-up Raises $100M in Series B Funding",
-    "description": "AI start-up, DeepLearn, has successfully raised $100M in Series B funding, marking one of the largest investments in the AI sector this year. The funds will be used to enhance their machine learning capabilities.",
+    "title": "Google AI's Quantum Leap: Tech Giant Claims Quantum Supremacy",
+    "description": "Google's AI division has announced a major breakthrough, claiming to have achieved 'quantum supremacy'. This could revolutionize everything from cryptography to material science.",
     "url": "#",
-    "source": "Forbes",
-    "date": "December 01, 2022",
+    "source": "TechCrunch",
+    "date": "November 01, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Experts Discuss Ethical Implications of AI in Job Markets",
-    "description": "A panel of experts recently discussed the ethical implications of AI in job markets at a major tech conference. The discussion highlighted the need for regulations to ensure fair AI implementation.",
+    "title": "Ethical AI: Balancing Economic Benefits and Moral Questions",
+    "description": "As AI continues to influence every aspect of our lives, the question of ethical implications arises. Experts are calling for a balance between economic gains and ethical considerations.",
     "url": "#",
-    "source": "BBC News",
-    "date": "December 01, 2022",
+    "source": "The Guardian",
+    "date": "November 01, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Impact",
-    "description": "A new AI tool, ClimatePredict, can accurately predict climate change impacts, providing crucial data for environmental efforts. It’s a major step towards leveraging AI for the global good.",
+    "title": "Introducing 'AI Playground': An Interactive Tool for AI Learning",
+    "description": "A new online platform called 'AI Playground' is set to transform how we learn about AI. It offers tools and resources for anyone interested in learning more about artificial intelligence.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "December 01, 2022",
+    "source": "Wired",
+    "date": "November 01, 2022",
     "category": "Tools"
   }
 ];
