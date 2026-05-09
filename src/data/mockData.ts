@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Algorithm Solves Rubik’s Cube in Less than a Second",
-    "description": "In a groundbreaking development, researchers have created an AI algorithm that can solve a Rubik’s Cube in under a second. This is a significant step forward in the field of machine learning and complex problem-solving abilities.",
+    "title": "Revolutionary AI Algorithm Predicts Climate Change Impact",
+    "description": "Researchers have developed an AI algorithm capable of accurately predicting the impact of climate change. This breakthrough could help policymakers make informed decisions to combat climate change.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 01, 2022",
+    "source": "Nature AI Journal",
+    "date": "July 24, 2022",
     "category": "Research"
   },
   {
-    "title": "OpenAI Unveils 'Davinci', a New AI Supercomputer",
-    "description": "OpenAI has announced its latest creation - an AI supercomputer named 'Davinci'. The computer is expected to significantly advance research and application in various AI fields.",
+    "title": "AI Helps Identify New Potential Drug for COVID-19",
+    "description": "A novel AI system has identified a potential drug for COVID-19, accelerating the race for treatment. This application of AI in healthcare demonstrates its potential to revolutionize the medical field.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 01, 2022",
+    "source": "The AI Times",
+    "date": "July 24, 2022",
     "category": "Technology"
   },
   {
-    "title": "Google AI's Quantum Leap: Tech Giant Claims Quantum Supremacy",
-    "description": "Google's AI division has announced a major breakthrough, claiming to have achieved 'quantum supremacy'. This could revolutionize everything from cryptography to material science.",
+    "title": "Microsoft Acquires AI Startup to Bolster Cloud Services",
+    "description": "Microsoft has acquired a promising AI startup to enhance its cloud services. The deal underscores the growing importance of AI in the business and tech world.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 01, 2022",
+    "source": "Forbes",
+    "date": "July 24, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: Balancing Economic Benefits and Moral Questions",
-    "description": "As AI continues to influence every aspect of our lives, the question of ethical implications arises. Experts are calling for a balance between economic gains and ethical considerations.",
+    "title": "Ethics in AI: Balancing Benefits and Potential Harm",
+    "description": "As AI continues to evolve, ethical considerations are becoming increasingly important. Experts are calling for more regulation to ensure AI technology is developed and used responsibly.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 01, 2022",
+    "source": "The Ethics of AI Journal",
+    "date": "July 24, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Introducing 'AI Playground': An Interactive Tool for AI Learning",
-    "description": "A new online platform called 'AI Playground' is set to transform how we learn about AI. It offers tools and resources for anyone interested in learning more about artificial intelligence.",
+    "title": "AI Tool 'DeepFake' Raises Concerns Over Misuse",
+    "description": "The rise of DeepFake, an AI tool capable of creating hyper-realistic fake videos, has raised concerns over potential misuse. Researchers are urging for precautions to prevent the technology from being exploited.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 01, 2022",
+    "source": "Technology Review",
+    "date": "July 24, 2022",
     "category": "Tools"
   }
 ];
