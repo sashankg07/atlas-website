@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Algorithm Predicts Climate Change Impact",
-    "description": "Researchers have developed an AI algorithm capable of accurately predicting the impact of climate change. This breakthrough could help policymakers make informed decisions to combat climate change.",
+    "title": "AI Algorithm Predicts Alzheimer's Disease with Over 90% Accuracy",
+    "description": "Researchers have developed an artificial intelligence algorithm that can predict Alzheimer's disease with over 90% accuracy. The breakthrough could lead to earlier detection and treatment of the neurodegenerative disease.",
     "url": "#",
-    "source": "Nature AI Journal",
-    "date": "July 24, 2022",
+    "source": "Nature Neuroscience",
+    "date": "April 26, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Helps Identify New Potential Drug for COVID-19",
-    "description": "A novel AI system has identified a potential drug for COVID-19, accelerating the race for treatment. This application of AI in healthcare demonstrates its potential to revolutionize the medical field.",
+    "title": "AI-Powered Drones Revolutionize Package Delivery",
+    "description": "E-commerce giants are utilizing AI-powered drones for package delivery, significantly reducing delivery times and costs. The drones navigate autonomously, avoiding obstacles and safely delivering packages.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "July 24, 2022",
+    "source": "Forbes",
+    "date": "April 26, 2022",
     "category": "Technology"
   },
   {
-    "title": "Microsoft Acquires AI Startup to Bolster Cloud Services",
-    "description": "Microsoft has acquired a promising AI startup to enhance its cloud services. The deal underscores the growing importance of AI in the business and tech world.",
+    "title": "OpenAI's New Language Model Outperforms Predecessors",
+    "description": "OpenAI recently released a new language model that has shown to outperform its predecessors in understanding and generating human-like text. The model can create detailed and contextually accurate responses.",
     "url": "#",
-    "source": "Forbes",
-    "date": "July 24, 2022",
-    "category": "Business"
+    "source": "OpenAI Blog",
+    "date": "April 26, 2022",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: Balancing Benefits and Potential Harm",
-    "description": "As AI continues to evolve, ethical considerations are becoming increasingly important. Experts are calling for more regulation to ensure AI technology is developed and used responsibly.",
+    "title": "Ethical Concerns Surrounding AI Facial Recognition Technology",
+    "description": "AI facial recognition technology is facing scrutiny due to privacy and bias concerns. Critics argue for better regulation of the technology to prevent misuse and discrimination.",
     "url": "#",
-    "source": "The Ethics of AI Journal",
-    "date": "July 24, 2022",
+    "source": "The Guardian",
+    "date": "April 26, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool 'DeepFake' Raises Concerns Over Misuse",
-    "description": "The rise of DeepFake, an AI tool capable of creating hyper-realistic fake videos, has raised concerns over potential misuse. Researchers are urging for precautions to prevent the technology from being exploited.",
+    "title": "AI Tools Transforming the Healthcare Industry",
+    "description": "AI tools are being increasingly used in healthcare for diagnosis, treatment planning, and patient monitoring. The technology promises to improve patient outcomes and efficiency in the industry.",
     "url": "#",
-    "source": "Technology Review",
-    "date": "July 24, 2022",
+    "source": "TechCrunch",
+    "date": "April 26, 2022",
     "category": "Tools"
   }
 ];
