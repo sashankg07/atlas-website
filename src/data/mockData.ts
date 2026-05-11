@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Algorithm Predicts Alzheimer's Disease with Over 90% Accuracy",
-    "description": "Researchers have developed an artificial intelligence algorithm that can predict Alzheimer's disease with over 90% accuracy. The breakthrough could lead to earlier detection and treatment of the neurodegenerative disease.",
+    "title": "AI's New Frontier: Predicting Climate Change",
+    "description": "Researchers have developed an artificial intelligence model capable of predicting climate patterns more accurately than ever before. The breakthrough could significantly improve our understanding of climate change and help mitigate its impacts.",
     "url": "#",
-    "source": "Nature Neuroscience",
-    "date": "April 26, 2022",
+    "source": "The Information",
+    "date": "November 16, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Drones Revolutionize Package Delivery",
-    "description": "E-commerce giants are utilizing AI-powered drones for package delivery, significantly reducing delivery times and costs. The drones navigate autonomously, avoiding obstacles and safely delivering packages.",
+    "title": "AI in Healthcare: Revolutionizing Diagnostics",
+    "description": "A new AI-powered diagnostic tool is transforming the healthcare industry by enabling early detection of diseases. The technology is expected to significantly enhance patient outcomes and reduce healthcare costs.",
     "url": "#",
-    "source": "Forbes",
-    "date": "April 26, 2022",
+    "source": "HealthTech Magazine",
+    "date": "November 16, 2021",
     "category": "Technology"
   },
   {
-    "title": "OpenAI's New Language Model Outperforms Predecessors",
-    "description": "OpenAI recently released a new language model that has shown to outperform its predecessors in understanding and generating human-like text. The model can create detailed and contextually accurate responses.",
+    "title": "Tech Giant Invests Billions in AI Developments",
+    "description": "A leading tech company has announced a multi-billion dollar investment in AI research and development. The move signifies the growing importance of AI in modern business strategies.",
     "url": "#",
-    "source": "OpenAI Blog",
-    "date": "April 26, 2022",
-    "category": "Research"
+    "source": "TechCrunch",
+    "date": "November 16, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding AI Facial Recognition Technology",
-    "description": "AI facial recognition technology is facing scrutiny due to privacy and bias concerns. Critics argue for better regulation of the technology to prevent misuse and discrimination.",
+    "title": "Exploring Ethical Implications of AI in Surveillance",
+    "description": "A new report highlights the ethical concerns surrounding the use of AI in surveillance systems. The study calls for regulation to protect privacy and prevent misuse.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "April 26, 2022",
+    "source": "The New York Times",
+    "date": "November 16, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools Transforming the Healthcare Industry",
-    "description": "AI tools are being increasingly used in healthcare for diagnosis, treatment planning, and patient monitoring. The technology promises to improve patient outcomes and efficiency in the industry.",
+    "title": "New AI Tool Streamlines Machine Learning Process",
+    "description": "A newly launched AI tool promises to streamline the machine learning process, making AI more accessible to non-experts. The tool is expected to democratize AI and foster innovation.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "April 26, 2022",
+    "source": "AI Daily",
+    "date": "November 16, 2021",
     "category": "Tools"
   }
 ];
