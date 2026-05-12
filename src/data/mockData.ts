@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI's New Frontier: Predicting Climate Change",
-    "description": "Researchers have developed an artificial intelligence model capable of predicting climate patterns more accurately than ever before. The breakthrough could significantly improve our understanding of climate change and help mitigate its impacts.",
+    "title": "Groundbreaking AI System Predicts Climate Change Impact",
+    "description": "Researchers have developed a new AI model capable of predicting the impacts of climate change more accurately than ever before. This breakthrough could help policymakers make more informed decisions to mitigate the effects of global warming.",
     "url": "#",
-    "source": "The Information",
-    "date": "November 16, 2021",
+    "source": "Nature AI",
+    "date": "December 16, 2022",
     "category": "Research"
   },
   {
-    "title": "AI in Healthcare: Revolutionizing Diagnostics",
-    "description": "A new AI-powered diagnostic tool is transforming the healthcare industry by enabling early detection of diseases. The technology is expected to significantly enhance patient outcomes and reduce healthcare costs.",
+    "title": "AI Revolutionizes Drug Discovery, Accelerates COVID-19 Treatments",
+    "description": "Artificial intelligence is proving instrumental in speeding up the process of drug discovery, with recent breakthroughs in COVID-19 treatments being attributed to AI. This represents a major development for the pharmaceutical industry and global health.",
     "url": "#",
-    "source": "HealthTech Magazine",
-    "date": "November 16, 2021",
+    "source": "The AI Times",
+    "date": "December 16, 2022",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI Developments",
-    "description": "A leading tech company has announced a multi-billion dollar investment in AI research and development. The move signifies the growing importance of AI in modern business strategies.",
+    "title": "Business Intelligence Meets AI: A New Era for Data-Driven Decisions",
+    "description": "Companies are increasingly integrating artificial intelligence with business intelligence tools, enabling more nuanced data analysis and fostering data-driven decision making. This trend is transforming the business landscape, offering a competitive edge to those who adopt it.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 16, 2021",
+    "source": "Business AI Weekly",
+    "date": "December 16, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Exploring Ethical Implications of AI in Surveillance",
-    "description": "A new report highlights the ethical concerns surrounding the use of AI in surveillance systems. The study calls for regulation to protect privacy and prevent misuse.",
+    "title": "Ethical AI: A New Framework to Prevent Algorithmic Discrimination",
+    "description": "A new framework for ethical AI use has been proposed to prevent algorithmic discrimination. The framework emphasizes the need for transparency, accountability, and inclusivity in AI applications.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 16, 2021",
+    "source": "Ethics in AI Review",
+    "date": "December 16, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Machine Learning Process",
-    "description": "A newly launched AI tool promises to streamline the machine learning process, making AI more accessible to non-experts. The tool is expected to democratize AI and foster innovation.",
+    "title": "AI Tool Transforms Text to Video, Pushing the Boundaries of Content Creation",
+    "description": "A new AI tool that converts text inputs into realistic video content is making waves in the tech world. This tool could revolutionize content creation across multiple industries, including entertainment, education, and marketing.",
     "url": "#",
-    "source": "AI Daily",
-    "date": "November 16, 2021",
+    "source": "Tech AI Today",
+    "date": "December 16, 2022",
     "category": "Tools"
   }
 ];
