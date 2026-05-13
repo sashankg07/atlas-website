@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI System Predicts Climate Change Impact",
-    "description": "Researchers have developed a new AI model capable of predicting the impacts of climate change more accurately than ever before. This breakthrough could help policymakers make more informed decisions to mitigate the effects of global warming.",
+    "title": "Revolutionizing Healthcare: AI Models Predict Heart Disease with Remarkable Accuracy",
+    "description": "Researchers have developed AI models that accurately predict heart disease, marking a significant breakthrough in healthcare. The AI, trained on extensive patient data, has proven to be a game-changer, delivering results faster than traditional methods.",
     "url": "#",
-    "source": "Nature AI",
-    "date": "December 16, 2022",
+    "source": "The New York Times",
+    "date": "October 11, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizes Drug Discovery, Accelerates COVID-19 Treatments",
-    "description": "Artificial intelligence is proving instrumental in speeding up the process of drug discovery, with recent breakthroughs in COVID-19 treatments being attributed to AI. This represents a major development for the pharmaceutical industry and global health.",
+    "title": "Promising AI Start-up Raises $100 Million in Series B Funding",
+    "description": "In a testament to the growing role of AI in business, start-up AI4ALL has secured $100 million in Series B funding. The funding will enable the company to develop its unique AI solutions and expand its global reach.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "December 16, 2022",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "October 11, 2021",
+    "category": "Business"
   },
   {
-    "title": "Business Intelligence Meets AI: A New Era for Data-Driven Decisions",
-    "description": "Companies are increasingly integrating artificial intelligence with business intelligence tools, enabling more nuanced data analysis and fostering data-driven decision making. This trend is transforming the business landscape, offering a competitive edge to those who adopt it.",
+    "title": "The Ethical Dilemma of AI in Surveillance",
+    "description": "As AI becomes more integrated into surveillance technologies, it raises ethical questions about privacy and consent. This article explores the implications and the need for regulations in this fast-evolving field.",
     "url": "#",
-    "source": "Business AI Weekly",
-    "date": "December 16, 2022",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "October 11, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: A New Framework to Prevent Algorithmic Discrimination",
-    "description": "A new framework for ethical AI use has been proposed to prevent algorithmic discrimination. The framework emphasizes the need for transparency, accountability, and inclusivity in AI applications.",
+    "title": "New AI Tool Streamlines Design Process in Architecture",
+    "description": "AI in architecture is no longer a concept of the future. A new AI tool called ArchAI is simplifying the design process, making it faster and more efficient, and enabling architects to focus on more creative aspects.",
     "url": "#",
-    "source": "Ethics in AI Review",
-    "date": "December 16, 2022",
-    "category": "Ethics"
+    "source": "Architectural Digest",
+    "date": "October 11, 2021",
+    "category": "Tools"
   },
   {
-    "title": "AI Tool Transforms Text to Video, Pushing the Boundaries of Content Creation",
-    "description": "A new AI tool that converts text inputs into realistic video content is making waves in the tech world. This tool could revolutionize content creation across multiple industries, including entertainment, education, and marketing.",
+    "title": "AI Takes Over Data Analysis: The Future of Business Intelligence",
+    "description": "With AI's ability to analyze massive datasets and uncover patterns, the future of business intelligence is being reshaped. Companies are now leveraging AI to make data-driven decisions and gain a competitive edge.",
     "url": "#",
-    "source": "Tech AI Today",
-    "date": "December 16, 2022",
-    "category": "Tools"
+    "source": "Business Insider",
+    "date": "October 11, 2021",
+    "category": "Technology"
   }
 ];
