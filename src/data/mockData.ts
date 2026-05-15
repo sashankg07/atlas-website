@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Unprecedented Breakthrough in AI Language Understanding",
-    "description": "Researchers have developed a new AI model that comprehends language like never before. The model is capable of understanding context, making language translations more accurate and efficient.",
+    "title": "AI Outperforms Humans in Designing Microchips",
+    "description": "Google has recently announced that its AI has outperformed humans in the complex task of designing microchips. This breakthrough could speed up the process of chip production and make it more efficient.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "October 15, 2021",
-    "category": "Research"
-  },
-  {
-    "title": "AI Now Capable of Predicting Climate Change Patterns",
-    "description": "A groundbreaking AI system has been developed that can accurately predict climate change patterns. This could revolutionize our approach to addressing climate change challenges.",
-    "url": "#",
-    "source": "Tech Insider",
-    "date": "October 15, 2021",
+    "source": "The New York Times",
+    "date": "October 14, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI in Finance: The New Trend that's Shaping the Industry",
-    "description": "AI technology is being rapidly adopted in the finance sector. Experts predict this will transform the industry, making it more efficient and customer-centric.",
+    "title": "OpenAI Unveils New Language Model, GPT-4",
+    "description": "OpenAI has released its next-generation language model, GPT-4, which is even more powerful and capable of understanding complex contexts than its predecessor.",
     "url": "#",
-    "source": "Business Daily",
-    "date": "October 15, 2021",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "October 14, 2021",
+    "category": "Research"
+  },
+  {
+    "title": "IBM Develops AI to Predict Alzheimer's",
+    "description": "IBM has developed an artificial intelligence system that can predict the development of Alzheimer's disease with 70% accuracy. The system uses a combination of AI and blood biomarkers.",
+    "url": "#",
+    "source": "BBC News",
+    "date": "October 14, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Raised Over AI in Surveillance",
-    "description": "As AI technology advances, concerns are being raised about its use in surveillance systems. Critics argue that without proper regulation, this could lead to invasion of privacy.",
+    "title": "AI in Business: Impact on Job Market",
+    "description": "A new study shows that AI technology can create more jobs than it eliminates. Industries like healthcare, education, and IT could see a surge in job opportunities due to AI advancements.",
     "url": "#",
-    "source": "Ethics Weekly",
-    "date": "October 15, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "October 14, 2021",
+    "category": "Business"
   },
   {
-    "title": "New AI Tool Revolutionizes Image Editing",
-    "description": "A new AI-based tool has been unveiled that promises to revolutionize the field of image editing. The tool uses machine learning to create realistic edits in real-time.",
+    "title": "The Ethics of AI in Surveillance",
+    "description": "As AI becomes increasingly prevalent in surveillance systems, concerns about privacy and ethics are on the rise. Experts call for regulations to prevent misuse.",
     "url": "#",
-    "source": "Tech Radar",
-    "date": "October 15, 2021",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "October 14, 2021",
+    "category": "Ethics"
   }
 ];
