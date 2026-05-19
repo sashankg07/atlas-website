@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "DeepMind's AI Masters the Game of Go Without Human Input",
-    "description": "DeepMind's latest AI iteration, AlphaGo Zero, has learned to play the ancient game of Go entirely by itself, demonstrating a leap forward in AI self-learning capabilities.",
+    "title": "AI Predicts Alzheimer's Disease Years Before Diagnosis",
+    "description": "A cutting-edge AI model has been developed by researchers that can predict the onset of Alzheimer's disease up to six years before a clinical diagnosis. This groundbreaking tool could revolutionize early detection and treatment.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 05, 2021",
+    "source": "The New York Times",
+    "date": "September 29, 2021",
     "category": "Research"
   },
   {
-    "title": "OpenAI's GPT-3: An AI Game-Changer or an Environmental Threat?",
-    "description": "While OpenAI's GPT-3 language model has shown remarkable capabilities, concerns are rising about its environmental impact due to the vast amounts of energy used in training.",
+    "title": "Tech Giant Unveils Next-Gen AI Chip",
+    "description": "A leading tech giant has unveiled its latest AI chip, promising to deliver unprecedented computational power and energy efficiency. The chip is set to boost AI applications ranging from self-driving cars to advanced robotics.",
     "url": "#",
-    "source": "BBC News",
-    "date": "November 05, 2021",
-    "category": "Ethics"
+    "source": "The Verge",
+    "date": "September 29, 2021",
+    "category": "Technology"
   },
   {
-    "title": "IBM Unveils Breakthrough in AI-Based Prescriptive Analytics",
-    "description": "IBM has revealed a cutting-edge development in prescriptive analytics, which allows AI to suggest actions based on predictions, potentially revolutionizing decision-making in businesses.",
+    "title": "AI Startup Raises $100 Million in Series B Funding",
+    "description": "An emerging AI startup has secured $100 million in Series B funding, marking one of the largest rounds in the AI sector this year. The funds will be used to accelerate the company's product development and global expansion.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 05, 2021",
+    "date": "September 29, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Helps Decipher Long-Lost Languages",
-    "description": "Researchers are employing machine learning algorithms to decode ancient scripts, opening up new possibilities in the field of archaeology and linguistics.",
+    "title": "AI Ethics Guidelines: A New Proposal",
+    "description": "A group of international researchers has proposed a new set of guidelines for AI ethics, emphasizing transparency, accountability, and fairness. The proposal aims to mitigate the potential negative impacts of AI systems on society.",
     "url": "#",
-    "source": "National Geographic",
-    "date": "November 05, 2021",
-    "category": "Technology"
+    "source": "Nature",
+    "date": "September 29, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "TensorFlow 2.5: A New Era for AI Development Tools",
-    "description": "The latest update of Google's TensorFlow, a popular open-source AI framework, offers improved performance and new features, promising to push the boundaries of AI development.",
+    "title": "New AI Tool Streamlines Machine Learning",
+    "description": "A new AI tool has been launched that simplifies the machine learning process, making it more accessible to non-experts. The tool is expected to democratize AI development and foster innovation across industries.",
     "url": "#",
     "source": "Wired",
-    "date": "November 05, 2021",
+    "date": "September 29, 2021",
     "category": "Tools"
   }
 ];
