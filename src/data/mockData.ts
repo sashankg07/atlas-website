@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Predicts Alzheimer's Disease Years Before Diagnosis",
-    "description": "A cutting-edge AI model has been developed by researchers that can predict the onset of Alzheimer's disease up to six years before a clinical diagnosis. This groundbreaking tool could revolutionize early detection and treatment.",
+    "title": "Groundbreaking AI Learns to Code Software with No Prior Knowledge",
+    "description": "In a major advancement, researchers have developed an AI that can write software code from scratch. This AI has the potential to revolutionize the software industry, reducing the need for human coders.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 29, 2021",
+    "date": "November 07, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Next-Gen AI Chip",
-    "description": "A leading tech giant has unveiled its latest AI chip, promising to deliver unprecedented computational power and energy efficiency. The chip is set to boost AI applications ranging from self-driving cars to advanced robotics.",
+    "title": "New AI Tool Predicts Climate Change Impact on Business Operations",
+    "description": "A new AI-based tool has been designed to calculate the potential impact of climate change on business operations. This tool can aid companies in making informed, proactive decisions to mitigate future risks.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 29, 2021",
-    "category": "Technology"
+    "source": "The Wall Street Journal",
+    "date": "November 07, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI Startup Raises $100 Million in Series B Funding",
-    "description": "An emerging AI startup has secured $100 million in Series B funding, marking one of the largest rounds in the AI sector this year. The funds will be used to accelerate the company's product development and global expansion.",
+    "title": "AI Ethics Committee Releases Guidelines for Autonomous Vehicles",
+    "description": "The global AI Ethics committee has released a comprehensive set of guidelines for the ethical use of AI in autonomous vehicles. The guidelines aim to address the safety and moral dilemmas posed by self-driving cars.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 29, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "November 07, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Guidelines: A New Proposal",
-    "description": "A group of international researchers has proposed a new set of guidelines for AI ethics, emphasizing transparency, accountability, and fairness. The proposal aims to mitigate the potential negative impacts of AI systems on society.",
+    "title": "Revolutionary AI Tool Streamlines Machine Learning Process",
+    "description": "A new AI tool has been unveiled that promises to streamline the machine learning process, making it more accessible to non-experts. This tool could democratize access to AI technology and spur innovation across industries.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 29, 2021",
-    "category": "Ethics"
+    "source": "Tech Crunch",
+    "date": "November 07, 2021",
+    "category": "Tools"
   },
   {
-    "title": "New AI Tool Streamlines Machine Learning",
-    "description": "A new AI tool has been launched that simplifies the machine learning process, making it more accessible to non-experts. The tool is expected to democratize AI development and foster innovation across industries.",
+    "title": "AI Technology Drives New Era of Personalized Medicine",
+    "description": "AI technology is driving a new era of personalized medicine, with algorithms now capable of predicting individual health outcomes. This development could transform healthcare delivery and patient care.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 29, 2021",
-    "category": "Tools"
+    "source": "MIT Technology Review",
+    "date": "November 07, 2021",
+    "category": "Technology"
   }
 ];
