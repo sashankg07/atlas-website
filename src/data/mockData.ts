@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "DeepMind Develops AI That Predicts Protein Structures with Unparalleled Accuracy",
-    "description": "DeepMind's newest AI, AlphaFold, is capable of predicting the 3D structures of proteins with accuracy comparable to experimental results. This breakthrough could revolutionize drug discovery and biological research.",
+    "title": "AI Revolutionizes Healthcare with Predictive Analysis",
+    "description": "Emerging AI technology is transforming healthcare by offering predictive analysis for patient diagnosis. The advanced algorithms can identify patterns and predict potential health issues before they become critical.",
     "url": "#",
-    "source": "Nature",
-    "date": "June 26, 2022",
-    "category": "Research"
-  },
-  {
-    "title": "OpenAI Introduces ChatGPT, a Step Forward in Conversational AI",
-    "description": "OpenAI's latest AI model, ChatGPT, has been fine-tuned for human-like conversation. It can generate creative content, answer questions, and even write Python code.",
-    "url": "#",
-    "source": "MIT Technology Review",
-    "date": "June 26, 2022",
+    "source": "The New York Times",
+    "date": "October 13, 2022",
     "category": "Technology"
   },
   {
-    "title": "IBM Debuts AutoAI, Bringing Automation to AI Workflows",
-    "description": "IBM's new AutoAI system aims to automate the process of training and deploying AI models, significantly reducing the time and expertise required.",
+    "title": "New AI Chatbot Tackles Mental Health Support",
+    "description": "A recently developed AI chatbot is providing mental health support to individuals, revolutionizing the field of psychotherapy. The AI uses empathetic language processing to understand and respond to user emotions.",
+    "url": "#",
+    "source": "BBC News",
+    "date": "October 13, 2022",
+    "category": "Research"
+  },
+  {
+    "title": "AI in Business: Streamlining HR Processes",
+    "description": "The use of artificial intelligence in HR departments is streamlining processes, saving time and resources. Automation and predictive analysis are leading to improved recruitment and employee management.",
     "url": "#",
     "source": "Forbes",
-    "date": "June 26, 2022",
+    "date": "October 13, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Facebook's New AI Ethics Advisory Board Raises Questions",
-    "description": "Facebook has established an AI ethics advisory board to oversee the company's AI development. However, critics question the transparency and effectiveness of the board.",
+    "title": "Ethical Concerns Over AI Facial Recognition Technology",
+    "description": "With the rise in AI facial recognition technology, ethical concerns are being raised about privacy and consent. The debate centers around the balancing act between security and individual civil rights.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "June 26, 2022",
+    "source": "The Guardian",
+    "date": "October 13, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Nvidia Launches Jarvis, an AI Framework for Conversational Models",
-    "description": "Nvidia's Jarvis framework aims to simplify the process of developing and deploying conversational AI models. It provides pre-trained models, tools, and APIs for developers.",
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "A new AI tool has been developed that can predict the impact of climate change with unprecedented accuracy. This breakthrough has potential to guide global policy on climate change adaptation and mitigation strategies.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "June 26, 2022",
+    "source": "National Geographic",
+    "date": "October 13, 2022",
     "category": "Tools"
   }
 ];
