@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Healthcare with Predictive Analysis",
-    "description": "Emerging AI technology is transforming healthcare by offering predictive analysis for patient diagnosis. The advanced algorithms can identify patterns and predict potential health issues before they become critical.",
+    "title": "AI Revolutionizes Cancer Detection: New Breakthrough in Medical Research",
+    "description": "A revolutionary AI model has been developed that reportedly increases the accuracy and speed of cancer diagnoses. This breakthrough could potentially save millions of lives in the future.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 13, 2022",
-    "category": "Technology"
-  },
-  {
-    "title": "New AI Chatbot Tackles Mental Health Support",
-    "description": "A recently developed AI chatbot is providing mental health support to individuals, revolutionizing the field of psychotherapy. The AI uses empathetic language processing to understand and respond to user emotions.",
-    "url": "#",
-    "source": "BBC News",
-    "date": "October 13, 2022",
+    "date": "November 15, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Business: Streamlining HR Processes",
-    "description": "The use of artificial intelligence in HR departments is streamlining processes, saving time and resources. Automation and predictive analysis are leading to improved recruitment and employee management.",
+    "title": "Tech Giants Embrace AI: A New Era in Business Intelligence",
+    "description": "Major tech companies are increasingly integrating AI into their business intelligence strategies. This trend is transforming how businesses operate and make decisions.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 13, 2022",
+    "source": "The Wall Street Journal",
+    "date": "November 15, 2021",
     "category": "Business"
+  },
+  {
+    "title": "New AI Ethics Guidelines: Navigating the Future of AI Development",
+    "description": "Renowned AI experts and ethicists have unveiled a set of guidelines designed to ensure ethical considerations in AI development. The guidelines aim to address concerns about bias and fairness in AI systems.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "November 15, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Over AI Facial Recognition Technology",
-    "description": "With the rise in AI facial recognition technology, ethical concerns are being raised about privacy and consent. The debate centers around the balancing act between security and individual civil rights.",
+    "title": "AI Tools Transforming Graphic Design: Creativity Meets Technology",
+    "description": "A new wave of AI tools is reshaping the field of graphic design. These tools enable designers to automate mundane tasks, freeing them to focus on creativity and innovation.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 13, 2022",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "November 15, 2021",
+    "category": "Tools"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Impact",
-    "description": "A new AI tool has been developed that can predict the impact of climate change with unprecedented accuracy. This breakthrough has potential to guide global policy on climate change adaptation and mitigation strategies.",
+    "title": "Groundbreaking AI Chip Unveiled: Changing the Landscape of AI Technology",
+    "description": "A new AI chip has been released that promises to drastically improve the efficiency of AI processing. This development represents a significant leap forward in AI hardware technology.",
     "url": "#",
-    "source": "National Geographic",
-    "date": "October 13, 2022",
-    "category": "Tools"
+    "source": "TechCrunch",
+    "date": "November 15, 2021",
+    "category": "Technology"
   }
 ];
