@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Cancer Detection: New Breakthrough in Medical Research",
-    "description": "A revolutionary AI model has been developed that reportedly increases the accuracy and speed of cancer diagnoses. This breakthrough could potentially save millions of lives in the future.",
+    "title": "Groundbreaking AI Models Helping Climate Scientists",
+    "description": "Scientists are harnessing the power of artificial intelligence to analyze vast amounts of climate data and predict the future impacts of climate change more accurately than ever before.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 15, 2021",
+    "source": "Nature",
+    "date": "June 07, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Embrace AI: A New Era in Business Intelligence",
-    "description": "Major tech companies are increasingly integrating AI into their business intelligence strategies. This trend is transforming how businesses operate and make decisions.",
+    "title": "Emerging Trend: AI Revolutionizing the Retail Industry",
+    "description": "With the ability to analyze customer behavior and optimize inventory, artificial intelligence is transforming the retail industry, enabling companies to provide personalized shopping experiences.",
     "url": "#",
     "source": "The Wall Street Journal",
-    "date": "November 15, 2021",
+    "date": "June 07, 2022",
     "category": "Business"
   },
   {
-    "title": "New AI Ethics Guidelines: Navigating the Future of AI Development",
-    "description": "Renowned AI experts and ethicists have unveiled a set of guidelines designed to ensure ethical considerations in AI development. The guidelines aim to address concerns about bias and fairness in AI systems.",
+    "title": "Evolution of AI in Healthcare: A New Era of Medical Diagnosis",
+    "description": "Advanced AI algorithms are now capable of diagnosing diseases with remarkable accuracy, promising to revolutionize the healthcare sector and improve patient outcomes significantly.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 15, 2021",
-    "category": "Ethics"
+    "source": "The New York Times",
+    "date": "June 07, 2022",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Tools Transforming Graphic Design: Creativity Meets Technology",
-    "description": "A new wave of AI tools is reshaping the field of graphic design. These tools enable designers to automate mundane tasks, freeing them to focus on creativity and innovation.",
+    "title": "Ethical Dimensions of AI: Balancing Progress and Privacy",
+    "description": "As AI technology evolves, ethical considerations are becoming increasingly important. Experts debate how to balance the benefits of AI with the need to protect individuals' privacy.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 15, 2021",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "June 07, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "Groundbreaking AI Chip Unveiled: Changing the Landscape of AI Technology",
-    "description": "A new AI chip has been released that promises to drastically improve the efficiency of AI processing. This development represents a significant leap forward in AI hardware technology.",
+    "title": "AI Tools Shaping the Future of Content Creation",
+    "description": "Innovative AI tools are transforming content creation, enabling creators to automate processes and generate high-quality content more efficiently than ever.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 15, 2021",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "June 07, 2022",
+    "category": "Tools"
   }
 ];
