@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Models Helping Climate Scientists",
-    "description": "Scientists are harnessing the power of artificial intelligence to analyze vast amounts of climate data and predict the future impacts of climate change more accurately than ever before.",
+    "title": "Revolutionizing Healthcare: AI-Powered Diagnosis Tool Receives FDA Approval",
+    "description": "A new AI tool designed to diagnose diseases has received FDA approval, setting a precedent for future AI applications in healthcare. This breakthrough development could significantly enhance the speed and accuracy of diagnoses.",
     "url": "#",
-    "source": "Nature",
-    "date": "June 07, 2022",
+    "source": "New York Times",
+    "date": "December 31, 2022",
+    "category": "Technology"
+  },
+  {
+    "title": "AI Tackles Climate Change: New Forecasting Model Predicts Climate Patterns",
+    "description": "A group of international scientists have developed an AI model that can accurately predict climate patterns. This tool could contribute significantly to global efforts to mitigate and adapt to climate change.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "December 31, 2022",
     "category": "Research"
   },
   {
-    "title": "Emerging Trend: AI Revolutionizing the Retail Industry",
-    "description": "With the ability to analyze customer behavior and optimize inventory, artificial intelligence is transforming the retail industry, enabling companies to provide personalized shopping experiences.",
+    "title": "AI Ethics: Balancing Innovation and Regulation in the Age of AI",
+    "description": "As AI continues to integrate into society, ethical considerations become increasingly important. Experts are calling for a balance between fostering innovation and ensuring ethical safeguards in AI applications.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "June 07, 2022",
-    "category": "Business"
-  },
-  {
-    "title": "Evolution of AI in Healthcare: A New Era of Medical Diagnosis",
-    "description": "Advanced AI algorithms are now capable of diagnosing diseases with remarkable accuracy, promising to revolutionize the healthcare sector and improve patient outcomes significantly.",
-    "url": "#",
-    "source": "The New York Times",
-    "date": "June 07, 2022",
-    "category": "Technology"
+    "source": "BBC News",
+    "date": "December 31, 2022",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Dimensions of AI: Balancing Progress and Privacy",
-    "description": "As AI technology evolves, ethical considerations are becoming increasingly important. Experts debate how to balance the benefits of AI with the need to protect individuals' privacy.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "June 07, 2022",
-    "category": "Ethics"
-  },
-  {
-    "title": "AI Tools Shaping the Future of Content Creation",
-    "description": "Innovative AI tools are transforming content creation, enabling creators to automate processes and generate high-quality content more efficiently than ever.",
+    "title": "AI in Retail: New Technology Transforms the Shopping Experience",
+    "description": "Advancements in AI are transforming the retail industry, from personalized shopping experiences to efficient supply chain management. These changes indicate a promising future for AI in the business sector.",
     "url": "#",
     "source": "Forbes",
-    "date": "June 07, 2022",
+    "date": "December 31, 2022",
+    "category": "Business"
+  },
+  {
+    "title": "AI Tools: A New Language Model Outperforms its Predecessors",
+    "description": "A newly developed AI language model is showing promising results, outperforming previous models in understanding and generating human-like text. This development marks a significant step forward in Natural Language Processing.",
+    "url": "#",
+    "source": "MIT Technology Review",
+    "date": "December 31, 2022",
     "category": "Tools"
   }
 ];
