@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Radiologists in Identifying Breast Cancer",
-    "description": "A recent study indicates that an Artificial Intelligence system has shown superior performance in identifying breast cancer, surpassing a panel of expert radiologists. This significant breakthrough could lead to more accurate, timely and efficient diagnosis in the future.",
+    "title": "AI Breakthrough in Climate Change Modelling",
+    "description": "Researchers have used AI to significantly improve climate change models, providing more accurate predictions. This development could have profound implications for our understanding of the climate crisis.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 31, 2022",
+    "source": "AI Weekly",
+    "date": "October 05, 2021",
     "category": "Research"
   },
   {
-    "title": "IBM Unveils AI-Driven Quantum Computing Breakthrough",
-    "description": "IBM revealed a significant breakthrough in quantum computing, leveraging AI to enhance the performance and speed of quantum computers. The new system is expected to revolutionize various industries.",
+    "title": "AI Empowers New Age of Personalized Medicine",
+    "description": "AI is revolutionizing healthcare with personalized medicine, enabling doctors to tailor treatments to individual patients. This could significantly improve patient outcomes and reduce healthcare costs.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "October 31, 2022",
+    "source": "TechCrunch",
+    "date": "October 05, 2021",
     "category": "Technology"
   },
   {
-    "title": "Google's New AI Tool Addresses Privacy Concerns",
-    "description": "Google has developed a novel AI tool aimed at addressing concerns about data privacy. The tool uses advanced algorithms to ensure user data is anonymized and secure.",
+    "title": "AI Startup Raises $100M for Autonomous Delivery Drones",
+    "description": "An AI startup has raised $100 million in funding to develop autonomous delivery drones. The company aims to transform the logistics industry with its groundbreaking technology.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 31, 2022",
-    "category": "Ethics"
+    "source": "Business Insider",
+    "date": "October 05, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Microsoft Acquires AI Startup for $1 Billion",
-    "description": "Microsoft announced the acquisition of an AI startup for $1 billion, aiming to bolster its cloud and AI capabilities. The move is part of Microsoft's strategy to compete in the growing AI market.",
+    "title": "New Ethical Guidelines for AI Development Released",
+    "description": "A leading tech organization has released new ethical guidelines for AI development. The guidelines aim to ensure AI technologies are developed and used responsibly.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "October 31, 2022",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "October 05, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "OpenAI's New Language Model Transforms Coding",
-    "description": "OpenAI has released a new language model that is helping developers write code more efficiently. The AI tool, which auto-generates code, is set to transform the software development process.",
+    "title": "New AI Tool Transforms Data Analysis",
+    "description": "A new AI tool is transforming data analysis by automating complex tasks. The tool allows data scientists to focus on high-level analysis, increasing efficiency and productivity.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 31, 2022",
+    "source": "AI Trends",
+    "date": "October 05, 2021",
     "category": "Tools"
   }
 ];
