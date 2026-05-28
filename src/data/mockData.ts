@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough in Climate Change Modelling",
-    "description": "Researchers have used AI to significantly improve climate change models, providing more accurate predictions. This development could have profound implications for our understanding of the climate crisis.",
+    "title": "AI Outperforms Humans in Reading Comprehension Test",
+    "description": "A groundbreaking research paper reveals that an AI model has surpassed human performance in a reading comprehension test for the first time. This breakthrough has potential implications for numerous industries, from education to customer service.",
     "url": "#",
-    "source": "AI Weekly",
-    "date": "October 05, 2021",
+    "source": "The AI Journal",
+    "date": "November 09, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Empowers New Age of Personalized Medicine",
-    "description": "AI is revolutionizing healthcare with personalized medicine, enabling doctors to tailor treatments to individual patients. This could significantly improve patient outcomes and reduce healthcare costs.",
+    "title": "Revolutionary AI Chip Promises Faster Processing With Lower Energy Consumption",
+    "description": "Tech giant Intel has announced the development of a new AI chip that promises to drive faster computations while significantly reducing energy consumption. This innovation could revolutionize the tech industry and accelerate AI adoption.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 05, 2021",
+    "date": "November 09, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $100M for Autonomous Delivery Drones",
-    "description": "An AI startup has raised $100 million in funding to develop autonomous delivery drones. The company aims to transform the logistics industry with its groundbreaking technology.",
+    "title": "AI Startup Raises $100M for Predictive Analytics",
+    "description": "DataRobot, an AI startup specializing in automated machine learning, has raised $100M in a Series D funding round. The company's platform allows businesses to build and deploy machine learning models quickly and efficiently.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 05, 2021",
+    "source": "Forbes",
+    "date": "November 09, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Ethical Guidelines for AI Development Released",
-    "description": "A leading tech organization has released new ethical guidelines for AI development. The guidelines aim to ensure AI technologies are developed and used responsibly.",
+    "title": "AI Ethicist Calls for More Transparency in AI Decision-Making",
+    "description": "Renowned AI ethicist, Dr. Timnit Gebru, advocates for greater transparency in AI decision-making processes. She emphasizes the need for public understanding of AI systems to prevent misuse and address potential biases.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 05, 2021",
+    "source": "The Guardian",
+    "date": "November 09, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Data Analysis",
-    "description": "A new AI tool is transforming data analysis by automating complex tasks. The tool allows data scientists to focus on high-level analysis, increasing efficiency and productivity.",
+    "title": "New Open-Source AI Tool Streamlines Deep Learning",
+    "description": "TensorFlow has released a new open-source AI tool that simplifies the process of creating and training deep learning models. The tool is expected to democratize access to advanced AI technology, enabling more developers to leverage AI in their work.",
     "url": "#",
-    "source": "AI Trends",
-    "date": "October 05, 2021",
+    "source": "Wired",
+    "date": "November 09, 2021",
     "category": "Tools"
   }
 ];
