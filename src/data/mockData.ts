@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Reading Comprehension Test",
-    "description": "A groundbreaking research paper reveals that an AI model has surpassed human performance in a reading comprehension test for the first time. This breakthrough has potential implications for numerous industries, from education to customer service.",
+    "title": "AI Revolutionizes Cancer Detection",
+    "description": "Researchers have developed a machine learning model that can predict cancerous growth with over 90% accuracy. This could provide a major breakthrough in early cancer detection and treatment.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "November 09, 2021",
+    "source": "The Verge",
+    "date": "October 22, 2021",
     "category": "Research"
   },
   {
-    "title": "Revolutionary AI Chip Promises Faster Processing With Lower Energy Consumption",
-    "description": "Tech giant Intel has announced the development of a new AI chip that promises to drive faster computations while significantly reducing energy consumption. This innovation could revolutionize the tech industry and accelerate AI adoption.",
+    "title": "AI-Driven Robot Delivers Packages with Unprecedented Efficiency",
+    "description": "A new AI-driven robotic system is changing the game in package delivery, boasting a remarkable increase in efficiency and decrease in delivery time.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 09, 2021",
+    "date": "October 22, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $100M for Predictive Analytics",
-    "description": "DataRobot, an AI startup specializing in automated machine learning, has raised $100M in a Series D funding round. The company's platform allows businesses to build and deploy machine learning models quickly and efficiently.",
+    "title": "Google Invests Heavily in AI for Climate Change Solutions",
+    "description": "Google is leading the way in applying AI to combat climate change, with a major investment in AI technologies aimed at reducing carbon emissions and optimizing renewable energy use.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 09, 2021",
+    "source": "Bloomberg",
+    "date": "October 22, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethicist Calls for More Transparency in AI Decision-Making",
-    "description": "Renowned AI ethicist, Dr. Timnit Gebru, advocates for greater transparency in AI decision-making processes. She emphasizes the need for public understanding of AI systems to prevent misuse and address potential biases.",
+    "title": "The Ethical Implications of AI in Employment Processes",
+    "description": "A new report highlights the potential ethical concerns around the use of AI in hiring, underscoring the need for transparency and fairness in machine learning algorithms.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 09, 2021",
+    "date": "October 22, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New Open-Source AI Tool Streamlines Deep Learning",
-    "description": "TensorFlow has released a new open-source AI tool that simplifies the process of creating and training deep learning models. The tool is expected to democratize access to advanced AI technology, enabling more developers to leverage AI in their work.",
+    "title": "OpenAI Releases New Language Processing Tool",
+    "description": "OpenAI has unveiled a new language processing tool that shows promise in understanding and generating human-like text, opening up vast possibilities for AI in communication.",
     "url": "#",
     "source": "Wired",
-    "date": "November 09, 2021",
+    "date": "October 22, 2021",
     "category": "Tools"
   }
 ];
