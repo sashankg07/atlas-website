@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Cancer Detection",
-    "description": "Researchers have developed a machine learning model that can predict cancerous growth with over 90% accuracy. This could provide a major breakthrough in early cancer detection and treatment.",
+    "title": "AI Now Capable of Detecting Deepfakes More Effectively",
+    "description": "Researchers unveil a new AI technique that accurately identifies deepfake images, bringing a significant breakthrough in combating misinformation. The AI model, trained on thousands of real and deepfake images, can spot the difference with 97% accuracy.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 22, 2021",
+    "source": "MIT Technology Review",
+    "date": "February 26, 2023",
     "category": "Research"
   },
   {
-    "title": "AI-Driven Robot Delivers Packages with Unprecedented Efficiency",
-    "description": "A new AI-driven robotic system is changing the game in package delivery, boasting a remarkable increase in efficiency and decrease in delivery time.",
+    "title": "IBM Introduces AI System to Improve Supply Chain Management",
+    "description": "IBM has launched an AI-based system designed to optimize supply chain management. The system predicts future trends and potential disruptions, enabling businesses to take proactive measures.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 22, 2021",
-    "category": "Technology"
+    "source": "Wall Street Journal",
+    "date": "February 26, 2023",
+    "category": "Business"
   },
   {
-    "title": "Google Invests Heavily in AI for Climate Change Solutions",
-    "description": "Google is leading the way in applying AI to combat climate change, with a major investment in AI technologies aimed at reducing carbon emissions and optimizing renewable energy use.",
+    "title": "New AI Tool Transforms Sketches into Photorealistic Images",
+    "description": "A newly developed AI tool can convert simple sketches into highly detailed and photorealistic images. The tool could revolutionize various fields like graphic design, architecture, and even video game design.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "October 22, 2021",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "February 26, 2023",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Implications of AI in Employment Processes",
-    "description": "A new report highlights the potential ethical concerns around the use of AI in hiring, underscoring the need for transparency and fairness in machine learning algorithms.",
+    "title": "AI Ethics Council Formed to Guide Responsible AI Development",
+    "description": "A global council focused on AI ethics has been formed to guide the development of AI in a responsible and ethical manner. The council aims to address concerns about data privacy, bias, and the impact of AI on jobs.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 22, 2021",
+    "source": "BBC News",
+    "date": "February 26, 2023",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases New Language Processing Tool",
-    "description": "OpenAI has unveiled a new language processing tool that shows promise in understanding and generating human-like text, opening up vast possibilities for AI in communication.",
+    "title": "AI Breakthrough in Predicting Climate Change Impacts",
+    "description": "Scientists have developed an AI model that can predict the impact of climate change with unprecedented accuracy. This could provide crucial insights for policymakers and environmentalists.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 22, 2021",
-    "category": "Tools"
+    "source": "Nature",
+    "date": "February 26, 2023",
+    "category": "Technology"
   }
 ];
