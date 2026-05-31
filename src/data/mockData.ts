@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Now Capable of Detecting Deepfakes More Effectively",
-    "description": "Researchers unveil a new AI technique that accurately identifies deepfake images, bringing a significant breakthrough in combating misinformation. The AI model, trained on thousands of real and deepfake images, can spot the difference with 97% accuracy.",
+    "title": "Google's AI Outperforms in Protein-folding Predictions",
+    "description": "Google's DeepMind has achieved a significant breakthrough with AlphaFold, a system that predicts protein structure with unprecedented accuracy. This development could revolutionize drug discovery and disease understanding.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "February 26, 2023",
+    "source": "The New York Times",
+    "date": "October 27, 2021",
     "category": "Research"
   },
   {
-    "title": "IBM Introduces AI System to Improve Supply Chain Management",
-    "description": "IBM has launched an AI-based system designed to optimize supply chain management. The system predicts future trends and potential disruptions, enabling businesses to take proactive measures.",
+    "title": "Facebook's New AI Language Model 'BlenderBot'",
+    "description": "Facebook AI has introduced BlenderBot, the largest-ever open-domain chatbot. It's trained to generate human-like conversations and provide users with engaging and informative interactions.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "February 26, 2023",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "October 27, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Transforms Sketches into Photorealistic Images",
-    "description": "A newly developed AI tool can convert simple sketches into highly detailed and photorealistic images. The tool could revolutionize various fields like graphic design, architecture, and even video game design.",
+    "title": "Microsoft Uses AI to Tackle Climate Change",
+    "description": "Microsoft announced that it's leveraging AI technologies to improve environmental sustainability. The initiative aims to reduce carbon emissions, preserve ecosystems, and promote green practices.",
     "url": "#",
-    "source": "The Verge",
-    "date": "February 26, 2023",
-    "category": "Tools"
+    "source": "TechCrunch",
+    "date": "October 27, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Council Formed to Guide Responsible AI Development",
-    "description": "A global council focused on AI ethics has been formed to guide the development of AI in a responsible and ethical manner. The council aims to address concerns about data privacy, bias, and the impact of AI on jobs.",
+    "title": "AI Ethics Concerns: Mitigating Bias in AI Systems",
+    "description": "The growing use of AI systems has raised ethical concerns, particularly around bias. Researchers and policymakers are seeking ways to ensure fairness and transparency in AI applications.",
     "url": "#",
-    "source": "BBC News",
-    "date": "February 26, 2023",
+    "source": "The Guardian",
+    "date": "October 27, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Breakthrough in Predicting Climate Change Impacts",
-    "description": "Scientists have developed an AI model that can predict the impact of climate change with unprecedented accuracy. This could provide crucial insights for policymakers and environmentalists.",
+    "title": "OpenAI Unveils New Machine Learning Tool 'Codex'",
+    "description": "OpenAI has launched Codex, an AI tool that can interpret and execute natural language commands into code. This tool is expected to significantly simplify software development.",
     "url": "#",
-    "source": "Nature",
-    "date": "February 26, 2023",
-    "category": "Technology"
+    "source": "Wired",
+    "date": "October 27, 2021",
+    "category": "Tools"
   }
 ];
