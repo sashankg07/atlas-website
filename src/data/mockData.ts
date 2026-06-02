@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: DeepMind Solves Protein Folding Mystery",
-    "description": "DeepMind's AlphaFold, an AI system, has made a monumental breakthrough by solving the 50-year-old challenge of protein folding. This advancement could revolutionize drug discovery and disease understanding.",
+    "title": "AI Breakthrough: New Algorithm Learns Without Human Assistance",
+    "description": "A team of researchers have developed an AI algorithm that can learn and improve without human intervention. This revolutionary approach has potential to greatly impact fields such as healthcare and autonomous vehicles.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 30, 2022",
+    "source": "New York Times",
+    "date": "December 14, 2022",
     "category": "Research"
   },
   {
-    "title": "IBM Unveils AI Model That Predicts Climate Change Impact",
-    "description": "IBM has developed a new AI model capable of predicting the future impact of climate change with unprecedented accuracy. This tool will help researchers and policy makers in strategic planning and mitigation efforts.",
+    "title": "AI-Powered Robots Transforming the Supply Chain Industry",
+    "description": "AI is revolutionizing the supply chain industry with robots that can sort, pack, and ship items more efficiently than humans. This technological advancement promises increased productivity and lower operational costs.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 30, 2022",
+    "source": "BBC News",
+    "date": "December 14, 2022",
     "category": "Technology"
   },
   {
-    "title": "Facebook's OpenAI Collaboration: Building Responsible AI",
-    "description": "Facebook has partnered with OpenAI to promote the development of AI systems that are fair, safe, and beneficial for all. The initiative aims to address ethical concerns in AI application.",
+    "title": "Tech Giant Google Acquires AI Startup DeepThink",
+    "description": "Google has announced the acquisition of DeepThink, an AI startup renowned for its cutting-edge machine learning technologies. This acquisition signals Google's commitment to AI innovation.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2022",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "December 14, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Google Acquires AI Startup DeepMind for $500 Million",
-    "description": "Google has made a significant investment in AI by acquiring startup DeepMind. The acquisition will bolster Google's capabilities in machine learning and data analytics.",
+    "title": "AI Ethics: Concerns Over Biased Machine Learning Algorithms",
+    "description": "Researchers highlight the ethical concerns of biased machine learning algorithms, urging for more transparency and fairness in AI technologies. This has sparked a global conversation on AI ethics.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 30, 2022",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "December 14, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tool Speeds Up Deep Learning Development",
-    "description": "A new AI tool developed by Microsoft promises to significantly reduce the time and resources required for deep learning model development. This tool will enable developers to create more efficient AI systems.",
+    "title": "New AI Tool Predicts Climate Change Impact More Accurately",
+    "description": "Scientists have developed a new AI tool that predicts the effects of climate change with unprecedented accuracy. This breakthrough tool could guide critical climate policies and strategies.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 30, 2022",
+    "source": "Nature News",
+    "date": "December 14, 2022",
     "category": "Tools"
   }
 ];
