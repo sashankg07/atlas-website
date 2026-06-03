@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Algorithm Learns Without Human Assistance",
-    "description": "A team of researchers have developed an AI algorithm that can learn and improve without human intervention. This revolutionary approach has potential to greatly impact fields such as healthcare and autonomous vehicles.",
+    "title": "Revolutionising Healthcare: Groundbreaking AI Tool for Early Cancer Detection",
+    "description": "A research team has developed an AI tool that can detect cancer in its early stages with unprecedented accuracy. This breakthrough could revolutionize healthcare, saving millions of lives worldwide.",
     "url": "#",
     "source": "New York Times",
-    "date": "December 14, 2022",
+    "date": "December 07, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Robots Transforming the Supply Chain Industry",
-    "description": "AI is revolutionizing the supply chain industry with robots that can sort, pack, and ship items more efficiently than humans. This technological advancement promises increased productivity and lower operational costs.",
+    "title": "AI Takes Art to New Heights: AI-Generated Artwork Auctioned for Millions",
+    "description": "For the first time, an artwork created by an Artificial Intelligence was auctioned at Christie's for a staggering amount. This signals a new era where AI and creativity merge, reshaping the art industry.",
     "url": "#",
-    "source": "BBC News",
-    "date": "December 14, 2022",
+    "source": "The Guardian",
+    "date": "December 07, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Google Acquires AI Startup DeepThink",
-    "description": "Google has announced the acquisition of DeepThink, an AI startup renowned for its cutting-edge machine learning technologies. This acquisition signals Google's commitment to AI innovation.",
+    "title": "AI in Business: AI-Driven Predictive Analytics Boosting Profits",
+    "description": "Companies are increasingly adopting AI-driven predictive analytics to forecast market trends and consumer behaviour. This trend is proving to be a game-changer, significantly boosting profits and efficiency.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "December 14, 2022",
+    "source": "Financial Times",
+    "date": "December 07, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Concerns Over Biased Machine Learning Algorithms",
-    "description": "Researchers highlight the ethical concerns of biased machine learning algorithms, urging for more transparency and fairness in AI technologies. This has sparked a global conversation on AI ethics.",
+    "title": "Ethical Dilemmas in AI: The Urgency of Establishing AI Ethics Guidelines",
+    "description": "As AI continues to infiltrate every aspect of our lives, the need for comprehensive AI ethics guidelines becomes more urgent. Experts warn against potential misuse, calling for clear regulations and transparency.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 14, 2022",
+    "source": "BBC News",
+    "date": "December 07, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Impact More Accurately",
-    "description": "Scientists have developed a new AI tool that predicts the effects of climate change with unprecedented accuracy. This breakthrough tool could guide critical climate policies and strategies.",
+    "title": "AI Tools: New AI-Powered Language Model Breaks Language Barriers",
+    "description": "A new AI tool has been developed that can understand and translate any language. This could potentially dissolve language barriers, facilitating global communication and cooperation like never before.",
     "url": "#",
-    "source": "Nature News",
-    "date": "December 14, 2022",
+    "source": "CNN",
+    "date": "December 07, 2021",
     "category": "Tools"
   }
 ];
