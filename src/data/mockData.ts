@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionising Healthcare: Groundbreaking AI Tool for Early Cancer Detection",
-    "description": "A research team has developed an AI tool that can detect cancer in its early stages with unprecedented accuracy. This breakthrough could revolutionize healthcare, saving millions of lives worldwide.",
+    "title": "AI Revolutionizes Drug Discovery Process",
+    "description": "Groundbreaking work in the field of AI is unlocking new potential in drug discovery, significantly speeding up the process. These advances could potentially save millions of lives.",
     "url": "#",
     "source": "New York Times",
-    "date": "December 07, 2021",
+    "date": "November 02, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Takes Art to New Heights: AI-Generated Artwork Auctioned for Millions",
-    "description": "For the first time, an artwork created by an Artificial Intelligence was auctioned at Christie's for a staggering amount. This signals a new era where AI and creativity merge, reshaping the art industry.",
+    "title": "AI-powered Chatbots Improve Customer Service Experience",
+    "description": "Businesses are integrating AI-powered chatbots, resulting in improved customer service interactions. These chatbots are capable of providing instant support and solving complex issues.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 07, 2021",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "November 02, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI in Business: AI-Driven Predictive Analytics Boosting Profits",
-    "description": "Companies are increasingly adopting AI-driven predictive analytics to forecast market trends and consumer behaviour. This trend is proving to be a game-changer, significantly boosting profits and efficiency.",
+    "title": "AI Tools Predict Climate Change Impact",
+    "description": "New AI tools are being developed to predict the impact of climate change more accurately than ever before. These tools could play a crucial role in global climate crisis management.",
     "url": "#",
-    "source": "Financial Times",
-    "date": "December 07, 2021",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "November 02, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Dilemmas in AI: The Urgency of Establishing AI Ethics Guidelines",
-    "description": "As AI continues to infiltrate every aspect of our lives, the need for comprehensive AI ethics guidelines becomes more urgent. Experts warn against potential misuse, calling for clear regulations and transparency.",
+    "title": "Ethical Concerns Grow Over AI in Warfare",
+    "description": "As AI becomes more integrated into modern warfare, ethical concerns are growing. There's an urgent need for regulation to prevent potential misuse.",
     "url": "#",
-    "source": "BBC News",
-    "date": "December 07, 2021",
+    "source": "The Guardian",
+    "date": "November 02, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools: New AI-Powered Language Model Breaks Language Barriers",
-    "description": "A new AI tool has been developed that can understand and translate any language. This could potentially dissolve language barriers, facilitating global communication and cooperation like never before.",
+    "title": "New OpenAI Tool Simplifies Code Writing",
+    "description": "OpenAI has released a new AI tool that simplifies the task of writing code. The tool, which learns from millions of public code repositories, aims to make programming more accessible.",
     "url": "#",
-    "source": "CNN",
-    "date": "December 07, 2021",
+    "source": "TechCrunch",
+    "date": "November 02, 2021",
     "category": "Tools"
   }
 ];
