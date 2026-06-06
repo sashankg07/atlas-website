@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Beats Humans at Understanding Text for the First Time",
-    "description": "A new AI model developed by OpenAI has surpassed human performance in understanding and interpreting written text. The model, known as GPT-3, marks a significant milestone in the field of artificial intelligence.",
+    "title": "New AI Algorithm Predicts Alzheimer's with Remarkable Accuracy",
+    "description": "Scientists have developed a new AI algorithm that can predict the onset of Alzheimer's disease with over 95% accuracy. This breakthrough could revolutionize early detection and treatment strategies.",
     "url": "#",
     "source": "The New York Times",
-    "date": "April 30, 2022",
+    "date": "February 28, 2022",
     "category": "Research"
   },
   {
-    "title": "The AI Revolution in Healthcare: Predicting Disease Outbreaks",
-    "description": "AI systems are now capable of predicting potential disease outbreaks, enabling healthcare professionals to react proactively. This breakthrough could revolutionize public health and disease prevention worldwide.",
+    "title": "AI-powered Drone Technology Transforms the Agriculture Industry",
+    "description": "Startups are leveraging AI to develop smart drone technology for precision agriculture. These AI drones can detect diseases, monitor crop health, and optimize irrigation systems.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "April 30, 2022",
+    "source": "The Wall Street Journal",
+    "date": "February 28, 2022",
     "category": "Technology"
   },
   {
-    "title": "IBM Unveils AI Designed to Assist in Climate Change Fight",
-    "description": "IBM has unveiled an advanced AI system designed to help scientists, researchers, and policymakers tackle the ongoing climate crisis. The AI uses machine learning algorithms to analyze climate data and predict future trends.",
+    "title": "Google's New AI Tool helps Developers Code Smarter",
+    "description": "Google has launched a new AI-powered coding assistant that can predict and suggest code snippets as developers type. This tool aims to increase productivity and code quality.",
     "url": "#",
-    "source": "Forbes",
-    "date": "April 30, 2022",
-    "category": "Business"
+    "source": "Tech Crunch",
+    "date": "February 28, 2022",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Ethical Guidelines for AI Unveiled by the European Union",
-    "description": "The EU has introduced new guidelines aimed at ensuring the ethical use of AI. The guidelines stress the importance of transparency and accountability in AI systems and their use.",
+    "title": "IBM Introduces AI Ethics Board to Oversee Transparency and Fairness",
+    "description": "IBM has announced the establishment of an AI Ethics Board to ensure transparency, fairness, and accountability in its AI developments. This move shows IBM’s commitment to ethical AI practices.",
     "url": "#",
-    "source": "BBC News",
-    "date": "April 30, 2022",
+    "source": "Forbes",
+    "date": "February 28, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Google's New AI Tool Aims to Simplify Data Analysis",
-    "description": "Google has launched a new AI tool designed to make data analysis more accessible to non-experts. The tool, known as AutoML, uses machine learning to automate parts of the data analysis process.",
+    "title": "AI Startup RapidAI Secures $100M in Series C Funding",
+    "description": "RapidAI, a leading AI startup specializing in healthcare solutions, has secured $100 million in Series C funding. The funding will be used to expand its AI-driven products and services globally.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "April 30, 2022",
-    "category": "Tools"
+    "source": "Business Insider",
+    "date": "February 28, 2022",
+    "category": "Business"
   }
 ];
