@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI Algorithm Predicts Alzheimer's with Remarkable Accuracy",
-    "description": "Scientists have developed a new AI algorithm that can predict the onset of Alzheimer's disease with over 95% accuracy. This breakthrough could revolutionize early detection and treatment strategies.",
+    "title": "AI Revolutionizes Cancer Detection: New Developments in Medical Imaging",
+    "description": "The latest developments in AI technology are transforming the field of medical imaging, making early and accurate detection of cancer possible. This breakthrough has the potential to save millions of lives worldwide.",
     "url": "#",
     "source": "The New York Times",
-    "date": "February 28, 2022",
+    "date": "October 23, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-powered Drone Technology Transforms the Agriculture Industry",
-    "description": "Startups are leveraging AI to develop smart drone technology for precision agriculture. These AI drones can detect diseases, monitor crop health, and optimize irrigation systems.",
+    "title": "Tech Giants Adopt Responsible AI Practices: A Step Towards Ethical AI",
+    "description": "Leading tech companies such as Google and Microsoft are adopting responsible AI practices in a bid to ensure ethical considerations are at the forefront of AI development.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "February 28, 2022",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "October 23, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "Google's New AI Tool helps Developers Code Smarter",
-    "description": "Google has launched a new AI-powered coding assistant that can predict and suggest code snippets as developers type. This tool aims to increase productivity and code quality.",
+    "title": "AI in Retail: Personalized Shopping Experiences Redefined",
+    "description": "AI technology is being leveraged to create highly personalized shopping experiences. Retailers are using AI to analyze customer behavior and provide tailored product recommendations.",
     "url": "#",
-    "source": "Tech Crunch",
-    "date": "February 28, 2022",
-    "category": "Tools"
+    "source": "Forbes",
+    "date": "October 23, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "IBM Introduces AI Ethics Board to Oversee Transparency and Fairness",
-    "description": "IBM has announced the establishment of an AI Ethics Board to ensure transparency, fairness, and accountability in its AI developments. This move shows IBM’s commitment to ethical AI practices.",
+    "title": "New AI Tool Predicts Climate Change Effects with Unprecedented Accuracy",
+    "description": "Researchers have developed an AI tool that can predict the effects of climate change with remarkable accuracy. This technology could help policymakers make informed decisions to combat climate change.",
     "url": "#",
-    "source": "Forbes",
-    "date": "February 28, 2022",
-    "category": "Ethics"
+    "source": "Science Daily",
+    "date": "October 23, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI Startup RapidAI Secures $100M in Series C Funding",
-    "description": "RapidAI, a leading AI startup specializing in healthcare solutions, has secured $100 million in Series C funding. The funding will be used to expand its AI-driven products and services globally.",
+    "title": "Artificial Intelligence Breaks New Ground in Language Understanding",
+    "description": "A new AI model shows unprecedented performance in understanding and generating human language. This breakthrough could revolutionize machine-human interaction.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "February 28, 2022",
-    "category": "Business"
+    "source": "MIT Technology Review",
+    "date": "October 23, 2022",
+    "category": "Research"
   }
 ];
