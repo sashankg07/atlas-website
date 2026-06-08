@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Cancer Detection: New Developments in Medical Imaging",
-    "description": "The latest developments in AI technology are transforming the field of medical imaging, making early and accurate detection of cancer possible. This breakthrough has the potential to save millions of lives worldwide.",
+    "title": "Groundbreaking AI Model Predicts Alzheimer's with Unprecedented Accuracy",
+    "description": "A novel AI model has been developed to predict Alzheimer's disease with an astounding 99% accuracy. The model leverages deep learning algorithms to analyze MRI scans, paving the way for early detection and intervention.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 23, 2022",
+    "source": "Nature Neuroscience",
+    "date": "October 11, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Adopt Responsible AI Practices: A Step Towards Ethical AI",
-    "description": "Leading tech companies such as Google and Microsoft are adopting responsible AI practices in a bid to ensure ethical considerations are at the forefront of AI development.",
+    "title": "IBM Unveils AI-Driven Quantum Computing Breakthrough",
+    "description": "IBM has made a significant leap in quantum computing, with the help of AI. The new technology promises to increase the speed and efficiency of quantum calculations, bringing us closer to the quantum advantage.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 23, 2022",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "October 11, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI in Retail: Personalized Shopping Experiences Redefined",
-    "description": "AI technology is being leveraged to create highly personalized shopping experiences. Retailers are using AI to analyze customer behavior and provide tailored product recommendations.",
+    "title": "Google's DeepMind Explores AI Ethics in Latest Report",
+    "description": "DeepMind, Google's AI subsidiary, has published a comprehensive report on the ethical implications of artificial intelligence. The report underscores the importance of transparency, accountability, and human rights in AI development.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 23, 2022",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "October 11, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Predicts Climate Change Effects with Unprecedented Accuracy",
-    "description": "Researchers have developed an AI tool that can predict the effects of climate change with remarkable accuracy. This technology could help policymakers make informed decisions to combat climate change.",
-    "url": "#",
-    "source": "Science Daily",
-    "date": "October 23, 2022",
-    "category": "Technology"
-  },
-  {
-    "title": "Artificial Intelligence Breaks New Ground in Language Understanding",
-    "description": "A new AI model shows unprecedented performance in understanding and generating human language. This breakthrough could revolutionize machine-human interaction.",
+    "title": "OpenAI Unveils New Tools for AI Language Models",
+    "description": "OpenAI has released a new set of tools designed to improve the transparency and interpretability of AI language models. The tools allow users to understand and control the outputs of these models more effectively.",
     "url": "#",
     "source": "MIT Technology Review",
-    "date": "October 23, 2022",
-    "category": "Research"
+    "date": "October 11, 2021",
+    "category": "Tools"
+  },
+  {
+    "title": "Salesforce Acquires AI Startup Servicetrace",
+    "description": "Salesforce has acquired Servicetrace, a startup specializing in robotic process automation (RPA). The acquisition aligns with Salesforce's ongoing investment in AI and automation capabilities.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "October 11, 2021",
+    "category": "Business"
   }
 ];
