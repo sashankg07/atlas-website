@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Technology: The Next Frontier in Climate Change Mitigation",
-    "description": "Researchers have developed a new AI model capable of predicting the future impact of climate change with unprecedented accuracy. The tool will provide policy makers with the necessary data to make informed decisions on climate change mitigation strategies.",
+    "title": "Revolutionizing Medicine: AI's Role in Predicting Heart Disease",
+    "description": "Researchers have developed a new artificial intelligence model that can predict the likelihood of a patient developing heart disease with unprecedented accuracy. The breakthrough could pave the way for more personalized preventative medicine.",
     "url": "#",
-    "source": "Nature Communications",
-    "date": "March 10, 2023",
+    "source": "The New York Times",
+    "date": "October 14, 2022",
     "category": "Research"
   },
   {
-    "title": "Innovative AI Tool Revolutionizes Market Analysis",
-    "description": "A cutting-edge AI tool is transforming the field of market analysis by predicting consumer behavior with unparalleled precision. This breakthrough could enable businesses to make more informed decisions and maximize their profits.",
+    "title": "AI to the Rescue: Fighting Climate Change with Machine Learning",
+    "description": "A recent study shows how AI and machine learning can help scientists predict climate patterns more accurately. This could be a crucial step towards combating global warming and achieving sustainability goals.",
     "url": "#",
-    "source": "Forbes",
-    "date": "March 10, 2023",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "October 14, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics: The Quest for Responsible AI Development",
-    "description": "As AI technology continues to evolve, experts are calling for the development of robust ethical guidelines. These guidelines would ensure that AI is developed and used in a manner that is beneficial to all of humanity.",
+    "title": "Microsoft Acquires AI Startup to Boost Cloud Services",
+    "description": "Microsoft has acquired an AI startup that specializes in machine learning algorithms. The acquisition promises to enhance their cloud services and accelerate digital transformation for businesses.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "March 10, 2023",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "October 14, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI in Healthcare: A New Era of Medical Diagnosis",
-    "description": "Recent breakthroughs in AI technology have opened up new possibilities for medical diagnosis. AI tools can now detect diseases, including cancer, with an accuracy rate that surpasses that of human doctors.",
+    "title": "Ethical Concerns Surrounding Facial Recognition Technology",
+    "description": "As facial recognition technology becomes increasingly prevalent, concerns about privacy and ethical implications are rising. Experts are calling for regulations to ensure responsible use of this powerful AI tool.",
     "url": "#",
-    "source": "The Lancet",
-    "date": "March 10, 2023",
-    "category": "Technology"
+    "source": "BBC News",
+    "date": "October 14, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Software Accelerates Deep Learning Research",
-    "description": "A newly developed AI software is set to revolutionize the field of deep learning. The software significantly reduces the time and computational resources required for training deep learning models, thereby accelerating the pace of research.",
+    "title": "Google Launches New AI Language Processing Tool",
+    "description": "Google has launched a new language processing AI tool that promises to revolutionize how we interact with technology. The tool uses advanced machine learning to understand and respond to human language with incredible accuracy.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "March 10, 2023",
+    "source": "TechCrunch",
+    "date": "October 14, 2022",
     "category": "Tools"
   }
 ];
