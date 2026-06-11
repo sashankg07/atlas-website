@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine: AI's Role in Predicting Heart Disease",
-    "description": "Researchers have developed a new artificial intelligence model that can predict the likelihood of a patient developing heart disease with unprecedented accuracy. The breakthrough could pave the way for more personalized preventative medicine.",
+    "title": "AI Revolutionizes Drug Discovery",
+    "description": "In a groundbreaking application of AI, scientists have used machine learning to dramatically reduce the time and costs associated with drug discovery. This development opens up new possibilities for the rapid development of treatments for emergent diseases.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 14, 2022",
+    "source": "Nature Biotechnology",
+    "date": "October 26, 2021",
     "category": "Research"
   },
   {
-    "title": "AI to the Rescue: Fighting Climate Change with Machine Learning",
-    "description": "A recent study shows how AI and machine learning can help scientists predict climate patterns more accurately. This could be a crucial step towards combating global warming and achieving sustainability goals.",
+    "title": "AI-powered Predictive Analytics Transforming Business Landscape",
+    "description": "Advanced AI algorithms are being used to predict consumer behavior, offering businesses a powerful tool for optimizing their operations. This technology is expected to drive a new wave of innovation in numerous sectors.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 14, 2022",
-    "category": "Technology"
+    "source": "Harvard Business Review",
+    "date": "October 26, 2021",
+    "category": "Business"
   },
   {
-    "title": "Microsoft Acquires AI Startup to Boost Cloud Services",
-    "description": "Microsoft has acquired an AI startup that specializes in machine learning algorithms. The acquisition promises to enhance their cloud services and accelerate digital transformation for businesses.",
+    "title": "DeepMind's Latest AI Model Breaks Language Understanding Barriers",
+    "description": "DeepMind has released a new AI model that demonstrates an unprecedented understanding of natural language. This development is expected to revolutionize the field of conversational AI.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 14, 2022",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "October 26, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding Facial Recognition Technology",
-    "description": "As facial recognition technology becomes increasingly prevalent, concerns about privacy and ethical implications are rising. Experts are calling for regulations to ensure responsible use of this powerful AI tool.",
+    "title": "AI Ethics: Urgent Need for Transparency and Regulation",
+    "description": "As AI becomes more integrated into our daily lives, experts are calling for greater transparency and regulation. Concerns about bias, privacy, and misuse of AI technologies underscore the urgency of this issue.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 14, 2022",
+    "source": "The New York Times",
+    "date": "October 26, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Google Launches New AI Language Processing Tool",
-    "description": "Google has launched a new language processing AI tool that promises to revolutionize how we interact with technology. The tool uses advanced machine learning to understand and respond to human language with incredible accuracy.",
+    "title": "AI Tools: The Future of Content Creation",
+    "description": "AI-powered tools are reshaping content creation, offering unique capabilities such as automated text generation and image editing. These advancements are expected to redefine the creative industry.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 14, 2022",
+    "date": "October 26, 2021",
     "category": "Tools"
   }
 ];
