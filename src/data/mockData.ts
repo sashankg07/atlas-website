@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine with AI: New Predictive Model for Heart Disease",
-    "description": "Researchers have developed a new AI predictive model that could potentially revolutionize the diagnosis and treatment of heart disease. The model harnesses machine learning to accurately predict patient outcomes, enabling personalized healthcare like never before.",
+    "title": "Revolutionary AI Algorithm Learns to Understand Human Emotions",
+    "description": "Researchers from Stanford University have developed an AI algorithm capable of interpreting human emotions from facial expressions. This breakthrough could lead to more empathetic AI.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "September 26, 2021",
+    "source": "Stanford AI Research",
+    "date": "November 24, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Cybersecurity: The Future of Online Safety",
-    "description": "Tech giants are increasingly leveraging AI to bolster cybersecurity measures. The use of AI not only helps in detecting cybersecurity threats but also in predicting and preventing them, marking a new era in online safety.",
+    "title": "Tech Giant Unveils Cutting-Edge AI-Powered Autonomous Vehicle",
+    "description": "Tech giant Google has revealed a fully autonomous vehicle powered by advanced AI. The vehicle promises to redefine the commuting experience.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 26, 2021",
+    "source": "The Verge",
+    "date": "November 24, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI in Business: The Game-Changing Role of AI in Supply Chain Management",
-    "description": "AI is making a significant impact on supply chain management, enabling companies to streamline their operations and improve efficiency. Businesses are now harnessing the power of AI to predict disruptions, manage inventory, and optimize logistics.",
+    "title": "AI Start-Up Raises $100 Million in Series B Funding",
+    "description": "AI start-up DeepMind has secured $100 Million in Series B funding, promising to accelerate the development of AI solutions for healthcare and education.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 26, 2021",
+    "source": "Forbes",
+    "date": "November 24, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethics of AI: Navigating the Challenges of AI in Law Enforcement",
-    "description": "As law enforcement agencies increasingly turn to AI to aid in their work, ethical concerns arise. Issues of privacy, bias, and accountability need addressing to ensure the responsible use of AI in this sector.",
+    "title": "Experts Debate on Ethical Implications of AI in Warfare",
+    "description": "As AI's role in military operations continues to grow, experts are debating the ethical implications. The discussion focusses on ensuring AI does not violate international humanitarian law.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 26, 2021",
+    "source": "New York Times",
+    "date": "November 24, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools: Unveiling the Latest AI-Driven Content Creation Tools",
-    "description": "A new wave of AI-powered tools is transforming the field of content creation. These tools can generate ideas, write drafts, and even edit content, helping to boost productivity and creativity for writers and marketers.",
+    "title": "IBM Launches New AI Tool To Simplify Data Analysis",
+    "description": "IBM has launched a new AI tool that simplifies complex data analysis. The tool aims to make data science more accessible to non-experts.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 26, 2021",
+    "source": "TechCrunch",
+    "date": "November 24, 2022",
     "category": "Tools"
   }
 ];
