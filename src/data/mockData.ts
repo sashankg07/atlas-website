@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Algorithm Learns to Understand Human Emotions",
-    "description": "Researchers from Stanford University have developed an AI algorithm capable of interpreting human emotions from facial expressions. This breakthrough could lead to more empathetic AI.",
+    "title": "AI Revolutionizes Drug Discovery with Speed and Precision",
+    "description": "Artificial Intelligence is accelerating the pace of drug discovery, making it faster, cheaper, and more accurate. This revolution is predicted to drastically reshape the pharmaceutical industry.",
     "url": "#",
-    "source": "Stanford AI Research",
-    "date": "November 24, 2022",
+    "source": "The New York Times",
+    "date": "November 23, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Cutting-Edge AI-Powered Autonomous Vehicle",
-    "description": "Tech giant Google has revealed a fully autonomous vehicle powered by advanced AI. The vehicle promises to redefine the commuting experience.",
+    "title": "AI Takes Centre Stage in Climate Change Battle",
+    "description": "Artificial Intelligence is becoming a key player in the fight against climate change. By predicting and analyzing trends, AI is helping us better understand and tackle the challenges posed by global warming.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 24, 2022",
+    "source": "The Guardian",
+    "date": "November 23, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-Up Raises $100 Million in Series B Funding",
-    "description": "AI start-up DeepMind has secured $100 Million in Series B funding, promising to accelerate the development of AI solutions for healthcare and education.",
+    "title": "Tech Giants Invest Heavily in AI for Business Transformation",
+    "description": "Major tech companies are betting big on AI, with substantial investments aimed at harnessing the power of artificial intelligence to drive business growth and transformation.",
     "url": "#",
     "source": "Forbes",
-    "date": "November 24, 2022",
+    "date": "November 23, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Experts Debate on Ethical Implications of AI in Warfare",
-    "description": "As AI's role in military operations continues to grow, experts are debating the ethical implications. The discussion focusses on ensuring AI does not violate international humanitarian law.",
+    "title": "AI Ethics Come into Spotlight Amidst Increased Adoption",
+    "description": "As AI becomes more prevalent in our daily lives, the debate surrounding the ethical implications of its use is heating up, raising important questions about privacy, bias, and governance.",
     "url": "#",
-    "source": "New York Times",
-    "date": "November 24, 2022",
+    "source": "The Washington Post",
+    "date": "November 23, 2021",
     "category": "Ethics"
   },
   {
-    "title": "IBM Launches New AI Tool To Simplify Data Analysis",
-    "description": "IBM has launched a new AI tool that simplifies complex data analysis. The tool aims to make data science more accessible to non-experts.",
+    "title": "New AI Tools Transforming the Landscape of Data Analysis",
+    "description": "The recent launch of several AI tools promises to revolutionize data analysis, offering businesses unprecedented insights and decision-making capabilities.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 24, 2022",
+    "source": "Wall Street Journal",
+    "date": "November 23, 2021",
     "category": "Tools"
   }
 ];
