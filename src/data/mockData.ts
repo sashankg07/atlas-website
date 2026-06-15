@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Drug Discovery with Speed and Precision",
-    "description": "Artificial Intelligence is accelerating the pace of drug discovery, making it faster, cheaper, and more accurate. This revolution is predicted to drastically reshape the pharmaceutical industry.",
+    "title": "AI System Outperforms Humans in Protein Folding Prediction",
+    "description": "A new AI model developed by DeepMind has dramatically improved the prediction of protein structures. The advancement could revolutionize drug discovery and disease understanding.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 23, 2021",
+    "source": "The Guardian",
+    "date": "October 14, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Takes Centre Stage in Climate Change Battle",
-    "description": "Artificial Intelligence is becoming a key player in the fight against climate change. By predicting and analyzing trends, AI is helping us better understand and tackle the challenges posed by global warming.",
+    "title": "AI in Space: NASA's Mars Rover Utilizes Machine Learning",
+    "description": "NASA's Perseverance Rover is leveraging AI to navigate the Martian terrain. This marks a significant step towards autonomous exploration in space missions.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 23, 2021",
+    "source": "BBC",
+    "date": "October 14, 2022",
     "category": "Technology"
   },
   {
-    "title": "Tech Giants Invest Heavily in AI for Business Transformation",
-    "description": "Major tech companies are betting big on AI, with substantial investments aimed at harnessing the power of artificial intelligence to drive business growth and transformation.",
+    "title": "Microsoft Acquires AI Startup to Boost Cloud Services",
+    "description": "Microsoft has acquired an AI startup specializing in machine learning operations (MLOps). The deal is set to boost Microsoft's cloud services and AI capabilities.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 23, 2021",
+    "source": "Business Insider",
+    "date": "October 14, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Come into Spotlight Amidst Increased Adoption",
-    "description": "As AI becomes more prevalent in our daily lives, the debate surrounding the ethical implications of its use is heating up, raising important questions about privacy, bias, and governance.",
+    "title": "Ethical AI: The Challenge of Bias Mitigation in Algorithms",
+    "description": "Recent studies highlight the growing concern of biases in AI algorithms, emphasizing the need for more ethical AI practices. Researchers are urging for regulatory measures and transparency in AI developments.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "November 23, 2021",
+    "source": "The Economist",
+    "date": "October 14, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Transforming the Landscape of Data Analysis",
-    "description": "The recent launch of several AI tools promises to revolutionize data analysis, offering businesses unprecedented insights and decision-making capabilities.",
+    "title": "OpenAI Releases New Language Model API",
+    "description": "OpenAI has launched a new API for its advanced language model, aiming to democratize access to AI-powered text generation. The tool is set to transform a wide range of sectors from education to customer service.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "November 23, 2021",
+    "source": "TechCrunch",
+    "date": "October 14, 2022",
     "category": "Tools"
   }
 ];
