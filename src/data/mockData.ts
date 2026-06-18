@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Chess, Go, and Now Poker",
-    "description": "A new AI model, developed by researchers, has outperformed human world champions in six-player poker. This breakthrough could have broad implications in business negotiations and cybersecurity.",
+    "title": "AI Breakthrough: Machine Learning Models Predict Disease Outcomes",
+    "description": "Scientists have developed new machine learning models that can predict disease outcomes with unprecedented accuracy. The breakthrough is expected to revolutionize healthcare, enabling early diagnosis and personalized treatment plans.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 24, 2021",
+    "source": "Science Daily",
+    "date": "November 25, 2021",
     "category": "Research"
   },
   {
-    "title": "Nvidia’s New AI Language Model Mimics Human Writing Styles",
-    "description": "Nvidia has released an advanced AI model capable of mimicking human writing styles, raising both excitement and ethical questions about the future of AI in communications.",
+    "title": "Tech Giants Invest Heavily in AI to Shape the Future of Work",
+    "description": "Leading tech companies like Google and Microsoft are investing billions in AI to reshape the future of work. Their AI-powered tools aim to improve productivity, facilitate remote work, and drive innovation.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "November 24, 2021",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "November 25, 2021",
+    "category": "Business"
   },
   {
-    "title": "Chinese Tech Giant Baidu Unveils AI Chip for Cloud Computing",
-    "description": "Baidu, China's leading search engine company, has launched a new AI chip designed to improve cloud computing services, marking a significant step in China's push to enhance its domestic tech industry.",
+    "title": "New AI Ethics Guidelines Released to Promote Responsible Use",
+    "description": "In response to growing concerns, a global consortium of AI researchers has released new ethics guidelines. These aim to promote responsible use of AI, with a focus on fairness, transparency, and privacy.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 24, 2021",
-    "category": "Business"
+    "source": "The Verge",
+    "date": "November 25, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: The Importance of Making AI Serve the People",
-    "description": "As AI continues to transform industries, experts emphasize the need for ethical guidelines to ensure that AI technologies are developed and used for the benefit of all.",
+    "title": "AI Innovations: A New Wave of AI-powered Chatbots",
+    "description": "The latest AI technology has spurred the development of a new generation of chatbots. These AI-powered bots are more responsive, intuitive, and capable of complex interactions, redefining customer service standards.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 24, 2021",
-    "category": "Ethics"
+    "source": "Wired",
+    "date": "November 25, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Helps Detect Deepfakes with 94% Accuracy",
-    "description": "Researchers have developed an AI tool capable of detecting deepfake videos with 94% accuracy, potentially offering a significant boost in the fight against digital misinformation.",
+    "title": "OpenAI Unveils New AI Tool for Natural Language Processing",
+    "description": "OpenAI has unveiled a new AI tool that advances natural language processing to new heights. The tool, named GPT-4, promises to revolutionize tasks from translation to content generation.",
     "url": "#",
-    "source": "CNN",
-    "date": "November 24, 2021",
+    "source": "OpenAI Blog",
+    "date": "November 25, 2021",
     "category": "Tools"
   }
 ];
