@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Models Predict Disease Outcomes",
-    "description": "Scientists have developed new machine learning models that can predict disease outcomes with unprecedented accuracy. The breakthrough is expected to revolutionize healthcare, enabling early diagnosis and personalized treatment plans.",
+    "title": "Revolutionary AI System Unveils Quantum Computing Secrets",
+    "description": "Researchers have developed an AI system capable of unveiling the complex phenomena in quantum computing. The breakthrough could speed up research and development in the field.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "November 25, 2021",
+    "source": "MIT Technology Review",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Invest Heavily in AI to Shape the Future of Work",
-    "description": "Leading tech companies like Google and Microsoft are investing billions in AI to reshape the future of work. Their AI-powered tools aim to improve productivity, facilitate remote work, and drive innovation.",
+    "title": "Google's DeepMind Achieves AI Breakthrough in Protein Folding",
+    "description": "DeepMind, Google's AI subsidiary, has made a significant breakthrough in predicting the structure of proteins, a discovery that could accelerate drug development.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 25, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "September 30, 2022",
+    "category": "Technology"
   },
   {
-    "title": "New AI Ethics Guidelines Released to Promote Responsible Use",
-    "description": "In response to growing concerns, a global consortium of AI researchers has released new ethics guidelines. These aim to promote responsible use of AI, with a focus on fairness, transparency, and privacy.",
+    "title": "AI Start-up Raises $200 million in Series C Funding",
+    "description": "Artificial intelligence start-up, AI Inc., has raised $200 million in a recent Series C funding round, signaling strong investor confidence in the AI sector.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 25, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "September 30, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Innovations: A New Wave of AI-powered Chatbots",
-    "description": "The latest AI technology has spurred the development of a new generation of chatbots. These AI-powered bots are more responsive, intuitive, and capable of complex interactions, redefining customer service standards.",
+    "title": "Ethics of AI: The Pivotal Role of Transparency",
+    "description": "A new report highlights the importance of transparency in AI systems, arguing that it is essential for ethical decision making and accountability in AI applications.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 25, 2021",
-    "category": "Technology"
+    "source": "Harvard Business Review",
+    "date": "September 30, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "OpenAI Unveils New AI Tool for Natural Language Processing",
-    "description": "OpenAI has unveiled a new AI tool that advances natural language processing to new heights. The tool, named GPT-4, promises to revolutionize tasks from translation to content generation.",
+    "title": "AI Tool Predicts Climate Change Impact on Global Economy",
+    "description": "A new AI tool has been developed that can predict the impact of climate change on the global economy, providing key insights for policy makers and businesses.",
     "url": "#",
-    "source": "OpenAI Blog",
-    "date": "November 25, 2021",
+    "source": "Nature",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
