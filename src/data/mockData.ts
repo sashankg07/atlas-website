@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI System Unveils Quantum Computing Secrets",
-    "description": "Researchers have developed an AI system capable of unveiling the complex phenomena in quantum computing. The breakthrough could speed up research and development in the field.",
+    "title": "IBM Unveils Breakthrough in Quantum Computing",
+    "description": "IBM has achieved a significant milestone in quantum computing. The company's quantum computer has successfully solved a problem that classical computers cannot.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "September 30, 2022",
-    "category": "Research"
-  },
-  {
-    "title": "Google's DeepMind Achieves AI Breakthrough in Protein Folding",
-    "description": "DeepMind, Google's AI subsidiary, has made a significant breakthrough in predicting the structure of proteins, a discovery that could accelerate drug development.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2022",
+    "source": "The New York Times",
+    "date": "September 28, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-up Raises $200 million in Series C Funding",
-    "description": "Artificial intelligence start-up, AI Inc., has raised $200 million in a recent Series C funding round, signaling strong investor confidence in the AI sector.",
+    "title": "AI Predicts Climate Change Effects More Accurately",
+    "description": "Researchers have leveraged artificial intelligence to predict the effects of climate change with unprecedented accuracy. The AI model could provide critical insights for future environmental policies.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 30, 2022",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "September 28, 2021",
+    "category": "Research"
+  },
+  {
+    "title": "Google's DeepMind Solves 50-Year-Old Biology Challenge",
+    "description": "Google's AI lab, DeepMind, has cracked a five-decade-old challenge in biology. The AI's ability to predict protein folding could revolutionize drug design.",
+    "url": "#",
+    "source": "BBC News",
+    "date": "September 28, 2021",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics of AI: The Pivotal Role of Transparency",
-    "description": "A new report highlights the importance of transparency in AI systems, arguing that it is essential for ethical decision making and accountability in AI applications.",
+    "title": "New AI Ethics Guidelines Released by IEEE",
+    "description": "The Institute of Electrical and Electronics Engineers (IEEE) has released a new set of guidelines for AI ethics. The guidelines aim to promote transparency, accountability, and user autonomy in AI systems.",
     "url": "#",
-    "source": "Harvard Business Review",
-    "date": "September 30, 2022",
+    "source": "IEEE Spectrum",
+    "date": "September 28, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool Predicts Climate Change Impact on Global Economy",
-    "description": "A new AI tool has been developed that can predict the impact of climate change on the global economy, providing key insights for policy makers and businesses.",
+    "title": "Nvidia's New AI Tools Transform 2D Images into 3D Models",
+    "description": "Nvidia has introduced a suite of AI tools that can transform 2D images into 3D models. The breakthrough could have wide-ranging applications in gaming, virtual reality, and design.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2022",
+    "source": "TechCrunch",
+    "date": "September 28, 2021",
     "category": "Tools"
   }
 ];
