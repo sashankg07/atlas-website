@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Surpasses Human Performance in Protein Folding Prediction",
-    "description": "A new AI algorithm developed by DeepMind has outperformed humans in predicting protein structures. This could revolutionize drug discovery and biological research.",
+    "title": "AI Breakthrough: New Algorithm Mimics Human Learning",
+    "description": "A team of researchers has developed an AI algorithm that mimics human cognitive learning processes, promising to revolutionize artificial intelligence as we know it. The algorithm can learn new tasks quickly and adapt to changing environments.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 23, 2021",
+    "source": "Nature Magazine",
+    "date": "April 27, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI Tool Helps Predict Climate Change Patterns",
-    "description": "IBM has unveiled a powerful new AI tool that can predict climate change patterns with unprecedented accuracy. This could aid in the design of more effective climate policies.",
+    "title": "Tech Giant Introduces AI-Powered Virtual Assistant",
+    "description": "A leading tech company has launched an AI-powered virtual assistant capable of understanding and responding to natural human language. This is a significant step towards making technology more accessible and intuitive.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 23, 2021",
+    "source": "Tech Crunch",
+    "date": "April 27, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $50 Million for AI-Powered Customer Service",
-    "description": "AI startup, Servo, has raised $50 million in Series B funding for its AI-powered customer service platform. The platform uses AI to automate customer inquiries, drastically reducing response times.",
+    "title": "AI Start-up Raises $50 Million in Series B Funding",
+    "description": "An innovative AI start-up specializing in healthcare solutions has raised $50 million in Series B funding. The company plans to use the funds to expand its product offerings and accelerate growth.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 23, 2021",
+    "source": "Forbes",
+    "date": "April 27, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Rise Over AI's Role in Job Recruitment",
-    "description": "As AI continues to play a larger role in job recruitment, concerns about bias and fairness have come to the forefront. Experts are calling for more transparency and regulation.",
+    "title": "Ethical Concerns Raised Over AI’s Role in Job Recruitment",
+    "description": "As AI continues to play a larger role in job recruitment, some are raising ethical concerns. Critics argue that the technology has the potential to reinforce existing biases, while proponents say it can make the hiring process more objective.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 23, 2021",
+    "source": "The Guardian",
+    "date": "April 27, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Google Introduces New AI Tool to Detect Internet Outages",
-    "description": "Google has introduced a new AI tool that can detect internet outages worldwide in real-time. This tool could help improve internet reliability and performance.",
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "Researchers have developed a new AI tool that can predict the impacts of climate change with unprecedented accuracy. The tool uses machine learning to analyze climate data and make predictions about future climate events.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 23, 2021",
+    "source": "Science Daily",
+    "date": "April 27, 2022",
     "category": "Tools"
   }
 ];
