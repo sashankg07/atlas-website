@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough in Cancer Diagnosis",
-    "description": "Researchers have developed an AI model that can predict certain types of cancer with remarkable accuracy, potentially revolutionizing early detection. The model has been trained on thousands of patient data sets and has demonstrated an unprecedented level of precision.",
+    "title": "Revolutionary AI Algorithm Transforms Drug Discovery",
+    "description": "Researchers have recently developed an AI algorithm capable of accelerating the drug discovery process. This innovative AI tool can predict a drug's effectiveness and potential side effects, swiftly moving medical science forward.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 06, 2021",
+    "source": "Nature Magazine",
+    "date": "March 03, 2023",
     "category": "Research"
   },
   {
-    "title": "AI Outperforms Humans in Chess, Now Go",
-    "description": "A new AI model, developed by DeepMind, has mastered the ancient game of Go without any human instruction. This is a significant step forward in reinforcement learning techniques, further demonstrating the potential of artificial intelligence.",
+    "title": "AI Now Integral to Modern Business Strategy",
+    "description": "Artificial Intelligence is increasingly being integrated into business strategies, as companies recognize its value in enhancing decision-making processes and improving customer experience.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 06, 2021",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "March 03, 2023",
+    "category": "Business"
   },
   {
-    "title": "Tech Giant Invests Billions in AI Startups",
-    "description": "In a move that underscores the growing importance of AI, a renowned tech company has announced a multi-billion dollar investment in AI startups. The move is set to spur innovation and development in the AI industry.",
+    "title": "Advancements in AI Ethics: Creating Fairer Algorithms",
+    "description": "In a breakthrough study, researchers have proposed a new framework for developing fair and unbiased AI algorithms. This could change the way AI systems make decisions, impacting a range of sectors from finance to healthcare.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "October 06, 2021",
-    "category": "Business"
+    "source": "Harvard Business Review",
+    "date": "March 03, 2023",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI and the Ethical Dilemma: A Roundtable Discussion",
-    "description": "A group of leading ethicists, philosophers, and AI developers held a roundtable discussion on the ethical implications of AI. The conversation covered topics from privacy concerns to the potential for job displacement.",
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "A new AI tool offers a solution to the data analysis bottleneck. By automating complex data analytics tasks, the tool promises to vastly improve efficiency across various industries.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 06, 2021",
-    "category": "Ethics"
+    "source": "MIT Technology Review",
+    "date": "March 03, 2023",
+    "category": "Tools"
   },
   {
-    "title": "New AI Tool Streamlines Manufacturing Processes",
-    "description": "A new AI-powered tool has been launched that optimizes manufacturing processes, reducing waste and increasing efficiency. The tool uses machine learning algorithms to predict and manage production schedules, leading to significant cost savings.",
+    "title": "AI in Space Exploration: Mars Rover Gets AI Upgrade",
+    "description": "NASA's Mars Rover gets an AI upgrade, enhancing its autonomous capabilities. This development will allow the Rover to make real-time decisions during its exploration missions.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 06, 2021",
-    "category": "Tools"
+    "source": "CNN",
+    "date": "March 03, 2023",
+    "category": "Technology"
   }
 ];
