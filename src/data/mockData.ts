@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Algorithm Transforms Drug Discovery",
-    "description": "Researchers have recently developed an AI algorithm capable of accelerating the drug discovery process. This innovative AI tool can predict a drug's effectiveness and potential side effects, swiftly moving medical science forward.",
+    "title": "Breakthrough in AI Predictive Analytics: A New Era for Healthcare",
+    "description": "Researchers have made a significant leap in AI predictive analytics, providing a new tool for healthcare professionals to predict and prevent diseases. The AI model can analyze vast amounts of data in seconds, outperforming traditional methods.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "March 03, 2023",
+    "source": "The New York Times",
+    "date": "September 17, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Now Integral to Modern Business Strategy",
-    "description": "Artificial Intelligence is increasingly being integrated into business strategies, as companies recognize its value in enhancing decision-making processes and improving customer experience.",
+    "title": "Tech Giant Launches AI-Powered Sustainability Initiative",
+    "description": "A leading technology company has launched a new initiative that uses AI to improve sustainability practices. The project aims to reduce waste and optimize energy use in industries worldwide.",
     "url": "#",
-    "source": "Forbes",
-    "date": "March 03, 2023",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "September 17, 2022",
+    "category": "Technology"
   },
   {
-    "title": "Advancements in AI Ethics: Creating Fairer Algorithms",
-    "description": "In a breakthrough study, researchers have proposed a new framework for developing fair and unbiased AI algorithms. This could change the way AI systems make decisions, impacting a range of sectors from finance to healthcare.",
+    "title": "Investment in AI Startups Reaches Record High",
+    "description": "Investment in AI startups has reached an all-time high, signaling a major shift in business trends. This surge in funding reflects the growing importance of AI in the modern business world.",
     "url": "#",
-    "source": "Harvard Business Review",
-    "date": "March 03, 2023",
-    "category": "Ethics"
+    "source": "Business Insider",
+    "date": "September 17, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "A new AI tool offers a solution to the data analysis bottleneck. By automating complex data analytics tasks, the tool promises to vastly improve efficiency across various industries.",
+    "title": "New Ethical Guidelines for AI Development Proposed",
+    "description": "A group of renowned AI experts have proposed new ethical guidelines for AI development. The goal is to ensure that AI technologies are developed and used responsibly, with a focus on minimizing harm and maximizing benefits.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "March 03, 2023",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "September 17, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI in Space Exploration: Mars Rover Gets AI Upgrade",
-    "description": "NASA's Mars Rover gets an AI upgrade, enhancing its autonomous capabilities. This development will allow the Rover to make real-time decisions during its exploration missions.",
+    "title": "Revolutionary AI Tool Streamlines Software Development",
+    "description": "A new AI tool promises to revolutionize software development by automating complex tasks. The tool, which uses machine learning techniques, can analyze code and suggest improvements, significantly reducing development time.",
     "url": "#",
-    "source": "CNN",
-    "date": "March 03, 2023",
-    "category": "Technology"
+    "source": "Wired",
+    "date": "September 17, 2022",
+    "category": "Tools"
   }
 ];
