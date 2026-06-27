@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Powers New Breakthrough in Cancer Detection",
-    "description": "Researchers have developed a new AI system capable of detecting certain types of cancer up to a year earlier than current methods. This breakthrough could revolutionize early cancer detection and treatment.",
+    "title": "New AI Predicts Heart Disease with Unprecedented Accuracy",
+    "description": "Researchers have developed an AI model that predicts the onset of heart disease with 90% accuracy. This breakthrough could revolutionize preventative care.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 29, 2021",
+    "source": "Nature Biomedical Engineering",
+    "date": "October 13, 2021",
     "category": "Research"
   },
   {
-    "title": "The Era of AI-Powered Robots: Trends and Developments",
-    "description": "Innovations in AI are powering advanced robotic technologies that can learn, adapt, and perform tasks with unprecedented efficiency. This article explores the latest trends and developments in AI-powered robotics.",
+    "title": "Tech Giants Race to Develop AI for Real-Time Voice Translation",
+    "description": "Google and Microsoft are investing heavily in AI technology for real-time voice translation, promising to break down language barriers like never before.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "November 29, 2021",
+    "source": "Wired",
+    "date": "October 13, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Transforming the Retail Sector",
-    "description": "AI is increasingly being used in the retail sector for inventory management, customer service, and personalized marketing, leading to increased efficiency and customer engagement.",
+    "title": "AI-powered Customer Service: The New Business Frontier",
+    "description": "Many businesses are harnessing the power of AI to provide personalized, efficient customer service. The technology is transforming the customer experience landscape.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "November 29, 2021",
+    "source": "Forbes",
+    "date": "October 13, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding the Use of Facial Recognition AI",
-    "description": "As facial recognition AI becomes more prevalent, concerns about privacy and misidentification are growing. Experts discuss the ethical implications and call for comprehensive regulation.",
+    "title": "Ethical Questions Arise from AI's Ability to Mimic Human Behavior",
+    "description": "As AI's ability to mimic human behavior improves, ethical questions about deception and consent are being raised. Experts call for guidelines to govern AI behavior.",
     "url": "#",
-    "source": "BBC News",
-    "date": "November 29, 2021",
+    "source": "The Guardian",
+    "date": "October 13, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Promises to Speed Up Data Analysis",
-    "description": "A newly developed AI tool aims to drastically reduce the time taken for data analysis, offering a significant boon for researchers and businesses dealing with large data sets.",
+    "title": "New AI Tool Speeds Up Drug Discovery Process",
+    "description": "A new AI tool has been developed that rapidly identifies potential new drugs. This could significantly speed up the drug discovery process.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 29, 2021",
+    "source": "MIT News",
+    "date": "October 13, 2021",
     "category": "Tools"
   }
 ];
