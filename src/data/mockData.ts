@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI Predicts Heart Disease with Unprecedented Accuracy",
-    "description": "Researchers have developed an AI model that predicts the onset of heart disease with 90% accuracy. This breakthrough could revolutionize preventative care.",
+    "title": "AI Reaches Milestone in Understanding Natural Language",
+    "description": "A groundbreaking development in AI research shows machines excelling in understanding and interpreting human language. This could revolutionize many sectors, from customer support to healthcare.",
     "url": "#",
-    "source": "Nature Biomedical Engineering",
-    "date": "October 13, 2021",
+    "source": "The AI Times",
+    "date": "November 30, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Race to Develop AI for Real-Time Voice Translation",
-    "description": "Google and Microsoft are investing heavily in AI technology for real-time voice translation, promising to break down language barriers like never before.",
+    "title": "AI Start-Up Raises $100M in Series C Funding",
+    "description": "An AI start-up specializing in automating business processes has successfully raised $100 million in its latest funding round, showcasing the growing interest in AI in business.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 13, 2021",
-    "category": "Technology"
+    "source": "Tech Crunch",
+    "date": "November 30, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI-powered Customer Service: The New Business Frontier",
-    "description": "Many businesses are harnessing the power of AI to provide personalized, efficient customer service. The technology is transforming the customer experience landscape.",
+    "title": "New AI Tool Accelerates Drug Discovery",
+    "description": "A new AI-powered tool promises to expedite the drug discovery process, potentially saving billions of dollars and countless lives in the process.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 13, 2021",
-    "category": "Business"
+    "source": "MIT Technology Review",
+    "date": "November 30, 2021",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Questions Arise from AI's Ability to Mimic Human Behavior",
-    "description": "As AI's ability to mimic human behavior improves, ethical questions about deception and consent are being raised. Experts call for guidelines to govern AI behavior.",
+    "title": "Ethical Concerns Rise as AI Advances",
+    "description": "As AI technology continues to advance, ethical considerations are coming to the forefront. Experts call for robust guidelines to ensure ethical AI development and deployment.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 13, 2021",
+    "date": "November 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Speeds Up Drug Discovery Process",
-    "description": "A new AI tool has been developed that rapidly identifies potential new drugs. This could significantly speed up the drug discovery process.",
+    "title": "AI Pushes Limits with Next-Gen Computer Vision",
+    "description": "Recent advances in AI technology have led to a new generation of computer vision systems that can identify and interpret visual data more accurately than ever before.",
     "url": "#",
-    "source": "MIT News",
-    "date": "October 13, 2021",
-    "category": "Tools"
+    "source": "Wired",
+    "date": "November 30, 2021",
+    "category": "Technology"
   }
 ];
