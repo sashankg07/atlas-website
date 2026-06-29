@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Reaches Milestone in Understanding Natural Language",
-    "description": "A groundbreaking development in AI research shows machines excelling in understanding and interpreting human language. This could revolutionize many sectors, from customer support to healthcare.",
+    "title": "AI Breaks New Ground in Predicting Alzheimer's",
+    "description": "Researchers have developed an AI model that can predict the onset of Alzheimer's disease with over 95% accuracy. The new system uses deep learning to analyze brain scans and identify early signs of the disease.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "November 30, 2021",
+    "source": "The Guardian",
+    "date": "September 26, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Start-Up Raises $100M in Series C Funding",
-    "description": "An AI start-up specializing in automating business processes has successfully raised $100 million in its latest funding round, showcasing the growing interest in AI in business.",
+    "title": "AI Revolutionizes E-commerce Personalization",
+    "description": "Advanced AI algorithms are reshaping the e-commerce industry by providing highly personalized customer experiences. These advancements are helping retailers increase conversion rates and improve customer retention.",
     "url": "#",
-    "source": "Tech Crunch",
-    "date": "November 30, 2021",
+    "source": "Forbes",
+    "date": "September 26, 2022",
     "category": "Business"
   },
   {
-    "title": "New AI Tool Accelerates Drug Discovery",
-    "description": "A new AI-powered tool promises to expedite the drug discovery process, potentially saving billions of dollars and countless lives in the process.",
+    "title": "AI Ethics Under Scrutiny as Bias Concerns Surface",
+    "description": "As AI continues to evolve, ethical concerns about bias and fairness are coming to the forefront. Leaders in the field are calling for more transparency and accountability in AI systems.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 30, 2021",
-    "category": "Tools"
+    "source": "BBC News",
+    "date": "September 26, 2022",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Rise as AI Advances",
-    "description": "As AI technology continues to advance, ethical considerations are coming to the forefront. Experts call for robust guidelines to ensure ethical AI development and deployment.",
+    "title": "AI Transforms Climate Change Modeling",
+    "description": "Scientists are leveraging AI technology to more accurately predict the impacts of climate change. The technology is helping to provide more precise data, leading to more effective mitigation strategies.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 30, 2021",
-    "category": "Ethics"
+    "source": "Nature",
+    "date": "September 26, 2022",
+    "category": "Research"
   },
   {
-    "title": "AI Pushes Limits with Next-Gen Computer Vision",
-    "description": "Recent advances in AI technology have led to a new generation of computer vision systems that can identify and interpret visual data more accurately than ever before.",
+    "title": "New AI Tools Revolutionize Software Development",
+    "description": "A new wave of AI-powered tools is automating and streamlining many aspects of software development, from coding to testing. These tools are promising to make software development faster and more efficient.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 30, 2021",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "September 26, 2022",
+    "category": "Tools"
   }
 ];
