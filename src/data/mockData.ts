@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Predicting Alzheimer's",
-    "description": "Researchers have developed an AI model that can predict the onset of Alzheimer's disease with over 95% accuracy. The new system uses deep learning to analyze brain scans and identify early signs of the disease.",
+    "title": "Groundbreaking AI Software Predicts Climate Change Impact",
+    "description": "A team of scientists have developed an AI model that accurately predicts the impact of climate change. The model combines historical data and advanced machine learning algorithms to provide a comprehensive view of future climate scenarios.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 26, 2022",
+    "source": "The New York Times",
+    "date": "August 05, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizes E-commerce Personalization",
-    "description": "Advanced AI algorithms are reshaping the e-commerce industry by providing highly personalized customer experiences. These advancements are helping retailers increase conversion rates and improve customer retention.",
+    "title": "AI Revolutionizes E-commerce with Personalized Shopping Experiences",
+    "description": "AI is transforming the e-commerce landscape by providing highly personalized shopping experiences. By analyzing user behavior and preferences, AI can suggest products that consumers are more likely to purchase.",
     "url": "#",
     "source": "Forbes",
-    "date": "September 26, 2022",
+    "date": "August 05, 2022",
     "category": "Business"
   },
   {
-    "title": "AI Ethics Under Scrutiny as Bias Concerns Surface",
-    "description": "As AI continues to evolve, ethical concerns about bias and fairness are coming to the forefront. Leaders in the field are calling for more transparency and accountability in AI systems.",
+    "title": "New AI Tool Detects Deepfakes with 97% Accuracy",
+    "description": "Researchers have developed a new AI tool that can detect deepfakes with 97% accuracy. This breakthrough could be a major step in combating the spread of disinformation and fake news.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 26, 2022",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "August 05, 2022",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Transforms Climate Change Modeling",
-    "description": "Scientists are leveraging AI technology to more accurately predict the impacts of climate change. The technology is helping to provide more precise data, leading to more effective mitigation strategies.",
+    "title": "AI Ethics: Balancing the Benefits and Risks of AI in Healthcare",
+    "description": "As AI continues to transform healthcare, ethical considerations are becoming increasingly important. Experts discuss the need for regulations to ensure the safe and fair use of AI in healthcare settings.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 26, 2022",
-    "category": "Research"
+    "source": "The Guardian",
+    "date": "August 05, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tools Revolutionize Software Development",
-    "description": "A new wave of AI-powered tools is automating and streamlining many aspects of software development, from coding to testing. These tools are promising to make software development faster and more efficient.",
+    "title": "AI in Education: New Tools Enhance Remote Learning",
+    "description": "With the rise of remote learning, AI-based tools are playing a crucial role in enhancing online education. These tools are improving accessibility and personalizing learning for students worldwide.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 26, 2022",
+    "source": "EdTech Magazine",
+    "date": "August 05, 2022",
     "category": "Tools"
   }
 ];
