@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Software Predicts Climate Change Impact",
-    "description": "A team of scientists have developed an AI model that accurately predicts the impact of climate change. The model combines historical data and advanced machine learning algorithms to provide a comprehensive view of future climate scenarios.",
+    "title": "AI Breaks New Ground in Climate Change Predictions",
+    "description": "Researchers have used AI to create a new method for accurately predicting climate change. This revolutionary development could help policymakers make more informed decisions about climate policy.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "August 05, 2022",
+    "source": "Nature Magazine",
+    "date": "November 16, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizes E-commerce with Personalized Shopping Experiences",
-    "description": "AI is transforming the e-commerce landscape by providing highly personalized shopping experiences. By analyzing user behavior and preferences, AI can suggest products that consumers are more likely to purchase.",
+    "title": "AI-based Diagnostic Tool to Revolutionize Healthcare",
+    "description": "A new AI-based diagnostic tool promises to dramatically improve the speed and accuracy of disease diagnosis. The technology uses machine learning to analyze patient data and suggest diagnoses.",
     "url": "#",
-    "source": "Forbes",
-    "date": "August 05, 2022",
-    "category": "Business"
+    "source": "The New York Times",
+    "date": "November 16, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Detects Deepfakes with 97% Accuracy",
-    "description": "Researchers have developed a new AI tool that can detect deepfakes with 97% accuracy. This breakthrough could be a major step in combating the spread of disinformation and fake news.",
+    "title": "Tech Giant Invests Billions in AI for Business Solutions",
+    "description": "A leading tech company has announced a multi-billion dollar investment in AI to create innovative business solutions. The move reflects the growing importance of AI in the business world.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "August 05, 2022",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "November 16, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Balancing the Benefits and Risks of AI in Healthcare",
-    "description": "As AI continues to transform healthcare, ethical considerations are becoming increasingly important. Experts discuss the need for regulations to ensure the safe and fair use of AI in healthcare settings.",
+    "title": "New Ethical Guidelines for AI Proposed",
+    "description": "A top think-tank has proposed new ethical guidelines for AI development and use. These guidelines aim to ensure that AI is developed and used in a way that respects human rights and promotes social good.",
     "url": "#",
     "source": "The Guardian",
-    "date": "August 05, 2022",
+    "date": "November 16, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI in Education: New Tools Enhance Remote Learning",
-    "description": "With the rise of remote learning, AI-based tools are playing a crucial role in enhancing online education. These tools are improving accessibility and personalizing learning for students worldwide.",
+    "title": "AI Tool to Enhance Creative Process Launched",
+    "description": "A new AI tool that enhances the creative process has been launched by a leading tech company. The tool uses machine learning to generate creative ideas and suggestions, providing a valuable resource for artists, writers, and other creative professionals.",
     "url": "#",
-    "source": "EdTech Magazine",
-    "date": "August 05, 2022",
+    "source": "Wired",
+    "date": "November 16, 2021",
     "category": "Tools"
   }
 ];
