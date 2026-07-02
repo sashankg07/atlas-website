@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Climate Change Predictions",
-    "description": "Researchers have used AI to create a new method for accurately predicting climate change. This revolutionary development could help policymakers make more informed decisions about climate policy.",
+    "title": "AI-Powered Drones Revolutionize Wildlife Conservation",
+    "description": "Researchers have developed AI-powered drones to monitor and protect wildlife. The technology promises to revolutionize wildlife conservation by providing real-time insights and reducing human intervention.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "November 16, 2021",
+    "source": "Nature's Journal",
+    "date": "December 10, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-based Diagnostic Tool to Revolutionize Healthcare",
-    "description": "A new AI-based diagnostic tool promises to dramatically improve the speed and accuracy of disease diagnosis. The technology uses machine learning to analyze patient data and suggest diagnoses.",
+    "title": "AI Predicts Alzheimer's Disease Years Before Diagnosis",
+    "description": "In a major breakthrough, an AI model has successfully predicted the onset of Alzheimer's disease years before clinical diagnosis. This development could pave the way for early intervention and treatment.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 16, 2021",
+    "source": "The Lancet Neurology",
+    "date": "December 10, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI for Business Solutions",
-    "description": "A leading tech company has announced a multi-billion dollar investment in AI to create innovative business solutions. The move reflects the growing importance of AI in the business world.",
+    "title": "Tesla Unveils AI-Driven Energy Optimization System",
+    "description": "Tesla has unveiled a new AI-driven energy optimization system. The system aims to maximize the efficiency of renewable energy sources, potentially transforming the sustainable energy sector.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 16, 2021",
+    "source": "Bloomberg",
+    "date": "December 10, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Ethical Guidelines for AI Proposed",
-    "description": "A top think-tank has proposed new ethical guidelines for AI development and use. These guidelines aim to ensure that AI is developed and used in a way that respects human rights and promotes social good.",
+    "title": "AI Ethics Framework: A Step Towards Responsible AI",
+    "description": "A global consortium of AI researchers and ethicists has proposed a new framework for AI ethics. The framework aims to ensure responsible use of AI, emphasizing transparency and accountability.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 16, 2021",
+    "source": "MIT Technology Review",
+    "date": "December 10, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool to Enhance Creative Process Launched",
-    "description": "A new AI tool that enhances the creative process has been launched by a leading tech company. The tool uses machine learning to generate creative ideas and suggestions, providing a valuable resource for artists, writers, and other creative professionals.",
+    "title": "New AI Tool Transforms Sketches Into Photorealistic Images",
+    "description": "A new AI tool can transform simple sketches into photorealistic images. This breakthrough could have significant implications for design, art, and computer graphics.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 16, 2021",
+    "source": "TechCrunch",
+    "date": "December 10, 2021",
     "category": "Tools"
   }
 ];
