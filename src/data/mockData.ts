@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks Ground in Cancer Diagnosis",
-    "description": "Artificial Intelligence is making waves in the medical sector, now capable of diagnosing certain types of cancer more accurately than human doctors. The technology is expected to greatly enhance early detection and treatment methods.",
+    "title": "Revolutionizing Medicine with AI: New Breakthrough in Drug Discovery",
+    "description": "Scientists have made a significant breakthrough in drug discovery using AI. The new development is poised to revolutionize medical research and treatment.",
     "url": "#",
     "source": "The New York Times",
-    "date": "February 22, 2023",
+    "date": "October 08, 2022",
     "category": "Research"
   },
   {
-    "title": "Elon Musk's Neuralink Unveils AI Brain Implant",
-    "description": "Elon Musk's Neuralink has made a breakthrough in AI technology, revealing a brain implant that could potentially enhance human cognitive abilities. The device is currently being tested and refined for consumer use.",
-    "url": "#",
-    "source": "Bloomberg",
-    "date": "February 22, 2023",
-    "category": "Technology"
-  },
-  {
-    "title": "Tech Giants Invest Heavily in AI Startups",
-    "description": "Major technology corporates like Google and Apple are increasingly investing in AI-based startups. These investments indicate the growing relevance and potential of AI in various industries.",
+    "title": "AI Tools Streamline Business Operations Amid Pandemic",
+    "description": "In the wake of COVID-19, businesses are turning to AI tools for streamlined operations. The move is seen as a necessary adjustment to the new normal.",
     "url": "#",
     "source": "Forbes",
-    "date": "February 22, 2023",
+    "date": "October 08, 2022",
     "category": "Business"
+  },
+  {
+    "title": "New AI Ethics Guidelines Released: Balancing Innovation and Privacy",
+    "description": "The release of new AI ethics guidelines aims to balance technological advancement and privacy concerns. Experts believe this move is a step in the right direction.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "October 08, 2022",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Challenges Arise from AI's Role in Hiring",
-    "description": "As companies turn to AI for hiring decisions, concerns are being raised about the ethical implications of this trend. Potential biases in AI algorithms and the lack of transparency are the main areas of focus.",
+    "title": "Next-Gen AI Models Transforming Weather Forecasting",
+    "description": "The use of advanced AI models in weather forecasting is leading to more accurate predictions. This could have wide-ranging implications for disaster response and climate studies.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "February 22, 2023",
-    "category": "Ethics"
+    "source": "BBC News",
+    "date": "October 08, 2022",
+    "category": "Technology"
   },
   {
-    "title": "New Open-Source AI Tool Paves Way for Innovation",
-    "description": "A new open-source AI tool released by a Silicon Valley startup is helping developers across the globe build AI-based applications. The tool aims at reducing the barriers in AI development and encourage innovations.",
+    "title": "Unveiling AI-Powered Tools for Enhanced Cybersecurity",
+    "description": "The launch of new AI-powered cybersecurity tools promises to bolster defense against cyber threats. This marks a significant step forward in the fight against cybercrime.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "February 22, 2023",
+    "date": "October 08, 2022",
     "category": "Tools"
   }
 ];
