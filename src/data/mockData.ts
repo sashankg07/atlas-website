@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine with AI: New Breakthrough in Drug Discovery",
-    "description": "Scientists have made a significant breakthrough in drug discovery using AI. The new development is poised to revolutionize medical research and treatment.",
+    "title": "Revolutionizing Healthcare: AI Predicts Heart Disease with Unprecedented Accuracy",
+    "description": "A team of researchers has developed an AI model capable of predicting heart disease with 90% accuracy. This breakthrough could revolutionize preventative healthcare and save millions of lives.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 08, 2022",
+    "date": "October 20, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Tools Streamline Business Operations Amid Pandemic",
-    "description": "In the wake of COVID-19, businesses are turning to AI tools for streamlined operations. The move is seen as a necessary adjustment to the new normal.",
+    "title": "Google's New AI Language Model Outperforms Humans in Translation Tasks",
+    "description": "Google's latest AI language model, codenamed 'BabelFish', has shown remarkable proficiency in translation tasks, outperforming human linguists in several languages.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 08, 2022",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "October 20, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Ethics Guidelines Released: Balancing Innovation and Privacy",
-    "description": "The release of new AI ethics guidelines aims to balance technological advancement and privacy concerns. Experts believe this move is a step in the right direction.",
+    "title": "IBM Unveils Next-Generation AI Chip: A Quantum Leap in Processing Power",
+    "description": "IBM has unveiled a next-generation AI chip that promises a quantum leap in processing power. The chip, capable of performing quadrillions of calculations per second, could power the next wave of AI advancements.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 08, 2022",
-    "category": "Ethics"
+    "source": "Business Insider",
+    "date": "October 20, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Next-Gen AI Models Transforming Weather Forecasting",
-    "description": "The use of advanced AI models in weather forecasting is leading to more accurate predictions. This could have wide-ranging implications for disaster response and climate studies.",
+    "title": "AI Ethics Debate Intensifies: New Guidelines for Fairness & Transparency",
+    "description": "As AI increasingly influences our lives, the debate around ethics intensifies. New guidelines have been proposed to ensure fairness and transparency in AI applications.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 08, 2022",
-    "category": "Technology"
+    "source": "The Economist",
+    "date": "October 20, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "Unveiling AI-Powered Tools for Enhanced Cybersecurity",
-    "description": "The launch of new AI-powered cybersecurity tools promises to bolster defense against cyber threats. This marks a significant step forward in the fight against cybercrime.",
+    "title": "Introducing FastAI v2: Democratizing AI with User-Friendly Tools",
+    "description": "FastAI has released its latest version, FastAI v2, aimed at democratizing AI. The new version simplifies the process of training AI models, making it more accessible to beginners.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 08, 2022",
+    "source": "VentureBeat",
+    "date": "October 20, 2021",
     "category": "Tools"
   }
 ];
