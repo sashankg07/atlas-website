@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: New Machine Learning Model Predicts Climate Trends",
-    "description": "Scientists have developed an AI model capable of predicting climate patterns with unprecedented accuracy. This technology may revolutionize our understanding and response to climate change.",
+    "title": "AI Pioneers Launch Groundbreaking Computer Vision Algorithm",
+    "description": "Researchers have developed a new algorithm that significantly improves computer vision capabilities. The algorithm, which mimics human visual perception, could revolutionize fields from autonomous vehicles to robotic surgery.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 16, 2021",
+    "source": "The New York Times",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Now Able to Write Code: The Dawn of the AI Developer",
-    "description": "In a groundbreaking development, AI systems can now write functional code, potentially transforming the field of software development.",
+    "title": "Tech Giant Unveils Next-Gen AI Chip",
+    "description": "A leading technology company has unveiled its latest AI chip, promising unparalleled processing speed and efficiency. The chip is expected to accelerate AI advancements across industries.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 16, 2021",
+    "source": "TechCrunch",
+    "date": "September 30, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $100M to Improve Autonomous Vehicles",
-    "description": "An AI startup focusing on autonomous vehicle technology has recently raised $100M in Series B funding, highlighting the accelerating investment in AI technologies.",
+    "title": "AI Startup Raises $100 Million in Series B Funding",
+    "description": "An innovative AI startup has secured $100 million in funding, setting a new record for AI investments. The funds will be used to advance the company's cutting-edge machine learning technologies.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "November 16, 2021",
+    "source": "Forbes",
+    "date": "September 30, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: Ensuring Fairness in Machine Learning",
-    "description": "As AI continues to integrate into society, ethical discussions are on the rise about ensuring fairness and avoiding bias in machine learning models.",
+    "title": "New Ethical Guidelines for AI Proposed",
+    "description": "A global consortium has proposed a new set of ethical guidelines for AI development and use. The guidelines emphasize fairness, transparency, and accountability in AI systems.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 16, 2021",
+    "date": "September 30, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Detects Deepfakes with Unprecedented Accuracy",
-    "description": "A newly launched AI tool offers improved detection of deepfakes, offering a potential shield against digital misinformation.",
+    "title": "New AI Tool Transforms Data Analysis",
+    "description": "A groundbreaking AI tool has been launched, transforming the way businesses analyze and interpret data. The tool uses advanced machine learning algorithms to provide actionable insights in real-time.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 16, 2021",
+    "source": "Business Insider",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
