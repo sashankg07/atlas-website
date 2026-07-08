@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Pioneers Launch Groundbreaking Computer Vision Algorithm",
-    "description": "Researchers have developed a new algorithm that significantly improves computer vision capabilities. The algorithm, which mimics human visual perception, could revolutionize fields from autonomous vehicles to robotic surgery.",
+    "title": "AI Breaks Ground in Predicting Climate Change",
+    "description": "Researchers have developed an AI model capable of predicting the impact of climate change with unprecedented accuracy. The technology could revolutionize our approach to environmental preservation.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 30, 2022",
+    "source": "Nature",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Next-Gen AI Chip",
-    "description": "A leading technology company has unveiled its latest AI chip, promising unparalleled processing speed and efficiency. The chip is expected to accelerate AI advancements across industries.",
-    "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2022",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Startup Raises $100 Million in Series B Funding",
-    "description": "An innovative AI startup has secured $100 million in funding, setting a new record for AI investments. The funds will be used to advance the company's cutting-edge machine learning technologies.",
+    "title": "AI in Financial Services: A New Era of Innovation",
+    "description": "AI is transforming the financial industry by enabling personalized services, risk assessment, and fraud detection. This shift highlights the growing influence of AI in business operations.",
     "url": "#",
     "source": "Forbes",
-    "date": "September 30, 2022",
+    "date": "September 30, 2021",
     "category": "Business"
+  },
+  {
+    "title": "DeepMind's AI Solution for Protein Folding: A Game Changer",
+    "description": "DeepMind's AI, AlphaFold, has made a major breakthrough in solving the protein folding problem, potentially revolutionizing biochemistry and medical research.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "September 30, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Ethical Guidelines for AI Proposed",
-    "description": "A global consortium has proposed a new set of ethical guidelines for AI development and use. The guidelines emphasize fairness, transparency, and accountability in AI systems.",
+    "title": "AI and Ethical Dilemmas: Navigating the Gray Areas",
+    "description": "As AI technologies advance, ethical considerations become more urgent. Researchers are grappling with how to instill ethical guidelines into AI systems and their deployment.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2022",
+    "source": "MIT Technology Review",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Data Analysis",
-    "description": "A groundbreaking AI tool has been launched, transforming the way businesses analyze and interpret data. The tool uses advanced machine learning algorithms to provide actionable insights in real-time.",
+    "title": "OpenAI Launches New AI Tool: Codex",
+    "description": "OpenAI has launched Codex, a sibling to GPT-3, which translates natural language to code. This new tool could significantly impact software development and coding education.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 30, 2022",
+    "source": "TechCrunch",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
