@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI System Outperforms Humans in Protein Folding Challenge",
-    "description": "Google's DeepMind has developed an AI capable of predicting the 3D structures of proteins, a breakthrough that could revolutionize the field of biomedicine. The AI model, AlphaFold, has outperformed its human counterparts in a global competition.",
+    "title": "Revolutionizing Medicine: AI Diagnoses Disease with Unprecedented Accuracy",
+    "description": "Recent advancements in AI technology have led to breakthroughs in disease diagnosis, outperforming human doctors in some cases. This could revolutionize the future of healthcare, making diagnostics more accurate and accessible.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "June 15, 2022",
-    "category": "Research"
-  },
-  {
-    "title": "AI Revolutionizes Predictive Maintenance in Manufacturing",
-    "description": "IBM has unveiled a new AI system that can predict machine failures with unprecedented accuracy. The advancement could save billions in maintenance costs for the manufacturing industry.",
-    "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "June 15, 2022",
+    "source": "The New York Times",
+    "date": "October 24, 2021",
     "category": "Technology"
   },
   {
-    "title": "Amazon's Latest AI Tool Aims to Improve Customer Experience",
-    "description": "Amazon has introduced a new AI tool that provides personalized recommendations to customers based on their shopping behavior. The move is expected to significantly boost sales and customer satisfaction.",
+    "title": "AI Outperforms Humans in Creating Realistic Art",
+    "description": "A groundbreaking study has shown that AI can now create art that is indistinguishable from that created by human artists. This development could shake up the art world and poses questions about the nature of creativity.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "June 15, 2022",
+    "source": "The Guardian",
+    "date": "October 24, 2021",
+    "category": "Research"
+  },
+  {
+    "title": "Big Tech Invests Billions in AI: What Does this Mean for Small Businesses?",
+    "description": "With big tech companies pouring billions into AI development, small businesses risk being left behind. However, some experts argue that this could also create opportunities for innovative startups.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "October 24, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Debate Heats up on AI Ethics and Privacy Concerns",
-    "description": "As AI adoption increases, so do concerns about ethics and privacy. Experts are calling for more transparency and regulation to ensure AI technologies are used responsibly.",
+    "title": "AI Ethics Debate Heats Up: Who's Responsible When AI Goes Wrong?",
+    "description": "As AI becomes increasingly integrated into our lives, the question of who is responsible when it goes wrong is more important than ever. This has sparked heated debate about the need for AI regulation and oversight.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "June 15, 2022",
+    "source": "BBC News",
+    "date": "October 24, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI's New Language Model GPT-4 Shakes Up the AI World",
-    "description": "OpenAI has released GPT-4, its latest language model that can generate remarkably human-like text. The tool is expected to have wide-ranging applications, from content creation to customer service.",
+    "title": "New AI Tool Transforms the Field of Data Analysis",
+    "description": "A new AI tool promises to make data analysis easier and more intuitive than ever before. This could have wide-ranging implications, from scientific research to business analytics.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "June 15, 2022",
+    "source": "TechCrunch",
+    "date": "October 24, 2021",
     "category": "Tools"
   }
 ];
