@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine: AI Diagnoses Disease with Unprecedented Accuracy",
-    "description": "Recent advancements in AI technology have led to breakthroughs in disease diagnosis, outperforming human doctors in some cases. This could revolutionize the future of healthcare, making diagnostics more accurate and accessible.",
+    "title": "Revolutionizing Healthcare: AI Diagnostic Tool Receives FDA Approval",
+    "description": "In a landmark decision, the FDA has granted approval for a new AI-powered diagnostic tool. This tool is expected to drastically improve early disease detection and patient outcomes.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 24, 2021",
+    "date": "September 24, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Outperforms Humans in Creating Realistic Art",
-    "description": "A groundbreaking study has shown that AI can now create art that is indistinguishable from that created by human artists. This development could shake up the art world and poses questions about the nature of creativity.",
+    "title": "AI Breakthrough: DeepMind's New Model Predicts Protein Structures with Unprecedented Accuracy",
+    "description": "Google's DeepMind has unveiled a new AI model that can predict protein structures with a degree of accuracy never seen before. This development opens up vast possibilities in drug discovery and biological research.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 24, 2021",
+    "source": "Nature Journal",
+    "date": "September 24, 2022",
     "category": "Research"
   },
   {
-    "title": "Big Tech Invests Billions in AI: What Does this Mean for Small Businesses?",
-    "description": "With big tech companies pouring billions into AI development, small businesses risk being left behind. However, some experts argue that this could also create opportunities for innovative startups.",
+    "title": "Tech Giant Invests $2bn in AI Research for Climate Change Solutions",
+    "description": "A leading tech company has committed $2bn to harnessing AI in the fight against climate change. The investment will fund research into new AI models capable of predicting and mitigating the effects of global warming.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 24, 2021",
+    "source": "The Guardian",
+    "date": "September 24, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Debate Heats Up: Who's Responsible When AI Goes Wrong?",
-    "description": "As AI becomes increasingly integrated into our lives, the question of who is responsible when it goes wrong is more important than ever. This has sparked heated debate about the need for AI regulation and oversight.",
+    "title": "Ethical AI: New Framework Proposed for Responsible AI Development",
+    "description": "Top AI researchers have proposed a new framework for ethical AI development. This framework aims to ensure AI technologies are developed and used responsibly, with a focus on ensuring fairness and transparency.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 24, 2021",
+    "source": "MIT Technology Review",
+    "date": "September 24, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms the Field of Data Analysis",
-    "description": "A new AI tool promises to make data analysis easier and more intuitive than ever before. This could have wide-ranging implications, from scientific research to business analytics.",
+    "title": "AI Toolset Release: Next-Gen Tools for AI Developers Announced",
+    "description": "A new suite of tools designed to streamline the AI development process has been released. The toolset aims to make it easier for developers to build and deploy AI models, reducing the time and cost involved.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 24, 2021",
+    "date": "September 24, 2022",
     "category": "Tools"
   }
 ];
