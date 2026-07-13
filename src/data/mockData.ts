@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI-Driven Drug Discovery Sees Unprecedented Breakthrough",
-    "description": "AI technology has successfully created a new drug compound ready for human trials. This is a significant milestone in the field of AI-driven drug discovery.",
+    "title": "AI Breaks Ground in Predicting Climate Change",
+    "description": "Researchers have developed a new AI model that can predict the effects of climate change with unprecedented accuracy. The system uses machine learning to analyze complex simulations faster and more accurately than traditional methods.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 10, 2021",
+    "source": "Nature",
+    "date": "November 03, 2021",
     "category": "Research"
   },
   {
-    "title": "Google's New AI Tool Predicts Weather with Unmatched Accuracy",
-    "description": "Google’s AI division, DeepMind, has developed an AI model that can predict weather patterns with unprecedented precision, potentially revolutionising meteorology.",
+    "title": "AI Revolutionizes the Healthcare Industry",
+    "description": "Artificial Intelligence is playing a crucial role in the fight against COVID-19, with new AI tools assisting in diagnosing and treating patients. This technology is set to revolutionize healthcare as we know it.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 10, 2021",
+    "date": "November 03, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $100 Million in Series C Funding",
-    "description": "AI start-up, DeepVision, has secured $100 million in its latest funding round, reflecting growing investor interest in AI technology and its potential.",
+    "title": "Tech Giant Invests Billions in AI Startups",
+    "description": "A leading tech company has announced a multi-billion dollar investment in AI startups. The move signals a growing interest in AI solutions within the business sector and will likely spur further innovation.",
     "url": "#",
     "source": "Forbes",
-    "date": "October 10, 2021",
+    "date": "November 03, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI: A Growing Concern",
-    "description": "As AI technology advances, so do the ethical considerations. Experts are calling for stricter regulations to prevent misuse and bias in AI systems.",
+    "title": "AI Ethics: Balancing Innovation and Regulation",
+    "description": "As AI technology continues to advance, experts call for greater focus on ethical considerations. The challenge lies in balancing the need for innovation with the importance of regulation to prevent misuse.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "October 10, 2021",
+    "source": "MIT Technology Review",
+    "date": "November 03, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Helps Developers Build More Efficient Machine Learning Models",
-    "description": "A new AI tool, known as OptiML, is helping developers optimize machine learning algorithms, resulting in more efficient and powerful AI systems.",
+    "title": "New AI Tool Transforms Data Analysis",
+    "description": "A new AI tool is making waves in the world of data analysis. The tool uses machine learning to interpret complex data sets and has the potential to revolutionize many industries.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 10, 2021",
+    "date": "November 03, 2021",
     "category": "Tools"
   }
 ];
