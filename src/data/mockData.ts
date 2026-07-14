@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks Ground in Predicting Climate Change",
-    "description": "Researchers have developed a new AI model that can predict the effects of climate change with unprecedented accuracy. The system uses machine learning to analyze complex simulations faster and more accurately than traditional methods.",
+    "title": "AI Breaks New Ground in Climate Change Predictions",
+    "description": "Artificial Intelligence is revolutionizing the way we predict and respond to climate change. The latest AI models provide unprecedented accuracy in forecasting climate patterns, leading to more effective mitigation strategies.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 03, 2021",
+    "source": "The New York Times",
+    "date": "November 09, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Revolutionizes the Healthcare Industry",
-    "description": "Artificial Intelligence is playing a crucial role in the fight against COVID-19, with new AI tools assisting in diagnosing and treating patients. This technology is set to revolutionize healthcare as we know it.",
+    "title": "Tech Giant Unveils Next-Gen AI Processor",
+    "description": "A leading tech company has unveiled its latest AI processor, promising to deliver dramatic improvements in speed and efficiency. The chip is designed to accelerate AI workloads in data centers and edge computing.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 03, 2021",
+    "source": "Wired Magazine",
+    "date": "November 09, 2021",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Invests Billions in AI Startups",
-    "description": "A leading tech company has announced a multi-billion dollar investment in AI startups. The move signals a growing interest in AI solutions within the business sector and will likely spur further innovation.",
+    "title": "AI Startup Raises $100M in Series B Funding",
+    "description": "A promising AI startup has raised $100 million in its latest funding round. The company, which specializes in AI-powered solutions for healthcare, plans to use the funds to expand its product offerings and enter new markets.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 03, 2021",
+    "source": "TechCrunch",
+    "date": "November 09, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Balancing Innovation and Regulation",
-    "description": "As AI technology continues to advance, experts call for greater focus on ethical considerations. The challenge lies in balancing the need for innovation with the importance of regulation to prevent misuse.",
+    "title": "The Ethical Implications of AI in Law Enforcement",
+    "description": "The use of AI in law enforcement is growing, but so are concerns about surveillance and bias. Experts are calling for stricter regulations to ensure ethical use of the technology.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 03, 2021",
+    "source": "The Guardian",
+    "date": "November 09, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Data Analysis",
-    "description": "A new AI tool is making waves in the world of data analysis. The tool uses machine learning to interpret complex data sets and has the potential to revolutionize many industries.",
+    "title": "New AI Tool Simplifies Deep Learning Development",
+    "description": "A new AI tool promises to streamline the development of deep learning models. The tool, which is user-friendly and highly customizable, could be a game-changer for AI developers.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 03, 2021",
+    "source": "MIT Technology Review",
+    "date": "November 09, 2021",
     "category": "Tools"
   }
 ];
