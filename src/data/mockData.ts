@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Climate Change Predictions",
-    "description": "Artificial Intelligence is revolutionizing the way we predict and respond to climate change. The latest AI models provide unprecedented accuracy in forecasting climate patterns, leading to more effective mitigation strategies.",
+    "title": "AI Breaks New Ground in Diagnosing Alzheimer's Early",
+    "description": "Recent advancements in AI have resulted in the development of an algorithm capable of diagnosing Alzheimer's disease up to 10 years before symptoms appear. This breakthrough could revolutionize early detection and treatment.",
     "url": "#",
     "source": "The New York Times",
-    "date": "November 09, 2021",
+    "date": "November 12, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Next-Gen AI Processor",
-    "description": "A leading tech company has unveiled its latest AI processor, promising to deliver dramatic improvements in speed and efficiency. The chip is designed to accelerate AI workloads in data centers and edge computing.",
+    "title": "New AI-Powered Cybersecurity System Unveiled",
+    "description": "Tech giants have released a state-of-the-art cybersecurity system powered by AI. It can identify and neutralize threats in real-time, promising to enhance security in an increasingly digital world.",
     "url": "#",
-    "source": "Wired Magazine",
-    "date": "November 09, 2021",
+    "source": "TechCrunch",
+    "date": "November 12, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $100M in Series B Funding",
-    "description": "A promising AI startup has raised $100 million in its latest funding round. The company, which specializes in AI-powered solutions for healthcare, plans to use the funds to expand its product offerings and enter new markets.",
+    "title": "AI Set to Transform the Retail Industry",
+    "description": "From inventory management to personalized marketing, AI is poised to revolutionize the retail sector. Experts predict a significant impact on revenue and customer experience in the near future.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 09, 2021",
+    "source": "Forbes",
+    "date": "November 12, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Implications of AI in Law Enforcement",
-    "description": "The use of AI in law enforcement is growing, but so are concerns about surveillance and bias. Experts are calling for stricter regulations to ensure ethical use of the technology.",
+    "title": "New Guidelines Issued for Ethical AI Development",
+    "description": "In response to growing concerns about AI and privacy, a leading tech ethics body has released new guidelines for ethical AI development. This move is seen as crucial in maintaining public trust in the technology.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 09, 2021",
+    "date": "November 12, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Simplifies Deep Learning Development",
-    "description": "A new AI tool promises to streamline the development of deep learning models. The tool, which is user-friendly and highly customizable, could be a game-changer for AI developers.",
+    "title": "OpenAI Unveils New AI Language Model",
+    "description": "OpenAI has revealed a new AI language model that promises to revolutionize how AI understands and generates human language. The tool is expected to have a significant impact across various industries.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 09, 2021",
+    "source": "Wired",
+    "date": "November 12, 2021",
     "category": "Tools"
   }
 ];
