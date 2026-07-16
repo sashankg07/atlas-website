@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Diagnosing Alzheimer's Early",
-    "description": "Recent advancements in AI have resulted in the development of an algorithm capable of diagnosing Alzheimer's disease up to 10 years before symptoms appear. This breakthrough could revolutionize early detection and treatment.",
+    "title": "AI Breaks New Ground in Climate Change Predictions",
+    "description": "AI has been instrumental in modeling and predicting the impact of climate change with unprecedented accuracy. This major breakthrough could help governments and organizations in devising effective strategies for climate action.",
     "url": "#",
     "source": "The New York Times",
-    "date": "November 12, 2021",
+    "date": "October 11, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI-Powered Cybersecurity System Unveiled",
-    "description": "Tech giants have released a state-of-the-art cybersecurity system powered by AI. It can identify and neutralize threats in real-time, promising to enhance security in an increasingly digital world.",
+    "title": "Tech Giant Launches AI-Powered Tool to Detect Deepfakes",
+    "description": "In a bid to combat the surge of deepfake technology, a leading tech firm has unveiled a sophisticated AI tool capable of detecting manipulated images and videos with high accuracy.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 12, 2021",
+    "date": "October 11, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Set to Transform the Retail Industry",
-    "description": "From inventory management to personalized marketing, AI is poised to revolutionize the retail sector. Experts predict a significant impact on revenue and customer experience in the near future.",
+    "title": "How AI is Revolutionizing the E-commerce Industry",
+    "description": "The use of AI in personalizing customer experiences and streamlining supply chain processes is transforming the e-commerce industry. Experts predict this trend to continue, with AI becoming an integral part of e-commerce operations.",
     "url": "#",
     "source": "Forbes",
-    "date": "November 12, 2021",
+    "date": "October 11, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Guidelines Issued for Ethical AI Development",
-    "description": "In response to growing concerns about AI and privacy, a leading tech ethics body has released new guidelines for ethical AI development. This move is seen as crucial in maintaining public trust in the technology.",
+    "title": "Understanding the Ethical Implications of AI in Healthcare",
+    "description": "As AI continues to make inroads in healthcare, the ethical implications of its widespread use are coming under scrutiny. Key concerns revolve around data privacy, algorithmic bias, and the need for human oversight.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 12, 2021",
+    "date": "October 11, 2022",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Unveils New AI Language Model",
-    "description": "OpenAI has revealed a new AI language model that promises to revolutionize how AI understands and generates human language. The tool is expected to have a significant impact across various industries.",
+    "title": "New AI Tool Aims to Simplify Data Analysis",
+    "description": "A newly released AI tool promises to democratize data analysis by enabling non-technical users to derive insights from complex datasets. This could significantly impact industries reliant on data-driven decision-making.",
     "url": "#",
     "source": "Wired",
-    "date": "November 12, 2021",
+    "date": "October 11, 2022",
     "category": "Tools"
   }
 ];
