@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI breakthrough: DeepMind Solves 50-year-old Biology Challenge",
-    "description": "Google's AI subsidiary, DeepMind, has utilized its AI system, AlphaFold, to predict protein structures with unparalleled accuracy, a problem puzzling scientists for half a century. This breakthrough could revolutionize drug discovery and disease understanding.",
+    "title": "AI Revolutionizes Drug Discovery",
+    "description": "Artificial intelligence is being used to accelerate the process of drug discovery, enabling scientists to identify potential treatments for diseases faster than ever before.",
     "url": "#",
-    "source": "BBC News",
-    "date": "March 30, 2023",
+    "source": "The New York Times",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Space: NASA's Perseverance Rover Uses AI for Mars Exploration",
-    "description": "NASA's Perseverance Rover is using artificial intelligence to navigate the complex Martian terrain. The rover's autonomous systems are helping scientists discover more about the red planet than ever before.",
+    "title": "AI Powers Next-Generation Customer Service",
+    "description": "Companies across industries are leveraging AI to improve customer service, using chatbots and predictive analysis to anticipate customer needs and deliver personalized service.",
     "url": "#",
-    "source": "Space.com",
-    "date": "March 30, 2023",
-    "category": "Technology"
+    "source": "The Wall Street Journal",
+    "date": "September 30, 2021",
+    "category": "Business"
   },
   {
-    "title": "Microsoft Launches New AI-Powered Cloud Services",
-    "description": "Microsoft has announced a suite of new AI-powered cloud services. These tools are designed to help businesses improve customer service, streamline workflows, and make data-driven decisions.",
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "A new AI tool has been developed that can accurately predict the impact of climate change, providing crucial data to help governments and organizations respond to the environmental crisis.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 30, 2023",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "September 30, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: EU Proposes First Legal Framework for AI",
-    "description": "The European Union has proposed the world's first legal framework to regulate AI, focusing on high-risk AI systems. The move is seen as a major step in addressing AI's ethical and privacy implications.",
+    "title": "Ethical Considerations in AI Development",
+    "description": "As AI continues to advance, ethical considerations are becoming increasingly important. Leaders in the field are calling for more transparency and accountability in AI systems.",
     "url": "#",
-    "source": "Financial Times",
-    "date": "March 30, 2023",
+    "source": "BBC News",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases New Language Model GPT-4",
-    "description": "OpenAI has released GPT-4, its latest language model. This version is said to be more powerful, understanding context better and generating even more human-like text.",
+    "title": "AI Tool Streamlines Software Development",
+    "description": "A new AI-powered tool is revolutionizing software development by automating coding, reducing errors and significantly speeding up the development process.",
     "url": "#",
-    "source": "The Verge",
-    "date": "March 30, 2023",
+    "source": "TechCrunch",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
