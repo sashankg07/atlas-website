@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Drug Discovery",
-    "description": "Artificial intelligence is being used to accelerate the process of drug discovery, enabling scientists to identify potential treatments for diseases faster than ever before.",
+    "title": "Revolutionizing Healthcare: AI Detects Heart Disease in Seconds",
+    "description": "Researchers have developed an AI model that can accurately detect heart disease in patients within seconds, potentially saving millions of lives. This groundbreaking technology could revolutionize the healthcare industry.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 30, 2021",
+    "date": "April 04, 2023",
     "category": "Research"
   },
   {
-    "title": "AI Powers Next-Generation Customer Service",
-    "description": "Companies across industries are leveraging AI to improve customer service, using chatbots and predictive analysis to anticipate customer needs and deliver personalized service.",
+    "title": "AI-Driven Chatbots Transforming Customer Service Experience",
+    "description": "Companies are adopting AI-powered chatbots at a rapid rate to improve customer service. These intelligent bots can handle complex tasks and deliver a personalized experience, boosting customer satisfaction and loyalty.",
     "url": "#",
     "source": "The Wall Street Journal",
-    "date": "September 30, 2021",
+    "date": "April 04, 2023",
     "category": "Business"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Impact",
-    "description": "A new AI tool has been developed that can accurately predict the impact of climate change, providing crucial data to help governments and organizations respond to the environmental crisis.",
+    "title": "AI Ethics: Debating the Implications of Facial Recognition Technology",
+    "description": "As facial recognition technology advances, a debate over its ethical implications intensifies. Critics argue it infringes on privacy rights, while proponents believe it can help solve crimes and enhance security.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 30, 2021",
-    "category": "Technology"
+    "date": "April 04, 2023",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations in AI Development",
-    "description": "As AI continues to advance, ethical considerations are becoming increasingly important. Leaders in the field are calling for more transparency and accountability in AI systems.",
+    "title": "AI in Space: NASA Leverages AI for Mars Exploration",
+    "description": "NASA is harnessing the power of AI to aid in Mars exploration. The technology is used for analyzing vast amounts of data, making predictions, and even piloting spacecraft.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 30, 2021",
-    "category": "Ethics"
+    "source": "CNN",
+    "date": "April 04, 2023",
+    "category": "Technology"
   },
   {
-    "title": "AI Tool Streamlines Software Development",
-    "description": "A new AI-powered tool is revolutionizing software development by automating coding, reducing errors and significantly speeding up the development process.",
+    "title": "New AI Tool Streamlines Data Analysis",
+    "description": "A newly launched AI tool simplifies the process of data analysis, making it accessible to non-experts. This user-friendly tool can automate complex tasks, saving time and resources.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2021",
+    "source": "Forbes",
+    "date": "April 04, 2023",
     "category": "Tools"
   }
 ];
