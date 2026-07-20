@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Detects Heart Disease in Seconds",
-    "description": "Researchers have developed an AI model that can accurately detect heart disease in patients within seconds, potentially saving millions of lives. This groundbreaking technology could revolutionize the healthcare industry.",
+    "title": "AI Revolutionizes Medical Diagnostics",
+    "description": "New AI technology has been developed to drastically improve the accuracy and speed of medical diagnostics. This breakthrough could save countless lives by enabling earlier detection of diseases.",
     "url": "#",
     "source": "The New York Times",
-    "date": "April 04, 2023",
+    "date": "October 11, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-Driven Chatbots Transforming Customer Service Experience",
-    "description": "Companies are adopting AI-powered chatbots at a rapid rate to improve customer service. These intelligent bots can handle complex tasks and deliver a personalized experience, boosting customer satisfaction and loyalty.",
+    "title": "AI-Driven Solutions Transforming the Retail Industry",
+    "description": "AI is now being leveraged by retailers to offer personalized experiences to customers. This trend is set to redefine the future of shopping.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "April 04, 2023",
+    "source": "Forbes",
+    "date": "October 11, 2022",
     "category": "Business"
   },
   {
-    "title": "AI Ethics: Debating the Implications of Facial Recognition Technology",
-    "description": "As facial recognition technology advances, a debate over its ethical implications intensifies. Critics argue it infringes on privacy rights, while proponents believe it can help solve crimes and enhance security.",
+    "title": "AI Ethics: Balancing Innovation with Responsibility",
+    "description": "As AI becomes increasingly prevalent, experts call for clear ethical guidelines to ensure it is used responsibly. The debate on AI ethics continues to gain momentum.",
     "url": "#",
     "source": "The Guardian",
-    "date": "April 04, 2023",
+    "date": "October 11, 2022",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI in Space: NASA Leverages AI for Mars Exploration",
-    "description": "NASA is harnessing the power of AI to aid in Mars exploration. The technology is used for analyzing vast amounts of data, making predictions, and even piloting spacecraft.",
+    "title": "New AI Tool Simplifies Data Analysis",
+    "description": "A groundbreaking AI tool has been developed that simplifies complex data analysis, making it accessible to more businesses. This development could democratize AI and data science.",
     "url": "#",
-    "source": "CNN",
-    "date": "April 04, 2023",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "October 11, 2022",
+    "category": "Tools"
   },
   {
-    "title": "New AI Tool Streamlines Data Analysis",
-    "description": "A newly launched AI tool simplifies the process of data analysis, making it accessible to non-experts. This user-friendly tool can automate complex tasks, saving time and resources.",
+    "title": "AI and the Future of Autonomous Vehicles",
+    "description": "AI advancements are driving the development of autonomous vehicles, bringing us closer to a future where self-driving cars are the norm.",
     "url": "#",
-    "source": "Forbes",
-    "date": "April 04, 2023",
-    "category": "Tools"
+    "source": "Bloomberg",
+    "date": "October 11, 2022",
+    "category": "Technology"
   }
 ];
