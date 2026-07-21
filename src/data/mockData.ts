@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Medical Diagnostics",
-    "description": "New AI technology has been developed to drastically improve the accuracy and speed of medical diagnostics. This breakthrough could save countless lives by enabling earlier detection of diseases.",
+    "title": "AI Tech Revolutionizing Healthcare Sector",
+    "description": "Recent AI developments have shown promising potential in revolutionizing the healthcare sector. Deep learning algorithms are being used to assist doctors in diagnosing diseases with remarkable accuracy.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 11, 2022",
-    "category": "Research"
+    "date": "November 28, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI-Driven Solutions Transforming the Retail Industry",
-    "description": "AI is now being leveraged by retailers to offer personalized experiences to customers. This trend is set to redefine the future of shopping.",
+    "title": "Leading Tech Firm Unveils Advanced AI Chip",
+    "description": "A leading tech firm has announced the release of a new AI chip that promises to significantly improve the efficiency of machine learning tasks. The chip is expected to power the next generation of AI applications.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 11, 2022",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "November 28, 2021",
+    "category": "Technology"
   },
   {
-    "title": "AI Ethics: Balancing Innovation with Responsibility",
-    "description": "As AI becomes increasingly prevalent, experts call for clear ethical guidelines to ensure it is used responsibly. The debate on AI ethics continues to gain momentum.",
+    "title": "AI Ethical Guidelines Under Review",
+    "description": "In light of recent AI developments and breakthroughs, experts are calling for a comprehensive review of current AI ethical guidelines. The move is aimed at addressing potential ethical dilemmas that could arise from the AI technology's rapid advancement.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 11, 2022",
+    "date": "November 28, 2021",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Simplifies Data Analysis",
-    "description": "A groundbreaking AI tool has been developed that simplifies complex data analysis, making it accessible to more businesses. This development could democratize AI and data science.",
+    "title": "New Research Pushes Boundaries of AI Capabilities",
+    "description": "A recent study has revealed groundbreaking results that could push the boundaries of AI capabilities. The research focuses on developing AI systems that can understand and interpret human emotions.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 11, 2022",
-    "category": "Tools"
+    "source": "Nature",
+    "date": "November 28, 2021",
+    "category": "Research"
   },
   {
-    "title": "AI and the Future of Autonomous Vehicles",
-    "description": "AI advancements are driving the development of autonomous vehicles, bringing us closer to a future where self-driving cars are the norm.",
+    "title": "AI Tools Transforming Digital Marketing",
+    "description": "AI tools are now being used to transform digital marketing strategies. These tools allow businesses to analyze consumer behavior and tailor their marketing strategies accordingly.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "October 11, 2022",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "November 28, 2021",
+    "category": "Business"
   }
 ];
