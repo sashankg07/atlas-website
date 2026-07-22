@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Tech Revolutionizing Healthcare Sector",
-    "description": "Recent AI developments have shown promising potential in revolutionizing the healthcare sector. Deep learning algorithms are being used to assist doctors in diagnosing diseases with remarkable accuracy.",
+    "title": "Robotic Process Automation Gets a Boost with AI",
+    "description": "New advancements in AI technologies have significantly improved the efficiency of Robotic Process Automation (RPA). This development has helped businesses streamline their operations and increase productivity.",
     "url": "#",
     "source": "The New York Times",
-    "date": "November 28, 2021",
+    "date": "September 29, 2021",
     "category": "Technology"
   },
   {
-    "title": "Leading Tech Firm Unveils Advanced AI Chip",
-    "description": "A leading tech firm has announced the release of a new AI chip that promises to significantly improve the efficiency of machine learning tasks. The chip is expected to power the next generation of AI applications.",
-    "url": "#",
-    "source": "BBC News",
-    "date": "November 28, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Ethical Guidelines Under Review",
-    "description": "In light of recent AI developments and breakthroughs, experts are calling for a comprehensive review of current AI ethical guidelines. The move is aimed at addressing potential ethical dilemmas that could arise from the AI technology's rapid advancement.",
+    "title": "DeepMind's AI Models Predict Protein Structures with Unprecedented Accuracy",
+    "description": "DeepMind's recent breakthrough with AlphaFold, an AI model, has shown it can predict protein structures with exceptional accuracy. This could revolutionize medical research and drug discovery.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 28, 2021",
-    "category": "Ethics"
+    "date": "September 29, 2021",
+    "category": "Research"
+  },
+  {
+    "title": "AI Helps Financial Institutions Detect Fraud in Real-Time",
+    "description": "AI technology is being utilized by financial institutions to detect fraudulent activity in real time. This has resulted in significant cost savings and improved customer trust.",
+    "url": "#",
+    "source": "Bloomberg",
+    "date": "September 29, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Research Pushes Boundaries of AI Capabilities",
-    "description": "A recent study has revealed groundbreaking results that could push the boundaries of AI capabilities. The research focuses on developing AI systems that can understand and interpret human emotions.",
+    "title": "OpenAI's New Sentiment Analysis Tool Raises Ethical Questions",
+    "description": "OpenAI's new sentiment analysis tool has sparked a debate about the ethical implications of AI in assessing human emotions and the potential misuse of such technology.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 28, 2021",
-    "category": "Research"
+    "source": "Wired",
+    "date": "September 29, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI Tools Transforming Digital Marketing",
-    "description": "AI tools are now being used to transform digital marketing strategies. These tools allow businesses to analyze consumer behavior and tailor their marketing strategies accordingly.",
+    "title": "Microsoft Releases New AI Debugging Tool",
+    "description": "Microsoft has launched a new AI debugging tool aimed at helping developers diagnose and fix problems with their AI models more efficiently and effectively.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 28, 2021",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "September 29, 2021",
+    "category": "Tools"
   }
 ];
