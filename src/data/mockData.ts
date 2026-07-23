@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Robotic Process Automation Gets a Boost with AI",
-    "description": "New advancements in AI technologies have significantly improved the efficiency of Robotic Process Automation (RPA). This development has helped businesses streamline their operations and increase productivity.",
+    "title": "Groundbreaking AI Predicts Climate Change Impact",
+    "description": "Researchers have developed an AI that can accurately predict future climate patterns. The breakthrough could help us prepare for climate change and mitigate its effects.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 29, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "DeepMind's AI Models Predict Protein Structures with Unprecedented Accuracy",
-    "description": "DeepMind's recent breakthrough with AlphaFold, an AI model, has shown it can predict protein structures with exceptional accuracy. This could revolutionize medical research and drug discovery.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "September 29, 2021",
+    "date": "December 24, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Helps Financial Institutions Detect Fraud in Real-Time",
-    "description": "AI technology is being utilized by financial institutions to detect fraudulent activity in real time. This has resulted in significant cost savings and improved customer trust.",
+    "title": "New AI Chip Revolutionizes Tech Industry",
+    "description": "A new AI chip, built to process machine learning tasks faster and using less power, is set to revolutionize the tech industry. The chip could bring about a new era of ultra-efficient AI hardware.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "September 29, 2021",
+    "source": "Wired",
+    "date": "December 24, 2022",
+    "category": "Technology"
+  },
+  {
+    "title": "Microsoft Acquires AI Startup for $1.5 Billion",
+    "description": "Microsoft has acquired a promising AI startup specializing in natural language processing. The move is expected to significantly enhance Microsoft's AI capabilities.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "December 24, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "OpenAI's New Sentiment Analysis Tool Raises Ethical Questions",
-    "description": "OpenAI's new sentiment analysis tool has sparked a debate about the ethical implications of AI in assessing human emotions and the potential misuse of such technology.",
+    "title": "AI Ethics Committee Calls for Stricter Regulation",
+    "description": "The national AI ethics committee has called for stricter regulation on AI development and implementation. The move comes amidst growing concerns over privacy and bias in AI systems.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 29, 2021",
+    "source": "The Guardian",
+    "date": "December 24, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Microsoft Releases New AI Debugging Tool",
-    "description": "Microsoft has launched a new AI debugging tool aimed at helping developers diagnose and fix problems with their AI models more efficiently and effectively.",
+    "title": "OpenAI Releases New Machine Learning Tool",
+    "description": "OpenAI has released a new tool that makes it easier for developers to build and train machine learning models. The tool is expected to democratize access to AI technology.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 29, 2021",
+    "date": "December 24, 2022",
     "category": "Tools"
   }
 ];
