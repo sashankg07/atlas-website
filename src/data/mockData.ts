@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Disease Prediction",
-    "description": "Artificial Intelligence has achieved a breakthrough in predicting disease progression. The technology is set to revolutionize the healthcare sector by providing early diagnosis and personalized treatment plans.",
+    "title": "Revolutionizing Healthcare: AI-Powered Predictive Models",
+    "description": "Artificial Intelligence is reshaping the healthcare industry. Scientists developed an AI model that can predict the onset of diseases, helping in early detection and treatment.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "March 19, 2023",
-    "category": "Research"
-  },
-  {
-    "title": "New AI Tool Streamlines Business Analytics",
-    "description": "A newly developed AI tool is redefining business analytics, enabling companies to make smarter decisions based on real-time data analysis. This revolutionary platform promises to enhance efficiency and effectiveness in businesses.",
-    "url": "#",
-    "source": "Business AI Weekly",
-    "date": "March 19, 2023",
+    "source": "New York Times",
+    "date": "September 26, 2021",
     "category": "Technology"
   },
   {
-    "title": "Google's Quantum AI Lab Achieves Major Breakthrough",
-    "description": "Google's Quantum AI Lab has achieved a major milestone in quantum computing. This breakthrough is set to accelerate complex computations, making it a game-changer in the field of AI.",
+    "title": "AI Surpasses Human Performance in Granular Material Simulations",
+    "description": "In a recent study, AI-based algorithms outperformed traditional physics-based models in predicting the behavior of granular materials, which could have significant implications in various industries.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 19, 2023",
+    "source": "Science Daily",
+    "date": "September 26, 2021",
     "category": "Research"
+  },
+  {
+    "title": "AI Ethics: Balancing Innovation and Responsibility",
+    "description": "As AI technologies evolve, ethical challenges are emerging. Experts emphasize the need for regulatory frameworks to ensure responsible AI development and use.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "September 26, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations of AI in Predictive Policing",
-    "description": "As AI finds its way into law enforcement through predictive policing, ethical debates are emerging. Concerns revolve around potential biases in AI algorithms and the implications for civil liberties.",
+    "title": "Tech Giant Unveils New AI-Based Business Intelligence Tools",
+    "description": "A major tech company has launched a suite of AI-powered tools designed to help businesses gain insights from their data and improve decision making.",
     "url": "#",
-    "source": "AI Ethical Review",
-    "date": "March 19, 2023",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "September 26, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI-Powered Chatbots Transforming Customer Service",
-    "description": "AI-powered chatbots are transforming customer service, providing instant responses and 24/7 support. Companies are increasingly adopting this technology to improve customer experience and reduce operational costs.",
+    "title": "AI Breakthrough: Machine Learning Models Predict Climate Change Impact",
+    "description": "Researchers have used machine learning to predict the impact of climate change. The model accurately forecasts potential changes in weather patterns and their effects on the environment.",
     "url": "#",
-    "source": "AI Business Review",
-    "date": "March 19, 2023",
-    "category": "Business"
+    "source": "Nature",
+    "date": "September 26, 2021",
+    "category": "Research"
   }
 ];
