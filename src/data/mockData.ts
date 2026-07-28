@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough Heralds Next-gen Quantum Computing",
-    "description": "Researchers have made monumental strides in enhancing quantum computing through artificial intelligence. The cutting-edge technology promises unprecedented data processing speeds and capabilities.",
+    "title": "Revolutionizing Healthcare: AI Predicts Heart Attacks with Stunning Accuracy",
+    "description": "A groundbreaking AI model can now predict heart attacks years in advance with unprecedented precision. This breakthrough could revolutionize how we approach cardiovascular health.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 25, 2021",
+    "source": "The New York Times",
+    "date": "October 18, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Transforms Retail: The Future of Personalized Shopping",
-    "description": "Artificial intelligence is revolutionizing the retail industry by offering highly personalized shopping experiences. Leading businesses are leveraging AI to understand customer behavior and tailor their services accordingly.",
+    "title": "AI in Business: IBM Unveils New AI Suite for Supply Chain Management",
+    "description": "IBM has unveiled a new AI suite designed to optimize supply chain management. The application uses machine learning to forecast demand, manage inventory, and streamline logistics.",
     "url": "#",
     "source": "Forbes",
-    "date": "November 25, 2021",
+    "date": "October 18, 2022",
     "category": "Business"
   },
   {
-    "title": "AI Ethics: Navigating the Pitfalls of AI Bias",
-    "description": "As AI systems become more integrated into society, concerns about AI bias and its implications are on the rise. Experts are calling for robust ethical guidelines to ensure fairness and transparency.",
+    "title": "AI Ethics: The Debate on AI Facial Recognition Continues",
+    "description": "The ethical debate surrounding AI facial recognition has reignited after a man was wrongfully arrested due to a misidentification. This has prompted calls for stricter regulation on AI technologies.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 25, 2021",
+    "source": "The Guardian",
+    "date": "October 18, 2022",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New AI Tool Transforms Data Analysis",
-    "description": "A groundbreaking new AI tool promises to revolutionize data analysis, offering powerful insights and predictive capabilities. The software leverages machine learning algorithms to process complex datasets with ease.",
+    "title": "DeepMind's Latest AI Can Write Code and Fix Bugs",
+    "description": "DeepMind's new AI model, Codex, can write code in response to a human prompt and even fix bugs. This could drastically speed up programming tasks and reduce human error.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 25, 2021",
-    "category": "Tools"
+    "source": "TechCrunch",
+    "date": "October 18, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI in Healthcare: A Game-Changer for Disease Diagnosis",
-    "description": "AI is proving to be a game-changer in healthcare, with new developments offering improved disease diagnosis and treatment options. The technology is set to revolutionize patient care and outcomes.",
+    "title": "TensorFlow 2.7.0: New Features and Updates",
+    "description": "Google has released TensorFlow 2.7.0, the latest version of its open-source machine learning library. The update includes enhancements in debugging, model building, and TensorFlow Lite.",
     "url": "#",
-    "source": "Medical News Today",
-    "date": "November 25, 2021",
-    "category": "Technology"
+    "source": "The Verge",
+    "date": "October 18, 2022",
+    "category": "Tools"
   }
 ];
