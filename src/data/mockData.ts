@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Predicts Heart Attacks with Stunning Accuracy",
-    "description": "A groundbreaking AI model can now predict heart attacks years in advance with unprecedented precision. This breakthrough could revolutionize how we approach cardiovascular health.",
+    "title": "AI Breakthrough: Machine Learning Masters Quantum Physics",
+    "description": "In a significant leap forward, artificial intelligence has successfully solved a quantum physics problem that was previously thought impossible. This could revolutionize not just the world of physics, but numerous other fields as well.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 18, 2022",
+    "date": "November 30, 2021",
     "category": "Research"
   },
   {
-    "title": "AI in Business: IBM Unveils New AI Suite for Supply Chain Management",
-    "description": "IBM has unveiled a new AI suite designed to optimize supply chain management. The application uses machine learning to forecast demand, manage inventory, and streamline logistics.",
-    "url": "#",
-    "source": "Forbes",
-    "date": "October 18, 2022",
-    "category": "Business"
-  },
-  {
-    "title": "AI Ethics: The Debate on AI Facial Recognition Continues",
-    "description": "The ethical debate surrounding AI facial recognition has reignited after a man was wrongfully arrested due to a misidentification. This has prompted calls for stricter regulation on AI technologies.",
+    "title": "AI-Powered Facial Recognition: A Powerful Tool or an Ethical Nightmare?",
+    "description": "As AI-powered facial recognition technology becomes increasingly advanced, it raises new ethical questions about privacy and consent. Despite its potential benefits, many are calling for stricter regulations.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 18, 2022",
+    "date": "November 30, 2021",
     "category": "Ethics"
+  },
+  {
+    "title": "Artificial Intelligence Transforming the Finance Industry",
+    "description": "AI is revolutionizing the finance industry by automating tasks, improving customer service, and making predictions more accurate. However, there are challenges to overcome, including data privacy and the potential for job displacement.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "November 30, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "DeepMind's Latest AI Can Write Code and Fix Bugs",
-    "description": "DeepMind's new AI model, Codex, can write code in response to a human prompt and even fix bugs. This could drastically speed up programming tasks and reduce human error.",
+    "title": "AI and Climate Change: A Potent Combo",
+    "description": "Artificial Intelligence is being harnessed to tackle climate change, helping scientists make more accurate predictions, optimize energy usage, and design more effective mitigation strategies.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 18, 2022",
+    "source": "National Geographic",
+    "date": "November 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "TensorFlow 2.7.0: New Features and Updates",
-    "description": "Google has released TensorFlow 2.7.0, the latest version of its open-source machine learning library. The update includes enhancements in debugging, model building, and TensorFlow Lite.",
+    "title": "New AI Tool Predicts Protein Structures with Unprecedented Accuracy",
+    "description": "A new AI-powered tool has the ability to quickly and accurately predict protein structures, a feat that could have significant implications for understanding disease and developing new treatments.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 18, 2022",
+    "source": "Nature",
+    "date": "November 30, 2021",
     "category": "Tools"
   }
 ];
