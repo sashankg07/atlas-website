@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Masters Quantum Physics",
-    "description": "In a significant leap forward, artificial intelligence has successfully solved a quantum physics problem that was previously thought impossible. This could revolutionize not just the world of physics, but numerous other fields as well.",
+    "title": "Revolutionizing Healthcare: AI Powered Predictive Analysis",
+    "description": "Researchers have developed a new AI algorithm capable of predicting patient health outcomes. This breakthrough is expected to revolutionize healthcare, allowing for earlier interventions and improved patient care.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 30, 2021",
+    "source": "Nature Biomedical Engineering",
+    "date": "October 31, 2022",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Facial Recognition: A Powerful Tool or an Ethical Nightmare?",
-    "description": "As AI-powered facial recognition technology becomes increasingly advanced, it raises new ethical questions about privacy and consent. Despite its potential benefits, many are calling for stricter regulations.",
+    "title": "AI Learns to Paint in the Style of the Great Masters",
+    "description": "A new AI system has been trained to create artwork that mirrors the style of great masters like Van Gogh and Picasso. This development is not only fascinating for artists but also opens up new possibilities for the digital art industry.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 30, 2021",
-    "category": "Ethics"
+    "source": "Artificial Intelligence Magazine",
+    "date": "October 31, 2022",
+    "category": "Technology"
   },
   {
-    "title": "Artificial Intelligence Transforming the Finance Industry",
-    "description": "AI is revolutionizing the finance industry by automating tasks, improving customer service, and making predictions more accurate. However, there are challenges to overcome, including data privacy and the potential for job displacement.",
+    "title": "AI Start-up Secures $200 Million in Series C Funding",
+    "description": "AI start-up, Intellivision, has secured $200 million in Series C funding, highlighting the continued growth and investment interest in AI businesses. The funds will be used to enhance their AI-driven solutions and expand their global reach.",
     "url": "#",
     "source": "Forbes",
-    "date": "November 30, 2021",
+    "date": "October 31, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI and Climate Change: A Potent Combo",
-    "description": "Artificial Intelligence is being harnessed to tackle climate change, helping scientists make more accurate predictions, optimize energy usage, and design more effective mitigation strategies.",
+    "title": "Balancing AI Benefits and Ethical Concerns",
+    "description": "As AI continues to develop and permeate various aspects of life, ethical concerns are on the rise. Experts are calling for clear regulations and guidelines to ensure that AI systems are used responsibly and ethically.",
     "url": "#",
-    "source": "National Geographic",
-    "date": "November 30, 2021",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "October 31, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tool Predicts Protein Structures with Unprecedented Accuracy",
-    "description": "A new AI-powered tool has the ability to quickly and accurately predict protein structures, a feat that could have significant implications for understanding disease and developing new treatments.",
+    "title": "New Open-Source AI Tool Accelerates Machine Learning Research",
+    "description": "A new open-source AI tool promises to significantly accelerate the process of machine learning research. The tool, called 'FastML', is designed to automate and streamline many of the more time-consuming aspects of machine learning.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 30, 2021",
+    "source": "TechCrunch",
+    "date": "October 31, 2022",
     "category": "Tools"
   }
 ];
