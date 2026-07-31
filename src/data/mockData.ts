@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Powered Predictive Analysis",
-    "description": "Researchers have developed a new AI algorithm capable of predicting patient health outcomes. This breakthrough is expected to revolutionize healthcare, allowing for earlier interventions and improved patient care.",
+    "title": "AI Revolutionizes Healthcare with Predictive Analytics",
+    "description": "Recent developments in AI have enabled the creation of predictive analytics tools that can revolutionize healthcare. These tools can predict disease trends, patient outcomes, and assist in personalized treatment plans.",
     "url": "#",
-    "source": "Nature Biomedical Engineering",
-    "date": "October 31, 2022",
+    "source": "TechCrunch",
+    "date": "September 25, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Learns to Paint in the Style of the Great Masters",
-    "description": "A new AI system has been trained to create artwork that mirrors the style of great masters like Van Gogh and Picasso. This development is not only fascinating for artists but also opens up new possibilities for the digital art industry.",
+    "title": "Microsoft Unveils New AI-based Cybersecurity Tools",
+    "description": "Microsoft has unveiled a suite of new AI-based cybersecurity tools designed to combat increasingly sophisticated online threats. The technology is set to transform our approach to digital security.",
     "url": "#",
-    "source": "Artificial Intelligence Magazine",
-    "date": "October 31, 2022",
+    "source": "Wired",
+    "date": "September 25, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Start-up Secures $200 Million in Series C Funding",
-    "description": "AI start-up, Intellivision, has secured $200 million in Series C funding, highlighting the continued growth and investment interest in AI businesses. The funds will be used to enhance their AI-driven solutions and expand their global reach.",
+    "title": "AI's Role in Redefining Customer Experience in Retail",
+    "description": "AI is playing a critical role in redefining customer experience in retail. Sophisticated algorithms are being used to create personalized experiences and improve customer retention.",
     "url": "#",
     "source": "Forbes",
-    "date": "October 31, 2022",
+    "date": "September 25, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Balancing AI Benefits and Ethical Concerns",
-    "description": "As AI continues to develop and permeate various aspects of life, ethical concerns are on the rise. Experts are calling for clear regulations and guidelines to ensure that AI systems are used responsibly and ethically.",
+    "title": "AI Ethics: Ensuring Fairness in Machine Learning Models",
+    "description": "A growing body of research is focusing on ensuring fairness in AI and machine learning models. This work is crucial to prevent biases in AI-derived decisions.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 31, 2022",
+    "source": "The Verge",
+    "date": "September 25, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New Open-Source AI Tool Accelerates Machine Learning Research",
-    "description": "A new open-source AI tool promises to significantly accelerate the process of machine learning research. The tool, called 'FastML', is designed to automate and streamline many of the more time-consuming aspects of machine learning.",
+    "title": "OpenAI's New Language Model - A Game Changer for NLP",
+    "description": "OpenAI's latest language model represents a significant improvement in natural language processing (NLP). The model exhibits enhanced understanding and generation of human-like text.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 31, 2022",
+    "source": "AI News",
+    "date": "September 25, 2022",
     "category": "Tools"
   }
 ];
