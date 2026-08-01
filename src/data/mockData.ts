@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Healthcare with Predictive Analytics",
-    "description": "Recent developments in AI have enabled the creation of predictive analytics tools that can revolutionize healthcare. These tools can predict disease trends, patient outcomes, and assist in personalized treatment plans.",
+    "title": "AI Breaks New Ground in Disease Diagnosis",
+    "description": "Revolutionizing the field of medical diagnosis, an AI model has demonstrated the ability to accurately detect diseases from medical imaging. This breakthrough has the potential to speed up diagnosis and treatment.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 25, 2022",
+    "source": "The AI Times",
+    "date": "October 27, 2021",
     "category": "Research"
   },
   {
-    "title": "Microsoft Unveils New AI-based Cybersecurity Tools",
-    "description": "Microsoft has unveiled a suite of new AI-based cybersecurity tools designed to combat increasingly sophisticated online threats. The technology is set to transform our approach to digital security.",
+    "title": "Tech Giant Unveils Next-Gen AI Processor",
+    "description": "One of the leading tech companies has revealed a new AI processor with enhanced capabilities and efficiency. The new chip promises to accelerate AI research and implementation.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 25, 2022",
+    "source": "AI Daily",
+    "date": "October 27, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI's Role in Redefining Customer Experience in Retail",
-    "description": "AI is playing a critical role in redefining customer experience in retail. Sophisticated algorithms are being used to create personalized experiences and improve customer retention.",
+    "title": "AI Startup Raises Millions in Funding Round",
+    "description": "A promising AI startup has secured millions in its latest funding round. The startup aims to leverage AI to provide innovative solutions for businesses.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 25, 2022",
+    "source": "Business Insider AI",
+    "date": "October 27, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Ensuring Fairness in Machine Learning Models",
-    "description": "A growing body of research is focusing on ensuring fairness in AI and machine learning models. This work is crucial to prevent biases in AI-derived decisions.",
+    "title": "New Guidelines for Ethical AI Unveiled",
+    "description": "In a bid to ensure responsible AI usage, a renowned body has released new guidelines. These comprehensive guidelines focus on AI ethics and responsible AI development.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 25, 2022",
+    "source": "AI Ethics Weekly",
+    "date": "October 27, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI's New Language Model - A Game Changer for NLP",
-    "description": "OpenAI's latest language model represents a significant improvement in natural language processing (NLP). The model exhibits enhanced understanding and generation of human-like text.",
+    "title": "OpenAI Releases New Language Processing Tool",
+    "description": "OpenAI has launched a new language processing tool that promises to revolutionize AI-assisted writing. The tool is expected to greatly enhance the capabilities of AI in content generation.",
     "url": "#",
-    "source": "AI News",
-    "date": "September 25, 2022",
+    "source": "TechCrunch AI",
+    "date": "October 27, 2021",
     "category": "Tools"
   }
 ];
