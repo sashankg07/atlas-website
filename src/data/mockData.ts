@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Disease Diagnosis",
-    "description": "Revolutionizing the field of medical diagnosis, an AI model has demonstrated the ability to accurately detect diseases from medical imaging. This breakthrough has the potential to speed up diagnosis and treatment.",
+    "title": "AI Breakthrough: Machine Learns to Think Ahead",
+    "description": "In a milestone for artificial intelligence, a computer system has learned to predict future events in a way similar to human foresight. This could revolutionize everything from autonomous vehicles to predictive healthcare.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "October 27, 2021",
+    "source": "MIT Technology Review",
+    "date": "October 20, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Next-Gen AI Processor",
-    "description": "One of the leading tech companies has revealed a new AI processor with enhanced capabilities and efficiency. The new chip promises to accelerate AI research and implementation.",
+    "title": "AI Now Capable of Creating Lifelike 3D Models from 2D Images",
+    "description": "Researchers have developed an AI capable of generating highly accurate 3D models from 2D images. This could have far-reaching implications for video game design, virtual reality, and even medical imaging.",
     "url": "#",
-    "source": "AI Daily",
-    "date": "October 27, 2021",
+    "source": "The Verge",
+    "date": "October 20, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises Millions in Funding Round",
-    "description": "A promising AI startup has secured millions in its latest funding round. The startup aims to leverage AI to provide innovative solutions for businesses.",
+    "title": "AI-Powered Chatbots Revolutionizing Customer Service",
+    "description": "Businesses are increasingly turning to AI chatbots to improve their customer service. These chatbots can handle routine queries, freeing up staff for more complex issues.",
     "url": "#",
-    "source": "Business Insider AI",
-    "date": "October 27, 2021",
+    "source": "Forbes",
+    "date": "October 20, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Guidelines for Ethical AI Unveiled",
-    "description": "In a bid to ensure responsible AI usage, a renowned body has released new guidelines. These comprehensive guidelines focus on AI ethics and responsible AI development.",
+    "title": "Ethical Questions Arise as AI Continues to Influence Hiring",
+    "description": "As businesses increasingly rely on AI for hiring decisions, questions arise about bias and fairness. Despite potential advantages, critics warn of the technology perpetuating inequality.",
     "url": "#",
-    "source": "AI Ethics Weekly",
-    "date": "October 27, 2021",
+    "source": "The Guardian",
+    "date": "October 20, 2022",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases New Language Processing Tool",
-    "description": "OpenAI has launched a new language processing tool that promises to revolutionize AI-assisted writing. The tool is expected to greatly enhance the capabilities of AI in content generation.",
+    "title": "New AI Tool Predicts Climate Change Effects with Unprecedented Accuracy",
+    "description": "A new AI tool is helping scientists predict the effects of climate change with greater accuracy. The tool uses machine learning to analyze complex climate models.",
     "url": "#",
-    "source": "TechCrunch AI",
-    "date": "October 27, 2021",
+    "source": "Nature",
+    "date": "October 20, 2022",
     "category": "Tools"
   }
 ];
