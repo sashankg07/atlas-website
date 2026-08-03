@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learns to Think Ahead",
-    "description": "In a milestone for artificial intelligence, a computer system has learned to predict future events in a way similar to human foresight. This could revolutionize everything from autonomous vehicles to predictive healthcare.",
+    "title": "AI Detects Rare Diseases With High Accuracy",
+    "description": "Researchers have developed an AI model capable of diagnosing rare diseases with a high level of accuracy. The development is a significant breakthrough in medical AI technology.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 20, 2022",
+    "source": "Nature",
+    "date": "September 06, 2023",
     "category": "Research"
   },
   {
-    "title": "AI Now Capable of Creating Lifelike 3D Models from 2D Images",
-    "description": "Researchers have developed an AI capable of generating highly accurate 3D models from 2D images. This could have far-reaching implications for video game design, virtual reality, and even medical imaging.",
+    "title": "AI-Driven Robot Revolutionizes Warehouse Operations",
+    "description": "A new AI-driven robot has been developed that can increase efficiency in warehouses. The robot uses AI to autonomously navigate and sort items, potentially transforming the logistics industry.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 20, 2022",
+    "source": "The Wall Street Journal",
+    "date": "September 06, 2023",
     "category": "Technology"
   },
   {
-    "title": "AI-Powered Chatbots Revolutionizing Customer Service",
-    "description": "Businesses are increasingly turning to AI chatbots to improve their customer service. These chatbots can handle routine queries, freeing up staff for more complex issues.",
+    "title": "Tech Giant Invests Billions in AI Startups",
+    "description": "A leading technology company has announced a multi-billion dollar investment in AI startups. This move underlines the growing importance of AI in the global business landscape.",
     "url": "#",
     "source": "Forbes",
-    "date": "October 20, 2022",
+    "date": "September 06, 2023",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Questions Arise as AI Continues to Influence Hiring",
-    "description": "As businesses increasingly rely on AI for hiring decisions, questions arise about bias and fairness. Despite potential advantages, critics warn of the technology perpetuating inequality.",
+    "title": "Ethical Concerns Rise Over AI Surveillance",
+    "description": "As AI surveillance technologies become more prevalent, ethical concerns are being raised about privacy and consent. Experts call for clear legislation to safeguard individuals' rights.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 20, 2022",
+    "date": "September 06, 2023",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Effects with Unprecedented Accuracy",
-    "description": "A new AI tool is helping scientists predict the effects of climate change with greater accuracy. The tool uses machine learning to analyze complex climate models.",
+    "title": "New AI Tool Predicts Climate Change Impact",
+    "description": "Scientists have created a new AI tool that accurately predicts the impact of climate change. This tool could be instrumental in shaping future environmental policies.",
     "url": "#",
-    "source": "Nature",
-    "date": "October 20, 2022",
+    "source": "National Geographic",
+    "date": "September 06, 2023",
     "category": "Tools"
   }
 ];
