@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Quantum Physics Research",
-    "description": "Artificial intelligence is taking quantum physics by storm, with new AI models capable of predicting complex quantum systems. This breakthrough could pave the way for advanced research in multiple scientific disciplines.",
+    "title": "AI Breaks New Ground in Protein Folding Problem",
+    "description": "DeepMind's AI system, AlphaFold, has made a significant breakthrough in solving the protein folding problem, a complex biological challenge that has puzzled scientists for decades. This development will dramatically enhance our understanding of diseases and drug development.",
     "url": "#",
-    "source": "The Science Times",
-    "date": "October 10, 2022",
+    "source": "Nature",
+    "date": "October 07, 2022",
     "category": "Research"
   },
   {
-    "title": "Revolutionizing Healthcare: AI Takes on Disease Prediction",
-    "description": "In a major stride for healthcare, AI algorithms are now able to predict the onset of serious diseases with unprecedented accuracy. This technology may lead to significant advancements in early detection and prevention efforts.",
+    "title": "AI in the Driver's Seat: Tesla's Full Self-Driving Software",
+    "description": "Tesla has released a beta version of its Full Self-Driving (FSD) software to a select group of customers. The FSD system uses advanced AI algorithms and machine learning to navigate the complex world of urban driving.",
     "url": "#",
-    "source": "HealthTech Magazine",
-    "date": "October 10, 2022",
+    "source": "The Verge",
+    "date": "October 07, 2022",
     "category": "Technology"
   },
   {
-    "title": "Tech Giant Acquires AI Startup in Multimillion Deal",
-    "description": "In a strategic move, a leading tech company has acquired an up-and-coming AI startup. The acquisition is set to bolster the tech giant's capabilities in machine learning and data analysis.",
+    "title": "Microsoft Acquires AI Startup Nuance Communications",
+    "description": "In a move to bolster its AI capabilities, Microsoft has acquired AI startup Nuance Communications. This acquisition is expected to enhance Microsoft's offerings in AI and healthcare technology services.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 10, 2022",
+    "source": "Wall Street Journal",
+    "date": "October 07, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: A New Framework for Responsible AI Development",
-    "description": "A group of researchers have proposed a new framework for the ethical development and use of AI. This initiative seeks to address AI's potential impact on society and human rights.",
+    "title": "Debating the Ethics of AI in Autonomous Weapon Systems",
+    "description": "The use of AI in autonomous weapon systems has sparked an intense ethical debate among scientists. Critics argue that AI-powered weapons could make life-or-death decisions without human intervention, raising serious moral and legal concerns.",
     "url": "#",
-    "source": "Tech Ethics Journal",
-    "date": "October 10, 2022",
+    "source": "MIT Technology Review",
+    "date": "October 07, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI for Everyone: New Tool Simplifies Machine Learning",
-    "description": "A new tool aims to make machine learning more accessible, allowing users with no coding experience to build and train AI models. The tool's release could democratize access to AI technologies.",
+    "title": "OpenAI Introduces ChatGPT: A Powerful AI Writing Tool",
+    "description": "OpenAI has launched ChatGPT, an AI-based writing tool that generates human-like text. This tool has various applications from drafting emails to writing code, and even tutoring in a range of subjects.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 10, 2022",
+    "source": "Wired",
+    "date": "October 07, 2022",
     "category": "Tools"
   }
 ];
