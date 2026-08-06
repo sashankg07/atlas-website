@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Protein Folding Problem",
-    "description": "DeepMind's AI system, AlphaFold, has made a significant breakthrough in solving the protein folding problem, a complex biological challenge that has puzzled scientists for decades. This development will dramatically enhance our understanding of diseases and drug development.",
+    "title": "AI Breakthrough: First Ever Neural Network with Human-like Reasoning",
+    "description": "Researchers have developed an AI neural network that exhibits human-like reasoning abilities. The development is a major breakthrough and could revolutionize how AI systems make decisions.",
     "url": "#",
     "source": "Nature",
-    "date": "October 07, 2022",
+    "date": "September 30, 2022",
     "category": "Research"
   },
   {
-    "title": "AI in the Driver's Seat: Tesla's Full Self-Driving Software",
-    "description": "Tesla has released a beta version of its Full Self-Driving (FSD) software to a select group of customers. The FSD system uses advanced AI algorithms and machine learning to navigate the complex world of urban driving.",
+    "title": "AI Predicts Climate Change Impact on Global Economy",
+    "description": "A new AI model has been trained to predict the impact of climate change on the global economy. The results could help policymakers make more informed decisions about climate change mitigation strategies.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 07, 2022",
+    "source": "Science Daily",
+    "date": "September 30, 2022",
     "category": "Technology"
   },
   {
-    "title": "Microsoft Acquires AI Startup Nuance Communications",
-    "description": "In a move to bolster its AI capabilities, Microsoft has acquired AI startup Nuance Communications. This acquisition is expected to enhance Microsoft's offerings in AI and healthcare technology services.",
+    "title": "AI Startup Raises $100M to Develop More Efficient Machine Learning Models",
+    "description": "An AI startup has raised $100 million in series B funding to develop more energy-efficient machine learning models. The funding round was led by prominent VC firms in the AI space.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "October 07, 2022",
+    "source": "TechCrunch",
+    "date": "September 30, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Debating the Ethics of AI in Autonomous Weapon Systems",
-    "description": "The use of AI in autonomous weapon systems has sparked an intense ethical debate among scientists. Critics argue that AI-powered weapons could make life-or-death decisions without human intervention, raising serious moral and legal concerns.",
+    "title": "Ethics in AI: New Framework to Address Bias in AI Systems Released",
+    "description": "A leading AI research institute has released a new ethical framework to address bias in AI systems. The framework provides practical guidelines to help developers create fair and unbiased AI applications.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 07, 2022",
+    "source": "AI Ethics Journal",
+    "date": "September 30, 2022",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Introduces ChatGPT: A Powerful AI Writing Tool",
-    "description": "OpenAI has launched ChatGPT, an AI-based writing tool that generates human-like text. This tool has various applications from drafting emails to writing code, and even tutoring in a range of subjects.",
+    "title": "New AI Tool Streamlines Image Recognition Training",
+    "description": "A new AI tool has been released that streamlines the training of image recognition algorithms. The tool significantly reduces the time and computational resources required to train these algorithms.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 07, 2022",
+    "source": "AI Tools Digest",
+    "date": "September 30, 2022",
     "category": "Tools"
   }
 ];
