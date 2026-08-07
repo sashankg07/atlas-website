@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: First Ever Neural Network with Human-like Reasoning",
-    "description": "Researchers have developed an AI neural network that exhibits human-like reasoning abilities. The development is a major breakthrough and could revolutionize how AI systems make decisions.",
+    "title": "AI Breaks New Ground in Climate Change Prediction",
+    "description": "New AI models are revolutionizing our understanding and prediction of climate change patterns. These models offer unprecedented accuracy, enabling more effective planning and mitigation efforts.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2022",
+    "source": "The New York Times",
+    "date": "September 18, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Predicts Climate Change Impact on Global Economy",
-    "description": "A new AI model has been trained to predict the impact of climate change on the global economy. The results could help policymakers make more informed decisions about climate change mitigation strategies.",
+    "title": "Revolutionizing Healthcare: AI's Role in Disease Diagnosis",
+    "description": "AI is transforming healthcare with machine learning models capable of diagnosing diseases with increased speed and precision. This breakthrough could significantly reduce the time for diagnosis and treatment.",
     "url": "#",
-    "source": "Science Daily",
-    "date": "September 30, 2022",
+    "source": "The Wall Street Journal",
+    "date": "September 18, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $100M to Develop More Efficient Machine Learning Models",
-    "description": "An AI startup has raised $100 million in series B funding to develop more energy-efficient machine learning models. The funding round was led by prominent VC firms in the AI space.",
+    "title": "AI in Business: Automating Customer Service",
+    "description": "More companies are adopting AI in their customer service departments, leveraging chatbots and virtual assistants to enhance customer experience and increase efficiency.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2022",
+    "source": "Forbes",
+    "date": "September 18, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: New Framework to Address Bias in AI Systems Released",
-    "description": "A leading AI research institute has released a new ethical framework to address bias in AI systems. The framework provides practical guidelines to help developers create fair and unbiased AI applications.",
+    "title": "Ethical AI: Balancing Innovation with Responsible Use",
+    "description": "As AI continues to advance, there's a growing focus on ethical AI implementation. Experts argue for the need for a balance between technological advancement and responsible use.",
     "url": "#",
-    "source": "AI Ethics Journal",
-    "date": "September 30, 2022",
+    "source": "The Guardian",
+    "date": "September 18, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Streamlines Image Recognition Training",
-    "description": "A new AI tool has been released that streamlines the training of image recognition algorithms. The tool significantly reduces the time and computational resources required to train these algorithms.",
+    "title": "New AI Tools Streamline Data Analysis",
+    "description": "The latest AI tools are simplifying data analysis, offering accessible ways for businesses to leverage big data. This could democratize data-driven decision-making across industries.",
     "url": "#",
-    "source": "AI Tools Digest",
-    "date": "September 30, 2022",
+    "source": "Business Insider",
+    "date": "September 18, 2021",
     "category": "Tools"
   }
 ];
