@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Climate Change Prediction",
-    "description": "New AI models are revolutionizing our understanding and prediction of climate change patterns. These models offer unprecedented accuracy, enabling more effective planning and mitigation efforts.",
+    "title": "Groundbreaking AI Algorithm Solves Long-standing Biological Mystery",
+    "description": "Researchers have designed an AI tool that can predict protein structures with an unprecedented level of accuracy. The breakthrough could revolutionize medical research and drug discovery.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 18, 2021",
+    "source": "Nature",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "Revolutionizing Healthcare: AI's Role in Disease Diagnosis",
-    "description": "AI is transforming healthcare with machine learning models capable of diagnosing diseases with increased speed and precision. This breakthrough could significantly reduce the time for diagnosis and treatment.",
+    "title": "AI Empowers Climate Change Solutions",
+    "description": "Artificial Intelligence is playing a key role in tackling climate change by optimizing energy usage, predicting weather patterns, and monitoring deforestation.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "September 18, 2021",
+    "source": "BBC News",
+    "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI in Business: Automating Customer Service",
-    "description": "More companies are adopting AI in their customer service departments, leveraging chatbots and virtual assistants to enhance customer experience and increase efficiency.",
+    "title": "Tesla Unveils Full Self-driving Beta",
+    "description": "Tesla has recently launched a beta version of its full self-driving technology. The new update brings the company closer to its goal of complete vehicle autonomy.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 18, 2021",
+    "source": "Wall Street Journal",
+    "date": "September 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: Balancing Innovation with Responsible Use",
-    "description": "As AI continues to advance, there's a growing focus on ethical AI implementation. Experts argue for the need for a balance between technological advancement and responsible use.",
+    "title": "AI Ethics under Scrutiny: Are We Doing Enough?",
+    "description": "As AI continues to evolve, the ethical implications of its use are being closely examined. This includes concerns about privacy, bias, and accountability.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 18, 2021",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Streamline Data Analysis",
-    "description": "The latest AI tools are simplifying data analysis, offering accessible ways for businesses to leverage big data. This could democratize data-driven decision-making across industries.",
+    "title": "Adobe Introduces AI-powered Design Tools",
+    "description": "Adobe has unveiled a suite of AI-powered tools within its Creative Cloud, aiming to streamline the design process and enhance creativity.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 18, 2021",
+    "source": "TechCrunch",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
