@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans at Identifying Rare Diseases",
-    "description": "A ground-breaking AI system has been developed that outperforms doctors in diagnosing rare diseases, potentially revolutionizing healthcare. The AI uses deep learning to analyze patient data and make quick, accurate diagnoses.",
+    "title": "Revolutionizing Medicine: AI Predicts Heart Disease Years in Advance",
+    "description": "Researchers have developed an AI model that can predict the onset of heart disease years before symptoms appear. This breakthrough could lead to more timely interventions and improve patient outcomes.",
     "url": "#",
-    "source": "Nature Medicine",
-    "date": "November 30, 2021",
+    "source": "New York Times",
+    "date": "October 26, 2021",
     "category": "Research"
   },
   {
-    "title": "AI To Drive Next Generation of Autonomous Vehicles",
-    "description": "Tech giants are leveraging artificial intelligence to drive the next generation of autonomous vehicles. Employing a combination of machine learning and computer vision, these cars are expected to navigate roads with unprecedented accuracy and safety.",
+    "title": "AI and Climate Change: How Technology is Tackling Our Biggest Challenge",
+    "description": "Innovative AI solutions are being deployed to combat climate change, from predicting weather patterns to optimizing energy consumption. These technologies could be pivotal in reducing our carbon footprint.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 30, 2021",
+    "source": "The Guardian",
+    "date": "October 26, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-up Secures Record $200M Funding",
-    "description": "AI start-up, AIWorks, has secured a record $200M in funding, underscoring the growing business interest in AI technology. The firm specializes in AI-powered solutions for retail businesses.",
+    "title": "Facebook's New AI Strategy: A Shift Towards Responsible AI?",
+    "description": "Facebook is investing heavily in AI transparency and fairness. The company's new approach aims to address ethical concerns and build more trustworthy AI systems.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "November 30, 2021",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "October 26, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Under Spotlight as Bias Concerns Grow",
-    "description": "As AI technology becomes more prevalent, concerns are growing over its ethical implications, particularly around biases. Calls are intensifying for stricter regulations to mitigate potential discriminatory outcomes.",
+    "title": "Google's DeepMind Solves Long-Standing Biology Challenge",
+    "description": "Google's AI lab, DeepMind, has solved a 50-year-old challenge in biology. The AI's ability to predict protein folding could revolutionize drug discovery and disease understanding.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 30, 2021",
-    "category": "Ethics"
+    "source": "Wired",
+    "date": "October 26, 2021",
+    "category": "Research"
   },
   {
-    "title": "Google Releases New AI Tools for Developers",
-    "description": "Google has released a new suite of AI tools aimed at making it easier for developers to build and deploy AI applications. The tools cover a wide array of uses, from data analysis to machine learning model training.",
+    "title": "AI in Business: How Machine Learning is Transforming eCommerce",
+    "description": "AI and machine learning are transforming the eCommerce industry. From personalized shopping experiences to efficient supply chain management, AI is reshaping how businesses operate.",
     "url": "#",
-    "source": "TechRadar",
-    "date": "November 30, 2021",
-    "category": "Tools"
+    "source": "Forbes",
+    "date": "October 26, 2021",
+    "category": "Business"
   }
 ];
