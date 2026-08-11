@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Medicine: AI Predicts Heart Disease Years in Advance",
-    "description": "Researchers have developed an AI model that can predict the onset of heart disease years before symptoms appear. This breakthrough could lead to more timely interventions and improve patient outcomes.",
+    "title": "AI Revolutionizing Medical Diagnostics",
+    "description": "Recent advancements in AI technology are set to transform the field of medical diagnostics. Machine learning algorithms now have the potential to detect diseases with a higher degree of accuracy than ever before.",
     "url": "#",
-    "source": "New York Times",
-    "date": "October 26, 2021",
+    "source": "The New York Times",
+    "date": "September 29, 2022",
     "category": "Research"
   },
   {
-    "title": "AI and Climate Change: How Technology is Tackling Our Biggest Challenge",
-    "description": "Innovative AI solutions are being deployed to combat climate change, from predicting weather patterns to optimizing energy consumption. These technologies could be pivotal in reducing our carbon footprint.",
+    "title": "New AI Chip Accelerates Machine Learning",
+    "description": "Tech giant Intel has unveiled a new AI chip that promises to dramatically speed up machine learning processes, potentially leading to significant advancements in AI capabilities.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 26, 2021",
+    "source": "The Verge",
+    "date": "September 29, 2022",
     "category": "Technology"
   },
   {
-    "title": "Facebook's New AI Strategy: A Shift Towards Responsible AI?",
-    "description": "Facebook is investing heavily in AI transparency and fairness. The company's new approach aims to address ethical concerns and build more trustworthy AI systems.",
+    "title": "AI in Retail: The Future of Shopping",
+    "description": "From personalized recommendations to virtual fitting rooms, the use of AI in the retail industry is reshaping the way we shop. This technology promises to provide a more personalized and efficient shopping experience.",
     "url": "#",
-    "source": "BBC News",
-    "date": "October 26, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "September 29, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Google's DeepMind Solves Long-Standing Biology Challenge",
-    "description": "Google's AI lab, DeepMind, has solved a 50-year-old challenge in biology. The AI's ability to predict protein folding could revolutionize drug discovery and disease understanding.",
+    "title": "Ethical Concerns Surrounding AI in Surveillance",
+    "description": "As more governments and companies utilize AI in surveillance systems, concerns about privacy and ethics are growing. Experts call for stricter regulations to prevent misuse.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 26, 2021",
-    "category": "Research"
+    "source": "The Guardian",
+    "date": "September 29, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "AI in Business: How Machine Learning is Transforming eCommerce",
-    "description": "AI and machine learning are transforming the eCommerce industry. From personalized shopping experiences to efficient supply chain management, AI is reshaping how businesses operate.",
+    "title": "New AI Tool Simplifies Data Analysis",
+    "description": "A new AI tool promises to make data analysis easier for businesses by automating the process of data cleaning and preparation. The tool aims to save time and improve the accuracy of data-driven decision making.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 26, 2021",
-    "category": "Business"
+    "source": "TechCrunch",
+    "date": "September 29, 2022",
+    "category": "Tools"
   }
 ];
