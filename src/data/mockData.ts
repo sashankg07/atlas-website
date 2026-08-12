@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizing Medical Diagnostics",
-    "description": "Recent advancements in AI technology are set to transform the field of medical diagnostics. Machine learning algorithms now have the potential to detect diseases with a higher degree of accuracy than ever before.",
+    "title": "New AI Algorithm Predicts Alzheimer's with Unprecedented Accuracy",
+    "description": "Researchers have developed an AI algorithm that can predict Alzheimer's disease with nearly 100% accuracy, years before clinical symptoms appear. This breakthrough could revolutionize early detection and treatment.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 29, 2022",
+    "source": "The Scientific American",
+    "date": "October 06, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI Chip Accelerates Machine Learning",
-    "description": "Tech giant Intel has unveiled a new AI chip that promises to dramatically speed up machine learning processes, potentially leading to significant advancements in AI capabilities.",
+    "title": "Google's Quantum Computer Achieves AI 'Supremacy'",
+    "description": "Google's quantum computer has achieved a milestone known as 'quantum supremacy' in AI computations. It performed a specific task in 200 seconds that would take the world’s fastest supercomputer 10,000 years to accomplish.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 29, 2022",
+    "source": "Wired",
+    "date": "October 06, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI in Retail: The Future of Shopping",
-    "description": "From personalized recommendations to virtual fitting rooms, the use of AI in the retail industry is reshaping the way we shop. This technology promises to provide a more personalized and efficient shopping experience.",
+    "title": "IBM Unveils AI That Can Debate with Humans",
+    "description": "IBM's Project Debater, an AI system that can engage in live debate with humans, is a major stride in natural language processing. The AI proved capable of forming cogent arguments and responding to its human opponents.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 29, 2022",
-    "category": "Business"
+    "source": "The Wall Street Journal",
+    "date": "October 06, 2022",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding AI in Surveillance",
-    "description": "As more governments and companies utilize AI in surveillance systems, concerns about privacy and ethics are growing. Experts call for stricter regulations to prevent misuse.",
+    "title": "Microsoft Invests $1 Billion in OpenAI to Develop Artificial General Intelligence",
+    "description": "Microsoft has invested $1 billion in OpenAI, with the aim of developing Artificial General Intelligence (AGI) that can perform any intellectual task that a human being can. The partnership aims to promote ethical AI use and prepare for AGI’s impact on society.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 29, 2022",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "October 06, 2022",
+    "category": "Business"
   },
   {
-    "title": "New AI Tool Simplifies Data Analysis",
-    "description": "A new AI tool promises to make data analysis easier for businesses by automating the process of data cleaning and preparation. The tool aims to save time and improve the accuracy of data-driven decision making.",
+    "title": "New AI Ethics Course Launched by Stanford University",
+    "description": "Stanford University has launched a new course focused on the ethical implications of AI. The course aims to equip future AI professionals with the skills to develop this technology responsibly.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 29, 2022",
-    "category": "Tools"
+    "source": "The New York Times",
+    "date": "October 06, 2022",
+    "category": "Ethics"
   }
 ];
