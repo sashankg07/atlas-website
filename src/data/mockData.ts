@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI Algorithm Predicts Alzheimer's with Unprecedented Accuracy",
-    "description": "Researchers have developed an AI algorithm that can predict Alzheimer's disease with nearly 100% accuracy, years before clinical symptoms appear. This breakthrough could revolutionize early detection and treatment.",
+    "title": "AI Now Capable of Simulating Quantum Physics",
+    "description": "In a major breakthrough, researchers have developed an artificial intelligence system capable of simulating quantum physics phenomena. This new development could revolutionize the way we understand the quantum world.",
     "url": "#",
-    "source": "The Scientific American",
-    "date": "October 06, 2022",
+    "source": "The AI Times",
+    "date": "November 02, 2021",
     "category": "Research"
   },
   {
-    "title": "Google's Quantum Computer Achieves AI 'Supremacy'",
-    "description": "Google's quantum computer has achieved a milestone known as 'quantum supremacy' in AI computations. It performed a specific task in 200 seconds that would take the world’s fastest supercomputer 10,000 years to accomplish.",
+    "title": "AI Pioneers New Frontiers in Climate Change Mitigation",
+    "description": "AI is being used to tackle climate change, with new predictive models providing unprecedented insights into climate patterns. The technology could play a huge role in global efforts to reduce carbon emissions.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 06, 2022",
+    "source": "Tech World Daily",
+    "date": "November 02, 2021",
     "category": "Technology"
   },
   {
-    "title": "IBM Unveils AI That Can Debate with Humans",
-    "description": "IBM's Project Debater, an AI system that can engage in live debate with humans, is a major stride in natural language processing. The AI proved capable of forming cogent arguments and responding to its human opponents.",
+    "title": "Tech Giant Invests Billions in AI for Business Applications",
+    "description": "A leading tech company has announced a multi-billion dollar investment in AI to boost its business intelligence capabilities. The move signifies the increasing importance of AI in the business landscape.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "October 06, 2022",
-    "category": "Research"
+    "source": "Business AI Weekly",
+    "date": "November 02, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Microsoft Invests $1 Billion in OpenAI to Develop Artificial General Intelligence",
-    "description": "Microsoft has invested $1 billion in OpenAI, with the aim of developing Artificial General Intelligence (AGI) that can perform any intellectual task that a human being can. The partnership aims to promote ethical AI use and prepare for AGI’s impact on society.",
+    "title": "Ethical Implications of AI Highlighted in Recent Study",
+    "description": "A recent study has highlighted the ethical dilemmas presented by AI, emphasizing the need for regulations to prevent misuse. The study calls for more transparency and accountability in the AI industry.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 06, 2022",
-    "category": "Business"
+    "source": "AI Ethics Journal",
+    "date": "November 02, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Ethics Course Launched by Stanford University",
-    "description": "Stanford University has launched a new course focused on the ethical implications of AI. The course aims to equip future AI professionals with the skills to develop this technology responsibly.",
+    "title": "New AI Tool Predicts Market Trends with Unmatched Accuracy",
+    "description": "A groundbreaking AI tool has been developed that predicts market trends with an astounding degree of accuracy. The tool is expected to transform various sectors, including finance and retail.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 06, 2022",
-    "category": "Ethics"
+    "source": "AI Tools Review",
+    "date": "November 02, 2021",
+    "category": "Tools"
   }
 ];
