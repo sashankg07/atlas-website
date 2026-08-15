@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Healthcare Through Early Disease Detection",
-    "description": "With the latest developments in AI, early detection of diseases has been made possible. This breakthrough has potential to transform healthcare, saving millions of lives every year.",
+    "title": "AI Breakthrough: Deep Learning Model Predicts Alzheimer's Disease with Unprecedented Accuracy",
+    "description": "Researchers at Stanford University have developed a deep learning model that can predict Alzheimer's disease with 94% accuracy, a significant improvement over previous methods. The model analyzes MRI scans to identify subtle patterns that human doctors might miss.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "April 06, 2022",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Redefines Customized Learning Experience",
-    "description": "New AI technology is being used to personalize educational content to individual learner's needs. The technology adapts to a student's learning pace, revolutionizing the way we understand education.",
-    "url": "#",
-    "source": "BBC News",
-    "date": "April 06, 2022",
+    "source": "Stanford University News",
+    "date": "October 06, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Helps Businesses Predict Consumer Behavior",
-    "description": "Businesses are using AI to predict consumer behavior, leading to more successful marketing strategies. This technology can analyze large amounts of data to predict future trends.",
+    "title": "AI-powered Robots Revolutionize Warehouse Management",
+    "description": "Technology giant, Google, has rolled out a new line of AI-powered robots that optimize warehouse processes, promising to drastically cut down on labor costs and improve efficiency. These robots use machine learning to adapt and improve their performance over time.",
     "url": "#",
-    "source": "The Wall Street Journal",
-    "date": "April 06, 2022",
+    "source": "The Verge",
+    "date": "October 06, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "IBM Acquires AI Startup to Bolster Cloud Services",
+    "description": "IBM announced today its acquisition of AI startup, Cloudint, aiming to bolster its cloud services. This move is part of IBM's ongoing strategy to integrate more AI into its cloud-based solutions.",
+    "url": "#",
+    "source": "Wall Street Journal",
+    "date": "October 06, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Raises Ethical Questions About Data Privacy",
-    "description": "As AI becomes increasingly prevalent, concerns about data privacy are growing. Critics argue that regulations need to keep pace with technology to protect individuals' privacy rights.",
+    "title": "Ethical AI: Guidelines for Responsible AI Development",
+    "description": "The AI Ethics Institute at Harvard University released a new set of guidelines for the responsible development and use of AI. The guidelines aim to ensure that AI technology develops in a way that is ethically sound and socially beneficial.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "April 06, 2022",
+    "source": "Harvard Gazette",
+    "date": "October 06, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools Reshape Graphic Design",
-    "description": "New AI tools are allowing graphic designers to create more complex and visually striking designs. These tools use machine learning to generate unique designs based on user input.",
+    "title": "New AI Tool Streamlines Machine Learning Model Training",
+    "description": "DeepMind has launched a new AI tool, called AutoML-Zero, which automates the process of training machine learning models. The tool is designed to make it easier for developers to build and refine AI models without requiring extensive knowledge of machine learning theory.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "April 06, 2022",
+    "date": "October 06, 2021",
     "category": "Tools"
   }
 ];
