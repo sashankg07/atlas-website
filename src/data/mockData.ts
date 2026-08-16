@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Deep Learning Model Predicts Alzheimer's Disease with Unprecedented Accuracy",
-    "description": "Researchers at Stanford University have developed a deep learning model that can predict Alzheimer's disease with 94% accuracy, a significant improvement over previous methods. The model analyzes MRI scans to identify subtle patterns that human doctors might miss.",
+    "title": "Ground-breaking AI Tool Predicts Climate Change Patterns",
+    "description": "Leading scientists have developed a revolutionary AI tool capable of predicting climate change patterns with unprecedented accuracy. This breakthrough has the potential to drastically improve our understanding and response to climate change.",
     "url": "#",
-    "source": "Stanford University News",
-    "date": "October 06, 2021",
+    "source": "Nature",
+    "date": "November 02, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-powered Robots Revolutionize Warehouse Management",
-    "description": "Technology giant, Google, has rolled out a new line of AI-powered robots that optimize warehouse processes, promising to drastically cut down on labor costs and improve efficiency. These robots use machine learning to adapt and improve their performance over time.",
+    "title": "AI Ethics: The New Frontier for Tech Giants",
+    "description": "As artificial intelligence continues to permeate every aspect of modern life, tech companies are grappling with the ethical implications. The industry is making strides towards establishing guidelines for ethical AI use.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 06, 2021",
-    "category": "Technology"
+    "source": "The New York Times",
+    "date": "November 02, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "IBM Acquires AI Startup to Bolster Cloud Services",
-    "description": "IBM announced today its acquisition of AI startup, Cloudint, aiming to bolster its cloud services. This move is part of IBM's ongoing strategy to integrate more AI into its cloud-based solutions.",
+    "title": "AI in Business: New Tool Boosts Customer Experience",
+    "description": "A startup has launched an AI-powered tool designed to enhance customer experience. This innovative technology is set to transform how businesses interact with their customers.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "October 06, 2021",
+    "source": "Forbes",
+    "date": "November 02, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: Guidelines for Responsible AI Development",
-    "description": "The AI Ethics Institute at Harvard University released a new set of guidelines for the responsible development and use of AI. The guidelines aim to ensure that AI technology develops in a way that is ethically sound and socially beneficial.",
+    "title": "New AI Algorithm Outperforms Humans at Complex Strategy Game",
+    "description": "A new AI algorithm has been developed that outperforms humans at a complex strategy game, highlighting the potential of AI in problem-solving and strategic thinking.",
     "url": "#",
-    "source": "Harvard Gazette",
-    "date": "October 06, 2021",
-    "category": "Ethics"
+    "source": "MIT Technology Review",
+    "date": "November 02, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Streamlines Machine Learning Model Training",
-    "description": "DeepMind has launched a new AI tool, called AutoML-Zero, which automates the process of training machine learning models. The tool is designed to make it easier for developers to build and refine AI models without requiring extensive knowledge of machine learning theory.",
+    "title": "Latest AI Tool Aids Medical Diagnosis",
+    "description": "A new AI-powered tool is assisting doctors in diagnosing complex medical conditions, paving the way for faster and more accurate patient care.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 06, 2021",
+    "source": "The Lancet",
+    "date": "November 02, 2021",
     "category": "Tools"
   }
 ];
