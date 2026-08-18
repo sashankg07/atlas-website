@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI-powered Diagnostic Tools",
-    "description": "An innovative AI diagnostic tool is transforming the face of healthcare, providing rapid and accurate medical diagnoses. The technology aims to improve patient outcomes and reduce healthcare costs.",
+    "title": "The Dawn of Conscious AI: A Major Breakthrough in Research",
+    "description": "Researchers have made significant progress in the development of Artificial Intelligence that can understand and respond to human emotions. This groundbreaking work could redefine human-computer interaction.",
+    "url": "#",
+    "source": "Nature AI",
+    "date": "October 01, 2022",
+    "category": "Research"
+  },
+  {
+    "title": "Transforming Business Landscapes with AI-Powered Automation",
+    "description": "AI is revolutionizing business operations with automation. Companies are leveraging AI to streamline processes, enhance decision-making, and drive profitability.",
+    "url": "#",
+    "source": "Wall Street Journal",
+    "date": "October 01, 2022",
+    "category": "Business"
+  },
+  {
+    "title": "Emerging Ethical Dilemmas in AI: The Call for Regulation",
+    "description": "As AI continues to permeate society, ethical concerns are rising. There's a pressing need for a robust regulatory framework to address potential misuse and bias in AI technologies.",
     "url": "#",
     "source": "The Guardian",
-    "date": "November 30, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "Ethical Dilemmas in AI: Navigating the Challenges",
-    "description": "As AI continues to evolve, it brings with it a myriad of ethical challenges. Experts call for robust regulations and guidelines to ensure responsible AI deployment.",
-    "url": "#",
-    "source": "The New York Times",
-    "date": "November 30, 2021",
+    "date": "October 01, 2022",
     "category": "Ethics"
-  },
-  {
-    "title": "AI in Business: Surging Investment and Adoption",
-    "description": "Businesses globally are increasingly investing in AI technologies, with AI adoption growing exponentially across sectors. The trend is projected to drive significant economic growth.",
-    "url": "#",
-    "source": "Financial Times",
-    "date": "November 30, 2021",
-    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Groundbreaking Research in AI: The Dawn of Self-learning Systems",
-    "description": "New research in AI is paving the way for autonomous, self-learning systems. These advancements could revolutionize fields such as robotics and automated driving.",
+    "title": "AI in Healthcare: A Technological Leap Saving Lives",
+    "description": "AI is transforming healthcare with tools for early diagnosis, personalized treatment, and improved patient outcomes. The pandemic has accelerated the adoption of these promising technologies.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 30, 2021",
-    "category": "Research"
+    "source": "The New York Times",
+    "date": "October 01, 2022",
+    "category": "Technology"
   },
   {
-    "title": "Emerging AI Tools Revolutionize Creative Industries",
-    "description": "AI tools are proving instrumental in creative industries, offering unique solutions for content creation, design, and more. The technology is expected to drive industry evolution.",
+    "title": "OpenAI Unveils New AI Language Model: The Future of Communication",
+    "description": "OpenAI has released a new AI language model, offering unprecedented capabilities. The tool is expected to revolutionize various sectors, from customer service to content creation.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 30, 2021",
+    "date": "October 01, 2022",
     "category": "Tools"
   }
 ];
