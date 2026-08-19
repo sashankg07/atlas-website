@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "The Dawn of Conscious AI: A Major Breakthrough in Research",
-    "description": "Researchers have made significant progress in the development of Artificial Intelligence that can understand and respond to human emotions. This groundbreaking work could redefine human-computer interaction.",
+    "title": "AI Outperforms Radiologists in Identifying Lung Cancer",
+    "description": "A recent study indicates that AI systems can now identify lung cancer with far greater accuracy than human radiologists. This breakthrough could pave the way for improved early detection and treatment.",
     "url": "#",
-    "source": "Nature AI",
-    "date": "October 01, 2022",
+    "source": "Nature Journal",
+    "date": "September 25, 2022",
     "category": "Research"
   },
   {
-    "title": "Transforming Business Landscapes with AI-Powered Automation",
-    "description": "AI is revolutionizing business operations with automation. Companies are leveraging AI to streamline processes, enhance decision-making, and drive profitability.",
-    "url": "#",
-    "source": "Wall Street Journal",
-    "date": "October 01, 2022",
-    "category": "Business"
-  },
-  {
-    "title": "Emerging Ethical Dilemmas in AI: The Call for Regulation",
-    "description": "As AI continues to permeate society, ethical concerns are rising. There's a pressing need for a robust regulatory framework to address potential misuse and bias in AI technologies.",
+    "title": "DeepMind's AI Masters Protein Folding",
+    "description": "DeepMind's AlphaFold has made a breakthrough in predicting protein structures, a complex task that has stumped scientists for decades. This could revolutionize drug discovery and disease understanding.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 01, 2022",
-    "category": "Ethics"
+    "date": "September 25, 2022",
+    "category": "Technology"
+  },
+  {
+    "title": "New AI Startup Raises $100M for Business Automation",
+    "description": "AI startup, AutomaTech, has raised $100 million in Series A funding to further develop its business process automation capabilities. This illustrates the growing market interest in AI-driven business solutions.",
+    "url": "#",
+    "source": "TechCrunch",
+    "date": "September 25, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI in Healthcare: A Technological Leap Saving Lives",
-    "description": "AI is transforming healthcare with tools for early diagnosis, personalized treatment, and improved patient outcomes. The pandemic has accelerated the adoption of these promising technologies.",
+    "title": "AI Ethics Concerns Rise with Facial Recognition Misuse",
+    "description": "Concerns over the ethical use of AI technology are rising as reports of misuse of facial recognition software increase. Regulating bodies around the world are being urged to establish stricter rules and guidelines.",
     "url": "#",
     "source": "The New York Times",
-    "date": "October 01, 2022",
-    "category": "Technology"
+    "date": "September 25, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "OpenAI Unveils New AI Language Model: The Future of Communication",
-    "description": "OpenAI has released a new AI language model, offering unprecedented capabilities. The tool is expected to revolutionize various sectors, from customer service to content creation.",
+    "title": "OpenAI Releases New Language Processing Tool",
+    "description": "OpenAI has released a new language processing tool that can generate human-like text. The tool is expected to have a wide range of applications, from content creation to customer service automation.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 01, 2022",
+    "source": "Wired",
+    "date": "September 25, 2022",
     "category": "Tools"
   }
 ];
