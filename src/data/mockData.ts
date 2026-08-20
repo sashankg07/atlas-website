@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Radiologists in Identifying Lung Cancer",
-    "description": "A recent study indicates that AI systems can now identify lung cancer with far greater accuracy than human radiologists. This breakthrough could pave the way for improved early detection and treatment.",
+    "title": "AI Breakthrough: DeepMind Solves 50-Year-Old 'Protein Folding' Problem",
+    "description": "DeepMind, an AI lab under Google's parent company Alphabet, has announced a solution to the 'protein folding' problem - a grand challenge in biology. This success could revolutionize the way we understand diseases and discover new drugs.",
     "url": "#",
-    "source": "Nature Journal",
-    "date": "September 25, 2022",
+    "source": "BBC News",
+    "date": "November 30, 2021",
     "category": "Research"
   },
   {
-    "title": "DeepMind's AI Masters Protein Folding",
-    "description": "DeepMind's AlphaFold has made a breakthrough in predicting protein structures, a complex task that has stumped scientists for decades. This could revolutionize drug discovery and disease understanding.",
+    "title": "New AI Tool Predicts Climate Change Impact with Unprecedented Accuracy",
+    "description": "Researchers have developed a new AI tool that predicts the impact of climate change with unprecedented accuracy. This could greatly assist policymakers in creating more effective climate action strategies.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 25, 2022",
+    "date": "November 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "New AI Startup Raises $100M for Business Automation",
-    "description": "AI startup, AutomaTech, has raised $100 million in Series A funding to further develop its business process automation capabilities. This illustrates the growing market interest in AI-driven business solutions.",
+    "title": "IBM Unveils Breakthrough AI to Improve Solar Power Efficiency",
+    "description": "IBM announced a new AI technology that can significantly improve solar power efficiency. This breakthrough could potentially transform the renewable energy sector and accelerate the transition towards sustainable energy sources.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 25, 2022",
+    "source": "Forbes",
+    "date": "November 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Concerns Rise with Facial Recognition Misuse",
-    "description": "Concerns over the ethical use of AI technology are rising as reports of misuse of facial recognition software increase. Regulating bodies around the world are being urged to establish stricter rules and guidelines.",
+    "title": "AI Ethics: Mitigating Bias in AI Systems",
+    "description": "As AI becomes increasingly pervasive in our lives, the issue of bias in AI systems is coming to the forefront. Experts are pushing for more transparency and accountability in AI development to mitigate potential harm.",
     "url": "#",
     "source": "The New York Times",
-    "date": "September 25, 2022",
+    "date": "November 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases New Language Processing Tool",
-    "description": "OpenAI has released a new language processing tool that can generate human-like text. The tool is expected to have a wide range of applications, from content creation to customer service automation.",
+    "title": "OpenAI Introduces 'GPT-3.5-Turbo', a Powerful New Language Model",
+    "description": "OpenAI has released 'GPT-3.5-Turbo', a new version of its language prediction model. This cutting-edge tool has a wide range of applications, from drafting emails to writing code, and can even translate languages.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 25, 2022",
+    "source": "TechCrunch",
+    "date": "November 30, 2021",
     "category": "Tools"
   }
 ];
