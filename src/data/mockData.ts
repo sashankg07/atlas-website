@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: DeepMind Solves 50-Year-Old 'Protein Folding' Problem",
-    "description": "DeepMind, an AI lab under Google's parent company Alphabet, has announced a solution to the 'protein folding' problem - a grand challenge in biology. This success could revolutionize the way we understand diseases and discover new drugs.",
+    "title": "AI Model Predicts Wildfire Paths with Unprecedented Accuracy",
+    "description": "A newly developed AI model is now able to predict the paths of wildfires with unprecedented accuracy. This breakthrough could revolutionize how we handle such natural disasters in the future.",
     "url": "#",
-    "source": "BBC News",
-    "date": "November 30, 2021",
+    "source": "AI Today",
+    "date": "September 30, 2021",
     "category": "Research"
   },
   {
-    "title": "New AI Tool Predicts Climate Change Impact with Unprecedented Accuracy",
-    "description": "Researchers have developed a new AI tool that predicts the impact of climate change with unprecedented accuracy. This could greatly assist policymakers in creating more effective climate action strategies.",
+    "title": "Tech Giant Unveils Advanced AI Chip for Edge Computing",
+    "description": "A leading technology firm has announced the release of a new AI chip designed specifically for edge computing. This could significantly enhance processing power and efficiency in a variety of fields.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 30, 2021",
+    "source": "TechCrunch",
+    "date": "September 30, 2021",
     "category": "Technology"
   },
   {
-    "title": "IBM Unveils Breakthrough AI to Improve Solar Power Efficiency",
-    "description": "IBM announced a new AI technology that can significantly improve solar power efficiency. This breakthrough could potentially transform the renewable energy sector and accelerate the transition towards sustainable energy sources.",
+    "title": "AI in Retail: The Future of Personalized Shopping",
+    "description": "AI is set to revolutionize the retail industry by offering highly personalized shopping experiences. Major retailers are already investing in AI-driven technologies to stay ahead.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 30, 2021",
+    "source": "Business Insider",
+    "date": "September 30, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Mitigating Bias in AI Systems",
-    "description": "As AI becomes increasingly pervasive in our lives, the issue of bias in AI systems is coming to the forefront. Experts are pushing for more transparency and accountability in AI development to mitigate potential harm.",
+    "title": "Ethical Concerns Over AI's Role in Surveillance",
+    "description": "Increasing use of AI in surveillance technologies is raising serious ethical questions about privacy and consent. Experts call for regulations to ensure responsible use.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "November 30, 2021",
+    "source": "The Guardian",
+    "date": "September 30, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Introduces 'GPT-3.5-Turbo', a Powerful New Language Model",
-    "description": "OpenAI has released 'GPT-3.5-Turbo', a new version of its language prediction model. This cutting-edge tool has a wide range of applications, from drafting emails to writing code, and can even translate languages.",
+    "title": "New AI Tool Accelerates Drug Discovery",
+    "description": "A new AI-powered tool is set to expedite the drug discovery process, potentially saving millions of dollars and countless hours in research.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 30, 2021",
+    "source": "Nature",
+    "date": "September 30, 2021",
     "category": "Tools"
   }
 ];
