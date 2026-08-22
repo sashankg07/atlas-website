@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Model Predicts Wildfire Paths with Unprecedented Accuracy",
-    "description": "A newly developed AI model is now able to predict the paths of wildfires with unprecedented accuracy. This breakthrough could revolutionize how we handle such natural disasters in the future.",
+    "title": "AI Breaks New Ground in Protein Folding Problem",
+    "description": "Google's AI lab, DeepMind, has solved the 50-year-old 'protein folding problem', a major breakthrough in the field of life sciences. The AI can predict how proteins fold into 3D shapes, a task which is key to understanding diseases and drug discovery.",
     "url": "#",
-    "source": "AI Today",
-    "date": "September 30, 2021",
+    "source": "Nature",
+    "date": "December 03, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils Advanced AI Chip for Edge Computing",
-    "description": "A leading technology firm has announced the release of a new AI chip designed specifically for edge computing. This could significantly enhance processing power and efficiency in a variety of fields.",
+    "title": "AI Now Capable of Writing Its Own Code",
+    "description": "OpenAI's new AI system, Codex, is now capable of writing its own software code, potentially revolutionizing the software development industry. The system could reduce the need for human coders and make software creation more accessible.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 30, 2021",
+    "date": "December 03, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI in Retail: The Future of Personalized Shopping",
-    "description": "AI is set to revolutionize the retail industry by offering highly personalized shopping experiences. Major retailers are already investing in AI-driven technologies to stay ahead.",
+    "title": "AI Company Acquisitions Reach Record High in 2021",
+    "description": "The number of acquisitions of AI startups has hit a record high in 2021, as tech giants and enterprises seek to enhance their AI capabilities. The trend underscores the growing importance of AI across industries.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 30, 2021",
+    "source": "Wall Street Journal",
+    "date": "December 03, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Over AI's Role in Surveillance",
-    "description": "Increasing use of AI in surveillance technologies is raising serious ethical questions about privacy and consent. Experts call for regulations to ensure responsible use.",
+    "title": "New Ethics Guidelines Released for AI Development",
+    "description": "The International AI Ethics Board has released new guidelines for the ethical development and use of AI. The guidelines aim to ensure fairness, transparency, and accountability in AI systems.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 30, 2021",
+    "source": "BBC",
+    "date": "December 03, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tool Accelerates Drug Discovery",
-    "description": "A new AI-powered tool is set to expedite the drug discovery process, potentially saving millions of dollars and countless hours in research.",
+    "title": "AI Tool Streamlines Data Analysis for Scientists",
+    "description": "A new AI tool called DataRobot is helping scientists analyze large datasets more efficiently. The tool uses machine learning algorithms to identify patterns and make predictions.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2021",
+    "source": "Scientific American",
+    "date": "December 03, 2021",
     "category": "Tools"
   }
 ];
