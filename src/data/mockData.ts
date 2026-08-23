@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Protein Folding Problem",
-    "description": "Google's AI lab, DeepMind, has solved the 50-year-old 'protein folding problem', a major breakthrough in the field of life sciences. The AI can predict how proteins fold into 3D shapes, a task which is key to understanding diseases and drug discovery.",
+    "title": "AI Breaks New Ground in Medical Diagnostics",
+    "description": "A recent breakthrough in AI technology has led to the development of a new tool that can accurately diagnose a range of medical conditions. The tool is expected to revolutionize the healthcare industry.",
     "url": "#",
-    "source": "Nature",
-    "date": "December 03, 2021",
-    "category": "Research"
-  },
-  {
-    "title": "AI Now Capable of Writing Its Own Code",
-    "description": "OpenAI's new AI system, Codex, is now capable of writing its own software code, potentially revolutionizing the software development industry. The system could reduce the need for human coders and make software creation more accessible.",
-    "url": "#",
-    "source": "TechCrunch",
-    "date": "December 03, 2021",
+    "source": "The New York Times",
+    "date": "April 21, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Company Acquisitions Reach Record High in 2021",
-    "description": "The number of acquisitions of AI startups has hit a record high in 2021, as tech giants and enterprises seek to enhance their AI capabilities. The trend underscores the growing importance of AI across industries.",
+    "title": "AI Predicts Climate Change Impacts More Accurately",
+    "description": "Researchers have developed a new AI model that predicts the effects of climate change with unprecedented accuracy. This could significantly improve our ability to prepare for future climate scenarios.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "December 03, 2021",
+    "source": "Nature",
+    "date": "April 21, 2022",
+    "category": "Research"
+  },
+  {
+    "title": "E-commerce Giants Leverage AI for Efficient Supply Chain Management",
+    "description": "Major e-commerce companies are now employing AI-powered solutions to streamline their supply chain operations, leading to increased efficiency and reduced costs.",
+    "url": "#",
+    "source": "Forbes",
+    "date": "April 21, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Ethics Guidelines Released for AI Development",
-    "description": "The International AI Ethics Board has released new guidelines for the ethical development and use of AI. The guidelines aim to ensure fairness, transparency, and accountability in AI systems.",
+    "title": "New Ethical Guidelines for AI Proposed",
+    "description": "In light of increasing concerns about the impact of AI on society, a new set of ethical guidelines for AI development and use has been proposed by leading AI researchers.",
     "url": "#",
-    "source": "BBC",
-    "date": "December 03, 2021",
+    "source": "The Guardian",
+    "date": "April 21, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Tool Streamlines Data Analysis for Scientists",
-    "description": "A new AI tool called DataRobot is helping scientists analyze large datasets more efficiently. The tool uses machine learning algorithms to identify patterns and make predictions.",
+    "title": "Revolutionary AI-powered Editing Tool Launched",
+    "description": "A new AI-powered editing tool that promises to make content creation easier for writers and editors alike has been launched. The tool uses machine learning to suggest improvements in real-time.",
     "url": "#",
-    "source": "Scientific American",
-    "date": "December 03, 2021",
+    "source": "TechCrunch",
+    "date": "April 21, 2022",
     "category": "Tools"
   }
 ];
