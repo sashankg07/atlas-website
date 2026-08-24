@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Medical Diagnostics",
-    "description": "A recent breakthrough in AI technology has led to the development of a new tool that can accurately diagnose a range of medical conditions. The tool is expected to revolutionize the healthcare industry.",
-    "url": "#",
-    "source": "The New York Times",
-    "date": "April 21, 2022",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Predicts Climate Change Impacts More Accurately",
-    "description": "Researchers have developed a new AI model that predicts the effects of climate change with unprecedented accuracy. This could significantly improve our ability to prepare for future climate scenarios.",
+    "title": "Revolutionary AI Model Predicts Climate Change Effects With Unparalleled Precision",
+    "description": "A team of international researchers has developed an AI model capable of predicting the effects of climate change with unprecedented accuracy. The breakthrough could greatly aid in global climate change mitigation efforts.",
     "url": "#",
     "source": "Nature",
-    "date": "April 21, 2022",
+    "date": "November 24, 2021",
     "category": "Research"
   },
   {
-    "title": "E-commerce Giants Leverage AI for Efficient Supply Chain Management",
-    "description": "Major e-commerce companies are now employing AI-powered solutions to streamline their supply chain operations, leading to increased efficiency and reduced costs.",
+    "title": "Google's New AI Tool Transforms Smartphone Photography",
+    "description": "Google has unveiled a powerful AI tool that enhances smartphone photography, delivering professional-grade results. The tool leverages machine learning to optimize lighting, composition, and other key elements.",
     "url": "#",
-    "source": "Forbes",
-    "date": "April 21, 2022",
+    "source": "TechCrunch",
+    "date": "November 24, 2021",
+    "category": "Technology"
+  },
+  {
+    "title": "IBM Acquires AI Startup to Boost Cloud Capabilities",
+    "description": "IBM has announced the acquisition of an AI startup specializing in cloud optimization. The move is set to significantly enhance IBM's AI-infused cloud offerings.",
+    "url": "#",
+    "source": "Wall Street Journal",
+    "date": "November 24, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Ethical Guidelines for AI Proposed",
-    "description": "In light of increasing concerns about the impact of AI on society, a new set of ethical guidelines for AI development and use has been proposed by leading AI researchers.",
+    "title": "Call for Strict Regulations on AI Facial Recognition Systems",
+    "description": "In light of growing privacy concerns, experts are calling for stricter regulations on the use of AI facial recognition systems. The move is aimed at preventing misuse and protecting individual privacy rights.",
     "url": "#",
     "source": "The Guardian",
-    "date": "April 21, 2022",
+    "date": "November 24, 2021",
     "category": "Ethics"
   },
   {
-    "title": "Revolutionary AI-powered Editing Tool Launched",
-    "description": "A new AI-powered editing tool that promises to make content creation easier for writers and editors alike has been launched. The tool uses machine learning to suggest improvements in real-time.",
+    "title": "OpenAI Releases New Language Processing Tool",
+    "description": "OpenAI has released a new language processing tool that promises to advance AI's understanding of human language. The tool is expected to have wide-reaching applications, from chatbots to content generation.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "April 21, 2022",
+    "source": "MIT Technology Review",
+    "date": "November 24, 2021",
     "category": "Tools"
   }
 ];
