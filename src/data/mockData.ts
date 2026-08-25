@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Model Predicts Climate Change Effects With Unparalleled Precision",
-    "description": "A team of international researchers has developed an AI model capable of predicting the effects of climate change with unprecedented accuracy. The breakthrough could greatly aid in global climate change mitigation efforts.",
+    "title": "AI revolutionizes cancer detection with record-breaking accuracy",
+    "description": "A breakthrough in AI technology has resulted in a new system capable of detecting a range of cancers at their early stages with unprecedented accuracy. This could be a game-changer in the field of medical diagnostics.",
     "url": "#",
-    "source": "Nature",
-    "date": "November 24, 2021",
+    "source": "The New York Times",
+    "date": "November 05, 2021",
     "category": "Research"
   },
   {
-    "title": "Google's New AI Tool Transforms Smartphone Photography",
-    "description": "Google has unveiled a powerful AI tool that enhances smartphone photography, delivering professional-grade results. The tool leverages machine learning to optimize lighting, composition, and other key elements.",
+    "title": "New AI-driven app helps visually impaired navigate the world",
+    "description": "A new app driven by AI technology is helping visually impaired individuals navigate their environment independently. The app uses object recognition and spatial awareness to provide audio cues to its users.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 24, 2021",
+    "source": "The Guardian",
+    "date": "November 05, 2021",
     "category": "Technology"
   },
   {
-    "title": "IBM Acquires AI Startup to Boost Cloud Capabilities",
-    "description": "IBM has announced the acquisition of an AI startup specializing in cloud optimization. The move is set to significantly enhance IBM's AI-infused cloud offerings.",
+    "title": "AI startup secures $100M in funding to enhance predictive analytics",
+    "description": "An emerging AI startup has secured $100 million in funding to enhance its predictive analytics capabilities. This investment signals a growing industry interest in data-driven decision making.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "November 24, 2021",
+    "source": "Forbes",
+    "date": "November 05, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Call for Strict Regulations on AI Facial Recognition Systems",
-    "description": "In light of growing privacy concerns, experts are calling for stricter regulations on the use of AI facial recognition systems. The move is aimed at preventing misuse and protecting individual privacy rights.",
+    "title": "Ethical considerations in AI: A rising concern",
+    "description": "As AI continues to evolve and permeate various aspects of our lives, the ethical considerations surrounding its use are becoming increasingly important. Experts are now calling for comprehensive guidelines to govern AI use.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 24, 2021",
+    "source": "The Washington Post",
+    "date": "November 05, 2021",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases New Language Processing Tool",
-    "description": "OpenAI has released a new language processing tool that promises to advance AI's understanding of human language. The tool is expected to have wide-reaching applications, from chatbots to content generation.",
+    "title": "Google releases new AI tools for developers",
+    "description": "Google has released a suite of new AI tools aimed at aiding developers in creating more efficient and effective AI systems. These tools promise to make AI development more accessible and streamlined.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 24, 2021",
+    "source": "TechCrunch",
+    "date": "November 05, 2021",
     "category": "Tools"
   }
 ];
