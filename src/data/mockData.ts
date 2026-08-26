@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI revolutionizes cancer detection with record-breaking accuracy",
-    "description": "A breakthrough in AI technology has resulted in a new system capable of detecting a range of cancers at their early stages with unprecedented accuracy. This could be a game-changer in the field of medical diagnostics.",
+    "title": "AI Beats Human Experts at Spotting Lung Cancer",
+    "description": "Researchers have developed an AI model that outperforms human radiologists in diagnosing lung cancer. The model, trained on a large dataset of CT scans, could significantly improve early detection rates.",
     "url": "#",
     "source": "The New York Times",
-    "date": "November 05, 2021",
+    "date": "August 20, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI-driven app helps visually impaired navigate the world",
-    "description": "A new app driven by AI technology is helping visually impaired individuals navigate their environment independently. The app uses object recognition and spatial awareness to provide audio cues to its users.",
+    "title": "New AI Chip Revolutionizes Edge Computing",
+    "description": "A new AI chip, designed for edge devices, promises to bring powerful machine learning capabilities to everyday gadgets. The chip could transform how AI is applied in home automation, wearables, and IoT devices.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 05, 2021",
+    "source": "Wired",
+    "date": "August 20, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI startup secures $100M in funding to enhance predictive analytics",
-    "description": "An emerging AI startup has secured $100 million in funding to enhance its predictive analytics capabilities. This investment signals a growing industry interest in data-driven decision making.",
+    "title": "AI Startup Raises $100M to Democratize Machine Learning",
+    "description": "The AI software startup, AI Labs, has secured $100 million in funding. The company plans to use the funds to make machine learning more accessible to businesses of all sizes.",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 05, 2021",
+    "source": "TechCrunch",
+    "date": "August 20, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical considerations in AI: A rising concern",
-    "description": "As AI continues to evolve and permeate various aspects of our lives, the ethical considerations surrounding its use are becoming increasingly important. Experts are now calling for comprehensive guidelines to govern AI use.",
+    "title": "Ethical Concerns Rise as AI Predicts Criminal Behavior",
+    "description": "The increasing use of AI in predicting criminal behavior has sparked ethical debates. Critics argue the technology could lead to biased policing and unjust sentencing. ",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "November 05, 2021",
+    "source": "The Guardian",
+    "date": "August 20, 2022",
     "category": "Ethics"
   },
   {
-    "title": "Google releases new AI tools for developers",
-    "description": "Google has released a suite of new AI tools aimed at aiding developers in creating more efficient and effective AI systems. These tools promise to make AI development more accessible and streamlined.",
+    "title": "New Open-Source Tool Simplifies AI Model Training",
+    "description": "A new open-source tool, AI Trainer, aims to simplify the process of training AI models. The tool’s user-friendly interface could help more developers utilize machine learning in their projects.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "November 05, 2021",
+    "source": "InfoWorld",
+    "date": "August 20, 2022",
     "category": "Tools"
   }
 ];
