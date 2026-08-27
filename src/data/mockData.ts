@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Beats Human Experts at Spotting Lung Cancer",
-    "description": "Researchers have developed an AI model that outperforms human radiologists in diagnosing lung cancer. The model, trained on a large dataset of CT scans, could significantly improve early detection rates.",
+    "title": "AI Breakthrough: Machine Learning Model Self-Corrects Errors",
+    "description": "A team of researchers have developed a new AI model that can learn from its own mistakes, potentially revolutionizing the field of machine learning. The model, dubbed 'EverLearning', has shown the ability to self-correct its own programming errors.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "August 20, 2022",
+    "source": "AI Daily",
+    "date": "October 17, 2021",
     "category": "Research"
   },
   {
-    "title": "New AI Chip Revolutionizes Edge Computing",
-    "description": "A new AI chip, designed for edge devices, promises to bring powerful machine learning capabilities to everyday gadgets. The chip could transform how AI is applied in home automation, wearables, and IoT devices.",
-    "url": "#",
-    "source": "Wired",
-    "date": "August 20, 2022",
-    "category": "Technology"
-  },
-  {
-    "title": "AI Startup Raises $100M to Democratize Machine Learning",
-    "description": "The AI software startup, AI Labs, has secured $100 million in funding. The company plans to use the funds to make machine learning more accessible to businesses of all sizes.",
+    "title": "AI in Business: New Startup Uses AI to Streamline Supply Chains",
+    "description": "SupplyAI, a promising startup, is using AI to optimize supply chains and reduce waste. Their innovative approach is predicted to save companies millions in lost revenue.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "August 20, 2022",
+    "date": "October 17, 2021",
     "category": "Business"
+  },
+  {
+    "title": "AI Ethics: The Debate Over AI in Surveillance Intensifies",
+    "description": "As AI becomes more integrated into surveillance systems, concerns over privacy and ethics are growing. Critics argue that these technologies could lead to invasive monitoring and potential misuse.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "October 17, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Rise as AI Predicts Criminal Behavior",
-    "description": "The increasing use of AI in predicting criminal behavior has sparked ethical debates. Critics argue the technology could lead to biased policing and unjust sentencing. ",
+    "title": "AI Tools: Google Launches AI-powered Writing Assistant",
+    "description": "Google has introduced a new AI-powered writing assistant that can generate high-quality content. The tool, called 'WriteAI', is aimed at content creators, journalists, and businesses.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "August 20, 2022",
-    "category": "Ethics"
+    "source": "The Verge",
+    "date": "October 17, 2021",
+    "category": "Tools"
   },
   {
-    "title": "New Open-Source Tool Simplifies AI Model Training",
-    "description": "A new open-source tool, AI Trainer, aims to simplify the process of training AI models. The tool’s user-friendly interface could help more developers utilize machine learning in their projects.",
+    "title": "AI Technology: Breakthrough in AI Voice Synthesis",
+    "description": "A new AI voice synthesis technology can now mimic any voice with remarkable accuracy. The technology, developed by Voicemod, could revolutionize industries from entertainment to customer service.",
     "url": "#",
-    "source": "InfoWorld",
-    "date": "August 20, 2022",
-    "category": "Tools"
+    "source": "Wired",
+    "date": "October 17, 2021",
+    "category": "Technology"
   }
 ];
