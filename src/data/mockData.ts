@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Model Self-Corrects Errors",
-    "description": "A team of researchers have developed a new AI model that can learn from its own mistakes, potentially revolutionizing the field of machine learning. The model, dubbed 'EverLearning', has shown the ability to self-correct its own programming errors.",
+    "title": "Revolutionizing Healthcare: AI Diagnoses Diseases Faster Than Ever",
+    "description": "In an unprecedented move, AI has made strides in the healthcare industry by diagnosing diseases with remarkable speed and accuracy. This development could potentially save countless lives and resources.",
     "url": "#",
-    "source": "AI Daily",
-    "date": "October 17, 2021",
-    "category": "Research"
+    "source": "New York Times",
+    "date": "September 01, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI in Business: New Startup Uses AI to Streamline Supply Chains",
-    "description": "SupplyAI, a promising startup, is using AI to optimize supply chains and reduce waste. Their innovative approach is predicted to save companies millions in lost revenue.",
+    "title": "AI Transforms the Business Landscape: A New Era of Efficiency",
+    "description": "AI is redefining the business sector, offering improved efficiency and cost-saving measures. This technology promises to aid in decision-making processes, data analysis, and customer service.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 17, 2021",
+    "source": "Wall Street Journal",
+    "date": "September 01, 2022",
     "category": "Business"
   },
   {
-    "title": "AI Ethics: The Debate Over AI in Surveillance Intensifies",
-    "description": "As AI becomes more integrated into surveillance systems, concerns over privacy and ethics are growing. Critics argue that these technologies could lead to invasive monitoring and potential misuse.",
+    "title": "Ethics in AI: Balancing Innovation and Responsibility",
+    "description": "As AI continues to evolve, so too do the ethical questions surrounding its use. Experts are urging for measures to ensure that AI is developed and used responsibly.",
     "url": "#",
     "source": "The Guardian",
-    "date": "October 17, 2021",
+    "date": "September 01, 2022",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Tools: Google Launches AI-powered Writing Assistant",
-    "description": "Google has introduced a new AI-powered writing assistant that can generate high-quality content. The tool, called 'WriteAI', is aimed at content creators, journalists, and businesses.",
+    "title": "AI in Space: How Machine Learning is Aiding Exploration",
+    "description": "AI is pushing the boundaries of space exploration. Through machine learning, scientists are able to analyze vast amounts of data, making the search for extraterrestrial life more effective than ever.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 17, 2021",
-    "category": "Tools"
+    "source": "National Geographic",
+    "date": "September 01, 2022",
+    "category": "Research"
   },
   {
-    "title": "AI Technology: Breakthrough in AI Voice Synthesis",
-    "description": "A new AI voice synthesis technology can now mimic any voice with remarkable accuracy. The technology, developed by Voicemod, could revolutionize industries from entertainment to customer service.",
+    "title": "New AI Tools Revolutionize Design Industry",
+    "description": "The design industry is witnessing a revolution with the arrival of AI tools. This new technology not only speeds up the design process but also enhances creativity and precision.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 17, 2021",
-    "category": "Technology"
+    "source": "Forbes",
+    "date": "September 01, 2022",
+    "category": "Tools"
   }
 ];
