@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionizing Healthcare: AI Diagnoses Diseases Faster Than Ever",
-    "description": "In an unprecedented move, AI has made strides in the healthcare industry by diagnosing diseases with remarkable speed and accuracy. This development could potentially save countless lives and resources.",
+    "title": "AI Solves 50-Year-Old Biology Problem, Revolutionizing Drug Discovery",
+    "description": "Google's DeepMind has solved a decades-old problem related to protein folding, a breakthrough that could revolutionize drug discovery. This AI breakthrough has been described as a game-changer for life sciences.",
     "url": "#",
-    "source": "New York Times",
-    "date": "September 01, 2022",
+    "source": "The New York Times",
+    "date": "October 24, 2022",
+    "category": "Research"
+  },
+  {
+    "title": "AI in Climate Change: A New Ally in the Fight",
+    "description": "Artificial Intelligence is proving to be a powerful tool against climate change, helping scientists forecast environmental changes with unprecedented accuracy. AI's potential in this area could be a game-changer for our planet's future.",
+    "url": "#",
+    "source": "The Guardian",
+    "date": "October 24, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Transforms the Business Landscape: A New Era of Efficiency",
-    "description": "AI is redefining the business sector, offering improved efficiency and cost-saving measures. This technology promises to aid in decision-making processes, data analysis, and customer service.",
+    "title": "IBM Unveils Breakthrough in AI Fairness",
+    "description": "IBM has unveiled a new tool to detect and mitigate bias in AI, emphasizing the growing importance of ethical considerations in AI development. The tool offers promise in addressing AI's 'black box' problem.",
     "url": "#",
-    "source": "Wall Street Journal",
-    "date": "September 01, 2022",
-    "category": "Business"
-  },
-  {
-    "title": "Ethics in AI: Balancing Innovation and Responsibility",
-    "description": "As AI continues to evolve, so too do the ethical questions surrounding its use. Experts are urging for measures to ensure that AI is developed and used responsibly.",
-    "url": "#",
-    "source": "The Guardian",
-    "date": "September 01, 2022",
+    "source": "Forbes",
+    "date": "October 24, 2022",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI in Space: How Machine Learning is Aiding Exploration",
-    "description": "AI is pushing the boundaries of space exploration. Through machine learning, scientists are able to analyze vast amounts of data, making the search for extraterrestrial life more effective than ever.",
+    "title": "AI Startups Attract Record Investments",
+    "description": "AI startups have seen a record-breaking level of investment in Q3 2022, indicating a booming market for AI innovations. This trend reflects the increasing integration of AI across industries.",
     "url": "#",
-    "source": "National Geographic",
-    "date": "September 01, 2022",
-    "category": "Research"
+    "source": "Business Insider",
+    "date": "October 24, 2022",
+    "category": "Business"
   },
   {
-    "title": "New AI Tools Revolutionize Design Industry",
-    "description": "The design industry is witnessing a revolution with the arrival of AI tools. This new technology not only speeds up the design process but also enhances creativity and precision.",
+    "title": "New OpenAI Tool Transforms Text to Images",
+    "description": "OpenAI has launched a new tool that can generate detailed images from textual descriptions. This tool could revolutionize fields from design to entertainment, heralding a new era of AI creativity.",
     "url": "#",
-    "source": "Forbes",
-    "date": "September 01, 2022",
+    "source": "TechCrunch",
+    "date": "October 24, 2022",
     "category": "Tools"
   }
 ];
