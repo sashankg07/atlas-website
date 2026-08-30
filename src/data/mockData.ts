@@ -9,45 +9,45 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Solves 50-Year-Old Biology Problem, Revolutionizing Drug Discovery",
-    "description": "Google's DeepMind has solved a decades-old problem related to protein folding, a breakthrough that could revolutionize drug discovery. This AI breakthrough has been described as a game-changer for life sciences.",
+    "title": "Revolutionary AI Algorithm Predicts Climate Change Impact",
+    "description": "Researchers have developed a new AI algorithm that can accurately predict the impact of climate change. The system can model potential outcomes with unprecedented precision, contributing significantly to global climate studies.",
     "url": "#",
-    "source": "The New York Times",
+    "source": "Nature Magazine",
     "date": "October 24, 2022",
     "category": "Research"
   },
   {
-    "title": "AI in Climate Change: A New Ally in the Fight",
-    "description": "Artificial Intelligence is proving to be a powerful tool against climate change, helping scientists forecast environmental changes with unprecedented accuracy. AI's potential in this area could be a game-changer for our planet's future.",
+    "title": "Tech Giant Unveils AI-Powered Virtual Assistant",
+    "description": "A leading tech company has unveiled an AI-powered virtual assistant that understands and responds to natural human language more accurately than ever before. The breakthrough could redefine the way we interact with technology.",
     "url": "#",
-    "source": "The Guardian",
+    "source": "TechCrunch",
     "date": "October 24, 2022",
     "category": "Technology"
   },
   {
-    "title": "IBM Unveils Breakthrough in AI Fairness",
-    "description": "IBM has unveiled a new tool to detect and mitigate bias in AI, emphasizing the growing importance of ethical considerations in AI development. The tool offers promise in addressing AI's 'black box' problem.",
+    "title": "AI Start-up Raises $100 Million in Series B Funding",
+    "description": "A promising AI start-up has secured $100 million in Series B funding. The company plans to use the funds to accelerate the development and deployment of its innovative machine learning solutions.",
     "url": "#",
     "source": "Forbes",
     "date": "October 24, 2022",
-    "category": "Ethics"
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Startups Attract Record Investments",
-    "description": "AI startups have seen a record-breaking level of investment in Q3 2022, indicating a booming market for AI innovations. This trend reflects the increasing integration of AI across industries.",
+    "title": "Ethics in AI: New Guidelines for Fairness and Transparency",
+    "description": "A renowned global committee has released new guidelines focusing on ethics in AI, highlighting the importance of fairness, accountability and transparency in AI systems. The move aims to ensure that AI technologies are developed and used responsibly.",
     "url": "#",
-    "source": "Business Insider",
+    "source": "The Guardian",
     "date": "October 24, 2022",
-    "category": "Business"
+    "category": "Ethics"
   },
   {
-    "title": "New OpenAI Tool Transforms Text to Images",
-    "description": "OpenAI has launched a new tool that can generate detailed images from textual descriptions. This tool could revolutionize fields from design to entertainment, heralding a new era of AI creativity.",
+    "title": "New AI Tool Transforms Data Analysis",
+    "description": "A new AI tool is set to revolutionize data analysis, enabling businesses to interpret and utilize their data more effectively. The tool uses machine learning to identify patterns and trends, providing valuable insights for decision-making.",
     "url": "#",
-    "source": "TechCrunch",
+    "source": "MIT News",
     "date": "October 24, 2022",
     "category": "Tools"
   }
