@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Revolutionary AI Algorithm Predicts Climate Change Impact",
-    "description": "Researchers have developed a new AI algorithm that can accurately predict the impact of climate change. The system can model potential outcomes with unprecedented precision, contributing significantly to global climate studies.",
+    "title": "AI Revolutionizes Cancer Detection",
+    "description": "In a major breakthrough, researchers have developed a new AI model that can identify cancerous tissues with remarkable accuracy. This could potentially transform the field of medical diagnostics.",
     "url": "#",
-    "source": "Nature Magazine",
-    "date": "October 24, 2022",
+    "source": "Nature",
+    "date": "September 23, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils AI-Powered Virtual Assistant",
-    "description": "A leading tech company has unveiled an AI-powered virtual assistant that understands and responds to natural human language more accurately than ever before. The breakthrough could redefine the way we interact with technology.",
+    "title": "Tech Giants Invest Heavily in AI for Cloud Computing",
+    "description": "Major tech companies like Google and Amazon are investing billions in AI to enhance their cloud computing capabilities. They believe this integration can lead to more efficient and powerful services.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "October 24, 2022",
-    "category": "Technology"
+    "date": "September 23, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI Start-up Raises $100 Million in Series B Funding",
-    "description": "A promising AI start-up has secured $100 million in Series B funding. The company plans to use the funds to accelerate the development and deployment of its innovative machine learning solutions.",
+    "title": "AI Ethics: A New Frontier in Legislation",
+    "description": "As AI technology continues to advance, lawmakers are grappling with the ethical implications. New legislation is being drafted to ensure AI is developed and used responsibly.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 24, 2022",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "September 23, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethics in AI: New Guidelines for Fairness and Transparency",
-    "description": "A renowned global committee has released new guidelines focusing on ethics in AI, highlighting the importance of fairness, accountability and transparency in AI systems. The move aims to ensure that AI technologies are developed and used responsibly.",
+    "title": "AI Tools Drive Efficiency in Manufacturing",
+    "description": "Innovative AI tools are being introduced in manufacturing, improving efficiency and reducing waste. These new technologies promise a more sustainable future for the industry.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 24, 2022",
-    "category": "Ethics"
+    "source": "The Verge",
+    "date": "September 23, 2021",
+    "category": "Tools"
   },
   {
-    "title": "New AI Tool Transforms Data Analysis",
-    "description": "A new AI tool is set to revolutionize data analysis, enabling businesses to interpret and utilize their data more effectively. The tool uses machine learning to identify patterns and trends, providing valuable insights for decision-making.",
+    "title": "AI Supercomputers: The Next Big Leap in Technology",
+    "description": "AI supercomputers are being hailed as the next giant leap in technology. These powerful machines could be the key to solving some of the world's most complex problems.",
     "url": "#",
-    "source": "MIT News",
-    "date": "October 24, 2022",
-    "category": "Tools"
+    "source": "Wired",
+    "date": "September 23, 2021",
+    "category": "Technology"
   }
 ];
