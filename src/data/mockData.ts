@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Cancer Detection",
-    "description": "In a major breakthrough, researchers have developed a new AI model that can identify cancerous tissues with remarkable accuracy. This could potentially transform the field of medical diagnostics.",
+    "title": "AI Breakthrough: Machine Learning Used to Predict Alzheimer's Years in Advance",
+    "description": "Researchers have developed a groundbreaking AI model that can predict Alzheimer's disease years before symptoms appear. The technology could revolutionize early detection and treatment approaches.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 23, 2021",
+    "source": "Nature Neuroscience",
+    "date": "November 22, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Invest Heavily in AI for Cloud Computing",
-    "description": "Major tech companies like Google and Amazon are investing billions in AI to enhance their cloud computing capabilities. They believe this integration can lead to more efficient and powerful services.",
+    "title": "Tech Giant Invests Billions in AI to Streamline Operations",
+    "description": "A leading tech corporation has announced a major investment in AI to improve its internal operations. The company aims to leverage machine learning to optimize efficiency and productivity.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "September 23, 2021",
+    "date": "November 22, 2021",
     "category": "Business"
   },
   {
-    "title": "AI Ethics: A New Frontier in Legislation",
-    "description": "As AI technology continues to advance, lawmakers are grappling with the ethical implications. New legislation is being drafted to ensure AI is developed and used responsibly.",
+    "title": "AI Ethics: The Urgent Need for AI Regulation",
+    "description": "As AI continues to evolve, industry experts are calling for more robust regulations. The goal is to ensure responsible AI use and to prevent misuse of the technology.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 23, 2021",
+    "source": "The Verge",
+    "date": "November 22, 2021",
     "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Tools Drive Efficiency in Manufacturing",
-    "description": "Innovative AI tools are being introduced in manufacturing, improving efficiency and reducing waste. These new technologies promise a more sustainable future for the industry.",
+    "title": "Unveiling New AI Tool that Simplifies Data Analysis",
+    "description": "A new AI tool has been launched that simplifies complex data analysis. The tool uses machine learning to provide actionable insights, with the potential to transform data-driven decision making.",
     "url": "#",
-    "source": "The Verge",
-    "date": "September 23, 2021",
+    "source": "AI Magazine",
+    "date": "November 22, 2021",
     "category": "Tools"
   },
   {
-    "title": "AI Supercomputers: The Next Big Leap in Technology",
-    "description": "AI supercomputers are being hailed as the next giant leap in technology. These powerful machines could be the key to solving some of the world's most complex problems.",
+    "title": "Groundbreaking AI Technology Powers Self-Driving Cars",
+    "description": "New advancements in AI technology are driving the development of self-driving cars. The technology is expected to revolutionize the transportation industry by offering safer and more efficient alternatives to human-driven vehicles.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 23, 2021",
+    "source": "WIRED",
+    "date": "November 22, 2021",
     "category": "Technology"
   }
 ];
