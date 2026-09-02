@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breakthrough: Machine Learning Used to Predict Alzheimer's Years in Advance",
-    "description": "Researchers have developed a groundbreaking AI model that can predict Alzheimer's disease years before symptoms appear. The technology could revolutionize early detection and treatment approaches.",
+    "title": "AI Revolutionizes Early Cancer Detection",
+    "description": "A recent breakthrough in AI technology has led to the development of an algorithm capable of detecting early-stage cancers with unprecedented accuracy. This could potentially revolutionize the medical field, saving countless lives.",
     "url": "#",
-    "source": "Nature Neuroscience",
-    "date": "November 22, 2021",
+    "source": "The New York Times",
+    "date": "September 22, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Invests Billions in AI to Streamline Operations",
-    "description": "A leading tech corporation has announced a major investment in AI to improve its internal operations. The company aims to leverage machine learning to optimize efficiency and productivity.",
+    "title": "Tech Giant Acquires AI Startup for Billion Dollar Deal",
+    "description": "In a bold move, a leading tech company has acquired an AI startup specializing in machine learning. The billion-dollar deal is set to escalate the tech giant's capabilities in AI development.",
     "url": "#",
     "source": "TechCrunch",
-    "date": "November 22, 2021",
+    "date": "September 22, 2022",
     "category": "Business"
   },
   {
-    "title": "AI Ethics: The Urgent Need for AI Regulation",
-    "description": "As AI continues to evolve, industry experts are calling for more robust regulations. The goal is to ensure responsible AI use and to prevent misuse of the technology.",
+    "title": "New AI Tool Streamlines Software Development",
+    "description": "A groundbreaking AI tool has been developed to predict and rectify coding errors in software development. This promising tool could significantly reduce time and costs associated with programming.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 22, 2021",
-    "category": "Ethics"
+    "source": "Wired",
+    "date": "September 22, 2022",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Unveiling New AI Tool that Simplifies Data Analysis",
-    "description": "A new AI tool has been launched that simplifies complex data analysis. The tool uses machine learning to provide actionable insights, with the potential to transform data-driven decision making.",
+    "title": "Ethical Concerns Raised Over AI Facial Recognition",
+    "description": "As AI facial recognition technology advances, concerns about privacy and misuse are increasingly coming to the fore. Experts call for regulations to prevent potential abuses.",
     "url": "#",
-    "source": "AI Magazine",
-    "date": "November 22, 2021",
-    "category": "Tools"
+    "source": "BBC News",
+    "date": "September 22, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "Groundbreaking AI Technology Powers Self-Driving Cars",
-    "description": "New advancements in AI technology are driving the development of self-driving cars. The technology is expected to revolutionize the transportation industry by offering safer and more efficient alternatives to human-driven vehicles.",
+    "title": "AI Predicts Climate Change Patterns with Unseen Precision",
+    "description": "Scientists have designed an AI model that predicts the impact of climate change with remarkable accuracy. This technology could be instrumental in helping the world prepare for and combat climate change.",
     "url": "#",
-    "source": "WIRED",
-    "date": "November 22, 2021",
+    "source": "Scientific American",
+    "date": "September 22, 2022",
     "category": "Technology"
   }
 ];
