@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Early Cancer Detection",
-    "description": "A recent breakthrough in AI technology has led to the development of an algorithm capable of detecting early-stage cancers with unprecedented accuracy. This could potentially revolutionize the medical field, saving countless lives.",
+    "title": "AI Now Capable of Predicting Heart Disease with Unheard-of Accuracy",
+    "description": "Researchers have developed an AI model that can predict heart disease with greater precision than ever before. The tool is expected to revolutionize preventative cardiology.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 22, 2022",
+    "source": "Nature Biomedical Engineering",
+    "date": "December 15, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Acquires AI Startup for Billion Dollar Deal",
-    "description": "In a bold move, a leading tech company has acquired an AI startup specializing in machine learning. The billion-dollar deal is set to escalate the tech giant's capabilities in AI development.",
+    "title": "New AI Technology Powers Self-Driving Cars to Navigate Without GPS",
+    "description": "A new AI system was unveiled recently, endowed with the capability to navigate self-driving cars without relying on GPS. This breakthrough can potentially transform the autonomous vehicle industry.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 22, 2022",
-    "category": "Business"
+    "source": "MIT Technology Review",
+    "date": "December 15, 2021",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Streamlines Software Development",
-    "description": "A groundbreaking AI tool has been developed to predict and rectify coding errors in software development. This promising tool could significantly reduce time and costs associated with programming.",
+    "title": "AI Start-up Raises $200 Million for Expansion",
+    "description": "In a Series C funding round, AI start-up has raised $200 million to expand its operations globally. The company specializes in AI solutions for healthcare.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 22, 2022",
-    "category": "Tools"
+    "source": "Forbes",
+    "date": "December 15, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Raised Over AI Facial Recognition",
-    "description": "As AI facial recognition technology advances, concerns about privacy and misuse are increasingly coming to the fore. Experts call for regulations to prevent potential abuses.",
+    "title": "The Ethical Considerations of AI in Law Enforcement",
+    "description": "With AI increasingly used in law enforcement, questions about its ethical implications are growing. Critics argue that bias and lack of transparency are major concerns.",
     "url": "#",
-    "source": "BBC News",
-    "date": "September 22, 2022",
+    "source": "The Guardian",
+    "date": "December 15, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Predicts Climate Change Patterns with Unseen Precision",
-    "description": "Scientists have designed an AI model that predicts the impact of climate change with remarkable accuracy. This technology could be instrumental in helping the world prepare for and combat climate change.",
+    "title": "OpenAI Releases New Language Model API",
+    "description": "OpenAI has released a new API for its cutting-edge language model. The tool is expected to drastically improve natural language processing capabilities.",
     "url": "#",
-    "source": "Scientific American",
-    "date": "September 22, 2022",
-    "category": "Technology"
+    "source": "OpenAI Blog",
+    "date": "December 15, 2021",
+    "category": "Tools"
   }
 ];
