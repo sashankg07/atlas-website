@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Now Capable of Predicting Heart Disease with Unheard-of Accuracy",
-    "description": "Researchers have developed an AI model that can predict heart disease with greater precision than ever before. The tool is expected to revolutionize preventative cardiology.",
+    "title": "Quantum Computing and AI: A Technological Union Set to Accelerate Breakthroughs",
+    "description": "Researchers are merging quantum computing and AI, creating a powerful tool that's expediting groundbreaking developments. The union promises to revolutionize sectors from healthcare to finance.",
     "url": "#",
-    "source": "Nature Biomedical Engineering",
-    "date": "December 15, 2021",
+    "source": "The AI Times",
+    "date": "September 25, 2022",
     "category": "Research"
   },
   {
-    "title": "New AI Technology Powers Self-Driving Cars to Navigate Without GPS",
-    "description": "A new AI system was unveiled recently, endowed with the capability to navigate self-driving cars without relying on GPS. This breakthrough can potentially transform the autonomous vehicle industry.",
+    "title": "Google's New AI Language Model BERT Optimizes Search Results",
+    "description": "BERT, Google's new AI language model, is enabling more accurate search results by better understanding the nuances of language. This development is expected to significantly improve user experience.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "December 15, 2021",
+    "source": "TechCrunch",
+    "date": "September 25, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Start-up Raises $200 Million for Expansion",
-    "description": "In a Series C funding round, AI start-up has raised $200 million to expand its operations globally. The company specializes in AI solutions for healthcare.",
+    "title": "Microsoft Acquires OpenAI: A Strategic Move in the AI Battle",
+    "description": "Microsoft has acquired OpenAI, a leading AI research lab. This move is expected to bolster Microsoft's position in the global AI race, enabling cutting-edge developments.",
     "url": "#",
-    "source": "Forbes",
-    "date": "December 15, 2021",
+    "source": "Business Insider",
+    "date": "September 25, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethical Considerations of AI in Law Enforcement",
-    "description": "With AI increasingly used in law enforcement, questions about its ethical implications are growing. Critics argue that bias and lack of transparency are major concerns.",
+    "title": "Ethical AI: A Growing Concern in the Digital Age",
+    "description": "As AI becomes increasingly integrated into daily life, ethical considerations are becoming paramount. Experts emphasize the need for clear guidelines to prevent misuse and ensure responsible AI development.",
     "url": "#",
     "source": "The Guardian",
-    "date": "December 15, 2021",
+    "date": "September 25, 2022",
     "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases New Language Model API",
-    "description": "OpenAI has released a new API for its cutting-edge language model. The tool is expected to drastically improve natural language processing capabilities.",
+    "title": "TensorFlow 2.0: The Latest Tools for AI Developers",
+    "description": "Google has released TensorFlow 2.0, featuring a host of new tools to facilitate AI development. It promises to make machine learning more accessible and efficient for developers.",
     "url": "#",
-    "source": "OpenAI Blog",
-    "date": "December 15, 2021",
+    "source": "The Verge",
+    "date": "September 25, 2022",
     "category": "Tools"
   }
 ];
