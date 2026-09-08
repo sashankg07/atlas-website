@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "New AI Breakthrough Predicts Climate Change Impact More Accurately",
-    "description": "Researchers have developed an AI model that can predict the impact of climate change with unprecedented precision. The model uses deep learning to simulate complex climate systems and predict future changes.",
+    "title": "AI Revolutionizes Disease Detection, Saving Lives",
+    "description": "Artificial Intelligence algorithms are now being used to detect diseases earlier and more accurately. This breakthrough could save countless lives annually.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 15, 2022",
+    "source": "The AI Times",
+    "date": "December 05, 2022",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Invest Heavily in AI for Healthcare",
-    "description": "Major tech companies like Google and Apple are investing billions in AI to revolutionize healthcare. They aim to develop AI algorithms that can diagnose diseases and suggest treatments.",
+    "title": "Tech Giants Invest Billions in AI Startups",
+    "description": "Major technology companies are investing heavily in AI startups, signaling a strong belief in the future of AI technologies.",
     "url": "#",
     "source": "Forbes",
-    "date": "September 15, 2022",
+    "date": "December 05, 2022",
     "category": "Business"
   },
   {
-    "title": "AI Tools Emerge as Game Changer for Small Businesses",
-    "description": "New AI tools are helping small businesses automate tasks, analyze data, and improve customer service. This trend is leveling the playing field between large corporations and small businesses.",
+    "title": "Exploring the Ethical Implications of AI in Warfare",
+    "description": "As military forces worldwide increasingly integrate AI into their operations, serious ethical questions are being raised about the potential impact on warfare.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 15, 2022",
-    "category": "Tools"
+    "source": "The Guardian",
+    "date": "December 05, 2022",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Considerations Surrounding the Use of AI in Hiring",
-    "description": "As more companies adopt AI in their hiring process, questions about fairness and bias are being raised. Experts call for regulations to ensure ethical use of AI in recruitment.",
+    "title": "AI-Driven Software Set to Transform the Tech Industry",
+    "description": "The rise of AI-driven software promises to revolutionize the tech industry, offering unprecedented levels of automation and efficiency.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "September 15, 2022",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "December 05, 2022",
+    "category": "Technology"
   },
   {
-    "title": "AI Technology Advances in Autonomous Vehicles",
-    "description": "New developments in AI technology are making self-driving cars safer and more efficient. AI algorithms are now able to respond to unpredictable road situations, making them a step closer to widespread adoption.",
+    "title": "New AI Tools Empower Data Scientists",
+    "description": "The latest AI tools are empowering data scientists to develop more accurate models faster, unleashing a new wave of AI innovation.",
     "url": "#",
     "source": "The Verge",
-    "date": "September 15, 2022",
-    "category": "Technology"
+    "date": "December 05, 2022",
+    "category": "Tools"
   }
 ];
