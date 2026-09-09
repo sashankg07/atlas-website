@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Disease Detection, Saving Lives",
-    "description": "Artificial Intelligence algorithms are now being used to detect diseases earlier and more accurately. This breakthrough could save countless lives annually.",
+    "title": "AI Breaks New Ground in Climate Change Predictions",
+    "description": "Artificial Intelligence is revolutionizing climate change models, improving their accuracy and efficiency. These advancements could provide vital insights for future climate policies.",
     "url": "#",
-    "source": "The AI Times",
-    "date": "December 05, 2022",
+    "source": "The New York Times",
+    "date": "March 21, 2023",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Invest Billions in AI Startups",
-    "description": "Major technology companies are investing heavily in AI startups, signaling a strong belief in the future of AI technologies.",
+    "title": "AI Startup Raises $200M for Autonomous Vehicles",
+    "description": "A leading AI startup has successfully raised $200 million in Series C funding for the development of autonomous vehicle technology. The investment will help accelerate the company's advancements in the self-driving industry.",
     "url": "#",
-    "source": "Forbes",
-    "date": "December 05, 2022",
+    "source": "Bloomberg",
+    "date": "March 21, 2023",
     "category": "Business"
   },
   {
-    "title": "Exploring the Ethical Implications of AI in Warfare",
-    "description": "As military forces worldwide increasingly integrate AI into their operations, serious ethical questions are being raised about the potential impact on warfare.",
+    "title": "New AI Tool Streamlines Customer Service",
+    "description": "A new AI tool is transforming customer service operations by automating responses and providing faster solutions. The tool is set to drastically improve customer experience and business efficiency.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "December 05, 2022",
-    "category": "Ethics"
+    "source": "TechCrunch",
+    "date": "March 21, 2023",
+    "category": "Tools"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI-Driven Software Set to Transform the Tech Industry",
-    "description": "The rise of AI-driven software promises to revolutionize the tech industry, offering unprecedented levels of automation and efficiency.",
+    "title": "AI Ethics: Balancing Benefits and Risks",
+    "description": "As AI technology develops at an unprecedented rate, ethical considerations are coming to the forefront. Experts are calling for careful regulations to ensure the technology is used responsibly.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "December 05, 2022",
-    "category": "Technology"
+    "source": "The Guardian",
+    "date": "March 21, 2023",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tools Empower Data Scientists",
-    "description": "The latest AI tools are empowering data scientists to develop more accurate models faster, unleashing a new wave of AI innovation.",
+    "title": "AI Transforms Drug Discovery Process",
+    "description": "Artificial Intelligence is being used to expedite the drug discovery process, providing hope for faster and more efficient treatments. The technology could revolutionize the pharmaceutical industry.",
     "url": "#",
-    "source": "The Verge",
-    "date": "December 05, 2022",
-    "category": "Tools"
+    "source": "Forbes",
+    "date": "March 21, 2023",
+    "category": "Technology"
   }
 ];
