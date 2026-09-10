@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Climate Change Predictions",
-    "description": "Artificial Intelligence is revolutionizing climate change models, improving their accuracy and efficiency. These advancements could provide vital insights for future climate policies.",
+    "title": "AI Outperforms Humans in Identifying Cancer Cells",
+    "description": "Recent research shows that AI models can now identify cancer cells more accurately than human scientists. This breakthrough could revolutionize early cancer detection and treatment.",
     "url": "#",
     "source": "The New York Times",
-    "date": "March 21, 2023",
+    "date": "October 13, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Startup Raises $200M for Autonomous Vehicles",
-    "description": "A leading AI startup has successfully raised $200 million in Series C funding for the development of autonomous vehicle technology. The investment will help accelerate the company's advancements in the self-driving industry.",
+    "title": "New AI Algorithm Predicts Climate Change Impacts",
+    "description": "Scientists have developed an AI algorithm capable of predicting the impact of climate change with unprecedented accuracy. This tool could be instrumental in planning for a sustainable future.",
     "url": "#",
-    "source": "Bloomberg",
-    "date": "March 21, 2023",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "October 13, 2022",
+    "category": "Technology"
   },
   {
-    "title": "New AI Tool Streamlines Customer Service",
-    "description": "A new AI tool is transforming customer service operations by automating responses and providing faster solutions. The tool is set to drastically improve customer experience and business efficiency.",
+    "title": "Artificial Intelligence Transforming the Business Landscape",
+    "description": "AI is being harnessed to transform business operations, with companies implementing AI technologies to streamline processes and boost efficiency. This trend is expected to significantly shape the future of business.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 21, 2023",
-    "category": "Tools"
+    "source": "Forbes",
+    "date": "October 13, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics: Balancing Benefits and Risks",
-    "description": "As AI technology develops at an unprecedented rate, ethical considerations are coming to the forefront. Experts are calling for careful regulations to ensure the technology is used responsibly.",
+    "title": "Addressing Ethical Concerns in AI Development",
+    "description": "As AI continues to permeate different sectors, questions around ethical use are increasingly important. Researchers are calling for more robust guidelines to ensure AI development aligns with human values.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "March 21, 2023",
+    "source": "MIT Technology Review",
+    "date": "October 13, 2022",
     "category": "Ethics"
   },
   {
-    "title": "AI Transforms Drug Discovery Process",
-    "description": "Artificial Intelligence is being used to expedite the drug discovery process, providing hope for faster and more efficient treatments. The technology could revolutionize the pharmaceutical industry.",
+    "title": "Introducing the Latest AI Tools for Researchers",
+    "description": "A new suite of AI tools designed to help researchers analyze complex data sets has been launched. The tools are expected to significantly speed up research in various fields.",
     "url": "#",
-    "source": "Forbes",
-    "date": "March 21, 2023",
-    "category": "Technology"
+    "source": "Nature",
+    "date": "October 13, 2022",
+    "category": "Tools"
   }
 ];
