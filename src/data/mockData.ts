@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Reaches New Heights in Predicting Alzheimer's",
-    "description": "Scientists have developed an AI model that can predict the onset of Alzheimer's disease with unprecedented accuracy. This groundbreaking technology could revolutionize early detection and treatment strategies.",
+    "title": "Groundbreaking AI Software Transforms Healthcare Diagnostics",
+    "description": "New artificial intelligence software is revolutionizing healthcare diagnostics, drastically reducing the time taken to process patient data. The AI system can analyze and interpret complex medical data in seconds, contributing to faster and more accurate diagnoses.",
     "url": "#",
-    "source": "Nature Neuroscience",
-    "date": "October 13, 2021",
-    "category": "Research"
-  },
-  {
-    "title": "Tech Giant Unveils Next-Gen AI Chip",
-    "description": "A leading tech company has unveiled their new AI chip, which boasts faster processing speeds and more efficient power usage. This development could propel forward advancements in machine learning.",
-    "url": "#",
-    "source": "Tech Crunch",
-    "date": "October 13, 2021",
+    "source": "The New York Times",
+    "date": "October 11, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI Start-Up Raises $100M in Series B Funding",
-    "description": "An emerging AI start-up has secured substantial series B funding, validating the increasing investment interest in artificial intelligence. The funds will be used to expand their machine learning capabilities and global reach.",
+    "title": "AI Ethics: Striking a Balance Between Innovation and Regulation",
+    "description": "As AI technologies become more advanced, questions about ethical implications grow. Policymakers and technologists are grappling to strike the right balance between innovation and ethical considerations.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 13, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "October 11, 2021",
+    "category": "Ethics"
+  },
+  {
+    "title": "AI Research Breakthrough Achieves Human-like Learning Abilities",
+    "description": "A significant development in artificial intelligence research has led to an AI model that mimics human learning abilities. The model can understand context, adapt to new situations, and even learn from its mistakes.",
+    "url": "#",
+    "source": "Nature",
+    "date": "October 11, 2021",
+    "category": "Research"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical AI: The New Frontier",
-    "description": "As AI becomes more integrated into daily life, discussions around ethical AI are more critical than ever. Experts are calling for comprehensive guidelines to ensure the fair and responsible use of AI.",
+    "title": "AI Start-up Acquired for $1.5 Billion: A New Era in Business",
+    "description": "In a landmark deal, a leading AI start-up has been acquired for a staggering $1.5 billion, signaling a new era for business and AI integration. The acquisition highlights the growing value of AI in the business world.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 13, 2021",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "October 11, 2021",
+    "category": "Business"
   },
   {
-    "title": "New AI Tool Transforms Text to Speech",
-    "description": "A new AI tool capable of converting text to lifelike speech has been launched. This technology opens up exciting possibilities for accessibility and communication applications.",
+    "title": "New AI Tools Transforming Data Analysis",
+    "description": "Cutting-edge AI tools are transforming the way companies handle data. These tools allow for more efficient data processing, predictive analytics, and generating actionable insights from raw data.",
     "url": "#",
-    "source": "Wired",
-    "date": "October 13, 2021",
+    "source": "MIT Technology Review",
+    "date": "October 11, 2021",
     "category": "Tools"
   }
 ];
