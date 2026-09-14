@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Groundbreaking AI Software Transforms Healthcare Diagnostics",
-    "description": "New artificial intelligence software is revolutionizing healthcare diagnostics, drastically reducing the time taken to process patient data. The AI system can analyze and interpret complex medical data in seconds, contributing to faster and more accurate diagnoses.",
+    "title": "Revolutionary AI Model Predicts Climate Change Patterns",
+    "description": "Recent developments in AI technology have led to a breakthrough model that accurately predicts climate change patterns. This could significantly aid in our efforts to tackle global warming.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 11, 2021",
+    "source": "Nature",
+    "date": "September 15, 2022",
+    "category": "Research"
+  },
+  {
+    "title": "AI: The New Frontier in Cybersecurity",
+    "description": "As cyber threats evolve, AI is playing an increasingly crucial role in cybersecurity. AI-driven systems are now capable of detecting and neutralizing threats with unprecedented speed and accuracy.",
+    "url": "#",
+    "source": "MIT Technology Review",
+    "date": "September 15, 2022",
     "category": "Technology"
   },
   {
-    "title": "AI Ethics: Striking a Balance Between Innovation and Regulation",
-    "description": "As AI technologies become more advanced, questions about ethical implications grow. Policymakers and technologists are grappling to strike the right balance between innovation and ethical considerations.",
+    "title": "Big Tech Invests in AI for Healthcare Solutions",
+    "description": "Major tech companies are investing heavily in AI to revolutionize healthcare. These developments promise improved diagnostics, personalized treatment, and increased accessibility to quality care.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 11, 2021",
-    "category": "Ethics"
-  },
-  {
-    "title": "AI Research Breakthrough Achieves Human-like Learning Abilities",
-    "description": "A significant development in artificial intelligence research has led to an AI model that mimics human learning abilities. The model can understand context, adapt to new situations, and even learn from its mistakes.",
-    "url": "#",
-    "source": "Nature",
-    "date": "October 11, 2021",
-    "category": "Research"
+    "source": "Forbes",
+    "date": "September 15, 2022",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Start-up Acquired for $1.5 Billion: A New Era in Business",
-    "description": "In a landmark deal, a leading AI start-up has been acquired for a staggering $1.5 billion, signaling a new era for business and AI integration. The acquisition highlights the growing value of AI in the business world.",
+    "title": "Ethical Guidelines for AI Development Under Scrutiny",
+    "description": "The increasing presence of AI in society has drawn attention to the ethical guidelines governing its development. Recent debates highlight the need for transparency, fairness, and accountability in AI systems.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 11, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "September 15, 2022",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tools Transforming Data Analysis",
-    "description": "Cutting-edge AI tools are transforming the way companies handle data. These tools allow for more efficient data processing, predictive analytics, and generating actionable insights from raw data.",
+    "title": "OpenAI Launches New AI Tool for Language Processing",
+    "description": "OpenAI has launched a new AI tool that promises to transform language processing. The tool is expected to greatly enhance machine understanding and generation of human language.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 11, 2021",
+    "source": "TechCrunch",
+    "date": "September 15, 2022",
     "category": "Tools"
   }
 ];
