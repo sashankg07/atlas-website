@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Cancer Detection with Deep Learning",
-    "description": "A recent breakthrough in AI research has led to a deep learning model capable of detecting certain types of cancer with remarkable accuracy. This advancement could drastically improve early diagnosis and treatment.",
+    "title": "AI Outperforms Humans in Designing Microchips",
+    "description": "Researchers from Google have developed an AI that can design computer microchips faster and more efficiently than human engineers. The AI system has already been used to create the next generation of Google’s artificial intelligence processors.",
     "url": "#",
-    "source": "Nature",
-    "date": "September 30, 2021",
+    "source": "The New York Times",
+    "date": "October 26, 2021",
     "category": "Research"
   },
   {
-    "title": "AI Ethics in Focus: Controversial Facial Recognition Tech",
-    "description": "As facial recognition technology becomes increasingly advanced, questions about privacy and discrimination have taken center stage. Policymakers and tech companies alike are grappling with the ethical implications.",
+    "title": "AI Predicts Climate Change Impact on Ocean Life",
+    "description": "Scientists use AI to predict how climate change will affect life in the world's oceans. The technology will help in developing strategies for sustainable fishing and conservation efforts.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "September 30, 2021",
-    "category": "Ethics"
+    "source": "The Guardian",
+    "date": "October 26, 2021",
+    "category": "Technology"
   },
   {
-    "title": "Autonomous Vehicles: AI Drives the Future of Transportation",
-    "description": "With AI at the helm, autonomous vehicles are becoming a reality. Companies are investing billions in this technology, promising safer and more efficient transportation.",
+    "title": "Microsoft Invests in AI to Improve Healthcare Accessibility",
+    "description": "Microsoft is investing heavily in AI technologies to provide accessible and affordable healthcare services. The focus is on using AI to predict, diagnose, and treat diseases more effectively.",
     "url": "#",
     "source": "Forbes",
-    "date": "September 30, 2021",
-    "category": "Technology"
+    "date": "October 26, 2021",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Startup Raises $100M to Streamline Customer Service",
-    "description": "An AI startup has raised a significant funding round to enhance its customer service automation solution. The tool leverages AI to handle common inquiries, freeing up human agents for more complex tasks.",
+    "title": "AI Ethics Concerns Spark Global Debate",
+    "description": "As AI continues to evolve, ethical concerns are sparking global debates. Discussions focus on privacy, bias, decision transparency, and the impact of AI on jobs.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "September 30, 2021",
-    "category": "Business"
+    "source": "The Washington Post",
+    "date": "October 26, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "New AI Tool Transforms Data Analysis",
-    "description": "A newly launched AI tool aims to simplify data analysis, making it accessible to non-tech professionals. The tool uses AI to interpret and visualize data, eliminating the need for complex coding skills.",
+    "title": "New AI Tools Transforming Data Analysis",
+    "description": "New AI-powered tools are transforming data analysis, making it easier, faster, and more accurate. These tools enable businesses to make more informed decisions and predictions.",
     "url": "#",
-    "source": "Wired",
-    "date": "September 30, 2021",
+    "source": "Business Insider",
+    "date": "October 26, 2021",
     "category": "Tools"
   }
 ];
