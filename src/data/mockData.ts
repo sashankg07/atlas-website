@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Designing Microchips",
-    "description": "Researchers from Google have developed an AI that can design computer microchips faster and more efficiently than human engineers. The AI system has already been used to create the next generation of Google’s artificial intelligence processors.",
+    "title": "Groundbreaking AI Algorithm Predicts Climate Change Patterns",
+    "description": "Scientists have developed a revolutionary AI algorithm capable of predicting climate change patterns with unprecedented accuracy. The breakthrough could greatly enhance our ability to prepare for climate disasters.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "October 26, 2021",
+    "source": "The Guardian",
+    "date": "September 21, 2022",
     "category": "Research"
   },
   {
-    "title": "AI Predicts Climate Change Impact on Ocean Life",
-    "description": "Scientists use AI to predict how climate change will affect life in the world's oceans. The technology will help in developing strategies for sustainable fishing and conservation efforts.",
+    "title": "AI Software Outperforms Humans in Coding Competition",
+    "description": "In a milestone for artificial intelligence, an AI software has outperformed human participants in a global coding competition. The AI's success indicates potential for AI in software development and debugging.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "October 26, 2021",
+    "source": "Wired",
+    "date": "September 21, 2022",
     "category": "Technology"
   },
   {
-    "title": "Microsoft Invests in AI to Improve Healthcare Accessibility",
-    "description": "Microsoft is investing heavily in AI technologies to provide accessible and affordable healthcare services. The focus is on using AI to predict, diagnose, and treat diseases more effectively.",
+    "title": "Startup Uses AI to Streamline Supply Chain Processes",
+    "description": "A promising startup is leveraging AI to streamline supply chain processes, promising to reduce costs and increase efficiency. The company's AI-powered platform has already attracted significant venture capital interest.",
     "url": "#",
-    "source": "Forbes",
-    "date": "October 26, 2021",
+    "source": "TechCrunch",
+    "date": "September 21, 2022",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI Ethics Concerns Spark Global Debate",
-    "description": "As AI continues to evolve, ethical concerns are sparking global debates. Discussions focus on privacy, bias, decision transparency, and the impact of AI on jobs.",
+    "title": "New AI Ethical Guidelines Released by AI Ethics Institute",
+    "description": "The AI Ethics Institute has released a new set of guidelines aimed at governing the ethical use of AI. The guidelines focus on maintaining transparency and reducing bias in AI systems.",
     "url": "#",
-    "source": "The Washington Post",
-    "date": "October 26, 2021",
+    "source": "The New York Times",
+    "date": "September 21, 2022",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Transforming Data Analysis",
-    "description": "New AI-powered tools are transforming data analysis, making it easier, faster, and more accurate. These tools enable businesses to make more informed decisions and predictions.",
+    "title": "AI Tool Transforms Sketches into Realistic Images",
+    "description": "A new AI tool is making waves by transforming simple sketches into photorealistic images. The tool, which is free to use, opens up new possibilities for artists and designers.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "October 26, 2021",
+    "source": "BBC News",
+    "date": "September 21, 2022",
     "category": "Tools"
   }
 ];
