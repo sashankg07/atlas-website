@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Outperforms Humans in Designing Microchips",
-    "description": "Google researchers have developed an artificial intelligence that can quickly learn to design computer chips better than humans. The AI completes the task in just a few hours, compared to the months it takes for human engineers.",
+    "title": "AI Revolutionizes Cancer Detection",
+    "description": "A ground-breaking development in AI technology has made early detection of cancer more accurate and efficient. This innovative tool will significantly aid in the battle against this pervasive disease.",
     "url": "#",
-    "source": "The Verge",
-    "date": "October 02, 2021",
-    "category": "Technology"
-  },
-  {
-    "title": "Revolutionizing Healthcare: AI Predicts Heart Disease with Unprecedented Accuracy",
-    "description": "A new AI model developed by Stanford University researchers can predict the risk of heart disease with an accuracy rate of 90%. This breakthrough could potentially save billions in healthcare costs.",
-    "url": "#",
-    "source": "MIT Technology Review",
-    "date": "October 02, 2021",
+    "source": "The New Yorker",
+    "date": "March 14, 2023",
     "category": "Research"
   },
   {
-    "title": "AI Ethics: IBM Releases AI Fairness Toolkit",
-    "description": "IBM has released an open-source toolkit aimed at ensuring fairness in AI. The toolkit allows developers to assess and mitigate bias in their AI models, promoting transparency and accountability.",
+    "title": "Google's New AI Assistant Surpasses Human Intelligence",
+    "description": "Google's cutting-edge AI assistant now boasts cognitive abilities that surpass human intelligence. This development is a leap forward in the quest for superior AI-driven services.",
     "url": "#",
-    "source": "IBM News Room",
-    "date": "October 02, 2021",
-    "category": "Ethics"
+    "source": "The Guardian",
+    "date": "March 14, 2023",
+    "category": "Technology"
+  },
+  {
+    "title": "AI's Impact on the Global Economy",
+    "description": "A recent study reveals that AI technology has substantially contributed to the global economy. Future projections indicate a steep rise in AI's economic influence.",
+    "url": "#",
+    "source": "The Economist",
+    "date": "March 14, 2023",
+    "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "AI in Business: Salesforce Introduces AI-Powered Customer Service",
-    "description": "Salesforce has announced a new AI-powered service cloud, designed to help companies predict customer needs and deliver personalized customer service. The AI tool uses machine learning to analyze past interactions and anticipate future needs.",
+    "title": "Ethical Questions Surrounding AI Surveillance",
+    "description": "The increased use of AI-powered surveillance systems is raising serious ethical questions. Advocates call for stricter regulation to ensure privacy rights are protected.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "October 02, 2021",
-    "category": "Business"
+    "source": "BBC News",
+    "date": "March 14, 2023",
+    "category": "Ethics"
   },
   {
-    "title": "OpenAI Releases New Language Processing Tool, GPT-3",
-    "description": "OpenAI has released the third version of its Generative Pretrained Transformer (GPT-3), a language processing AI that can generate human-like text. The tool is capable of tasks such as translation, question answering, and even writing essays.",
+    "title": "New AI Tool Simplifies Complex Data Analysis",
+    "description": "A new AI tool promises to simplify complex data analysis, enabling businesses to make more informed decisions. The tool offers user-friendly interfaces and high precision results.",
     "url": "#",
-    "source": "OpenAI Blog",
-    "date": "October 02, 2021",
+    "source": "TechCrunch",
+    "date": "March 14, 2023",
     "category": "Tools"
   }
 ];
