@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Revolutionizes Cancer Detection",
-    "description": "A ground-breaking development in AI technology has made early detection of cancer more accurate and efficient. This innovative tool will significantly aid in the battle against this pervasive disease.",
+    "title": "AI Transforms Drug Discovery Landscape",
+    "description": "Cutting-edge AI technology is revolutionizing the pharmaceutical industry by expediting drug discovery and development. The technology is predicted to save billions in R&D costs and dramatically accelerate time to market.",
     "url": "#",
-    "source": "The New Yorker",
-    "date": "March 14, 2023",
+    "source": "Nature",
+    "date": "November 06, 2021",
     "category": "Research"
   },
   {
-    "title": "Google's New AI Assistant Surpasses Human Intelligence",
-    "description": "Google's cutting-edge AI assistant now boasts cognitive abilities that surpass human intelligence. This development is a leap forward in the quest for superior AI-driven services.",
+    "title": "AI Ethics: Navigating the Balance Between Innovation and Regulation",
+    "description": "As AI becomes increasingly pervasive, ethical considerations are coming to the forefront. Policymakers and AI developers are working together to ensure responsible AI deployment while maintaining a conducive environment for innovation.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "March 14, 2023",
-    "category": "Technology"
+    "source": "TechCrunch",
+    "date": "November 06, 2021",
+    "category": "Ethics"
   },
   {
-    "title": "AI's Impact on the Global Economy",
-    "description": "A recent study reveals that AI technology has substantially contributed to the global economy. Future projections indicate a steep rise in AI's economic influence.",
+    "title": "AI-Powered Cybersecurity Tools: The New Frontier",
+    "description": "AI's potential in enhancing cybersecurity measures is being realized with the development of advanced tools capable of predicting and mitigating cyber threats before they occur. These tools are becoming indispensable in the era of increasing digital threats.",
     "url": "#",
-    "source": "The Economist",
-    "date": "March 14, 2023",
-    "category": "Business"
+    "source": "Wired",
+    "date": "November 06, 2021",
+    "category": "Technology"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Questions Surrounding AI Surveillance",
-    "description": "The increased use of AI-powered surveillance systems is raising serious ethical questions. Advocates call for stricter regulation to ensure privacy rights are protected.",
+    "title": "AI in Retail: Personalising Customer Experience",
+    "description": "AI is changing the retail game by providing personalized experiences to customers. From virtual shopping assistants to AI-driven product recommendations, retailers are leveraging AI to stay competitive in the digital marketplace.",
     "url": "#",
-    "source": "BBC News",
-    "date": "March 14, 2023",
-    "category": "Ethics"
+    "source": "Forbes",
+    "date": "November 06, 2021",
+    "category": "Business"
   },
   {
-    "title": "New AI Tool Simplifies Complex Data Analysis",
-    "description": "A new AI tool promises to simplify complex data analysis, enabling businesses to make more informed decisions. The tool offers user-friendly interfaces and high precision results.",
+    "title": "OpenAI's GPT-3: The Next Generation AI Language Model",
+    "description": "OpenAI's GPT-3, the most advanced language model to date, is making waves with its ability to generate remarkably human-like text. Its applications are endless, from drafting emails to writing software code.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 14, 2023",
+    "source": "MIT Technology Review",
+    "date": "November 06, 2021",
     "category": "Tools"
   }
 ];
