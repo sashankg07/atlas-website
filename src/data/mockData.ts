@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Breaks New Ground in Disease Diagnosis",
-    "description": "Researchers have developed an AI model capable of diagnosing diseases with higher accuracy than human doctors. This breakthrough could revolutionize healthcare, making diagnosis faster and more reliable.",
+    "title": "AI Beats Human Experts at Spotting Crop Diseases",
+    "description": "A recent study reveals that AI models can now accurately identify crop diseases, often surpassing human experts. This groundbreaking advancement is expected to transform agriculture and food security.",
     "url": "#",
-    "source": "The Medical Journal",
-    "date": "September 29, 2021",
+    "source": "The New York Times",
+    "date": "March 29, 2023",
     "category": "Research"
   },
   {
-    "title": "Tech Giant Unveils AI-Powered Virtual Assistant",
-    "description": "A leading technology company has launched a new AI-powered virtual assistant that promises to redefine user experience. The assistant leverages AI to understand and anticipate user needs more accurately.",
+    "title": "Tech Giants Race to Develop AI-Driven Cybersecurity Systems",
+    "description": "Leading tech companies are investing heavily in AI to create robust cybersecurity systems. The aim is to proactively detect and neutralize threats, enhancing data security like never before.",
     "url": "#",
-    "source": "Tech Insider",
-    "date": "September 29, 2021",
+    "source": "BBC News",
+    "date": "March 29, 2023",
     "category": "Technology"
   },
   {
-    "title": "AI Startup Raises $100M in Series B Funding",
-    "description": "An AI startup focusing on autonomous vehicles has raised $100 million in its latest funding round. The funds will be used to accelerate the development and deployment of their technology.",
+    "title": "AI in Business: A Silent Revolution",
+    "description": "AI is reshaping business operations across the globe, from customer service to supply chain management. Experts predict a seismic shift in business landscapes as AI continues to evolve.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "September 29, 2021",
+    "source": "Forbes",
+    "date": "March 29, 2023",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "New Legislation Addresses AI Ethics Concerns",
-    "description": "New legislation has been proposed to tackle the ethical implications of AI use. The bill aims to set guidelines on AI use to ensure it is developed and applied in a manner respecting human rights and privacy.",
+    "title": "Ethical Concerns Surrounding AI’s Role in Hiring",
+    "description": "As more companies use AI for recruitment, concerns about bias and transparency are growing. Policymakers are urged to create regulations to ensure fairness in AI-driven hiring processes.",
     "url": "#",
     "source": "The Guardian",
-    "date": "September 29, 2021",
+    "date": "March 29, 2023",
     "category": "Ethics"
   },
   {
-    "title": "Latest AI Tools Transforming Data Analysis",
-    "description": "The new wave of AI-powered tools is revolutionizing data analysis, enabling businesses to interpret vast amounts of data more swiftly and accurately, thus providing valuable insights to drive decision-making.",
+    "title": "New AI Tools Aim to Streamline Software Development",
+    "description": "AI is making its mark in software development, with new tools promising to automate and streamline the process. These advancements could significantly reduce development time and costs.",
     "url": "#",
-    "source": "Data Science Weekly",
-    "date": "September 29, 2021",
+    "source": "TechCrunch",
+    "date": "March 29, 2023",
     "category": "Tools"
   }
 ];
