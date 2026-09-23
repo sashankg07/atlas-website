@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Beats Human Experts at Spotting Crop Diseases",
-    "description": "A recent study reveals that AI models can now accurately identify crop diseases, often surpassing human experts. This groundbreaking advancement is expected to transform agriculture and food security.",
+    "title": "Breakthrough in AI Research: Machines That Understand Human Emotions",
+    "description": "Researchers have developed a new artificial intelligence technology that can understand and respond to human emotions. This could revolutionize industries such as customer service and mental health.",
     "url": "#",
-    "source": "The New York Times",
-    "date": "March 29, 2023",
+    "source": "The AI Journal",
+    "date": "July 28, 2021",
     "category": "Research"
   },
   {
-    "title": "Tech Giants Race to Develop AI-Driven Cybersecurity Systems",
-    "description": "Leading tech companies are investing heavily in AI to create robust cybersecurity systems. The aim is to proactively detect and neutralize threats, enhancing data security like never before.",
+    "title": "AI-Powered Drones: The Future of Delivery Services",
+    "description": "Tech giant Google has announced that it is testing AI-powered drones for its delivery services. This could drastically reduce delivery times and make the process more efficient.",
     "url": "#",
-    "source": "BBC News",
-    "date": "March 29, 2023",
+    "source": "TechCrunch",
+    "date": "July 28, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI in Business: A Silent Revolution",
-    "description": "AI is reshaping business operations across the globe, from customer service to supply chain management. Experts predict a seismic shift in business landscapes as AI continues to evolve.",
+    "title": "AI in Business: How Big Data and AI are Revolutionizing Marketing",
+    "description": "A new report has highlighted how Big Data and artificial intelligence are being used to provide personalized marketing strategies, improving customer engagement and increasing sales.",
     "url": "#",
-    "source": "Forbes",
-    "date": "March 29, 2023",
+    "source": "Business Insider",
+    "date": "July 28, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding AI’s Role in Hiring",
-    "description": "As more companies use AI for recruitment, concerns about bias and transparency are growing. Policymakers are urged to create regulations to ensure fairness in AI-driven hiring processes.",
+    "title": "The Ethics of AI: Balancing Innovation and Responsibility",
+    "description": "A recent conference discussed the ethical implications of AI, emphasizing the need to balance innovation with social responsibility. Key topics included privacy, bias, and the digital divide.",
     "url": "#",
     "source": "The Guardian",
-    "date": "March 29, 2023",
+    "date": "July 28, 2021",
     "category": "Ethics"
   },
   {
-    "title": "New AI Tools Aim to Streamline Software Development",
-    "description": "AI is making its mark in software development, with new tools promising to automate and streamline the process. These advancements could significantly reduce development time and costs.",
+    "title": "AI Tools: The Latest Machine Learning Platforms Reviewed",
+    "description": "We review the latest machine learning platforms and tools, providing insights into their features, usability, and potential applications. These tools are making AI accessible to businesses of all sizes.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "March 29, 2023",
+    "source": "Forbes",
+    "date": "July 28, 2021",
     "category": "Tools"
   }
 ];
