@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "Breakthrough in AI Research: Machines That Understand Human Emotions",
-    "description": "Researchers have developed a new artificial intelligence technology that can understand and respond to human emotions. This could revolutionize industries such as customer service and mental health.",
+    "title": "AI Trains Itself to Understand Quantum Physics",
+    "description": "A new artificially intelligent system has demonstrated the ability to self-learn quantum mechanics. This groundbreaking development could revolutionize the way we handle complex scientific computations.",
     "url": "#",
-    "source": "The AI Journal",
-    "date": "July 28, 2021",
+    "source": "MIT Technology Review",
+    "date": "November 01, 2021",
     "category": "Research"
   },
   {
-    "title": "AI-Powered Drones: The Future of Delivery Services",
-    "description": "Tech giant Google has announced that it is testing AI-powered drones for its delivery services. This could drastically reduce delivery times and make the process more efficient.",
+    "title": "Facebook’s Metaverse: A New Era of AI and VR",
+    "description": "Facebook announced its plan to create a 'Metaverse', a shared virtual reality space that leverages the power of AI and VR technologies. Critics and enthusiasts alike are eager to see how this changes the landscape of social media and digital interaction.",
     "url": "#",
-    "source": "TechCrunch",
-    "date": "July 28, 2021",
+    "source": "The Verge",
+    "date": "November 01, 2021",
     "category": "Technology"
   },
   {
-    "title": "AI in Business: How Big Data and AI are Revolutionizing Marketing",
-    "description": "A new report has highlighted how Big Data and artificial intelligence are being used to provide personalized marketing strategies, improving customer engagement and increasing sales.",
+    "title": "AI-powered Robots Transforming the Manufacturing Industry",
+    "description": "Artificial Intelligence is being utilized to develop autonomous robots that are improving efficiency in the manufacturing industry. These advancements are expected to boost productivity and reduce operational costs.",
     "url": "#",
-    "source": "Business Insider",
-    "date": "July 28, 2021",
+    "source": "Forbes",
+    "date": "November 01, 2021",
     "category": "Business"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "The Ethics of AI: Balancing Innovation and Responsibility",
-    "description": "A recent conference discussed the ethical implications of AI, emphasizing the need to balance innovation with social responsibility. Key topics included privacy, bias, and the digital divide.",
+    "title": "Ethical Concerns Surrounding AI in Surveillance",
+    "description": "As AI becomes more prominent in surveillance technologies, ethical questions arise about privacy and consent. Policymakers and tech companies are now challenged with balancing security benefits and potential abuses.",
     "url": "#",
     "source": "The Guardian",
-    "date": "July 28, 2021",
+    "date": "November 01, 2021",
     "category": "Ethics"
   },
   {
-    "title": "AI Tools: The Latest Machine Learning Platforms Reviewed",
-    "description": "We review the latest machine learning platforms and tools, providing insights into their features, usability, and potential applications. These tools are making AI accessible to businesses of all sizes.",
+    "title": "Google's New AI Tool Helps Decipher Ancient Texts",
+    "description": "Google has launched a new AI tool that assists in translating and understanding ancient scripts. This tool is expected to help historians and linguists make important discoveries about our past.",
     "url": "#",
-    "source": "Forbes",
-    "date": "July 28, 2021",
+    "source": "Wired",
+    "date": "November 01, 2021",
     "category": "Tools"
   }
 ];
