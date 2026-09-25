@@ -9,46 +9,46 @@ export interface NewsArticle {
 
 export const featuredArticles: NewsArticle[] = [
   {
-    "title": "AI Trains Itself to Understand Quantum Physics",
-    "description": "A new artificially intelligent system has demonstrated the ability to self-learn quantum mechanics. This groundbreaking development could revolutionize the way we handle complex scientific computations.",
+    "title": "AI Breakthrough: A Machine that Understands Human Emotions",
+    "description": "Researchers have developed an AI capable of understanding human emotions. This could revolutionize industries from customer service to mental health.",
     "url": "#",
-    "source": "MIT Technology Review",
-    "date": "November 01, 2021",
+    "source": "TechCrunch",
+    "date": "November 17, 2021",
     "category": "Research"
   },
   {
-    "title": "Facebook’s Metaverse: A New Era of AI and VR",
-    "description": "Facebook announced its plan to create a 'Metaverse', a shared virtual reality space that leverages the power of AI and VR technologies. Critics and enthusiasts alike are eager to see how this changes the landscape of social media and digital interaction.",
+    "title": "AI in Business: How AI is Streamlining Supply Chains",
+    "description": "AI applications are transforming supply chain management, making it more efficient and responsive to market changes.",
     "url": "#",
-    "source": "The Verge",
-    "date": "November 01, 2021",
-    "category": "Technology"
+    "source": "Business Insider",
+    "date": "November 17, 2021",
+    "category": "Business"
   },
   {
-    "title": "AI-powered Robots Transforming the Manufacturing Industry",
-    "description": "Artificial Intelligence is being utilized to develop autonomous robots that are improving efficiency in the manufacturing industry. These advancements are expected to boost productivity and reduce operational costs.",
+    "title": "Ethical Dilemma: AI and Privacy Concerns",
+    "description": "As AI technologies advance, they pose new challenges to personal privacy. Are existing regulations enough to handle this emerging problem?",
     "url": "#",
-    "source": "Forbes",
-    "date": "November 01, 2021",
-    "category": "Business"
+    "source": "The Guardian",
+    "date": "November 17, 2021",
+    "category": "Ethics"
   }
 ];
 
 export const latestNews: NewsArticle[] = [
   {
-    "title": "Ethical Concerns Surrounding AI in Surveillance",
-    "description": "As AI becomes more prominent in surveillance technologies, ethical questions arise about privacy and consent. Policymakers and tech companies are now challenged with balancing security benefits and potential abuses.",
+    "title": "AI Tool Spotlight: New Machine Learning Tool Accelerates Data Analysis",
+    "description": "A new tool leveraging AI capabilities is set to speed up data analysis, allowing businesses to make quicker decisions based on data insights.",
     "url": "#",
-    "source": "The Guardian",
-    "date": "November 01, 2021",
-    "category": "Ethics"
+    "source": "ZDNet",
+    "date": "November 17, 2021",
+    "category": "Tools"
   },
   {
-    "title": "Google's New AI Tool Helps Decipher Ancient Texts",
-    "description": "Google has launched a new AI tool that assists in translating and understanding ancient scripts. This tool is expected to help historians and linguists make important discoveries about our past.",
+    "title": "AI in Healthcare: Novel AI System Improves Cancer Detection",
+    "description": "A groundbreaking AI system has been developed to detect cancer at early stages, potentially saving millions of lives.",
     "url": "#",
-    "source": "Wired",
-    "date": "November 01, 2021",
-    "category": "Tools"
+    "source": "Medical News Today",
+    "date": "November 17, 2021",
+    "category": "Technology"
   }
 ];
